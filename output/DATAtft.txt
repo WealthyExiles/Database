@@ -1,4 +1,4 @@
-2023-09-02 13:54
+2023-09-02 14:55
 "https://raw.githubusercontent.com/The-Forbidden-Trove/tft-data-prices/master/lsc/bulk-beasts.json"
 "Wild Bristle Matron",325,chaos
 "Craicic Chimeral",232,chaos
@@ -22,22 +22,22 @@
 "https://raw.githubusercontent.com/The-Forbidden-Trove/tft-data-prices/master/lsc/bulk-compasses.json"
 "Conqueror Map",175,chaos
 "Strongbox Enraged",140,chaos
-"8 Modifiers",118,chaos
+"8 Modifiers",120,chaos
 "Yellow Plants",80,chaos
 "Beyond",60,chaos
 "Blue Plants",60,chaos
 "Purple Plants",60,chaos
 "Sacred Grove",60,chaos
-"Delirium Reward",50,chaos
+"Delirium Reward",52,chaos
 "Runic Monster Markers",44,chaos
+"Elder Guardian",35,chaos
 "Gilded Scarab",35,chaos
 "Legion",35,chaos
-"Elder Guardian",34,chaos
-"Shaper Guardian",34,chaos
-"Mysterious Harbinger",23,chaos
+"Shaper Guardian",35,chaos
+"Mysterious Harbinger",24,chaos
 "Chayula",20,chaos
 "Mirror of Delirium",20,chaos
-"Copy of Beasts",16,chaos
+"Copy of Beasts",17,chaos
 "Oils Tier",15,chaos
 "Jun",9,chaos
 "Hunted Traitors",7,chaos
@@ -55,9 +55,11 @@
 "Breach",4,chaos
 "Essence",4,chaos
 "Magic Pack Size",4,chaos
+"Map 20% Quality",4,chaos
 "Niko",4,chaos
 "Resonating Shrine",4,chaos
 "Ritual Rerolling",4,chaos
+"Soul Gain Prevention",4,chaos
 "Unidentified Map",4,chaos
 "Uul-Netol",4,chaos
 "Blight",3,chaos
@@ -69,7 +71,6 @@
 "Esh",3,chaos
 "Fire Monsters",3,chaos
 "Lightning Monsters",3,chaos
-"Map 20% Quality",3,chaos
 "Map Quality to Rarity",3,chaos
 "Mortal/Sacrifice Fragment",3,chaos
 "Physical Monsters",3,chaos
@@ -77,7 +78,6 @@
 "Rare Map Rare Packs",3,chaos
 "Reflected",3,chaos
 "Rogue Exiles",3,chaos
-"Soul Gain Prevention",3,chaos
 "Tormented Graverobber",3,chaos
 "Tul",3,chaos
 "Unique Monsters Drop Corrupted",3,chaos
@@ -92,12 +92,12 @@
 "Tormented Heretic",2,chaos
 "Vaal Soul On Kill",2,chaos
 "Winged Scarab",2675,chaos
-"Strongbox Enraged 600%",1652,chaos
+"Strongbox Enraged 600%",1610,chaos
 "35% Beyond",690,chaos
 "8 Modifiers 16 uses",460,chaos
 "3 Strongboxes Corrupted",276,chaos
 "2 Abysses",230,chaos
-"2 Breaches",108,chaos
+"2 Breaches",115,chaos
 "Hunted Traitors 16 uses",60,chaos
 "2 Essences",49,chaos
 "Ritual Rerolling 16 uses",45,chaos
@@ -163,7 +163,7 @@
 "Incandescent Invitation",232,chaos
 "Screaming Invitation",209,chaos
 "Writhing Invitation",54,chaos
-"Polaric Invitation",11,chaos
+"Polaric Invitation",10,chaos
 "The Elderslayers",11776,chaos
 "The Formed",118,chaos
 "The Twisted",93,chaos
@@ -177,9 +177,10 @@
 "Temple",28,chaos
 "Vaal Temple",25,chaos
 "Caldera",18,chaos
-"Haunted Mansion",10,chaos
 "Tropical Island",7,chaos
 "Atoll",6,chaos
+"Haunted Mansion",6,chaos
+"Mausoleum",6,chaos
 "Overgrown Shrine",6,chaos
 "Tower",6,chaos
 "Vault",6,chaos
@@ -192,9 +193,7 @@
 "Dunes",5,chaos
 "Estuary",5,chaos
 "Iceberg",5,chaos
-"Mausoleum",5,chaos
 "Mesa",5,chaos
-"Mud Geyser",5,chaos
 "Promenade",5,chaos
 "Strand",5,chaos
 "Bog",4,chaos
@@ -205,6 +204,7 @@
 "Glacier",4,chaos
 "Graveyard",4,chaos
 "Leyline",4,chaos
+"Mud Geyser",4,chaos
 "Phantasmagoria",4,chaos
 "Plateau",4,chaos
 "Residence",4,chaos
@@ -232,14 +232,14 @@
 "Beachhead Maps",34,chaos
 "Synthesised Maps",25,chaos
 "Elder Maps",15,chaos
-"Shaper Maps",14,chaos
+"Shaper Maps",13,chaos
 "Blighted Maps",12,chaos
 "Conqueror Maps Set",200,chaos
-"Synthesised Maps Set",110,chaos
+"Synthesised Maps Set",115,chaos
 "Elder Guardian Maps Set",77,chaos
 "Shaper Guardian Maps Set",70,chaos
 "https://raw.githubusercontent.com/The-Forbidden-Trove/tft-data-prices/master/lsc/bulk-sets.json"
-"Uber Elder Set",371,chaos
+"Uber Elder Set",373,chaos
 "Maven's Writ",255,chaos
 "Unrelenting 5 Way Set",156,chaos
 "Elder Set",139,chaos
@@ -256,7 +256,7 @@
 "https://raw.githubusercontent.com/The-Forbidden-Trove/tft-data-prices/master/lsc/hideout.json"
 "Primeval",460,chaos
 "Overgrown",233,chaos
-"Sanguine",142,chaos
+"Sanguine",118,chaos
 "Nocturnal",100,chaos
 "Sunken",60,chaos
 "Arboreal",50,chaos
@@ -267,8 +267,8 @@
 "Backstreet",20,chaos
 "Divided",20,chaos
 "Glacial",20,chaos
+"Coastal",18,chaos
 "Enlightened",18,chaos
-"Coastal",15,chaos
 "Unearthed",15,chaos
 "Brutal",5,chaos
 "https://raw.githubusercontent.com/The-Forbidden-Trove/tft-data-prices/master/lsc/service.json"
@@ -276,11 +276,11 @@
 "T4 Hillock Weapon 30%",232,chaos
 "T4 Hillock Armour 30%",150,chaos
 "T4 Hillock Flask 28%",150,chaos
-"T4 Vorici 1-6 White",45,chaos
 "T4/T3 Jorgin Tier 3 Talisman",40,chaos
+"T4 Vorici 1-6 White",40,chaos
 "T4/T3 It That Fled Pure Breachstone",35,chaos
 "T3/T2/T1 Vorici White",30,chaos
 "T4/T3 Tora 200m Gem XP",30,chaos
-"Locus of Corruption (Item)",130,chaos
-"Doryani Institute (Gem)",60,chaos
+"Locus of Corruption (Item)",100,chaos
+"Doryani Institute (Gem)",70,chaos
 "Apex of Ascension (Sacrifice)",20,chaos
