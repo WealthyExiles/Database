@@ -921,11 +921,11 @@ gem,Anger,clean 20/0,5.0,55,50
 gem,Anger,corrupted 20/0,2.0,99,36
 gem,Anger,corrupted 21/0,50.0,76,70
 gem,Anger,clean 1/20,5.0,37,37
-gem,Anger,clean 20/20,17.0,21,21
+gem,Anger,clean 20/20,17.0,28,28
 gem,Anger,corrupted 20/20,15.0,15,15
-gem,Anger,corrupted 21/20,98.0,26,25
+gem,Anger,corrupted 21/20,99.0,15,15
 gem,Animate Guardian,clean 20/0,6.0,80,77
-gem,Animate Guardian,corrupted 20/0,2.0,86,84
+gem,Animate Guardian,corrupted 20/0,7.0,100,83
 gem,Animate Guardian,corrupted 21/0,17.0,63,62
 gem,Animate Guardian,clean 1/20,3.0,89,87
 gem,Animate Guardian,clean 20/20,20.0,31,31
@@ -938,7 +938,7 @@ gem,Animate Weapon,clean 1/20,2.0,44,41
 gem,Animate Weapon,clean 20/20,3.0,19,19
 gem,Animate Weapon,corrupted 20/20,35.0,2,2
 gem,Animate Weapon,corrupted 21/20,5.0,11,11
-gem,Arc,clean 20/0,4.0,49,32
+gem,Arc,clean 20/0,1.0,64,37
 gem,Arc,corrupted 20/0,4.0,34,30
 gem,Arc,corrupted 21/0,5.0,68,65
 gem,Arc,clean 1/20,2.0,59,50
@@ -8245,15 +8245,15 @@ compass,Map Bosses have 20% increased Life:Quality bonus of your Maps also appli
 compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Your Maps have a 50% chance to contain Gifts of the Sacrificed per Sacrifice Fragment used:Your Maps have a 50% chance to contain Gifts of the Red Queen per Mortal Fragment used,4,2.0,76,33
 compass,Catalysts dropped by Metamorphs in your Maps are Duplicated:Metamorphs in your Maps have 100% more Life,4,4.0,100,58
 compass,Players and Monsters take 12% increased Physical Damage:Your Maps contain 6 additional packs of Monsters that deal Physical Damage,4,2.5,50,13
-compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contain 6 additional packs of Monsters that Heal,4,1.0,100,21
+compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contain 6 additional packs of Monsters that Heal,4,2.0,87,30
 compass,Rogue Exiles deal 20% increased Damage:Rogue Exiles drop 2 additional Jewels:Rogue Exiles in your Maps have 20% increased Life:Your Maps are inhabited by 2 additional Rogue Exiles,4,1.0,100,37
-compass,The First 3 Possessed Monsters drop an additional Polished Scarab:Your Maps contain an additional Tormented Betrayer,4,2.0,86,39
+compass,The First 3 Possessed Monsters drop an additional Polished Scarab:Your Maps contain an additional Tormented Betrayer,4,2.5,100,31
 compass,Your Maps contain Einhar,4,2.0,100,49
 compass,Map Bosses deal 20% increased Damage:Your Maps have 20% Quality,4,3.0,100,11
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Purple Plants,4,54.0,100,61
-compass,The First 3 Possessed Monsters drop an additional Unique Item:Your Maps contain an additional Tormented Graverobber,4,3.0,73,29
+compass,The First 3 Possessed Monsters drop an additional Unique Item:Your Maps contain an additional Tormented Graverobber,4,2.0,62,36
 compass,Your Maps contain a Mirror of Delirium,4,6.0,100,71
-compass,Your Maps contain Alva,4,7.0,100,14
+compass,Your Maps contain Alva,4,6.0,100,54
 compass,100% increased Intelligence gained from Immortal Syndicate targets encountered in your Maps,4,5.0,75,38
 compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,48.0,99,76
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Blue Plants,4,55.0,100,60
@@ -8347,10 +8347,10 @@ contract,Perception Contract,ilvl 83+,1.0,97,55
 contract,Demolition Contract,ilvl 83+,1.0,98,62
 contract,Counter-Thaumaturgy Contract,ilvl 83+,1.0,92,70
 contract,Trap Disarmament Contract,ilvl 83+,1.0,99,69
-contract,Agility Contract,ilvl 83+,1.0,99,51
+contract,Agility Contract,ilvl 83+,1.0,94,63
 contract,Deception Contract,ilvl 83+,1.0,95,60
 contract,Engineering Contract,ilvl 83+,1.0,98,47
-blueprint,Blueprint: Bunker,3 wings,1.0,100,66
+blueprint,Blueprint: Bunker,3 wings,1.0,100,84
 blueprint,Blueprint: Mansion,3 wings,1.0,99,79
 blueprint,Blueprint: Records Office,3 wings,1.0,100,84
 blueprint,Blueprint: Smuggler's Den,3 wings,1.0,96,79
@@ -8366,7 +8366,7 @@ incubator,Celestial Armoursmith's Incubator,ilvl 83,0.5,341,67
 incubator,Celestial Blacksmith's Incubator,ilvl 83,0.5,343,60
 incubator,Celestial Jeweller's Incubator,ilvl 83,0.5,385,59
 incubator,Diviner's Incubator,ilvl 83,2.0,335,71
-incubator,Enchanted Incubator,ilvl 83,0.5,704,32
+incubator,Enchanted Incubator,ilvl 83,0.5,809,35
 incubator,Foreboding Incubator,ilvl 83,0.5,661,27
 incubator,Geomancer's Incubator,ilvl 83,0.5,738,42
 incubator,Infused Incubator,ilvl 83,0.5,704,28
@@ -8402,7 +8402,7 @@ beast,Farric Wolf Alpha,,9.5,100,44
 beast,Fenumal Plagued Arachnid,,25.0,100,54
 beast,Craicic Spider Crab,,3.0,37,17
 beast,Farric Tiger Alpha,,30.0,38,22
-beast,Fenumal Hybrid Arachnid,,10.0,12,8
+beast,Fenumal Hybrid Arachnid,,10.0,17,11
 beast,Saqawine Rhex,,5.0,36,19
 beast,Primal Crushclaw,,3.0,91,15
 beast,Primal Cystcaller,,5.0,100,9
@@ -8416,10 +8416,10 @@ beast,Wild Hellion Alpha,,140.0,100,31
 beast,Craiceann First of the Deep,,15.0,14,9
 beast,Farrul First of the Plains,,60.0,21,8
 beast,Fenumus First of the Night,,39.0,28,3
-beast,Saqawal First of the Sky,,15.0,34,12
+beast,Saqawal First of the Sky,,15.0,21,10
 map,Enslaver's Map,T16,10.0,100,63
 map,Eradicator's Map,T16,11.0,100,63
-map,Constrictor's Map,T16,12.0,100,52
+map,Constrictor's Map,T16,10.0,100,57
 map,Purifier's Map,T16,13.0,100,61
 map,Baran's Citadel,T16,34.0,99,76
 map,Veritania's Citadel,T16,4.0,99,68
@@ -8464,23 +8464,22 @@ unique,The Brass Dome,corrupted 6-link,400.0,56,53
 unique,Kaom's Heart,clean,15.0,100,99
 unique,Kaom's Heart,corrupted,10.0,100,96
 unique,Perfidy,clean,1.0,100,99
-unique,Perfidy,clean 6-link,100.0,3,3
+unique,Perfidy,clean 6-link,80.0,2,2
 unique,Perfidy,corrupted,5.0,100,98
-unique,Perfidy,corrupted 6-link,200.0,1,1
 unique,Replica Kaom's Heart,clean,30.0,37,37
-unique,Replica Kaom's Heart,corrupted,30.0,10,9
+unique,Replica Kaom's Heart,corrupted,29.0,11,10
 unique,Ashrend,clean,1.0,94,89
-unique,Ashrend,clean 6-link,100.0,7,7
+unique,Ashrend,clean 6-link,35.0,8,8
 unique,Ashrend,corrupted,1.0,100,99
-unique,Ashrend,corrupted 6-link,400.0,1,1
+unique,Ashrend,corrupted 6-link,120.0,2,2
 unique,Foxshade,clean,1.0,86,79
-unique,Foxshade,clean 6-link,300.0,3,3
+unique,Foxshade,clean 6-link,150.0,4,4
 unique,Foxshade,corrupted,1.0,95,91
-unique,Foxshade,corrupted 6-link,600.0,2,2
+unique,Foxshade,corrupted 6-link,300.0,2,2
 unique,Briskwrap,clean,0.5,95,95
-unique,Briskwrap,clean 6-link,400.0,43,42
+unique,Briskwrap,clean 6-link,480.0,51,50
 unique,Briskwrap,corrupted,5.0,100,99
-unique,Briskwrap,corrupted 6-link,400.0,33,32
+unique,Briskwrap,corrupted 6-link,400.0,35,34
 unique,Bronn's Lithe,clean,1.0,91,87
 unique,Bronn's Lithe,clean 6-link,200.0,25,25
 unique,Bronn's Lithe,corrupted,1.0,99,99
