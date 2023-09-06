@@ -1197,17 +1197,17 @@ gem,Bonechill Support,corrupted 21/20,60.0,14,14
 gem,Brutality Support,clean 20/0,2.0,99,97
 gem,Brutality Support,corrupted 20/0,2.0,61,57
 gem,Brutality Support,corrupted 21/0,3.0,33,33
-gem,Brutality Support,clean 1/20,4.0,62,59
+gem,Brutality Support,clean 1/20,2.0,91,87
 gem,Brutality Support,clean 20/20,8.0,46,44
 gem,Brutality Support,corrupted 20/20,5.0,34,31
-gem,Brutality Support,corrupted 21/20,19.0,20,20
-gem,Burning Arrow,clean 20/0,3.0,30,28
-gem,Burning Arrow,corrupted 20/0,2.0,10,10
+gem,Brutality Support,corrupted 21/20,15.0,35,35
+gem,Burning Arrow,clean 20/0,1.0,32,29
+gem,Burning Arrow,corrupted 20/0,4.0,17,17
 gem,Burning Arrow,corrupted 21/0,2.0,26,26
 gem,Burning Arrow,clean 1/20,3.0,46,45
-gem,Burning Arrow,clean 20/20,10.0,9,9
-gem,Burning Arrow,corrupted 20/20,5.0,3,3
-gem,Burning Arrow,corrupted 21/20,5.0,13,13
+gem,Burning Arrow,clean 20/20,5.0,15,14
+gem,Burning Arrow,corrupted 20/20,6.0,4,4
+gem,Burning Arrow,corrupted 21/20,5.0,34,33
 gem,Burning Damage Support,clean 20/0,2.0,100,96
 gem,Burning Damage Support,corrupted 20/0,2.0,80,74
 gem,Burning Damage Support,corrupted 21/0,4.0,58,56
@@ -8225,7 +8225,7 @@ compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant o
 compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,4,6.0,100,30
 compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,2.0,100,38
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,20.0,100,61
-compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,2.0,48,31
+compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,3.0,36,28
 compass,20% increased Pack Size in your Unidentified Maps,4,3.5,100,26
 compass,Players and Monsters take 12% increased Chaos Damage:Your Maps contain 6 additional packs of Monsters that deal Chaos Damage,4,2.0,100,9
 compass,Strongbox Monsters are Enraged:Strongbox Monsters have 500% increased Item Quantity:Your Maps contain an additional Strongbox,4,94.5,100,44
@@ -8361,7 +8361,7 @@ blueprint,Blueprint: Underbelly,3 wings,2.0,100,76
 blueprint,Blueprint: Repository,3 wings,12.0,100,87
 blueprint,Blueprint: Tunnels,3 wings,10.0,100,89
 blueprint,Blueprint: Laboratory,3 wings,1.0,100,71
-blueprint,Blueprint: Prohibited Library,3 wings,2.0,100,74
+blueprint,Blueprint: Prohibited Library,3 wings,1.0,99,79
 incubator,Abyssal Incubator,ilvl 83,0.5,867,25
 incubator,Blighted Incubator,ilvl 83,0.5,603,48
 incubator,Cartographer's Incubator,ilvl 83,0.5,853,25
@@ -8379,7 +8379,7 @@ incubator,Morphing Incubator,ilvl 83,0.5,674,42
 incubator,Mysterious Incubator,ilvl 83,0.5,746,26
 incubator,Obscured Incubator,ilvl 83,0.5,393,57
 incubator,Ornate Incubator,ilvl 83,3.0,384,62
-incubator,Otherworldly Incubator,ilvl 83,0.5,418,62
+incubator,Otherworldly Incubator,ilvl 83,0.5,459,60
 incubator,Primal Incubator,ilvl 83,1.0,753,33
 incubator,Singular Incubator,ilvl 83,0.5,671,38
 incubator,Skittering Incubator,ilvl 83,0.5,810,17
@@ -8395,11 +8395,11 @@ vial,Vial of Sacrifice,,30.0,4,4
 vial,Vial of the Ghost,,220.0,3,3
 logbook,Bruids of the Broken Circle Logbook,ilvl 83+,4.0,100,79
 logbook,Black Scythe Mercenaries Logbook,ilvl 83+,25.0,100,79
-logbook,Order of the Chalice Logbook,ilvl 83+,4.0,100,58
-logbook,Knights of the Sun Logbook,ilvl 83+,20.0,100,68
+logbook,Order of the Chalice Logbook,ilvl 83+,8.0,100,73
+logbook,Knights of the Sun Logbook,ilvl 83+,30.0,100,83
 beast,Craicic Chimeral,,180.0,100,59
 beast,Craicic Maw,,8.0,58,35
-beast,Craicic Vassal,,10.0,100,27
+beast,Craicic Vassal,,10.0,100,31
 beast,Farric Frost Hellion Alpha,,45.0,12,9
 beast,Farric Lynx Alpha,,1.5,100,45
 beast,Farric Wolf Alpha,,10.0,100,47
@@ -8419,7 +8419,7 @@ beast,Wild Bristle Matron,,308.0,100,31
 beast,Wild Hellion Alpha,,154.0,100,28
 beast,Craiceann First of the Deep,,15.0,13,10
 beast,Farrul First of the Plains,,50.0,60,24
-beast,Fenumus First of the Night,,39.0,10,6
+beast,Fenumus First of the Night,,40.0,38,4
 beast,Saqawal First of the Sky,,15.0,36,13
 map,Enslaver's Map,T16,12.0,100,61
 map,Eradicator's Map,T16,10.0,100,58
@@ -8428,7 +8428,7 @@ map,Purifier's Map,T16,7.0,100,61
 map,Baran's Citadel,T16,35.0,100,75
 map,Veritania's Citadel,T16,30.0,100,70
 map,Al-Hezmin's Citadel,T16,30.0,100,80
-map,Drox's Citadel,T16,34.0,100,77
+map,Drox's Citadel,T16,33.0,100,72
 unique,Bramblejack,clean,1.0,74,68
 unique,Bramblejack,clean 6-link,40.0,5,4
 unique,Bramblejack,corrupted,1.0,46,46
@@ -8762,18 +8762,20 @@ unique,Widowhail,corrupted,4.0,82,82
 unique,Widowhail,corrupted 6-link,660.0,7,7
 unique,Quill Rain,clean,1.0,98,94
 unique,Quill Rain,clean 6-link,330.0,24,24
-unique,Quill Rain,corrupted,5.0,100,97
-unique,Quill Rain,corrupted 6-link,330.0,5,5
+unique,Quill Rain,corrupted,2.0,99,97
+unique,Quill Rain,corrupted 6-link,440.0,12,12
 unique,Replica Quill Rain,clean,2.0,35,32
-unique,Replica Quill Rain,clean 6-link,220.0,1,1
+unique,Replica Quill Rain,clean 6-link,220.0,3,3
+unique,Replica Quill Rain,corrupted,30.0,4,4
 unique,Storm Cloud,clean,1.0,98,96
 unique,Storm Cloud,clean 6-link,176.0,12,12
 unique,Storm Cloud,corrupted,4.0,71,68
+unique,Storm Cloud,corrupted 6-link,220.0,1,1
 unique,Roth's Reach,clean,1.0,93,91
 unique,Roth's Reach,clean 6-link,60.0,11,11
 unique,Roth's Reach,corrupted,1.0,66,63
 unique,Doomfletch,clean,5.0,100,93
-unique,Doomfletch,clean 6-link,550.0,5,5
+unique,Doomfletch,clean 6-link,550.0,10,10
 unique,Doomfletch,corrupted,5.0,100,38
 unique,Doomfletch,corrupted 6-link,440.0,8,8
 unique,Death's Harp,clean,3.0,100,100
