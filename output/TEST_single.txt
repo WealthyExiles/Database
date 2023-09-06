@@ -871,26 +871,26 @@ gem,Added Fire Damage Support,clean 20/20,7.0,18,17
 gem,Added Fire Damage Support,corrupted 20/20,4.0,3,3
 gem,Added Fire Damage Support,corrupted 21/20,8.0,20,20
 gem,Added Lightning Damage Support,clean 20/0,2.0,59,59
-gem,Added Lightning Damage Support,corrupted 20/0,7.0,19,19
+gem,Added Lightning Damage Support,corrupted 20/0,3.0,29,29
 gem,Added Lightning Damage Support,corrupted 21/0,1.0,28,27
-gem,Added Lightning Damage Support,clean 1/20,3.0,43,42
-gem,Added Lightning Damage Support,clean 20/20,7.0,24,24
-gem,Added Lightning Damage Support,corrupted 20/20,7.0,10,10
-gem,Added Lightning Damage Support,corrupted 21/20,14.0,11,11
+gem,Added Lightning Damage Support,clean 1/20,3.0,43,40
+gem,Added Lightning Damage Support,clean 20/20,8.0,20,19
+gem,Added Lightning Damage Support,corrupted 20/20,7.0,11,11
+gem,Added Lightning Damage Support,corrupted 21/20,15.0,12,12
 gem,Additional Accuracy Support,clean 20/0,4.0,15,15
-gem,Additional Accuracy Support,corrupted 20/0,18.0,6,6
-gem,Additional Accuracy Support,corrupted 21/0,5.0,14,14
+gem,Additional Accuracy Support,corrupted 20/0,5.0,10,10
+gem,Additional Accuracy Support,corrupted 21/0,5.0,18,18
 gem,Additional Accuracy Support,clean 1/20,3.0,14,13
-gem,Additional Accuracy Support,clean 20/20,15.0,3,3
+gem,Additional Accuracy Support,clean 20/20,50.0,7,7
 gem,Additional Accuracy Support,corrupted 20/20,20.0,2,2
 gem,Additional Accuracy Support,corrupted 21/20,20.0,7,7
 gem,Advanced Traps Support,clean 20/0,2.0,25,25
-gem,Advanced Traps Support,corrupted 20/0,3.0,34,34
-gem,Advanced Traps Support,corrupted 21/0,4.0,44,43
+gem,Advanced Traps Support,corrupted 20/0,10.0,25,25
+gem,Advanced Traps Support,corrupted 21/0,4.0,48,48
 gem,Advanced Traps Support,clean 1/20,2.0,35,35
-gem,Advanced Traps Support,clean 20/20,12.0,14,14
-gem,Advanced Traps Support,corrupted 20/20,10.0,10,10
-gem,Advanced Traps Support,corrupted 21/20,10.0,21,21
+gem,Advanced Traps Support,clean 20/20,11.0,25,25
+gem,Advanced Traps Support,corrupted 20/20,10.0,9,9
+gem,Advanced Traps Support,corrupted 21/20,18.0,25,25
 gem,Ancestral Call Support,clean 20/0,1.0,19,18
 gem,Ancestral Call Support,corrupted 20/0,3.0,11,11
 gem,Ancestral Call Support,corrupted 21/0,2.0,19,19
@@ -8227,7 +8227,7 @@ compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 addi
 compass,20% increased Pack Size in your Unidentified Maps,4,3.5,100,26
 compass,Players and Monsters take 12% increased Chaos Damage:Your Maps contain 6 additional packs of Monsters that deal Chaos Damage,4,2.0,100,9
 compass,Strongbox Monsters are Enraged:Strongbox Monsters have 500% increased Item Quantity:Your Maps contain an additional Strongbox,4,101.5,100,73
-compass,Your Maps contain Ritual Altars,4,5.0,100,24
+compass,Your Maps contain Ritual Altars,4,7.0,73,55
 compass,Players and Monsters take 12% increased Lightning Damage:Your Maps contain 6 additional packs of Monsters that deal Lightning Damage,4,3.0,100,11
 compass,Your Magic Maps contain 4 additional packs of Magic Monsters:Your Normal Maps contain 4 additional packs of Normal Monsters:Your Rare Maps contain 4 additional Rare Monster packs,4,3.0,100,18
 compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 4 additional Packs with Mirrored Rare Monsters,4,3.0,100,10
@@ -8357,7 +8357,7 @@ blueprint,Blueprint: Records Office,3 wings,1.0,99,74
 blueprint,Blueprint: Smuggler's Den,3 wings,2.0,100,60
 blueprint,Blueprint: Underbelly,3 wings,1.0,99,64
 blueprint,Blueprint: Repository,3 wings,7.0,100,89
-blueprint,Blueprint: Tunnels,3 wings,15.0,100,91
+blueprint,Blueprint: Tunnels,3 wings,20.0,100,87
 blueprint,Blueprint: Laboratory,3 wings,2.0,100,64
 blueprint,Blueprint: Prohibited Library,3 wings,2.0,99,74
 incubator,Abyssal Incubator,ilvl 83,0.5,781,25
@@ -8369,7 +8369,7 @@ incubator,Celestial Jeweller's Incubator,ilvl 83,1.0,331,70
 incubator,Diviner's Incubator,ilvl 83,1.0,403,67
 incubator,Enchanted Incubator,ilvl 83,0.5,708,27
 incubator,Foreboding Incubator,ilvl 83,0.5,910,37
-incubator,Geomancer's Incubator,ilvl 83,1.0,646,47
+incubator,Geomancer's Incubator,ilvl 83,0.5,1034,39
 incubator,Infused Incubator,ilvl 83,1.0,954,29
 incubator,Kalguuran Incubator,ilvl 83,1.0,536,59
 incubator,Maddening Incubator,ilvl 83,1.0,386,63
@@ -8381,8 +8381,8 @@ incubator,Otherworldly Incubator,ilvl 83,0.5,442,61
 incubator,Primal Incubator,ilvl 83,1.0,753,33
 incubator,Singular Incubator,ilvl 83,0.5,663,39
 incubator,Skittering Incubator,ilvl 83,0.5,1436,17
-incubator,Thaumaturge's Incubator,ilvl 83,0.5,516,53
-vial,Vial of Awakening,,5.0,9,1
+incubator,Thaumaturge's Incubator,ilvl 83,0.5,464,53
+vial,Vial of Awakening,,5.0,10,2
 vial,Vial of Consequence,,155.0,73,19
 vial,Vial of Dominance,,9.0,44,14
 vial,Vial of Fate,,2.0,51,14
@@ -8394,12 +8394,12 @@ logbook,Black Scythe Mercenaries Logbook,ilvl 83+,7.0,100,58
 logbook,Order of the Chalice Logbook,ilvl 83+,4.0,100,67
 logbook,Knights of the Sun Logbook,ilvl 83+,9.0,100,78
 beast,Craicic Chimeral,,179.0,100,54
-beast,Craicic Maw,,8.0,72,25
+beast,Craicic Maw,,8.0,67,27
 beast,Craicic Vassal,,10.0,86,21
 beast,Farric Frost Hellion Alpha,,44.0,25,17
-beast,Farric Lynx Alpha,,4.0,100,37
+beast,Farric Lynx Alpha,,5.0,100,31
 beast,Farric Wolf Alpha,,10.0,100,29
-beast,Fenumal Plagued Arachnid,,25.0,100,52
+beast,Fenumal Plagued Arachnid,,25.0,100,72
 beast,Craicic Spider Crab,,3.0,31,10
 beast,Farric Tiger Alpha,,30.0,45,20
 beast,Fenumal Hybrid Arachnid,,10.0,17,9
@@ -8410,7 +8410,7 @@ beast,Primal Rhex Matriarch,,25.0,7,6
 beast,Vivid Abberarach,,5.0,67,14
 beast,Vivid Vulture,,160.0,100,26
 beast,Vivid Watcher,,154.0,100,28
-beast,Wild Brambleback,,30.0,100,18
+beast,Wild Brambleback,,32.0,100,24
 beast,Wild Bristle Matron,,286.0,100,28
 beast,Wild Hellion Alpha,,160.0,100,23
 beast,Craiceann First of the Deep,,14.0,3,3
@@ -8423,7 +8423,7 @@ map,Constrictor's Map,T16,12.0,100,62
 map,Purifier's Map,T16,12.0,100,62
 map,Baran's Citadel,T16,32.0,100,73
 map,Veritania's Citadel,T16,36.0,100,69
-map,Al-Hezmin's Citadel,T16,36.0,100,67
+map,Al-Hezmin's Citadel,T16,35.0,100,72
 map,Drox's Citadel,T16,31.0,100,65
 unique,Bramblejack,clean,1.0,74,68
 unique,Bramblejack,clean 6-link,40.0,5,4
@@ -8447,16 +8447,16 @@ unique,Lioneye's Vision,corrupted 6-link,220.0,17,17
 unique,The Iron Fortress,clean,4.0,99,97
 unique,The Iron Fortress,clean 6-link,506.0,46,46
 unique,The Iron Fortress,corrupted,1.0,100,91
-unique,The Iron Fortress,corrupted 6-link,660.0,27,26
-unique,Death's Oath,clean,1.0,100,99
-unique,Death's Oath,clean 6-link,150.0,4,4
+unique,The Iron Fortress,corrupted 6-link,440.0,32,31
+unique,Death's Oath,clean,1.0,99,98
+unique,Death's Oath,clean 6-link,220.0,10,10
 unique,Death's Oath,corrupted,2.0,100,93
-unique,Death's Oath,corrupted 6-link,150.0,6,6
+unique,Death's Oath,corrupted 6-link,880.0,7,7
 unique,Blunderbore,clean,1.0,100,98
 unique,Blunderbore,clean 6-link,506.0,30,30
 unique,Blunderbore,corrupted,3.0,100,88
 unique,Blunderbore,corrupted 6-link,440.0,36,34
-unique,The Brass Dome,clean,15.0,100,96
+unique,The Brass Dome,clean,10.0,100,89
 unique,The Brass Dome,clean 6-link,396.0,69,68
 unique,The Brass Dome,corrupted,14.0,100,100
 unique,The Brass Dome,corrupted 6-link,440.0,56,53
