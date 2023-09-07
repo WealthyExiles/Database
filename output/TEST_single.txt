@@ -2640,25 +2640,25 @@ gem,Power Charge On Critical Support,corrupted 20/0,4.0,82,67
 gem,Power Charge On Critical Support,corrupted 21/0,5.0,34,33
 gem,Power Charge On Critical Support,clean 1/20,14.0,100,59
 gem,Power Charge On Critical Support,clean 20/20,28.0,82,60
-gem,Power Charge On Critical Support,corrupted 20/20,30.0,64,36
-gem,Power Charge On Critical Support,corrupted 21/20,90.0,9,9
-gem,Power Siphon,clean 20/0,2.0,29,28
+gem,Power Charge On Critical Support,corrupted 20/20,30.0,40,30
+gem,Power Charge On Critical Support,corrupted 21/20,155.0,32,32
+gem,Power Siphon,clean 20/0,1.0,32,32
 gem,Power Siphon,corrupted 20/0,5.0,39,33
-gem,Power Siphon,corrupted 21/0,2.0,79,75
-gem,Power Siphon,clean 1/20,1.0,62,57
-gem,Power Siphon,clean 20/20,5.0,15,13
-gem,Power Siphon,corrupted 20/20,6.0,9,9
-gem,Power Siphon,corrupted 21/20,9.0,24,22
+gem,Power Siphon,corrupted 21/0,3.0,66,65
+gem,Power Siphon,clean 1/20,1.0,59,59
+gem,Power Siphon,clean 20/20,1.0,21,21
+gem,Power Siphon,corrupted 20/20,4.0,17,12
+gem,Power Siphon,corrupted 21/20,9.0,36,35
 gem,Precision,clean 20/0,9.0,100,67
-gem,Precision,corrupted 20/0,8.0,99,46
+gem,Precision,corrupted 20/0,5.0,100,31
 gem,Precision,corrupted 21/0,60.0,83,74
-gem,Precision,clean 1/20,9.0,100,32
+gem,Precision,clean 1/20,12.0,100,27
 gem,Precision,clean 20/20,39.0,100,20
 gem,Precision,corrupted 20/20,24.0,60,28
-gem,Precision,corrupted 21/20,105.0,47,46
-gem,Predator Support,clean 20/0,2.0,53,53
-gem,Predator Support,corrupted 20/0,10.0,55,48
-gem,Predator Support,corrupted 21/0,4.0,39,39
+gem,Precision,corrupted 21/20,108.0,24,23
+gem,Predator Support,clean 20/0,3.0,46,46
+gem,Predator Support,corrupted 20/0,10.0,62,54
+gem,Predator Support,corrupted 21/0,2.0,41,40
 gem,Predator Support,clean 1/20,3.0,76,74
 gem,Predator Support,clean 20/20,16.0,37,37
 gem,Predator Support,corrupted 20/20,10.0,32,26
@@ -8227,8 +8227,8 @@ compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant o
 compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,4,12.0,100,26
 compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,2.0,75,30
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,27.0,100,52
-compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,3.0,49,29
-compass,20% increased Pack Size in your Unidentified Maps,4,2.0,100,9
+compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,2.0,34,28
+compass,20% increased Pack Size in your Unidentified Maps,4,4.0,100,27
 compass,Players and Monsters take 12% increased Chaos Damage:Your Maps contain 6 additional packs of Monsters that deal Chaos Damage,4,2.0,100,14
 compass,Strongbox Monsters are Enraged:Strongbox Monsters have 500% increased Item Quantity:Your Maps contain an additional Strongbox,4,80.0,100,31
 compass,Your Maps contain Ritual Altars,4,4.0,100,60
@@ -8352,7 +8352,7 @@ contract,Perception Contract,ilvl 83+,1.0,98,54
 contract,Demolition Contract,ilvl 83+,1.0,99,57
 contract,Counter-Thaumaturgy Contract,ilvl 83+,1.0,100,67
 contract,Trap Disarmament Contract,ilvl 83+,1.0,98,55
-contract,Agility Contract,ilvl 83+,1.0,98,56
+contract,Agility Contract,ilvl 83+,1.0,96,61
 contract,Deception Contract,ilvl 83+,1.0,94,46
 contract,Engineering Contract,ilvl 83+,1.0,100,63
 blueprint,Blueprint: Bunker,3 wings,1.0,99,73
@@ -8381,7 +8381,7 @@ incubator,Morphing Incubator,ilvl 83,0.5,746,38
 incubator,Mysterious Incubator,ilvl 83,0.5,883,24
 incubator,Obscured Incubator,ilvl 83,0.5,546,57
 incubator,Ornate Incubator,ilvl 83,1.0,421,69
-incubator,Otherworldly Incubator,ilvl 83,1.0,639,42
+incubator,Otherworldly Incubator,ilvl 83,0.5,608,41
 incubator,Primal Incubator,ilvl 83,0.5,845,28
 incubator,Singular Incubator,ilvl 83,0.5,675,43
 incubator,Skittering Incubator,ilvl 83,0.5,1008,31
@@ -8396,27 +8396,27 @@ vial,Vial of Transcendence,,60.0,93,41
 vial,Vial of the Ghost,,200.0,1,1
 logbook,Bruids of the Broken Circle Logbook,ilvl 83+,3.0,100,82
 logbook,Black Scythe Mercenaries Logbook,ilvl 83+,25.0,100,68
-logbook,Order of the Chalice Logbook,ilvl 83+,2.0,100,62
-logbook,Knights of the Sun Logbook,ilvl 83+,28.0,100,75
-beast,Craicic Chimeral,,180.0,100,77
+logbook,Order of the Chalice Logbook,ilvl 83+,4.0,100,71
+logbook,Knights of the Sun Logbook,ilvl 83+,29.0,100,77
+beast,Craicic Chimeral,,180.0,100,70
 beast,Craicic Maw,,8.0,79,37
-beast,Craicic Vassal,,15.0,100,41
+beast,Craicic Vassal,,15.0,100,36
 beast,Farric Frost Hellion Alpha,,50.0,9,6
 beast,Farric Lynx Alpha,,5.0,100,55
 beast,Farric Wolf Alpha,,10.0,100,27
 beast,Fenumal Plagued Arachnid,,25.0,100,59
 beast,Craicic Spider Crab,,4.0,30,13
 beast,Farric Tiger Alpha,,30.0,42,24
-beast,Fenumal Hybrid Arachnid,,20.0,12,9
+beast,Fenumal Hybrid Arachnid,,10.0,7,5
 beast,Saqawine Rhex,,5.0,38,18
 beast,Primal Crushclaw,,4.0,100,1
 beast,Primal Cystcaller,,5.0,78,10
-beast,Primal Rhex Matriarch,,30.0,17,7
+beast,Primal Rhex Matriarch,,39.0,27,7
 beast,Vivid Abberarach,,5.0,100,22
 beast,Vivid Vulture,,300.0,100,22
 beast,Vivid Watcher,,159.0,100,29
 beast,Wild Brambleback,,28.0,100,10
-beast,Wild Bristle Matron,,260.0,100,37
+beast,Wild Bristle Matron,,280.0,100,34
 beast,Wild Hellion Alpha,,150.0,100,38
 beast,Craiceann First of the Deep,,10.0,17,9
 beast,Farrul First of the Plains,,55.0,46,14
@@ -9690,11 +9690,11 @@ unique,Graven's Secret,corrupted,2.0,100,92
 unique,The Red Nightmare,clean,400.0,17,17
 unique,Primordial Might,clean,200.0,85,80
 unique,Primordial Might,corrupted,180.0,22,21
-unique,Darkness Enthroned,clean,7.0,100,97
-unique,Darkness Enthroned,corrupted,8.0,16,16
-unique,Crown of the Tyrant,clean,460.0,25,24
+unique,Darkness Enthroned,clean,5.0,100,84
+unique,Darkness Enthroned,corrupted,9.0,42,42
+unique,Crown of the Tyrant,clean,680.0,42,40
 unique,Innsbury Edge,clean,1.0,92,86
-unique,Innsbury Edge,corrupted,1.0,64,64
+unique,Innsbury Edge,corrupted,1.0,99,95
 unique,String of Servitude,corrupted,1.0,96,93
 unique,Mark of the Shaper,clean,4.0,100,90
 unique,Mark of the Shaper,corrupted,5.0,80,58
