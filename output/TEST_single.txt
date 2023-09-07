@@ -1553,36 +1553,36 @@ gem,Discharge,clean 20/0,1.0,29,29
 gem,Discharge,corrupted 20/0,4.0,18,14
 gem,Discharge,corrupted 21/0,4.0,40,35
 gem,Discharge,clean 1/20,2.0,64,61
-gem,Discharge,clean 20/20,4.0,16,16
-gem,Discharge,corrupted 20/20,5.0,16,13
-gem,Discharge,corrupted 21/20,10.0,29,29
-gem,Discipline,clean 20/0,9.5,100,14
+gem,Discharge,clean 20/20,4.0,13,13
+gem,Discharge,corrupted 20/20,4.0,7,4
+gem,Discharge,corrupted 21/20,9.0,12,12
+gem,Discipline,clean 20/0,7.0,54,37
 gem,Discipline,corrupted 20/0,5.0,99,44
 gem,Discipline,corrupted 21/0,40.0,64,56
-gem,Discipline,clean 1/20,4.0,38,35
-gem,Discipline,clean 20/20,24.0,18,15
-gem,Discipline,corrupted 20/20,9.0,18,17
-gem,Discipline,corrupted 21/20,40.0,17,17
+gem,Discipline,clean 1/20,4.0,50,38
+gem,Discipline,clean 20/20,10.0,30,18
+gem,Discipline,corrupted 20/20,10.0,26,22
+gem,Discipline,corrupted 21/20,50.0,8,7
 gem,Divine Ire,clean 20/0,2.0,23,23
 gem,Divine Ire,corrupted 20/0,4.0,14,14
 gem,Divine Ire,corrupted 21/0,3.0,38,37
-gem,Divine Ire,clean 1/20,1.0,38,37
-gem,Divine Ire,clean 20/20,4.0,12,12
-gem,Divine Ire,corrupted 20/20,4.0,4,4
-gem,Divine Ire,corrupted 21/20,8.0,17,17
-gem,Dominating Blow,clean 20/0,1.0,18,18
+gem,Divine Ire,clean 1/20,1.0,46,45
+gem,Divine Ire,clean 20/20,5.0,11,11
+gem,Divine Ire,corrupted 20/20,5.0,3,3
+gem,Divine Ire,corrupted 21/20,10.0,16,16
+gem,Dominating Blow,clean 20/0,2.0,20,20
 gem,Dominating Blow,corrupted 20/0,2.0,25,25
 gem,Dominating Blow,corrupted 21/0,2.0,51,51
 gem,Dominating Blow,clean 1/20,1.0,47,47
-gem,Dominating Blow,clean 20/20,4.0,9,9
-gem,Dominating Blow,corrupted 20/20,2.0,9,9
-gem,Dominating Blow,corrupted 21/20,3.0,23,23
+gem,Dominating Blow,clean 20/20,2.0,8,8
+gem,Dominating Blow,corrupted 20/20,3.0,7,7
+gem,Dominating Blow,corrupted 21/20,4.0,20,20
 gem,Double Strike,clean 20/0,2.0,15,15
-gem,Double Strike,corrupted 20/0,2.0,12,11
-gem,Double Strike,corrupted 21/0,1.0,34,34
-gem,Double Strike,clean 1/20,1.0,36,35
+gem,Double Strike,corrupted 20/0,4.0,7,7
+gem,Double Strike,corrupted 21/0,1.0,34,32
+gem,Double Strike,clean 1/20,2.0,34,32
 gem,Double Strike,clean 20/20,3.0,9,9
-gem,Double Strike,corrupted 20/20,5.0,2,1
+gem,Double Strike,corrupted 20/20,1.0,2,2
 gem,Double Strike,corrupted 21/20,3.0,17,17
 gem,Dread Banner,clean 20/0,5.0,70,50
 gem,Dread Banner,corrupted 20/0,19.0,45,43
@@ -8214,12 +8214,12 @@ gem,Awakened Enhance Support,corrupted 5/20,16000.0,1,1
 compass,Area contains a Smuggler's Cache,4,4.0,100,29
 compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,4,4.0,100,52
 compass,Unique Monsters drop Corrupted Items,4,3.0,30,15
-compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,5.0,84,39
+compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,5.0,100,40
 compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,24.0,43,27
 compass,Maps found in your Maps are Corrupted with 8 Modifiers,4,140.0,60,47
-compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,42.0,100,60
+compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,36.0,100,38
 compass,Create a copy of Beasts Captured in your Maps,4,8.0,100,64
-compass,25% increased Magic Pack Size,4,4.0,100,8
+compass,25% increased Magic Pack Size,4,4.0,100,16
 compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,2.0,100,24
 compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain an additional Essence,4,4.0,100,33
 compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,4,2.0,100,45
@@ -8336,25 +8336,25 @@ compass,Your Maps contain an additional Shrine:Your Maps contain an additional R
 compass,Your Maps contain a Blight Encounter,16,9.0,51,12
 compass,Your Maps contain an additional Shrine:Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,16,35.0,61,13
 compass,Your Maps contain 8 additional packs of Corrupted Vaal Monsters:Your Maps have a 50% chance to contain Gifts of the Sacrificed per Sacrifice Fragment used:Your Maps have a 50% chance to contain Gifts of the Red Queen per Mortal Fragment used,16,9.0,26,11
-compass,Your Maps contain 100% increased number of Runic Monster Markers,16,340.0,6,3
-compass,Delirium Reward Bars fill 100% faster in your Maps,16,300.0,23,13
-compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,16,740.0,8,5
-compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,16,10.0,10,4
-compass,Area contains Metamorph Monsters,16,10.0,31,11
-compass,25% increased Pack Size in your Unidentified Maps,16,20.0,36,10
+compass,Your Maps contain 100% increased number of Runic Monster Markers,16,280.0,1,1
+compass,Delirium Reward Bars fill 100% faster in your Maps,16,320.0,18,11
+compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,16,600.0,4,3
+compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,16,10.0,9,3
+compass,Area contains Metamorph Monsters,16,10.0,22,5
+compass,25% increased Pack Size in your Unidentified Maps,16,40.0,22,11
 compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,35.0,32,14
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,180.0,38,18
 contract,Lockpicking Contract,ilvl 83+,1.0,99,46
 contract,Brute Force Contract,ilvl 83+,1.0,100,46
 contract,Perception Contract,ilvl 83+,1.0,97,41
-contract,Demolition Contract,ilvl 83+,1.0,100,63
+contract,Demolition Contract,ilvl 83+,1.0,100,57
 contract,Counter-Thaumaturgy Contract,ilvl 83+,1.0,99,48
 contract,Trap Disarmament Contract,ilvl 83+,1.0,98,57
 contract,Agility Contract,ilvl 83+,1.0,97,60
 contract,Deception Contract,ilvl 83+,1.0,100,45
 contract,Engineering Contract,ilvl 83+,1.0,100,38
 blueprint,Blueprint: Bunker,3 wings,1.0,100,76
-blueprint,Blueprint: Mansion,3 wings,1.0,100,78
+blueprint,Blueprint: Mansion,3 wings,1.0,99,75
 blueprint,Blueprint: Records Office,3 wings,1.0,99,78
 blueprint,Blueprint: Smuggler's Den,3 wings,1.0,97,72
 blueprint,Blueprint: Underbelly,3 wings,1.0,94,74
@@ -8365,7 +8365,7 @@ blueprint,Blueprint: Prohibited Library,3 wings,1.0,99,70
 incubator,Abyssal Incubator,ilvl 83,0.5,787,21
 incubator,Blighted Incubator,ilvl 83,0.5,592,40
 incubator,Cartographer's Incubator,ilvl 83,0.5,781,20
-incubator,Celestial Armoursmith's Incubator,ilvl 83,0.5,339,68
+incubator,Celestial Armoursmith's Incubator,ilvl 83,0.5,347,68
 incubator,Celestial Blacksmith's Incubator,ilvl 83,0.5,378,64
 incubator,Celestial Jeweller's Incubator,ilvl 83,0.5,450,59
 incubator,Diviner's Incubator,ilvl 83,1.0,460,64
@@ -8403,23 +8403,23 @@ beast,Farric Lynx Alpha,,4.0,100,43
 beast,Farric Wolf Alpha,,5.0,73,31
 beast,Fenumal Plagued Arachnid,,1.5,100,44
 beast,Craicic Spider Crab,,5.0,24,11
-beast,Farric Tiger Alpha,,28.0,58,18
+beast,Farric Tiger Alpha,,33.0,27,13
 beast,Fenumal Hybrid Arachnid,,9.0,18,14
 beast,Saqawine Rhex,,5.0,36,21
 beast,Primal Crushclaw,,5.0,100,6
 beast,Primal Cystcaller,,5.0,100,5
 beast,Primal Rhex Matriarch,,35.0,5,4
 beast,Vivid Abberarach,,8.0,38,7
-beast,Vivid Vulture,,240.0,100,6
+beast,Vivid Vulture,,340.0,100,18
 beast,Vivid Watcher,,140.0,100,20
 beast,Wild Brambleback,,33.0,100,8
 beast,Wild Bristle Matron,,280.0,100,27
-beast,Wild Hellion Alpha,,160.0,100,19
+beast,Wild Hellion Alpha,,160.0,100,18
 beast,Craiceann First of the Deep,,10.0,17,11
 beast,Farrul First of the Plains,,55.0,100,2
 beast,Fenumus First of the Night,,35.0,54,13
 beast,Saqawal First of the Sky,,13.0,20,13
-map,Enslaver's Map,T16,12.0,100,59
+map,Enslaver's Map,T16,10.0,100,64
 map,Eradicator's Map,T16,12.0,100,59
 map,Constrictor's Map,T16,12.0,100,61
 map,Purifier's Map,T16,12.0,100,60
@@ -8869,21 +8869,21 @@ unique,Agnerod East,clean 6-link,20.0,2,2
 unique,Agnerod East,corrupted,2.0,37,36
 unique,Agnerod North,clean,1.0,99,94
 unique,Agnerod North,clean 6-link,35.0,6,6
-unique,Agnerod North,corrupted,1.0,87,83
+unique,Agnerod North,corrupted,1.0,56,51
 unique,Agnerod South,clean,1.0,99,92
-unique,Agnerod South,clean 6-link,100.0,3,3
-unique,Agnerod South,corrupted,3.0,72,70
+unique,Agnerod South,clean 6-link,100.0,1,1
+unique,Agnerod South,corrupted,1.0,46,43
 unique,Agnerod West,clean,1.0,98,92
-unique,Agnerod West,clean 6-link,25.0,9,9
-unique,Agnerod West,corrupted,2.0,42,40
-unique,The Enmity Divine,clean,4.0,8,7
-unique,The Yielding Mortality,clean,20.0,6,6
-unique,Shiversting,clean,1.0,94,88
+unique,Agnerod West,clean 6-link,100.0,6,6
+unique,Agnerod West,corrupted,1.0,44,43
+unique,The Enmity Divine,clean,7.0,12,9
+unique,Shiversting,clean,0.5,93,90
 unique,Shiversting,clean 6-link,60.0,3,3
-unique,Shiversting,corrupted,5.0,70,68
+unique,Shiversting,corrupted,5.0,51,48
+unique,Shiversting,corrupted 6-link,30.0,1,1
 unique,Edge of Madness,clean,1.0,98,95
-unique,Edge of Madness,clean 6-link,25.0,4,4
-unique,Edge of Madness,corrupted,3.0,36,36
+unique,Edge of Madness,clean 6-link,109.0,2,2
+unique,Edge of Madness,corrupted,1.0,56,55
 unique,Queen's Decree,clean,1.0,86,82
 unique,Queen's Decree,clean 6-link,50.0,12,12
 unique,Queen's Decree,corrupted,1.0,45,45
