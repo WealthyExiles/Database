@@ -866,11 +866,10 @@ map,Wharf Map,T16,1.0,361,20
 map,Vaal Pyramid Map,T16,2.0,1215,24
 map,Underground River Map,T16,0.25,437,23
 map,Blighted Bone Crypt Map,T1,5.0,3,2
-map,Blighted Dunes Map,T2,5.0,6,3
-map,Blighted Stagnation Map,T2,5.0,3,3
-map,Blighted Overgrown Shrine Map,T3,30.0,4,3
-map,Blighted Strand Map,T3,5.0,5,4
-map,Blighted Moon Temple Map,T4,14.0,1,1
+map,Blighted Dunes Map,T2,8.0,3,2
+map,Blighted Stagnation Map,T2,5.0,5,3
+map,Blighted Overgrown Shrine Map,T3,40.0,3,3
+map,Blighted Cemetery Map,T4,5.0,10,4
 map,Blighted Courtyard Map,T5,5.0,2,1
 map,Blighted Alleyways Map,T16,19.0,6,5
 map,Blighted Arachnid Nest Map,T16,18.0,7,3
@@ -5960,13 +5959,12 @@ gem,Anomalous Storm Rain,clean 20/0,229.0,1,1
 gem,Anomalous Storm Rain,corrupted 20/0,30.0,10,9
 gem,Anomalous Storm Rain,corrupted 21/0,801.5,1,1
 gem,Anomalous Storm Rain,clean 1/20,65.0,4,4
-gem,Anomalous Storm Rain,clean 20/20,229.0,1,1
-gem,Anomalous Storm Rain,corrupted 20/20,30.0,7,6
-gem,Anomalous Storm Rain,corrupted 21/20,687.0,1,1
+gem,Anomalous Storm Rain,clean 20/20,65.0,5,5
+gem,Anomalous Storm Rain,corrupted 21/20,801.5,1,1
 gem,Anomalous Summon Reaper,clean 20/0,45.0,3,3
-gem,Anomalous Summon Reaper,corrupted 20/0,200.0,2,2
-gem,Anomalous Summon Reaper,clean 1/20,38.0,4,4
-gem,Anomalous Summon Reaper,clean 20/20,38.0,4,4
+gem,Anomalous Summon Reaper,corrupted 20/0,50.0,2,2
+gem,Anomalous Summon Reaper,clean 1/20,40.0,3,3
+gem,Anomalous Summon Reaper,clean 20/20,60.0,2,2
 gem,Anomalous Voltaxic Burst,clean 20/0,40.0,5,5
 gem,Anomalous Voltaxic Burst,corrupted 20/0,50.0,2,1
 gem,Anomalous Voltaxic Burst,corrupted 21/0,1832.0,1,1
@@ -9269,7 +9267,7 @@ gem,Awakened Enhance Support,clean 4/20,8473.0,1,1
 gem,Awakened Enhance Support,corrupted 4/20,1832.0,4,4
 gem,Awakened Enhance Support,corrupted 5/20,29770.0,2,2
 compass,Area contains a Smuggler's Cache,4,4.0,100,8
-compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,4,5.0,50,21
+compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,4,4.0,61,25
 compass,Unique Monsters drop Corrupted Items,4,3.0,44,15
 compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,10.0,66,9
 compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,28.625000000000004,100,27
@@ -9397,7 +9395,7 @@ compass,Your Maps contain 8 additional packs of Corrupted Vaal Monsters:Your Map
 compass,Your Maps contain 100% increased number of Runic Monster Markers,16,210.0,6,4
 compass,Delirium Reward Bars fill 100% faster in your Maps,16,938.8999999999999,28,15
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,16,1374.0,11,7
-compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,16,10.0,12,4
+compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,16,10.0,9,1
 compass,Area contains Metamorph Monsters,16,10.0,21,9
 compass,25% increased Pack Size in your Unidentified Maps,16,35.0,73,8
 compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,35.0,17,5
@@ -9456,7 +9454,7 @@ logbook,Order of the Chalice Logbook,ilvl 83+,8.0,100,51
 logbook,Knights of the Sun Logbook,ilvl 83+,40.0,100,34
 beast,Craicic Chimeral,,251.90000000000003,100,56
 beast,Craicic Maw,,6.0,78,8
-beast,Craicic Vassal,,7.0,23,6
+beast,Craicic Vassal,,6.0,71,10
 beast,Farric Frost Hellion Alpha,,60.0,13,13
 beast,Farric Lynx Alpha,,4.0,29,7
 beast,Farric Wolf Alpha,,10.0,34,14
@@ -11023,10 +11021,11 @@ unique,Chitus' Apex,clean,10.0,94,87
 unique,Chitus' Apex,corrupted,8.0,78,78
 unique,Karui Ward,clean,3.0,97,93
 unique,Karui Ward,corrupted,3.0,100,93
-unique,Survivor's Guilt,clean,1.0,27,27
+unique,Survivor's Guilt,clean,2.0,24,24
 unique,Survivor's Guilt,corrupted,15.0,6,6
 unique,Soul Taker,clean,618.3000000000001,43,42
-unique,Soul Taker,corrupted,297.7,8,8
+unique,Soul Taker,corrupted,641.1999999999999,1,1
+unique,Replica Tukohama's Fortress,clean,150.0,2,2
 unique,Saemus' Gift,clean,1.0,92,88
 unique,Saemus' Gift,corrupted,3.0,99,92
 unique,Malachai's Artifice,clean,1.0,98,80
