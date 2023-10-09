@@ -727,10 +727,6 @@ map,Vaal Pyramid Map,T16,2.0,1386,31
 map,Blighted Overgrown Shrine Map,T3,5.0,6,4
 map,Blighted Strand Map,T3,5.0,4,2
 map,Blighted Bone Crypt Map,T4,10.0,2,1
-map,Blighted Moon Temple Map,T4,10.0,1,1
-map,Blighted Atoll Map,T5,30.0,1,1
-map,Blighted Courtyard Map,T5,5.0,3,2
-map,Blighted Alleyways Map,T16,19.0,3,2
 map,Blighted Arachnid Nest Map,T16,18.0,10,8
 map,Blighted Arcade Map,T16,20.0,5,4
 map,Blighted Barrows Map,T16,20.0,5,4
@@ -1421,13 +1417,13 @@ gem,Convocation,corrupted 21/0,2.0,29,28
 gem,Convocation,clean 1/20,4.0,36,34
 gem,Convocation,clean 20/20,10.0,26,24
 gem,Convocation,corrupted 20/20,10.0,10,10
-gem,Convocation,corrupted 21/20,10.0,20,19
-gem,Corrupting Fever,clean 20/0,3.0,23,21
+gem,Convocation,corrupted 21/20,10.0,9,8
+gem,Corrupting Fever,clean 20/0,4.0,24,23
 gem,Corrupting Fever,corrupted 20/0,4.0,35,27
 gem,Corrupting Fever,corrupted 21/0,5.0,40,40
 gem,Corrupting Fever,clean 1/20,3.0,26,26
 gem,Corrupting Fever,clean 20/20,3.0,13,10
-gem,Corrupting Fever,corrupted 20/20,4.0,10,9
+gem,Corrupting Fever,corrupted 20/20,4.0,5,4
 gem,Corrupting Fever,corrupted 21/20,27.0,18,18
 gem,Crackling Lance,clean 20/0,3.0,12,12
 gem,Crackling Lance,corrupted 20/0,5.0,13,12
@@ -9198,9 +9194,9 @@ compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain
 compass,Your Maps contain Niko,4,5.0,47,14
 compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,4,5.0,42,18
 compass,Your Maps contain an additional Legion Encounter,4,8.0,99,28
-compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,1.0,28,13
+compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,1.0,39,13
 compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,1.0,100,2
-compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,3.0,100,15
+compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,4.0,59,23
 compass,Your Maps contain an additional Abyss:Your Maps can contain Abysses,4,5.0,100,13
 compass,Your Maps contain a Blight Encounter,4,3.0,56,26
 compass,Slaying Enemies close together can attract monsters from Beyond this realm:25% increased Beyond Demon Pack Size in your Maps,4,62.7,99,16
@@ -9278,7 +9274,7 @@ compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop add
 contract,Lockpicking Contract,ilvl 83+,1.0,100,53
 contract,Brute Force Contract,ilvl 83+,1.0,98,22
 contract,Perception Contract,ilvl 83+,2.0,99,33
-contract,Demolition Contract,ilvl 83+,1.0,88,49
+contract,Demolition Contract,ilvl 83+,1.0,98,44
 contract,Counter-Thaumaturgy Contract,ilvl 83+,1.0,97,54
 contract,Trap Disarmament Contract,ilvl 83+,1.0,98,62
 contract,Agility Contract,ilvl 83+,1.0,93,50
@@ -9294,7 +9290,7 @@ blueprint,Blueprint: Tunnels,3 wings,20.0,99,65
 blueprint,Blueprint: Laboratory,3 wings,1.0,99,65
 blueprint,Blueprint: Prohibited Library,3 wings,3.0,98,60
 incubator,Abyssal Incubator,ilvl 83,0.5,708,21
-incubator,Blighted Incubator,ilvl 83,0.5,621,38
+incubator,Blighted Incubator,ilvl 83,0.5,340,41
 incubator,Cartographer's Incubator,ilvl 83,0.5,749,27
 incubator,Celestial Armoursmith's Incubator,ilvl 83,0.5,119,26
 incubator,Celestial Blacksmith's Incubator,ilvl 83,0.5,97,25
@@ -9310,26 +9306,25 @@ incubator,Morphing Incubator,ilvl 83,0.5,629,39
 incubator,Mysterious Incubator,ilvl 83,0.5,230,29
 incubator,Obscured Incubator,ilvl 83,0.5,450,51
 incubator,Ornate Incubator,ilvl 83,7.0,502,47
-incubator,Otherworldly Incubator,ilvl 83,0.5,450,54
+incubator,Otherworldly Incubator,ilvl 83,0.5,281,41
 incubator,Primal Incubator,ilvl 83,0.5,610,41
-incubator,Singular Incubator,ilvl 83,0.5,587,39
+incubator,Singular Incubator,ilvl 83,0.5,555,45
 incubator,Skittering Incubator,ilvl 83,0.5,842,55
 incubator,Thaumaturge's Incubator,ilvl 83,0.5,1069,56
 vial,Vial of Awakening,,30.0,3,3
 vial,Vial of Consequence,,40.0,6,5
 vial,Vial of Dominance,,40.0,3,2
 vial,Vial of Fate,,2.0,3,3
-vial,Vial of Summoning,,30.0,10,8
+vial,Vial of Summoning,,30.0,6,6
 vial,Vial of the Ritual,,2.0,3,3
 vial,Vial of Transcendence,,90.0,48,24
-vial,Vial of Sacrifice,,228.0,1,1
 logbook,Bruids of the Broken Circle Logbook,ilvl 83+,7.0,100,44
-logbook,Black Scythe Mercenaries Logbook,ilvl 83+,25.0,100,60
+logbook,Black Scythe Mercenaries Logbook,ilvl 83+,24.0,100,43
 logbook,Order of the Chalice Logbook,ilvl 83+,7.0,100,56
 logbook,Knights of the Sun Logbook,ilvl 83+,40.0,99,28
 beast,Craicic Chimeral,,296.40000000000003,92,45
 beast,Craicic Maw,,8.0,25,9
-beast,Craicic Vassal,,4.0,23,9
+beast,Craicic Vassal,,8.0,15,8
 beast,Farric Frost Hellion Alpha,,50.0,24,15
 beast,Farric Lynx Alpha,,5.0,91,13
 beast,Farric Wolf Alpha,,10.0,88,23
@@ -9340,7 +9335,7 @@ beast,Fenumal Hybrid Arachnid,,10.0,12,10
 beast,Saqawine Rhex,,10.0,84,17
 beast,Primal Crushclaw,,50.0,2,2
 beast,Primal Cystcaller,,5.0,6,4
-beast,Primal Rhex Matriarch,,35.0,29,9
+beast,Primal Rhex Matriarch,,35.0,6,4
 beast,Vivid Abberarach,,7.0,22,4
 beast,Vivid Vulture,,570.0,99,28
 beast,Vivid Watcher,,140.0,21,9
@@ -9352,7 +9347,7 @@ beast,Farrul First of the Plains,,40.0,6,3
 beast,Fenumus First of the Night,,50.0,12,3
 beast,Saqawal First of the Sky,,23.0,18,12
 map,Enslaver's Map,T16,10.0,97,39
-map,Eradicator's Map,T16,10.0,100,45
+map,Eradicator's Map,T16,10.0,98,30
 map,Constrictor's Map,T16,10.0,96,38
 map,Purifier's Map,T16,10.0,100,41
 map,Baran's Citadel,T16,24.0,100,48
@@ -9834,20 +9829,19 @@ unique,Terminus Est,clean 6-link,433.2,5,5
 unique,Terminus Est,corrupted,5.0,58,57
 unique,Terminus Est,corrupted 6-link,456.0,9,9
 unique,The Dancing Dervish,clean,1.0,98,97
-unique,The Dancing Dervish,clean 6-link,60.0,5,5
+unique,The Dancing Dervish,clean 6-link,100.0,6,6
 unique,The Dancing Dervish,corrupted,1.0,45,44
+unique,The Dancing Dervish,corrupted 6-link,80.0,2,2
 unique,Hiltless,clean,1.0,76,72
-unique,Hiltless,clean 6-link,50.0,3,3
+unique,Hiltless,clean 6-link,19.0,3,3
 unique,Hiltless,corrupted,5.0,44,43
-unique,Hiltless,corrupted 6-link,60.0,1,1
 unique,Kondo's Pride,clean,1.0,83,79
-unique,Kondo's Pride,clean 6-link,30.0,6,6
+unique,Kondo's Pride,clean 6-link,30.0,3,3
 unique,Kondo's Pride,corrupted,5.0,71,69
-unique,Doomsower,clean,1.0,18,18
-unique,Doomsower,clean 6-link,228.0,1,1
+unique,Doomsower,clean,1.0,20,20
 unique,Doomsower,corrupted,20.0,7,7
 unique,Oro's Sacrifice,clean,1.0,96,93
-unique,Oro's Sacrifice,clean 6-link,228.0,5,5
+unique,Oro's Sacrifice,clean 6-link,195.0,8,8
 unique,Oro's Sacrifice,corrupted,1.0,60,58
 unique,Oro's Sacrifice,corrupted 6-link,1368.0,2,2
 unique,Starforge,clean,49.0,53,44
