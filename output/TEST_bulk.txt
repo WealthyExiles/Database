@@ -3702,33 +3702,30 @@ map,Dunes Map,T2,3.5,9,11
 map,Dunes Map,T2,3.5,18,8
 map,Dunes Map,T2,3.5,30,3
 map,Dunes Map,T2,3.5,50,2
-map,Overgrown Shrine Map,T3,1.0,1,15
-map,Overgrown Shrine Map,T3,1.0,9,6
-map,Overgrown Shrine Map,T3,5.0,18,2
-map,Overgrown Shrine Map,T3,5.0,30,2
-map,Overgrown Shrine Map,T3,5.0,50,1
-map,Strand Map,T3,1.0,1,32
-map,Strand Map,T3,4.0,9,8
-map,Strand Map,T3,5.428571428571428,18,4
-map,Strand Map,T3,5.428571428571428,30,4
-map,Strand Map,T3,5.428571428571428,50,3
-map,Strand Map,T3,5.428571428571428,100,2
-map,Bone Crypt Map,T4,1.0,1,11
+map,Strand Map,T3,1.0,1,22
+map,Strand Map,T3,2.0,9,8
+map,Strand Map,T3,2.0,18,4
+map,Strand Map,T3,2.0,30,4
+map,Strand Map,T3,2.0,50,3
+map,Strand Map,T3,3.0,100,1
+map,Bone Crypt Map,T4,1.0,1,17
 map,Bone Crypt Map,T4,1.0,9,4
-map,Bone Crypt Map,T4,1.0,18,2
-map,Bone Crypt Map,T4,1.0,30,1
-map,Bone Crypt Map,T4,1.0,50,1
-map,Moon Temple Map,T4,1.0,1,31
-map,Moon Temple Map,T4,2.0,9,8
-map,Moon Temple Map,T4,2.0,18,3
-map,Moon Temple Map,T4,2.0,30,2
-map,Vaal Pyramid Map,T4,1.0,1,20
-map,Vaal Pyramid Map,T4,1.0,9,6
+map,Bone Crypt Map,T4,1.0,18,3
+map,Bone Crypt Map,T4,2.0,30,1
+map,Bone Crypt Map,T4,2.0,50,1
+map,Moon Temple Map,T4,1.0,1,13
+map,Moon Temple Map,T4,3.0,9,6
+map,Moon Temple Map,T4,7.0,18,1
+map,Moon Temple Map,T4,7.0,30,1
+map,Vaal Pyramid Map,T4,1.0,1,12
+map,Vaal Pyramid Map,T4,1.0,9,10
 map,Vaal Pyramid Map,T4,2.0,18,2
 map,Vaal Pyramid Map,T4,2.0,30,2
-map,Atoll Map,T5,1.0,1,26
-map,Atoll Map,T5,2.0,9,4
-map,Atoll Map,T5,2.0,18,2
+map,Vaal Pyramid Map,T4,3.0,50,1
+map,Atoll Map,T5,1.0,1,33
+map,Atoll Map,T5,5.0,9,4
+map,Atoll Map,T5,5.0,18,1
+map,Atoll Map,T5,5.0,30,1
 map,Courtyard Map,T5,1.0,1,18
 map,Courtyard Map,T5,1.0,9,6
 map,Courtyard Map,T5,2.0,18,2
@@ -5183,9 +5180,9 @@ gem,Frost Shield,clean 20/20,10.0,1,41
 gem,Frost Shield,corrupted 20/20,9.0,1,36
 gem,Frost Shield,corrupted 21/20,25.0,1,14
 gem,Frost Wall,clean 20/0,4.0,1,15
-gem,Frost Wall,corrupted 20/0,20.0,1,11
+gem,Frost Wall,corrupted 20/0,19.0,1,18
 gem,Frost Wall,corrupted 21/0,10.0,1,38
-gem,Frost Wall,clean 1/20,5.0,1,14
+gem,Frost Wall,clean 1/20,4.0,1,34
 gem,Frost Wall,clean 20/20,13.0,1,11
 gem,Frost Wall,corrupted 20/20,20.0,1,5
 gem,Frost Wall,corrupted 21/20,10.0,1,23
@@ -12441,7 +12438,7 @@ compass,Strongbox Monsters are Enraged:Strongbox Monsters have 500% increased It
 compass,Your Maps contain Ritual Altars,4,5.0,1,15
 compass,Players and Monsters take 12% increased Lightning Damage:Your Maps contain 6 additional packs of Monsters that deal Lightning Damage,4,3.0,1,2
 compass,Your Magic Maps contain 4 additional packs of Magic Monsters:Your Normal Maps contain 4 additional packs of Normal Monsters:Your Rare Maps contain 4 additional Rare Monster packs,4,4.0,1,5
-compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 4 additional Packs with Mirrored Rare Monsters,4,4.0,1,2
+compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 4 additional Packs with Mirrored Rare Monsters,4,4.0,1,4
 compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,4,3.0,1,13
 compass,Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,3.0,1,16
 compass,The First 3 Possessed Monsters drop an additional Rusted Scarab:Your Maps contain an additional Tormented Betrayer,4,2.0,1,20
@@ -12554,7 +12551,7 @@ compass,25% increased Pack Size in your Unidentified Maps,16,35.0,1,7
 compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,34.2,1,11
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,228.0,1,5
 contract,Lockpicking Contract,ilvl 83+,1.0,1,34
-contract,Brute Force Contract,ilvl 83+,1.0,1,22
+contract,Brute Force Contract,ilvl 83+,1.0,1,19
 contract,Perception Contract,ilvl 83+,2.0,1,19
 contract,Demolition Contract,ilvl 83+,1.0,1,44
 contract,Counter-Thaumaturgy Contract,ilvl 83+,2.0,1,33
@@ -12645,11 +12642,11 @@ logbook,Order of the Chalice Logbook,ilvl 83+,5.0,1,72
 logbook,Knights of the Sun Logbook,ilvl 83+,35.0,1,34
 beast,Craicic Chimeral,,342.0,1,21
 beast,Craicic Maw,,5.0,1,7
-beast,Craicic Vassal,,5.0,1,10
+beast,Craicic Vassal,,6.0,1,12
 beast,Farric Frost Hellion Alpha,,49.0,1,20
 beast,Farric Lynx Alpha,,4.0,1,19
 beast,Farric Wolf Alpha,,10.0,1,23
-beast,Fenumal Plagued Arachnid,,25.0,1,15
+beast,Fenumal Plagued Arachnid,,27.0,1,19
 beast,Craicic Spider Crab,,5.0,1,4
 beast,Farric Tiger Alpha,,10.0,1,13
 beast,Fenumal Hybrid Arachnid,,10.0,1,9
@@ -12665,7 +12662,7 @@ beast,Wild Bristle Matron,,319.2,1,14
 beast,Wild Hellion Alpha,,296.40000000000003,1,9
 beast,Craiceann First of the Deep,,15.0,1,11
 beast,Farrul First of the Plains,,29.0,1,11
-beast,Fenumus First of the Night,,50.0,1,5
+beast,Fenumus First of the Night,,35.0,1,9
 beast,Saqawal First of the Sky,,25.0,1,6
 map,Enslaver's Map,T16,10.0,1,26
 map,Eradicator's Map,T16,9.0,1,33
