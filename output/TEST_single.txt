@@ -757,9 +757,9 @@ card,Underground Forest,,1.0,230,23
 card,Void of the Elements,,5.0,112,16
 card,Vinia's Token,,1.0,1565,17
 card,Vile Power,,1.0,359,29
-card,Volatile Power,,1.0,3936,20
-card,Vanity,,1.0,409,22
-card,Wealth And Power,,175.0,90,18
+card,Volatile Power,,1.0,3950,18
+card,Vanity,,1.0,347,21
+card,Wealth And Power,,175.0,83,16
 card,Winter's Embrace,,9.0,46,19
 map,Bone Crypt Map,T1,0.75,494,13
 map,Dunes Map,T2,1.0,365,23
@@ -771,7 +771,8 @@ map,Bone Crypt Map,T4,1.0,77,16
 map,Moon Temple Map,T4,1.0,233,26
 map,Vaal Pyramid Map,T4,1.0,459,28
 map,Atoll Map,T5,2.0,279,24
-map,Dunes Map,T5,2.0,61,7
+map,Courtyard Map,T5,1.0,418,21
+map,Dunes Map,T5,2.0,144,10
 map,Mineral Pools Map,T5,1.0,39,7
 map,Stagnation Map,T5,2.0,19,7
 map,Alleyways Map,T16,2.0,263,29
@@ -780,13 +781,14 @@ map,Arachnid Tomb Map,T16,2.0,214,32
 map,Arcade Map,T16,2.0,155,29
 map,Atoll Map,T16,4.0,892,34
 map,Barrows Map,T16,2.0,269,26
-map,Beach Map,T16,2.0,2408,27
+map,Beach Map,T16,3.8333333333333335,2631,27
 map,Caldera Map,T16,2.0,387,33
 map,Bone Crypt Map,T16,2.0,327,35
-map,Castle Ruins Map,T16,2.0,183,24
+map,Castle Ruins Map,T16,4.0,161,31
 map,Cells Map,T16,2.0,380,32
 map,City Square Map,T16,3.0,3273,25
 map,Chateau Map,T16,3.0,308,28
+map,Cemetery Map,T16,3.0,2990,29
 map,Cold River Map,T16,2.0,764,32
 map,Colonnade Map,T16,3.0,402,32
 map,Colosseum Map,T16,2.0,420,31
@@ -796,25 +798,26 @@ map,Crimson Temple Map,T16,3.2857142857142856,11231,25
 map,Cursed Crypt Map,T16,3.0,354,32
 map,Dunes Map,T16,4.0,4947,16
 map,Excavation Map,T16,2.0,2544,21
+map,Dungeon Map,T16,2.5,456,24
 map,Flooded Mine Map,T16,2.0,375,32
 map,Factory Map,T16,3.0,585,30
 map,Frozen Cabins Map,T16,2.0,299,34
-map,Forge of the Phoenix Map,T16,10.0,877,27
 map,Fungal Hollow Map,T16,2.0,707,29
 map,Geode Map,T16,3.0,396,36
 map,Infested Valley Map,T16,3.0,1309,21
 map,Lair of the Hydra Map,T16,8.0,1185,25
 map,Leyline Map,T16,2.5,1531,27
+map,Malformation Map,T16,1.7142857142857142,1093,37
 map,Maze Map,T16,2.0,514,35
 map,Maze of the Minotaur Map,T16,10.0,1229,29
 map,Mineral Pools Map,T16,3.0,382,31
 map,Necropolis Map,T16,2.0,454,34
 map,Museum Map,T16,3.0,468,35
-map,Moon Temple Map,T16,2.0,126,29
+map,Moon Temple Map,T16,4.0,225,31
 map,Orchard Map,T16,1.0,456,28
 map,Overgrown Shrine Map,T16,2.0,1153,34
 map,Pit Map,T16,2.0,400,34
-map,Pier Map,T16,2.0,276,32
+map,Pier Map,T16,3.0,392,34
 map,Phantasmagoria Map,T16,2.0,791,22
 map,Pit of the Chimera Map,T16,8.0,1322,30
 map,Primordial Blocks Map,T16,5.0,152,21
@@ -825,7 +828,8 @@ map,Promenade Map,T16,3.0,621,31
 map,Racecourse Map,T16,3.0,271,33
 map,Residence Map,T16,2.0,935,37
 map,Shore Map,T16,4.5,253,28
-map,Silo Map,T16,2.0,838,22
+map,Silo Map,T16,2.0,745,19
+map,Stagnation Map,T16,2.5,404,32
 map,Siege Map,T16,2.0,599,29
 map,Terrace Map,T16,2.0,261,30
 map,Sulphur Vents Map,T16,2.0,1323,23
@@ -835,6 +839,8 @@ map,Temple Map,T16,2.0,1014,21
 map,Tower Map,T16,2.0,420,32
 map,Tropical Island Map,T16,4.5,887,32
 map,Underground Sea Map,T16,2.0,493,25
+map,Volcano Map,T16,3.0,287,33
+map,Wharf Map,T16,3.0,571,23
 map,Wasteland Map,T16,2.0,388,28
 map,Vaal Temple Map,T16,2.0,1050,28
 map,Vaal Pyramid Map,T16,3.0,1095,34
@@ -3744,26 +3750,30 @@ gem,Voltaxic Burst,corrupted 21/20,5.0,8,7
 gem,Mark On Hit Support,clean 20/0,1.0,55,53
 gem,Mark On Hit Support,corrupted 20/0,10.0,32,31
 gem,Mark On Hit Support,corrupted 21/0,10.0,26,25
-gem,Mark On Hit Support,clean 1/20,10.0,23,22
+gem,Mark On Hit Support,clean 1/20,15.0,74,63
 gem,Mark On Hit Support,clean 20/20,37.0,20,12
 gem,Mark On Hit Support,corrupted 20/20,32.0,12,11
-gem,Mark On Hit Support,corrupted 21/20,200.0,25,25
-gem,Divine Blessing Support,clean 20/0,5.0,40,34
+gem,Mark On Hit Support,corrupted 21/20,220.0,26,26
+gem,Divine Blessing Support,clean 20/0,2.0,55,53
 gem,Divine Blessing Support,corrupted 20/0,10.0,82,47
 gem,Divine Blessing Support,corrupted 21/0,10.0,24,23
-gem,Divine Blessing Support,clean 1/20,10.0,39,33
+gem,Divine Blessing Support,clean 1/20,12.0,58,56
 gem,Divine Blessing Support,clean 20/20,25.0,24,22
 gem,Divine Blessing Support,corrupted 20/20,29.0,49,23
-gem,Divine Blessing Support,corrupted 21/20,230.0,21,20
-gem,Eternal Blessing Support,clean 20/0,5.0,18,17
+gem,Divine Blessing Support,corrupted 21/20,200.0,27,26
+gem,Eternal Blessing Support,clean 20/0,20.0,29,28
 gem,Eternal Blessing Support,corrupted 20/0,10.0,29,25
-gem,Eternal Blessing Support,corrupted 21/0,3.0,21,17
+gem,Eternal Blessing Support,corrupted 21/0,3.0,24,23
 gem,Eternal Blessing Support,clean 1/20,10.0,13,12
-gem,Eternal Blessing Support,clean 20/20,40.0,8,7
-gem,Eternal Blessing Support,corrupted 20/20,38.0,6,6
-gem,Eternal Blessing Support,corrupted 21/20,75.0,10,9
+gem,Eternal Blessing Support,clean 20/20,40.0,18,17
+gem,Eternal Blessing Support,corrupted 20/20,39.0,14,12
+gem,Eternal Blessing Support,corrupted 21/20,65.0,15,14
+gem,Anomalous Added Chaos Damage Support,clean 20/0,40.0,1,1
 gem,Anomalous Added Chaos Damage Support,corrupted 20/0,100.0,1,1
-gem,Anomalous Added Chaos Damage Support,corrupted 20/20,100.0,1,1
+gem,Anomalous Added Chaos Damage Support,clean 1/20,40.0,2,2
+gem,Anomalous Added Chaos Damage Support,corrupted 20/20,30.0,1,1
+gem,Anomalous Added Cold Damage Support,corrupted 20/0,30.0,2,2
+gem,Anomalous Added Cold Damage Support,corrupted 20/20,30.0,2,2
 gem,Anomalous Added Fire Damage Support,clean 1/20,20.0,1,1
 gem,Anomalous Added Lightning Damage Support,clean 20/0,55.0,1,1
 gem,Anomalous Added Lightning Damage Support,corrupted 20/0,80.0,1,1
@@ -8244,7 +8254,7 @@ beast,Craicic Maw,,10.0,22,5
 beast,Craicic Vassal,,15.0,16,4
 beast,Farric Frost Hellion Alpha,,47.0,23,10
 beast,Farric Lynx Alpha,,5.0,80,9
-beast,Farric Wolf Alpha,,13.0,85,13
+beast,Farric Wolf Alpha,,9.0,100,16
 beast,Fenumal Plagued Arachnid,,14.0,49,20
 beast,Farric Tiger Alpha,,200.0,4,3
 beast,Saqawine Rhex,,10.0,6,3
