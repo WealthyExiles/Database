@@ -901,23 +901,19 @@ map,Blighted Wharf Map,T16,15.0,2,2
 map,Blight Ravaged Alleyways Map,T16,110.0,1,1
 map,Blight Ravaged Arcade Map,T16,100.0,1,1
 map,Blight Ravaged Atoll Map,T16,239.0,1,1
-map,Blight Ravaged Beach Map,T16,80.0,2,2
-map,Blight Ravaged Caldera Map,T16,80.0,2,2
-map,Blight Ravaged Bone Crypt Map,T16,239.0,1,1
-map,Blight Ravaged Castle Ruins Map,T16,60.0,3,2
-map,Blight Ravaged Cemetery Map,T16,95.0,5,4
-map,Blight Ravaged Cells Map,T16,239.0,1,1
-map,Blight Ravaged City Square Map,T16,90.0,4,3
-map,Blight Ravaged Colonnade Map,T16,99.0,3,2
-map,Blight Ravaged Coves Map,T16,54.0,6,3
-map,Blight Ravaged Courtyard Map,T16,200.0,1,1
-map,Blight Ravaged Crimson Temple Map,T16,99.0,20,10
-map,Blight Ravaged Dunes Map,T16,239.0,2,1
-map,Blight Ravaged Dungeon Map,T16,100.0,1,1
-map,Blight Ravaged Geode Map,T16,90.0,3,2
-map,Blight Ravaged Infested Valley Map,T16,50.0,15,8
-map,Blight Ravaged Leyline Map,T16,60.0,4,4
-map,Blight Ravaged Malformation Map,T16,200.0,1,1
+map,Blight Ravaged Beach Map,T16,60.0,2,2
+map,Blight Ravaged Caldera Map,T16,40.0,2,2
+map,Blight Ravaged Cemetery Map,T16,60.0,6,4
+map,Blight Ravaged Cells Map,T16,100.0,2,1
+map,Blight Ravaged Chateau Map,T16,80.0,1,1
+map,Blight Ravaged City Square Map,T16,50.0,11,4
+map,Blight Ravaged Colonnade Map,T16,60.0,2,2
+map,Blight Ravaged Coves Map,T16,50.0,4,3
+map,Blight Ravaged Courtyard Map,T16,150.0,1,1
+map,Blight Ravaged Crimson Temple Map,T16,98.0,24,10
+map,Blight Ravaged Cursed Crypt Map,T16,150.0,1,1
+map,Blight Ravaged Dungeon Map,T16,100.0,3,3
+map,Blight Ravaged Geode Map,T16,45.0,2,2
 map,Blight Ravaged Museum Map,T16,80.0,5,3
 map,Blight Ravaged Moon Temple Map,T16,140.0,1,1
 map,Blight Ravaged Necropolis Map,T16,80.0,4,2
@@ -1350,39 +1346,38 @@ gem,Cast on Melee Kill Support,clean 1/20,3.0,4,4
 gem,Cast on Melee Kill Support,clean 20/20,3.0,2,2
 gem,Cast on Melee Kill Support,corrupted 21/20,3.0,4,4
 gem,Cast when Damage Taken Support,clean 20/0,20.0,59,18
-gem,Cast when Damage Taken Support,corrupted 20/0,20.0,60,52
+gem,Cast when Damage Taken Support,corrupted 20/0,25.0,57,40
 gem,Cast when Damage Taken Support,corrupted 21/0,75.0,42,37
-gem,Cast when Damage Taken Support,clean 1/20,25.0,63,34
-gem,Cast when Damage Taken Support,clean 20/20,40.0,45,31
+gem,Cast when Damage Taken Support,clean 1/20,25.0,51,23
+gem,Cast when Damage Taken Support,clean 20/20,200.0,38,12
 gem,Cast when Damage Taken Support,corrupted 20/20,35.0,46,31
-gem,Cast when Damage Taken Support,corrupted 21/20,119.0,21,18
+gem,Cast when Damage Taken Support,corrupted 21/20,115.0,22,21
 gem,Cast when Stunned Support,clean 20/0,6.0,7,7
-gem,Cast when Stunned Support,corrupted 20/0,40.0,6,6
-gem,Cast when Stunned Support,corrupted 21/0,11.0,8,8
-gem,Cast when Stunned Support,clean 1/20,5.0,13,13
-gem,Cast when Stunned Support,clean 20/20,40.0,33,6
-gem,Cast when Stunned Support,corrupted 20/20,40.0,2,2
-gem,Cast when Stunned Support,corrupted 21/20,80.0,5,5
+gem,Cast when Stunned Support,corrupted 20/0,80.0,4,3
+gem,Cast when Stunned Support,corrupted 21/0,8.0,7,7
+gem,Cast when Stunned Support,clean 1/20,50.0,9,8
+gem,Cast when Stunned Support,clean 20/20,50.0,5,4
+gem,Cast when Stunned Support,corrupted 20/20,100.0,1,1
+gem,Cast when Stunned Support,corrupted 21/20,95.0,3,3
 gem,Cast while Channelling Support,clean 20/0,4.0,14,14
 gem,Cast while Channelling Support,corrupted 20/0,9.0,10,10
 gem,Cast while Channelling Support,corrupted 21/0,3.0,10,10
-gem,Cast while Channelling Support,clean 1/20,5.0,12,12
-gem,Cast while Channelling Support,clean 20/20,10.0,8,8
+gem,Cast while Channelling Support,clean 1/20,10.0,5,5
+gem,Cast while Channelling Support,clean 20/20,10.0,3,3
 gem,Cast while Channelling Support,corrupted 20/20,9.0,8,8
-gem,Cast while Channelling Support,corrupted 21/20,10.0,8,8
-gem,Caustic Arrow,clean 20/0,5.0,26,14
-gem,Caustic Arrow,corrupted 20/0,5.0,11,10
-gem,Caustic Arrow,corrupted 21/0,5.0,39,37
-gem,Caustic Arrow,clean 1/20,4.0,32,21
-gem,Caustic Arrow,clean 20/20,49.0,21,10
-gem,Caustic Arrow,corrupted 20/20,5.0,6,5
+gem,Cast while Channelling Support,corrupted 21/20,40.0,5,5
+gem,Caustic Arrow,clean 20/0,10.0,6,6
+gem,Caustic Arrow,corrupted 20/0,10.0,10,10
+gem,Caustic Arrow,corrupted 21/0,8.0,9,9
+gem,Caustic Arrow,clean 1/20,4.0,13,13
+gem,Caustic Arrow,clean 20/20,48.0,4,4
+gem,Caustic Arrow,corrupted 20/20,10.0,4,4
 gem,Caustic Arrow,corrupted 21/20,20.0,17,17
-gem,Chain Hook,clean 20/0,3.0,6,6
-gem,Chain Hook,corrupted 20/0,3.0,4,4
-gem,Chain Hook,corrupted 21/0,2.0,15,13
-gem,Chain Hook,clean 1/20,1.0,11,11
-gem,Chain Hook,clean 20/20,3.0,7,7
-gem,Chain Hook,corrupted 20/20,100.0,2,2
+gem,Chain Hook,clean 20/0,4.0,3,3
+gem,Chain Hook,corrupted 20/0,40.0,3,2
+gem,Chain Hook,corrupted 21/0,4.0,7,7
+gem,Chain Hook,clean 1/20,2.0,8,8
+gem,Chain Hook,clean 20/20,4.0,2,2
 gem,Chain Hook,corrupted 21/20,2.0,5,4
 gem,Chain Support,clean 20/0,8.0,8,8
 gem,Chain Support,corrupted 20/0,15.0,10,10
@@ -8076,18 +8071,18 @@ gem,Awakened Enhance Support,clean 4/20,10755.0,3,2
 gem,Awakened Enhance Support,corrupted 3/20,1434.0,1,1
 gem,Awakened Enhance Support,corrupted 4/20,2868.0,1,1
 gem,Awakened Enhance Support,corrupted 5/20,40630.0,3,3
-compass,Area contains a Smuggler's Cache,4,4.877551020408163,83,12
-compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,4,3.0,37,11
+compass,Area contains a Smuggler's Cache,4,7.0,100,6
+compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,4,4.877551020408163,10,7
 compass,Unique Monsters drop Corrupted Items,4,3.0,42,11
 compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,10.0,24,12
-compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,24.0,37,18
+compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,24.387755102040813,41,19
 compass,Maps found in your Maps are Corrupted with 8 Modifiers,4,146.32653061224488,67,28
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,19.51020408163265,100,38
 compass,Create a copy of Beasts Captured in your Maps,4,20.0,35,15
-compass,25% increased Magic Pack Size,4,7.316326530612244,100,18
+compass,25% increased Magic Pack Size,4,4.877551020408163,100,8
 compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,3.0,48,8
 compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain an additional Essence,4,4.877551020408163,100,15
-compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,4,7.0,99,21
+compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,4,7.0,100,14
 compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,2.0,69,10
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,7.316326530612244,63,32
 compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,4.877551020408163,13,8
@@ -8166,46 +8161,46 @@ compass,The First 3 Possessed Monsters drop an additional Winged Scarab:Your Map
 compass,Players and Monsters take 14% increased Cold Damage:Your Maps contain 8 additional packs of Monsters that deal Cold Damage,16,15.0,74,3
 compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,16,10.0,4,1
 compass,Your Maps contain 2 additional Abysses:Your Maps can contain Abysses,16,50.0,16,8
-compass,30% increased Magic Pack Size,16,180.0,33,8
+compass,30% increased Magic Pack Size,16,180.0,24,11
 compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain 8 additional packs of Corrupted Vaal Monsters,16,30.0,2,2
-compass,Your Maps contain 35 additional Clusters of Mysterious Barrels,16,10.0,2,1
+compass,Your Maps contain 35 additional Clusters of Mysterious Barrels,16,10.0,15,3
 compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 5 additional Packs with Mirrored Rare Monsters,16,20.0,33,3
 compass,Final Map Boss in each Map drops an additional Shaper Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,70.0,8,7
-compass,Your Maps contain hunted traitors,16,30.0,29,11
+compass,Your Maps contain hunted traitors,16,30.0,13,6
 compass,Breaches in your Maps belong to Chayula:Breaches in your Maps contain 3 additional Clasped Hands,16,239.0,2,2
 compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 8 additional packs of Corrupted Vaal Monsters,16,10.0,17,1
 compass,Oils found in your Maps are 1 tier higher:Cost of Building and Upgrading Blight Towers in your Maps is doubled,16,135.0,4,3
 compass,Players and Monsters take 14% increased Lightning Damage:Your Maps contain 8 additional packs of Monsters that deal Lightning Damage,16,18.0,31,2
-compass,Your Maps contain Jun,16,50.0,18,6
+compass,Your Maps contain Jun,16,50.0,22,7
 compass,Players and Monsters take 14% increased Physical Damage:Your Maps contain 8 additional packs of Monsters that deal Physical Damage,16,10.0,2,2
 compass,Catalysts dropped by Metamorphs in your Maps are Duplicated:Metamorphs in your Maps have 100% more Life,16,36.0,7,6
-compass,Players and Monsters take 14% increased Fire Damage:Your Maps contain 8 additional packs of Monsters that deal Fire Damage,16,15.0,62,3
+compass,Players and Monsters take 14% increased Fire Damage:Your Maps contain 8 additional packs of Monsters that deal Fire Damage,16,14.632653061224488,59,5
 compass,Your Maps contain The Sacred Grove,16,478.0,2,2
 compass,Your Maps can contain Breaches:Your Maps contain 2 additional Breaches,16,150.0,18,6
 compass,Your Maps contain Einhar,16,10.0,15,5
-compass,Map Bosses are accompanied by Bodyguards:2 additional Maps drop on Completing your Maps,16,35.0,5,3
+compass,Map Bosses are accompanied by Bodyguards:2 additional Maps drop on Completing your Maps,16,60.0,7,3
 compass,Your Maps contain 8 additional packs of Monsters that Convert when Killed,16,8.0,100,2
-compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,382.40000000000003,9,8
+compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,478.0,13,6
 compass,Your Maps contain a Mirror of Delirium,16,286.8,9,6
 compass,100% increased Intelligence gained from Immortal Syndicate targets encountered in your Maps,16,100.0,4,3
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Purple Plants,16,1529.6000000000001,8,5
 compass,Your Maps contain Alva,16,63.0,14,9
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Blue Plants,16,1673.0,2,2
-compass,Your Maps contain Niko,16,25.0,6,3
+compass,Your Maps contain Niko,16,60.0,4,2
 compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,16,85.0,3,3
 compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain 2 additional Essences,16,84.0,53,9
 compass,Your Maps contain an additional Legion Encounter,16,50.0,10,5
 compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,16,15.0,38,3
-compass,Your Maps contain an additional Shrine:Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,16,25.0,6,5
+compass,Your Maps contain an additional Shrine:Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,16,25.0,9,3
 compass,Your Maps contain a Blight Encounter,16,4.877551020408163,20,6
 compass,Your Maps contain an additional Shrine:Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,16,40.0,1,1
 compass,Your Maps contain 8 additional packs of Corrupted Vaal Monsters:Your Maps have a 50% chance to contain Gifts of the Sacrificed per Sacrifice Fragment used:Your Maps have a 50% chance to contain Gifts of the Red Queen per Mortal Fragment used,16,10.0,10,2
 compass,Your Maps contain 100% increased number of Runic Monster Markers,16,90.0,6,6
 compass,Delirium Reward Bars fill 100% faster in your Maps,16,597.5,6,4
-compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,16,2629.0,2,2
-compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,16,15.0,2,2
+compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,16,1912.0,3,2
+compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,16,8.0,15,4
 compass,Area contains Metamorph Monsters,16,14.632653061224488,24,4
-compass,25% increased Pack Size in your Unidentified Maps,16,40.0,26,7
+compass,25% increased Pack Size in your Unidentified Maps,16,90.0,15,4
 compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,97.55102040816325,3,3
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,239.0,29,6
 contract,Lockpicking Contract,ilvl 83+,1.0,86,22
@@ -8261,9 +8256,9 @@ logbook,Black Scythe Mercenaries Logbook,ilvl 83+,10.0,84,41
 logbook,Order of the Chalice Logbook,ilvl 83+,9.0,57,36
 logbook,Knights of the Sun Logbook,ilvl 83+,30.0,26,19
 beast,Craicic Chimeral,,406.3,100,19
-beast,Craicic Maw,,5.0,13,5
-beast,Craicic Vassal,,10.0,4,3
-beast,Farric Frost Hellion Alpha,,50.0,6,6
+beast,Craicic Maw,,5.0,11,4
+beast,Craicic Vassal,,10.0,2,2
+beast,Farric Frost Hellion Alpha,,55.0,3,3
 beast,Farric Lynx Alpha,,5.0,74,11
 beast,Farric Wolf Alpha,,12.0,100,1
 beast,Fenumal Plagued Arachnid,,10.0,82,19
@@ -8489,19 +8484,20 @@ unique,Ambu's Charge,corrupted,10.0,23,23
 unique,Replica Ambu's Charge,clean,50.0,3,3
 unique,Replica Ambu's Charge,corrupted,20.0,1,1
 unique,Lightbane Raiment,clean,1.0,45,43
-unique,Lightbane Raiment,clean 6-link,120.0,1,1
-unique,Lightbane Raiment,corrupted,10.0,14,14
+unique,Lightbane Raiment,clean 6-link,100.0,3,3
+unique,Lightbane Raiment,corrupted,10.0,21,21
+unique,Lightbane Raiment,corrupted 6-link,50.0,1,1
 unique,The Fourth Vow,clean,5.0,99,97
-unique,The Fourth Vow,clean 6-link,478.0,13,13
+unique,The Fourth Vow,clean 6-link,478.0,16,16
 unique,The Fourth Vow,corrupted,20.0,74,73
-unique,The Fourth Vow,corrupted 6-link,239.0,23,21
-unique,Kingsguard,clean,1.0,28,27
-unique,Kingsguard,clean 6-link,70.0,2,2
+unique,The Fourth Vow,corrupted 6-link,478.0,17,17
+unique,Kingsguard,clean,1.0,34,33
 unique,Kingsguard,corrupted,5.0,46,40
-unique,Kingsguard,corrupted 6-link,50.0,1,1
+unique,Kingsguard,corrupted 6-link,140.0,1,1
 unique,Geofri's Sanctuary,clean,1.0,43,43
+unique,Geofri's Sanctuary,clean 6-link,358.5,2,2
 unique,Geofri's Sanctuary,corrupted,10.0,39,34
-unique,Geofri's Sanctuary,corrupted 6-link,239.0,6,6
+unique,Geofri's Sanctuary,corrupted 6-link,478.0,8,8
 unique,Loreweave,clean,9.0,100,94
 unique,Loreweave,clean 6-link,239.0,24,22
 unique,Loreweave,corrupted,50.0,69,60
