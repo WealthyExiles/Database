@@ -808,6 +808,7 @@ map,Dungeon Map,T16,3.0,380,30
 map,Flooded Mine Map,T16,3.0,282,32
 map,Factory Map,T16,2.6666666666666665,409,25
 map,Frozen Cabins Map,T16,3.0,131,23
+map,Forge of the Phoenix Map,T16,10.0,877,27
 map,Fungal Hollow Map,T16,3.0,478,33
 map,Geode Map,T16,3.0,383,32
 map,Infested Valley Map,T16,3.0,1140,28
@@ -819,9 +820,11 @@ map,Maze of the Minotaur Map,T16,10.0,954,31
 map,Mineral Pools Map,T16,3.0,209,27
 map,Necropolis Map,T16,3.0,444,36
 map,Museum Map,T16,3.0,340,30
+map,Moon Temple Map,T16,2.0,126,29
 map,Orchard Map,T16,3.0,312,29
 map,Overgrown Shrine Map,T16,3.0,675,32
 map,Pit Map,T16,3.0,316,28
+map,Pier Map,T16,2.0,276,32
 map,Phantasmagoria Map,T16,3.0,560,36
 map,Pit of the Chimera Map,T16,8.0,965,29
 map,Plateau Map,T16,3.0,758,30
@@ -833,6 +836,7 @@ map,Promenade Map,T16,3.0,383,31
 map,Racecourse Map,T16,3.0,329,36
 map,Residence Map,T16,3.0,918,27
 map,Shore Map,T16,4.5,186,22
+map,Silo Map,T16,2.0,838,22
 map,Stagnation Map,T16,3.0,274,24
 map,Siege Map,T16,2.0,471,35
 map,Terrace Map,T16,3.0,237,29
@@ -855,24 +859,30 @@ map,Blighted Bone Crypt Map,T4,10.0,2,1
 map,Blighted Arachnid Nest Map,T16,20.0,3,3
 map,Blighted Barrows Map,T16,33.0,1,1
 map,Blighted Beach Map,T16,90.0,1,1
+map,Blighted Atoll Map,T16,20.0,1,1
 map,Blighted Caldera Map,T16,20.0,3,2
 map,Blighted Bone Crypt Map,T16,25.0,1,1
+map,Blighted Castle Ruins Map,T16,20.0,3,2
 map,Blighted Cemetery Map,T16,49.0,5,3
 map,Blighted Colonnade Map,T16,5975.0,1,1
 map,Blighted City Square Map,T16,10.0,10,6
 map,Blighted Courtyard Map,T16,25.0,2,2
 map,Blighted Coves Map,T16,30.0,3,1
+map,Blighted Dunes Map,T16,18.0,58,4
 map,Blighted Dungeon Map,T16,20.0,7,4
 map,Blighted Flooded Mine Map,T16,20.0,3,2
 map,Blighted Infested Valley Map,T16,25.0,1,1
+map,Blighted Leyline Map,T16,10.0,4,3
 map,Blighted Malformation Map,T16,30.0,3,2
 map,Blighted Mineral Pools Map,T16,20.0,4,1
+map,Blighted Museum Map,T16,20.0,3,3
 map,Blighted Necropolis Map,T16,20.0,61,3
 map,Blighted Orchard Map,T16,20.0,5,2
 map,Blighted Pit Map,T16,20.0,2,1
 map,Blighted Port Map,T16,20.0,2,2
 map,Blighted Precinct Map,T16,956.0,1,1
 map,Blighted Primordial Blocks Map,T16,20.0,2,2
+map,Blighted Volcano Map,T16,20.0,2,1
 map,Blighted Underground River Map,T16,100.0,4,1
 map,Blighted Stagnation Map,T16,25.0,2,1
 map,Blighted Sulphur Vents Map,T16,30.0,1,1
@@ -880,6 +890,7 @@ map,Blighted Thicket Map,T16,20.0,2,2
 map,Blighted Siege Map,T16,15.0,2,2
 map,Blighted Shore Map,T16,956.0,1,1
 map,Blighted Racecourse Map,T16,17.0,6,4
+map,Blighted Silo Map,T16,35.0,2,2
 map,Blighted Strand Map,T16,20.0,4,2
 map,Blighted Temple Map,T16,15.0,1,1
 map,Blighted Tower Map,T16,20.0,6,3
@@ -2936,29 +2947,28 @@ gem,Shattering Steel,corrupted 20/20,2.0,7,5
 gem,Shattering Steel,corrupted 21/20,5.0,5,5
 gem,Shield Charge,clean 20/0,5.0,25,23
 gem,Shield Charge,corrupted 20/0,12.0,14,14
-gem,Shield Charge,corrupted 21/0,10.0,7,7
-gem,Shield Charge,clean 1/20,10.0,14,12
-gem,Shield Charge,clean 20/20,40.0,3,3
-gem,Shield Charge,corrupted 20/20,40.0,7,7
+gem,Shield Charge,corrupted 21/0,8.0,14,14
+gem,Shield Charge,clean 1/20,3.0,25,23
+gem,Shield Charge,clean 20/20,40.0,11,11
+gem,Shield Charge,corrupted 20/20,40.0,5,5
 gem,Shield Charge,corrupted 21/20,50.0,4,4
-gem,Shock Nova,clean 20/0,2.0,5,5
-gem,Shock Nova,corrupted 20/0,5.0,9,7
-gem,Shock Nova,corrupted 21/0,1.0,12,11
+gem,Shock Nova,clean 20/0,9.0,5,5
+gem,Shock Nova,corrupted 20/0,4.0,14,12
+gem,Shock Nova,corrupted 21/0,3.0,13,11
 gem,Shock Nova,clean 1/20,3.0,10,9
-gem,Shock Nova,clean 20/20,5.0,4,4
+gem,Shock Nova,clean 20/20,9.0,4,4
 gem,Shock Nova,corrupted 20/20,40.0,4,3
-gem,Shock Nova,corrupted 21/20,10.0,4,4
-gem,Shockwave Support,clean 20/0,3.0,5,5
+gem,Shock Nova,corrupted 21/20,6.0,8,7
+gem,Shockwave Support,clean 20/0,10.0,3,3
 gem,Shockwave Support,corrupted 20/0,8.0,5,5
-gem,Shockwave Support,corrupted 21/0,10.0,10,10
-gem,Shockwave Support,clean 1/20,2.0,6,5
+gem,Shockwave Support,corrupted 21/0,4.0,10,10
+gem,Shockwave Support,clean 1/20,5.0,11,11
 gem,Shockwave Support,clean 20/20,10.0,2,2
-gem,Shockwave Support,corrupted 20/20,15.0,1,1
-gem,Shockwave Support,corrupted 21/20,19.0,6,6
+gem,Shockwave Support,corrupted 21/20,40.0,5,5
 gem,Shockwave Totem,clean 20/0,20.0,21,18
 gem,Shockwave Totem,corrupted 20/0,5.0,29,20
-gem,Shockwave Totem,corrupted 21/0,10.0,19,19
-gem,Shockwave Totem,clean 1/20,5.0,36,22
+gem,Shockwave Totem,corrupted 21/0,15.0,36,33
+gem,Shockwave Totem,clean 1/20,4.0,38,28
 gem,Shockwave Totem,clean 20/20,30.0,16,13
 gem,Shockwave Totem,corrupted 20/20,5.0,14,11
 gem,Shockwave Totem,corrupted 21/20,35.0,12,12
@@ -8230,15 +8240,15 @@ logbook,Knights of the Sun Logbook,ilvl 83+,45.0,15,11
 beast,Craicic Chimeral,,406.3,100,26
 beast,Craicic Maw,,5.0,24,4
 beast,Craicic Vassal,,15.0,1,1
-beast,Farric Frost Hellion Alpha,,50.0,9,6
+beast,Farric Frost Hellion Alpha,,49.0,8,6
 beast,Farric Lynx Alpha,,5.0,100,8
-beast,Farric Wolf Alpha,,12.0,100,7
+beast,Farric Wolf Alpha,,12.0,89,13
 beast,Fenumal Plagued Arachnid,,15.0,55,19
-beast,Craicic Spider Crab,,8.0,9,3
+beast,Craicic Spider Crab,,8.0,9,4
 beast,Farric Tiger Alpha,,100.0,8,3
 beast,Fenumal Hybrid Arachnid,,60.0,1,1
 beast,Saqawine Rhex,,18.0,6,1
-beast,Primal Cystcaller,,20.0,1,1
+beast,Primal Cystcaller,,5.0,3,2
 beast,Primal Rhex Matriarch,,30.0,11,4
 beast,Vivid Abberarach,,5.0,60,2
 beast,Vivid Vulture,,884.3000000000001,100,15
