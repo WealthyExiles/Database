@@ -803,19 +803,18 @@ map,Vaal Pyramid Map,T16,3.2,1156,40
 map,Underground River Map,T16,2.0,532,25
 map,Blighted Bone Crypt Map,T1,8.0,4,4
 map,Blighted Overgrown Shrine Map,T3,10.0,1,1
-map,Blighted Cemetery Map,T4,10.0,3,1
-map,Blighted Moon Temple Map,T4,30.0,1,1
-map,Blighted Beach Map,T16,25.0,2,2
-map,Blighted Atoll Map,T16,20.0,4,1
-map,Blighted Caldera Map,T16,20.0,2,1
-map,Blighted Bone Crypt Map,T16,25.0,2,2
-map,Blighted Castle Ruins Map,T16,35.0,1,1
-map,Blighted Cemetery Map,T16,15.0,2,2
-map,Blighted Cells Map,T16,15.0,1,1
-map,Blighted Chateau Map,T16,15.0,1,1
-map,Blighted Colonnade Map,T16,20.0,8,5
-map,Blighted City Square Map,T16,20.0,5,4
+map,Blighted Strand Map,T3,10.0,1,1
+map,Blighted Arachnid Nest Map,T16,30.0,1,1
+map,Blighted Arcade Map,T16,20.0,2,1
+map,Blighted Barrows Map,T16,20.0,1,1
+map,Blighted Caldera Map,T16,19.0,6,3
+map,Blighted Castle Ruins Map,T16,20.0,1,1
+map,Blighted Cemetery Map,T16,15.0,9,6
+map,Blighted Cells Map,T16,20.0,3,2
+map,Blighted Colonnade Map,T16,30.0,3,2
+map,Blighted City Square Map,T16,20.0,6,5
 map,Blighted Cold River Map,T16,16.0,1,1
+map,Blighted Coves Map,T16,20.0,7,4
 map,Blighted Crimson Temple Map,T16,20.0,34,10
 map,Blighted Dunes Map,T16,20.0,56,3
 map,Blighted Dungeon Map,T16,19.0,4,3
@@ -7264,21 +7263,23 @@ gem,Lightning Conduit,clean 1/20,3.0,11,11
 gem,Lightning Conduit,clean 20/20,6.0,9,9
 gem,Lightning Conduit,corrupted 20/20,45.0,3,3
 gem,Lightning Conduit,corrupted 21/20,25.0,3,3
-gem,Divergent Lightning Conduit,clean 20/0,70.0,2,2
-gem,Divergent Lightning Conduit,clean 1/20,70.0,1,1
-gem,Divergent Lightning Conduit,clean 20/20,70.0,1,1
-gem,Divergent Lightning Conduit,corrupted 20/20,100.0,1,1
+gem,Anomalous Lightning Conduit,corrupted 20/20,45.0,1,1
+gem,Divergent Lightning Conduit,clean 20/0,59.0,2,2
+gem,Divergent Lightning Conduit,corrupted 20/0,80.0,2,2
+gem,Divergent Lightning Conduit,clean 1/20,59.0,2,2
+gem,Divergent Lightning Conduit,clean 20/20,59.0,2,2
+gem,Divergent Lightning Conduit,corrupted 20/20,80.0,2,2
 gem,Overcharge Support,clean 20/0,8.0,10,9
-gem,Overcharge Support,corrupted 20/0,10.0,14,14
+gem,Overcharge Support,corrupted 20/0,20.0,12,12
 gem,Overcharge Support,corrupted 21/0,20.0,22,21
 gem,Overcharge Support,clean 1/20,10.0,16,15
 gem,Overcharge Support,clean 20/20,29.0,7,7
-gem,Overcharge Support,corrupted 21/20,25.0,6,6
-gem,Anomalous Overcharge Support,clean 20/0,79.0,3,3
-gem,Anomalous Overcharge Support,corrupted 20/0,70.0,2,2
-gem,Anomalous Overcharge Support,corrupted 21/0,130.0,1,1
+gem,Overcharge Support,corrupted 20/20,20.0,7,7
+gem,Overcharge Support,corrupted 21/20,25.0,12,12
+gem,Anomalous Overcharge Support,clean 20/0,100.0,6,4
+gem,Anomalous Overcharge Support,corrupted 20/0,40.0,4,4
 gem,Anomalous Overcharge Support,clean 1/20,40.0,11,10
-gem,Anomalous Overcharge Support,clean 20/20,89.0,2,2
+gem,Anomalous Overcharge Support,clean 20/20,100.0,6,4
 gem,Anomalous Overcharge Support,corrupted 21/20,130.0,10,9
 gem,Divergent Overcharge Support,clean 20/0,170.0,1,1
 gem,Alchemist's Mark,clean 20/0,5.0,7,7
@@ -7984,9 +7985,10 @@ vial,Vial of Awakening,,25.0,14,5
 vial,Vial of Consequence,,40.0,24,8
 vial,Vial of Dominance,,10.0,33,6
 vial,Vial of Fate,,2.0,13,9
-vial,Vial of Summoning,,60.0,2,2
-vial,Vial of the Ritual,,1.0,10,5
-vial,Vial of Transcendence,,60.0,22,15
+vial,Vial of Summoning,,55.0,179,7
+vial,Vial of the Ritual,,1.0,20,6
+vial,Vial of Transcendence,,65.0,28,19
+vial,Vial of Sacrifice,,60.0,1,1
 logbook,Bruids of the Broken Circle Logbook,ilvl 83+,9.0,85,57
 logbook,Black Scythe Mercenaries Logbook,ilvl 83+,29.0,44,34
 logbook,Order of the Chalice Logbook,ilvl 83+,10.0,40,28
@@ -7995,17 +7997,17 @@ beast,Craicic Chimeral,,408.0,100,25
 beast,Craicic Maw,,5.0,2,2
 beast,Craicic Vassal,,15.0,9,2
 beast,Farric Frost Hellion Alpha,,100.0,1,1
-beast,Farric Lynx Alpha,,5.0,64,13
+beast,Farric Lynx Alpha,,2.0,71,10
 beast,Farric Wolf Alpha,,12.0,100,11
 beast,Fenumal Plagued Arachnid,,15.0,100,13
 beast,Craicic Spider Crab,,200.0,2,2
 beast,Primal Crushclaw,,240.0,2,1
 beast,Primal Cystcaller,,20.0,22,3
-beast,Primal Rhex Matriarch,,50.0,11,2
-beast,Vivid Abberarach,,10.0,74,2
+beast,Primal Rhex Matriarch,,30.0,13,4
+beast,Vivid Abberarach,,240.0,1,1
 beast,Vivid Vulture,,912.0,100,5
 beast,Vivid Watcher,,150.0,100,7
-beast,Wild Brambleback,,40.0,100,6
+beast,Wild Brambleback,,38.0,100,7
 beast,Wild Bristle Matron,,240.0,100,9
 beast,Wild Hellion Alpha,,360.0,100,9
 beast,Craiceann First of the Deep,,45.0,12,6
