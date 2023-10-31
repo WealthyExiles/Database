@@ -3930,19 +3930,18 @@ map,Blighted Bone Crypt Map,T1,5.0,1,3
 map,Blighted Strand Map,T3,5.0,1,1
 map,Blighted Moon Temple Map,T4,14.0,1,1
 map,Blighted Arcade Map,T16,20.0,1,1
-map,Blighted Atoll Map,T16,20.0,1,2
-map,Blighted Caldera Map,T16,19.0,1,6
-map,Blighted Bone Crypt Map,T16,35.0,1,1
-map,Blighted Chateau Map,T16,2151.0,1,1
-map,Blighted Colonnade Map,T16,20.0,1,5
-map,Blighted City Square Map,T16,20.0,1,8
-map,Blighted Courtyard Map,T16,35.0,1,1
-map,Blighted Coves Map,T16,18.0,1,4
-map,Blighted Dunes Map,T16,15.0,1,8
-map,Blighted Dunes Map,T16,25.0,9,1
-map,Blighted Dunes Map,T16,25.0,18,1
-map,Blighted Dunes Map,T16,25.0,30,1
+map,Blighted Atoll Map,T16,20.0,1,1
+map,Blighted Bone Crypt Map,T16,20.0,1,2
+map,Blighted Cemetery Map,T16,19.0,1,4
+map,Blighted Cells Map,T16,20.0,1,1
+map,Blighted Chateau Map,T16,20.0,1,1
+map,Blighted Colonnade Map,T16,20.0,1,4
+map,Blighted Cold River Map,T16,20.0,1,1
+map,Blighted Coves Map,T16,20.0,1,1
+map,Blighted Dunes Map,T16,25.0,1,4
+map,Blighted Dungeon Map,T16,20.0,1,2
 map,Blighted Flooded Mine Map,T16,35.0,1,1
+map,Blighted Infested Valley Map,T16,22.0,1,4
 map,Blighted Leyline Map,T16,20.0,1,2
 map,Blighted Moon Temple Map,T16,35.0,1,1
 map,Blighted Mineral Pools Map,T16,35.0,1,1
@@ -5054,24 +5053,25 @@ gem,Flameblast,corrupted 21/20,3.0,1,6
 gem,Flamethrower Trap,clean 20/0,2.0,1,7
 gem,Flamethrower Trap,corrupted 20/0,10.0,1,2
 gem,Flamethrower Trap,corrupted 21/0,10.0,1,3
-gem,Flamethrower Trap,clean 1/20,2.0,1,10
-gem,Flamethrower Trap,clean 20/20,3.0,1,2
-gem,Flamethrower Trap,corrupted 21/20,10.0,1,1
-gem,Flammability,clean 20/0,3.0,1,15
+gem,Flamethrower Trap,clean 1/20,2.0,1,6
+gem,Flamethrower Trap,clean 20/20,5.0,1,3
+gem,Flamethrower Trap,corrupted 20/20,4.0,1,2
+gem,Flamethrower Trap,corrupted 21/20,15.0,1,3
+gem,Flammability,clean 20/0,3.0,1,16
 gem,Flammability,corrupted 20/0,5.0,1,15
 gem,Flammability,corrupted 21/0,7.0,1,15
-gem,Flammability,clean 1/20,5.0,1,21
-gem,Flammability,clean 20/20,10.0,1,11
+gem,Flammability,clean 1/20,1.0,1,22
+gem,Flammability,clean 20/20,5.0,1,12
 gem,Flammability,corrupted 20/20,10.0,1,7
-gem,Flammability,corrupted 21/20,20.0,1,9
-gem,Flesh and Stone,clean 1/0,4.0,1,31
-gem,Flesh and Stone,clean 1/20,2.0,1,25
+gem,Flammability,corrupted 21/20,35.0,1,9
+gem,Flesh and Stone,clean 1/0,4.0,1,24
+gem,Flesh and Stone,clean 1/20,30.0,1,10
 gem,Flesh Offering,clean 20/0,1.0,1,21
-gem,Flesh Offering,corrupted 20/0,10.0,1,14
-gem,Flesh Offering,corrupted 21/0,3.0,1,15
-gem,Flesh Offering,clean 1/20,1.0,1,21
+gem,Flesh Offering,corrupted 20/0,9.0,1,12
+gem,Flesh Offering,corrupted 21/0,3.0,1,10
+gem,Flesh Offering,clean 1/20,3.0,1,8
 gem,Flesh Offering,clean 20/20,10.0,1,15
-gem,Flesh Offering,corrupted 20/20,40.0,1,5
+gem,Flesh Offering,corrupted 20/20,10.0,1,10
 gem,Flesh Offering,corrupted 21/20,100.0,1,4
 gem,Flicker Strike,clean 20/0,3.0,1,16
 gem,Flicker Strike,corrupted 20/0,10.0,1,23
@@ -11107,15 +11107,16 @@ compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contai
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,100.0,1,3
 compass,Your Magic Maps contain 5 additional packs of Magic Monsters:Your Normal Maps contain 5 additional packs of Normal Monsters:Your Rare Maps contain 5 additional Rare Monster packs,16,10.0,1,3
 compass,Your Maps contain 8 additional packs of Corrupted Vaal Monsters:Items dropped by Corrupted Vaal Monsters in your Maps have 30% chance to be Corrupted,16,10.0,1,3
-compass,Players and Monsters take 14% increased Chaos Damage:Your Maps contain 8 additional packs of Monsters that deal Chaos Damage,16,10.0,1,2
-compass,Your Maps contain Ritual Altars,16,10.0,1,5
+compass,Players and Monsters take 14% increased Chaos Damage:Your Maps contain 8 additional packs of Monsters that deal Chaos Damage,16,5.0,1,1
+compass,Your Maps contain Ritual Altars,16,89.0,1,2
 compass,Map Bosses of your Corrupted Maps drop 3 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,16,28.0,1,3
-compass,The First 3 Possessed Monsters drop an additional Winged Scarab:Your Maps contain an additional Tormented Betrayer,16,3561.1,1,6
+compass,The First 3 Possessed Monsters drop an additional Winged Scarab:Your Maps contain an additional Tormented Betrayer,16,3561.1,1,3
 compass,Players and Monsters take 14% increased Cold Damage:Your Maps contain 8 additional packs of Monsters that deal Cold Damage,16,40.0,1,2
+compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,16,10.0,1,1
 compass,Your Maps contain 2 additional Abysses:Your Maps can contain Abysses,16,80.0,1,3
 compass,30% increased Magic Pack Size,16,200.0,1,10
 compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain 8 additional packs of Corrupted Vaal Monsters,16,60.0,1,1
-compass,Your Maps contain 35 additional Clusters of Mysterious Barrels,16,10.0,1,1
+compass,Your Maps contain 35 additional Clusters of Mysterious Barrels,16,239.0,1,1
 compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 5 additional Packs with Mirrored Rare Monsters,16,10.0,1,6
 compass,Final Map Boss in each Map drops an additional Shaper Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,100.0,1,2
 compass,Your Maps contain hunted traitors,16,30.0,1,7
@@ -11890,17 +11891,16 @@ unique,The Sorrow of the Divine,clean,1.0,1,59
 unique,The Wise Oak,clean,2.0,1,29
 unique,The Writhing Jar,clean,1.0,1,89
 unique,Vorana's Preparation,clean,5.0,1,9
-unique,Witchfire Brew,clean,1.0,1,35
-unique,Zerphi's Last Breath,clean,1.0,1,10
+unique,Witchfire Brew,clean,1.0,1,32
+unique,Zerphi's Last Breath,clean,1.0,1,7
 unique,Lavianga's Spirit,clean,1.0,1,82
 unique,Vessel of Vinktar,clean,10.0,1,48
-unique,Rumi's Concoction,clean,4.0,1,89
-unique,Reefbane,clean,190.0,1,4
-unique,Reefbane,corrupted,239.0,1,1
-unique,Law of the Wilds,clean,3.0,1,35
+unique,Rumi's Concoction,clean,4.0,1,65
+unique,Reefbane,clean,155.0,1,4
+unique,Law of the Wilds,clean,1.0,1,17
 unique,Law of the Wilds,corrupted,10.0,1,3
 unique,Sunblast,clean,3.0,1,16
-unique,Sunblast,corrupted,6.0,1,4
+unique,Sunblast,corrupted,4.0,1,6
 unique,Legacy of Fury,clean,10.0,1,86
 unique,Legacy of Fury,corrupted,12.0,1,81
 unique,Natural Hierarchy,corrupted,0.5,1,93
