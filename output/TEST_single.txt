@@ -778,19 +778,20 @@ map,Blighted Cold River Map,T16,30.0,2,1
 map,Blighted Courtyard Map,T16,30.0,3,2
 map,Blighted Coves Map,T16,16.0,15,5
 map,Blighted Dungeon Map,T16,238.0,1,1
-map,Blighted Flooded Mine Map,T16,20.0,1,1
-map,Blighted Infested Valley Map,T16,15.0,6,5
-map,Blighted Geode Map,T16,238.0,2,1
-map,Blighted Leyline Map,T16,20.0,3,2
-map,Blighted Malformation Map,T16,35.0,4,2
-map,Blighted Mineral Pools Map,T16,20.0,4,2
-map,Blighted Museum Map,T16,238.0,1,1
-map,Blighted Necropolis Map,T16,25.0,3,2
-map,Blighted Primordial Pool Map,T16,40.0,1,1
-map,Blighted Underground River Map,T16,15.0,5,2
-map,Blighted Sulphur Vents Map,T16,20.0,1,1
-map,Blighted Thicket Map,T16,20.0,1,1
-map,Blighted Siege Map,T16,20.0,1,1
+map,Blighted Infested Valley Map,T16,20.0,10,5
+map,Blighted Leyline Map,T16,20.0,6,3
+map,Blighted Malformation Map,T16,20.0,7,3
+map,Blighted Mineral Pools Map,T16,20.0,7,2
+map,Blighted Necropolis Map,T16,30.0,13,2
+map,Blighted Overgrown Shrine Map,T16,35.0,3,1
+map,Blighted Plateau Map,T16,30.0,2,1
+map,Blighted Primordial Pool Map,T16,15.0,3,3
+map,Blighted Primordial Blocks Map,T16,20.0,1,1
+map,Blighted Volcano Map,T16,100.0,2,1
+map,Blighted Underground River Map,T16,15.0,20,4
+map,Blighted Stagnation Map,T16,20.0,1,1
+map,Blighted Thicket Map,T16,20.0,3,3
+map,Blighted Siege Map,T16,20.0,4,2
 map,Blighted Racecourse Map,T16,22.0,3,2
 map,Blighted Strand Map,T16,20.0,5,4
 map,Blighted Tower Map,T16,20.0,5,3
@@ -3546,24 +3547,24 @@ gem,Defiance Banner,clean 20/0,20.0,17,12
 gem,Defiance Banner,corrupted 20/0,10.0,28,25
 gem,Defiance Banner,corrupted 21/0,15.0,12,12
 gem,Defiance Banner,clean 1/20,9.0,42,37
-gem,Defiance Banner,clean 20/20,30.0,14,9
+gem,Defiance Banner,clean 20/20,30.0,11,10
 gem,Defiance Banner,corrupted 20/20,10.0,13,11
-gem,Defiance Banner,corrupted 21/20,238.0,7,7
-gem,Earthbreaker Support,clean 20/0,5.0,7,6
-gem,Earthbreaker Support,corrupted 20/0,10.0,1,1
+gem,Defiance Banner,corrupted 21/20,238.0,4,4
+gem,Earthbreaker Support,clean 20/0,40.0,3,2
+gem,Earthbreaker Support,corrupted 20/0,40.0,2,2
 gem,Earthbreaker Support,corrupted 21/0,5.0,8,8
-gem,Earthbreaker Support,clean 1/20,5.0,3,3
-gem,Earthbreaker Support,clean 20/20,5.0,1,1
-gem,Earthbreaker Support,corrupted 20/20,70.0,1,1
+gem,Earthbreaker Support,clean 1/20,3.0,6,4
+gem,Earthbreaker Support,clean 20/20,40.0,1,1
+gem,Earthbreaker Support,corrupted 20/20,40.0,1,1
 gem,Earthbreaker Support,corrupted 21/20,10.0,2,2
-gem,Explosive Concoction,clean 20/0,4.0,12,11
+gem,Explosive Concoction,clean 20/0,2.0,9,8
 gem,Explosive Concoction,corrupted 20/0,3.0,7,7
 gem,Explosive Concoction,corrupted 21/0,5.0,16,15
 gem,Explosive Concoction,clean 1/20,3.0,8,6
-gem,Explosive Concoction,clean 20/20,4.0,8,8
+gem,Explosive Concoction,clean 20/20,19.0,4,4
 gem,Explosive Concoction,corrupted 20/20,4.0,3,3
 gem,Explosive Concoction,corrupted 21/20,5.0,3,3
-gem,Eye of Winter,clean 20/0,3.0,24,23
+gem,Eye of Winter,clean 20/0,10.0,10,10
 gem,Eye of Winter,corrupted 20/0,4.0,35,25
 gem,Eye of Winter,corrupted 21/0,6.0,12,11
 gem,Eye of Winter,clean 1/20,2.0,18,16
@@ -7826,7 +7827,7 @@ compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest
 compass,The First 3 Possessed Monsters drop an additional Unique Item:Your Maps contain an additional Tormented Graverobber,4,3.9016393442622954,16,5
 compass,Your Maps contain a Mirror of Delirium,4,15.606557377049182,64,27
 compass,Your Maps contain Alva,4,9.0,43,16
-compass,100% increased Intelligence gained from Immortal Syndicate targets encountered in your Maps,4,7.803278688524591,28,13
+compass,100% increased Intelligence gained from Immortal Syndicate targets encountered in your Maps,4,7.803278688524591,22,14
 compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,67.0,60,7
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Blue Plants,4,234.09836065573774,35,26
 compass,Map Bosses drop 1 additional Unique Item,4,3.0,20,5
@@ -9786,9 +9787,10 @@ unique,Razor of the Seventh Sun,clean,4.0,6,6
 unique,Razor of the Seventh Sun,corrupted,65.0,8,8
 unique,Craiceann's Chitin,clean,4.0,5,5
 unique,Rive,clean,1.0,42,36
-unique,Rive,corrupted,7.0,30,29
+unique,Rive,corrupted,5.0,18,17
 unique,Hand of the Fervent,clean,6.0,3,3
-unique,Bear's Girdle,clean,2.0,31,28
+unique,Hand of the Fervent,corrupted,238.0,1,1
+unique,Bear's Girdle,clean,2.0,40,39
 unique,Bear's Girdle,corrupted,11.0,15,15
 unique,Winds of Change,clean,8.0,14,14
 unique,Winds of Change,corrupted,1190.0,1,1
