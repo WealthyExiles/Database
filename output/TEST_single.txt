@@ -784,18 +784,20 @@ map,Silo Map,T16,3.0,622,24
 map,Siege Map,T16,4.0,153,26
 map,Terrace Map,T16,4.0,133,21
 map,Sulphur Vents Map,T16,2.0,903,27
-map,Thicket Map,T16,3.5,340,20
-map,Temple Map,T16,3.0,729,29
-map,Tower Map,T16,3.0,150,27
-map,Tropical Island Map,T16,4.0,373,23
-map,Underground Sea Map,T16,3.0,252,26
-map,Volcano Map,T16,4.0,187,21
-map,Vaal Temple Map,T16,10.0,1065,32
-map,Vaal Pyramid Map,T16,3.263888888888889,670,24
-map,Underground River Map,T16,3.5,292,28
-map,Blighted Bone Crypt Map,T1,235.0,1,1
-map,Blighted Dunes Map,T2,10.0,1,1
+map,Temple Map,T16,3.0,577,28
+map,Tower Map,T16,3.0,138,25
+map,Tropical Island Map,T16,4.5,534,19
+map,Underground Sea Map,T16,3.0,295,29
+map,Volcano Map,T16,4.0,122,17
+map,Wharf Map,T16,3.0,201,22
+map,Wasteland Map,T16,4.0,188,19
+map,Vaal Temple Map,T16,10.0,1189,29
+map,Vaal Pyramid Map,T16,3.0,731,24
+map,Underground River Map,T16,3.0,324,27
+map,Blighted Bone Crypt Map,T1,5.0,4,2
+map,Blighted Overgrown Shrine Map,T3,6.0,1,1
 map,Blighted Strand Map,T3,5.0,1,1
+map,Blighted Cemetery Map,T4,50.0,1,1
 map,Blighted Moon Temple Map,T4,30.0,1,1
 map,Blighted Arachnid Nest Map,T16,20.0,3,2
 map,Blighted Atoll Map,T16,25.0,15,2
@@ -2957,28 +2959,28 @@ gem,Spark,clean 1/20,4.0,27,21
 gem,Spark,clean 20/20,20.0,15,10
 gem,Spark,corrupted 20/20,4.0,16,15
 gem,Spark,corrupted 21/20,21.0,36,34
-gem,Spectral Shield Throw,clean 20/0,10.0,7,7
-gem,Spectral Shield Throw,corrupted 20/0,3.0,16,14
-gem,Spectral Shield Throw,corrupted 21/0,3.0,13,11
-gem,Spectral Shield Throw,clean 1/20,2.0,11,11
-gem,Spectral Shield Throw,clean 20/20,10.0,5,5
+gem,Spectral Shield Throw,clean 20/0,3.0,5,5
+gem,Spectral Shield Throw,corrupted 20/0,50.0,7,7
+gem,Spectral Shield Throw,corrupted 21/0,4.0,8,8
+gem,Spectral Shield Throw,clean 1/20,2.0,8,8
+gem,Spectral Shield Throw,clean 20/20,3.0,3,3
 gem,Spectral Shield Throw,corrupted 20/20,3.0,6,6
-gem,Spectral Shield Throw,corrupted 21/20,5.0,9,9
-gem,Spectral Throw,clean 20/0,2.0,13,12
-gem,Spectral Throw,corrupted 20/0,50.0,6,6
+gem,Spectral Shield Throw,corrupted 21/20,20.0,5,5
+gem,Spectral Throw,clean 20/0,5.0,8,8
+gem,Spectral Throw,corrupted 20/0,5.0,17,11
 gem,Spectral Throw,corrupted 21/0,4.0,17,16
-gem,Spectral Throw,clean 1/20,2.0,16,16
-gem,Spectral Throw,clean 20/20,9.0,7,6
-gem,Spectral Throw,corrupted 20/20,634.5,2,2
+gem,Spectral Throw,clean 1/20,2.0,17,17
+gem,Spectral Throw,clean 20/20,5.0,6,6
+gem,Spectral Throw,corrupted 20/20,200.0,11,5
 gem,Spectral Throw,corrupted 21/20,10.0,8,8
 gem,Spell Cascade Support,clean 20/0,3.0,24,22
 gem,Spell Cascade Support,corrupted 20/0,20.0,8,8
-gem,Spell Cascade Support,corrupted 21/0,10.0,17,16
-gem,Spell Cascade Support,clean 1/20,6.0,20,18
-gem,Spell Cascade Support,clean 20/20,25.0,16,14
-gem,Spell Cascade Support,corrupted 20/20,25.0,9,6
-gem,Spell Cascade Support,corrupted 21/20,100.0,2,2
-gem,Spell Echo Support,clean 20/0,4.0,16,16
+gem,Spell Cascade Support,corrupted 21/0,10.0,13,12
+gem,Spell Cascade Support,clean 1/20,6.0,6,5
+gem,Spell Cascade Support,clean 20/20,30.0,1,1
+gem,Spell Cascade Support,corrupted 20/20,28.0,11,9
+gem,Spell Cascade Support,corrupted 21/20,58.0,9,8
+gem,Spell Echo Support,clean 20/0,45.0,13,12
 gem,Spell Echo Support,corrupted 20/0,7.0,34,32
 gem,Spell Echo Support,corrupted 21/0,29.0,22,22
 gem,Spell Echo Support,clean 1/20,10.0,21,21
@@ -7865,14 +7867,14 @@ compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 add
 compass,Area contains Metamorph Monsters,4,3.0,59,7
 compass,Your Maps contain The Sacred Grove,4,90.0,11,9
 compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,4,3.8524590163934427,15,8
-compass,Players and Monsters take 12% increased Cold Damage:Your Maps contain 6 additional packs of Monsters that deal Cold Damage,4,3.5,89,4
+compass,Players and Monsters take 12% increased Cold Damage:Your Maps contain 6 additional packs of Monsters that deal Cold Damage,4,3.0,80,3
 compass,Slaying Enemies close together can attract monsters from Beyond this realm:35% increased Beyond Demon Pack Size in your Maps,16,940.0,17,3
-compass,Area contains a Smuggler's Cache,16,100.0,1,1
+compass,Area contains a Smuggler's Cache,16,50.0,26,4
 compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,16,69.0,5,2
-compass,Your Maps contain 3 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,16,352.5,51,6
+compass,Your Maps contain 3 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,16,446.5,26,2
 compass,Unique Monsters drop Corrupted Items,16,100.0,2,2
-compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,16,235.0,2,1
-compass,Maps found in your Maps are Corrupted with 8 Modifiers,16,1104.5,5,2
+compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,16,235.0,3,1
+compass,Maps found in your Maps are Corrupted with 8 Modifiers,16,940.0,8,3
 compass,Strongbox Monsters are Enraged:Strongbox Monsters have 600% increased Item Quantity:Your Maps contain an additional Strongbox,16,2303.0,14,4
 compass,Create a copy of Beasts Captured in your Maps,16,235.0,17,4
 compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contain 8 additional packs of Monsters that Heal,16,8.0,100,1
@@ -7881,7 +7883,7 @@ compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 addi
 compass,Players and Monsters take 14% increased Chaos Damage:Your Maps contain 8 additional packs of Monsters that deal Chaos Damage,16,8.0,100,1
 compass,Your Maps contain Ritual Altars,16,89.0,12,3
 compass,Map Bosses of your Corrupted Maps drop 3 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,16,4.0,23,2
-compass,The First 3 Possessed Monsters drop an additional Winged Scarab:Your Maps contain an additional Tormented Betrayer,16,3525.0,17,2
+compass,The First 3 Possessed Monsters drop an additional Winged Scarab:Your Maps contain an additional Tormented Betrayer,16,3642.5,20,2
 compass,Players and Monsters take 14% increased Cold Damage:Your Maps contain 8 additional packs of Monsters that deal Cold Damage,16,20.0,4,3
 compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,16,10.0,16,1
 compass,Your Maps contain 2 additional Abysses:Your Maps can contain Abysses,16,89.0,20,3
@@ -8001,9 +8003,9 @@ map,Eradicator's Map,T16,10.0,81,28
 map,Constrictor's Map,T16,9.0,100,19
 map,Purifier's Map,T16,9.0,66,26
 map,Baran's Citadel,T16,25.0,100,33
-map,Veritania's Citadel,T16,27.0,100,27
+map,Veritania's Citadel,T16,25.0,100,34
 map,Al-Hezmin's Citadel,T16,25.0,100,33
-map,Drox's Citadel,T16,27.0,100,28
+map,Drox's Citadel,T16,25.0,100,31
 unique,Bramblejack,clean,1.0,27,26
 unique,Bramblejack,clean 6-link,23500.0,1,1
 unique,Bramblejack,corrupted,10.0,28,27
@@ -9371,20 +9373,20 @@ unique,Goldwyrm,clean,1.0,94,80
 unique,Goldwyrm,corrupted,2.0,98,91
 unique,Replica Bones of Ullr,clean,5.0,3,3
 unique,Ungil's Harmony,clean,1.0,50,47
-unique,Ungil's Harmony,corrupted,5.0,18,17
-unique,Icefang Orbit,clean,1.0,95,91
+unique,Ungil's Harmony,corrupted,34.0,15,14
+unique,Icefang Orbit,clean,1.0,63,51
 unique,Icefang Orbit,corrupted,10.0,66,61
-unique,Grelwood Shank,clean,1.0,24,22
-unique,Grelwood Shank,corrupted,15.0,10,10
+unique,Grelwood Shank,clean,1.0,26,26
+unique,Grelwood Shank,corrupted,60.0,10,9
 unique,Redblade Band,clean,5.0,7,7
 unique,Redblade Band,corrupted,20.0,8,8
-unique,Snakepit,clean,1.0,44,44
-unique,Snakepit,corrupted,5.0,29,29
+unique,Snakepit,clean,1.0,49,44
+unique,Snakepit,corrupted,10.0,16,16
 unique,Null and Void,clean,1.0,98,89
 unique,Null and Void,corrupted,1.0,77,73
 unique,Reverberation Rod,clean,1.0,7,7
-unique,Reverberation Rod,corrupted,50.0,2,2
-unique,Replica Soul Strike,clean,15.0,2,2
+unique,Reverberation Rod,corrupted,2.0,4,4
+unique,Replica Soul Strike,clean,10.0,2,2
 unique,Stormcharger,clean,1.0,94,88
 unique,Stormcharger,corrupted,3.0,73,73
 unique,Crown of the Inward Eye,clean,5.0,100,77
