@@ -3820,20 +3820,24 @@ map,Blighted Temple Map,T16,35.0,1,1
 map,Blighted Underground Sea Map,T16,100.0,1,1
 map,Blighted Wharf Map,T16,25.0,1,3
 map,Blight Ravaged Arcade Map,T16,50.0,1,1
-map,Blight Ravaged Atoll Map,T16,238.0,1,1
-map,Blight Ravaged Barrows Map,T16,60.0,1,1
-map,Blight Ravaged Beach Map,T16,60.0,1,2
-map,Blight Ravaged Caldera Map,T16,70.0,1,2
-map,Blight Ravaged Bone Crypt Map,T16,238.0,1,1
-map,Blight Ravaged Castle Ruins Map,T16,60.0,1,1
+map,Blight Ravaged Caldera Map,T16,238.0,1,1
+map,Blight Ravaged Bone Crypt Map,T16,238.0,1,2
 map,Blight Ravaged Cemetery Map,T16,80.0,1,3
-map,Blight Ravaged Cells Map,T16,50.0,1,1
-map,Blight Ravaged City Square Map,T16,50.0,1,3
-map,Blight Ravaged Colonnade Map,T16,45.0,1,2
+map,Blight Ravaged Cells Map,T16,80.0,1,2
+map,Blight Ravaged City Square Map,T16,89.0,1,3
+map,Blight Ravaged Colonnade Map,T16,238.0,1,1
+map,Blight Ravaged Coves Map,T16,238.0,1,1
+map,Blight Ravaged Courtyard Map,T16,80.0,1,2
+map,Blight Ravaged Crimson Temple Map,T16,80.0,1,7
+map,Blight Ravaged Crimson Temple Map,T16,238.0,9,1
+map,Blight Ravaged Crimson Temple Map,T16,238.0,18,1
+map,Blight Ravaged Cursed Crypt Map,T16,50.0,1,1
 map,Blight Ravaged Dunes Map,T16,60.0,1,2
-map,Blight Ravaged Infested Valley Map,T16,50.0,1,4
+map,Blight Ravaged Dungeon Map,T16,238.0,1,1
+map,Blight Ravaged Flooded Mine Map,T16,50.0,1,1
+map,Blight Ravaged Geode Map,T16,238.0,1,1
+map,Blight Ravaged Infested Valley Map,T16,40.0,1,5
 map,Blight Ravaged Leyline Map,T16,100.0,1,2
-map,Blight Ravaged Malformation Map,T16,200.0,1,1
 map,Blight Ravaged Museum Map,T16,80.0,1,2
 map,Blight Ravaged Moon Temple Map,T16,238.0,1,1
 map,Blight Ravaged Port Map,T16,100.0,1,1
@@ -6638,13 +6642,13 @@ gem,Eye of Winter,clean 1/20,5.0,1,17
 gem,Eye of Winter,clean 20/20,5.0,1,19
 gem,Eye of Winter,corrupted 20/20,12.0,1,2
 gem,Eye of Winter,corrupted 21/20,40.0,1,12
-gem,Focused Ballista Support,clean 20/0,4.0,1,16
-gem,Focused Ballista Support,corrupted 20/0,5.0,1,10
-gem,Focused Ballista Support,corrupted 21/0,10.0,1,9
+gem,Focused Ballista Support,clean 20/0,4.0,1,18
+gem,Focused Ballista Support,corrupted 20/0,3.0,1,16
+gem,Focused Ballista Support,corrupted 21/0,50.0,1,10
 gem,Focused Ballista Support,clean 1/20,3.0,1,10
 gem,Focused Ballista Support,clean 20/20,45.0,1,8
 gem,Focused Ballista Support,corrupted 20/20,38.0,1,6
-gem,Focused Ballista Support,corrupted 21/20,100.0,1,6
+gem,Focused Ballista Support,corrupted 21/20,100.0,1,9
 gem,Forbidden Rite,clean 20/0,5.0,1,15
 gem,Forbidden Rite,corrupted 20/0,5.0,1,11
 gem,Forbidden Rite,corrupted 21/0,24.0,1,15
@@ -6652,8 +6656,8 @@ gem,Forbidden Rite,clean 1/20,3.0,1,21
 gem,Forbidden Rite,clean 20/20,29.0,1,7
 gem,Forbidden Rite,corrupted 20/20,5.0,1,4
 gem,Forbidden Rite,corrupted 21/20,25.0,1,14
-gem,Manabond,clean 20/0,1.0,1,12
-gem,Manabond,corrupted 20/0,5.0,1,7
+gem,Manabond,clean 20/0,4.0,1,7
+gem,Manabond,corrupted 20/0,5.0,1,10
 gem,Manabond,corrupted 21/0,4.0,1,11
 gem,Manabond,clean 1/20,3.0,1,20
 gem,Manabond,clean 20/20,5.0,1,9
@@ -10984,7 +10988,7 @@ contract,Trap Disarmament Contract,ilvl 83+,2.0,1,12
 contract,Agility Contract,ilvl 83+,1.0,1,19
 contract,Deception Contract,ilvl 83+,3.0,1,27
 contract,Engineering Contract,ilvl 83+,1.0,1,28
-blueprint,Blueprint: Bunker,3 wings,2.0,1,24
+blueprint,Blueprint: Bunker,3 wings,2.0,1,35
 blueprint,Blueprint: Mansion,3 wings,5.0,1,27
 blueprint,Blueprint: Records Office,3 wings,2.0,1,30
 blueprint,Blueprint: Smuggler's Den,3 wings,2.0,1,39
@@ -10993,12 +10997,8 @@ blueprint,Blueprint: Repository,3 wings,25.0,1,30
 blueprint,Blueprint: Tunnels,3 wings,20.0,1,40
 blueprint,Blueprint: Laboratory,3 wings,4.0,1,34
 blueprint,Blueprint: Prohibited Library,3 wings,5.0,1,31
-incubator,Abyssal Incubator,ilvl 83,0.5,1,21
-incubator,Abyssal Incubator,ilvl 83,0.5,9,7
-incubator,Abyssal Incubator,ilvl 83,1.0,18,1
-incubator,Abyssal Incubator,ilvl 83,1.0,30,1
-incubator,Abyssal Incubator,ilvl 83,1.0,50,1
-incubator,Abyssal Incubator,ilvl 83,1.0,100,1
+incubator,Abyssal Incubator,ilvl 83,0.5,1,24
+incubator,Abyssal Incubator,ilvl 83,0.5,9,10
 incubator,Blighted Incubator,ilvl 83,0.5,1,28
 incubator,Blighted Incubator,ilvl 83,1.0,9,12
 incubator,Cartographer's Incubator,ilvl 83,1.0,1,21
@@ -11054,8 +11054,8 @@ logbook,Bruids of the Broken Circle Logbook,ilvl 83+,9.0,1,52
 logbook,Black Scythe Mercenaries Logbook,ilvl 83+,25.0,1,39
 logbook,Order of the Chalice Logbook,ilvl 83+,7.0,1,31
 logbook,Knights of the Sun Logbook,ilvl 83+,50.0,1,16
-beast,Craicic Chimeral,,476.0,1,21
-beast,Craicic Maw,,10.0,1,3
+beast,Craicic Chimeral,,476.0,1,29
+beast,Craicic Maw,,10.0,1,2
 beast,Craicic Vassal,,7.0,1,4
 beast,Farric Frost Hellion Alpha,,80.0,1,2
 beast,Farric Lynx Alpha,,5.0,1,6
@@ -11063,7 +11063,7 @@ beast,Farric Wolf Alpha,,15.0,1,14
 beast,Fenumal Plagued Arachnid,,15.0,1,20
 beast,Craicic Spider Crab,,20.0,1,1
 beast,Farric Tiger Alpha,,238.0,1,2
-beast,Fenumal Hybrid Arachnid,,160.0,1,1
+beast,Fenumal Hybrid Arachnid,,45.0,1,5
 beast,Saqawine Rhex,,25.0,1,3
 beast,Primal Crushclaw,,220.0,1,2
 beast,Primal Cystcaller,,30.0,1,2
