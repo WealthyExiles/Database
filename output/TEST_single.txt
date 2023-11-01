@@ -764,15 +764,20 @@ map,Blighted Bone Crypt Map,T1,9.0,6,4
 map,Blighted Overgrown Shrine Map,T3,3.0,1,1
 map,Blighted Strand Map,T3,5.0,1,1
 map,Blighted Cemetery Map,T4,5.0,8,3
-map,Blighted Arachnid Nest Map,T16,25.0,2,1
-map,Blighted Beach Map,T16,25.0,2,2
-map,Blighted Bone Crypt Map,T16,25.0,1,1
-map,Blighted Castle Ruins Map,T16,50.0,1,1
-map,Blighted Cemetery Map,T16,20.0,3,3
-map,Blighted Colonnade Map,T16,20.0,3,2
-map,Blighted City Square Map,T16,25.0,6,3
-map,Blighted Coves Map,T16,30.0,3,1
-map,Blighted Dunes Map,T16,20.0,51,3
+map,Blighted Alleyways Map,T16,20.0,1,1
+map,Blighted Arachnid Nest Map,T16,20.0,7,3
+map,Blighted Barrows Map,T16,33.0,1,1
+map,Blighted Beach Map,T16,20.0,7,3
+map,Blighted Caldera Map,T16,30.0,2,2
+map,Blighted Bone Crypt Map,T16,20.0,2,2
+map,Blighted Cells Map,T16,19.0,6,4
+map,Blighted Chateau Map,T16,20.0,4,3
+map,Blighted Colonnade Map,T16,19.0,10,6
+map,Blighted City Square Map,T16,20.0,12,5
+map,Blighted Cold River Map,T16,30.0,2,1
+map,Blighted Courtyard Map,T16,30.0,3,2
+map,Blighted Coves Map,T16,16.0,15,5
+map,Blighted Dungeon Map,T16,238.0,1,1
 map,Blighted Flooded Mine Map,T16,20.0,1,1
 map,Blighted Infested Valley Map,T16,15.0,6,5
 map,Blighted Geode Map,T16,238.0,2,1
@@ -3522,24 +3527,24 @@ gem,Boneshatter,corrupted 21/0,10.0,20,19
 gem,Boneshatter,clean 1/20,3.0,13,11
 gem,Boneshatter,clean 20/20,5.0,15,13
 gem,Boneshatter,corrupted 20/20,4.0,23,18
-gem,Boneshatter,corrupted 21/20,15.0,9,9
+gem,Boneshatter,corrupted 21/20,14.0,13,12
 gem,Chance to Poison Support,clean 20/0,10.0,9,9
-gem,Chance to Poison Support,corrupted 20/0,15.0,22,21
+gem,Chance to Poison Support,corrupted 20/0,30.0,20,19
 gem,Chance to Poison Support,corrupted 21/0,5.0,23,23
 gem,Chance to Poison Support,clean 1/20,5.0,5,5
 gem,Chance to Poison Support,clean 20/20,15.0,3,3
-gem,Chance to Poison Support,corrupted 20/20,15.0,12,11
+gem,Chance to Poison Support,corrupted 20/20,100.0,10,9
 gem,Chance to Poison Support,corrupted 21/20,100.0,14,14
 gem,Critical Strike Affliction Support,clean 20/0,2.0,10,10
-gem,Critical Strike Affliction Support,corrupted 20/0,4.0,5,5
-gem,Critical Strike Affliction Support,corrupted 21/0,3.0,12,12
+gem,Critical Strike Affliction Support,corrupted 20/0,4.0,6,6
+gem,Critical Strike Affliction Support,corrupted 21/0,4.0,11,11
 gem,Critical Strike Affliction Support,clean 1/20,2.0,11,11
 gem,Critical Strike Affliction Support,clean 20/20,10.0,6,6
 gem,Critical Strike Affliction Support,corrupted 20/20,17.0,1,1
-gem,Critical Strike Affliction Support,corrupted 21/20,50.0,4,4
+gem,Critical Strike Affliction Support,corrupted 21/20,4.0,8,8
 gem,Defiance Banner,clean 20/0,20.0,17,12
-gem,Defiance Banner,corrupted 20/0,10.0,100,57
-gem,Defiance Banner,corrupted 21/0,14.0,21,21
+gem,Defiance Banner,corrupted 20/0,10.0,28,25
+gem,Defiance Banner,corrupted 21/0,15.0,12,12
 gem,Defiance Banner,clean 1/20,9.0,42,37
 gem,Defiance Banner,clean 20/20,30.0,14,9
 gem,Defiance Banner,corrupted 20/20,10.0,13,11
@@ -7905,7 +7910,7 @@ compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop add
 contract,Lockpicking Contract,ilvl 83+,2.0,41,21
 contract,Brute Force Contract,ilvl 83+,1.0,43,18
 contract,Perception Contract,ilvl 83+,1.0,82,31
-contract,Demolition Contract,ilvl 83+,1.0,41,20
+contract,Demolition Contract,ilvl 83+,2.0,40,20
 contract,Counter-Thaumaturgy Contract,ilvl 83+,2.0,49,17
 contract,Trap Disarmament Contract,ilvl 83+,2.0,33,12
 contract,Agility Contract,ilvl 83+,1.0,35,19
@@ -7926,7 +7931,7 @@ incubator,Cartographer's Incubator,ilvl 83,1.0,176,21
 incubator,Celestial Armoursmith's Incubator,ilvl 83,0.5,42,11
 incubator,Celestial Blacksmith's Incubator,ilvl 83,0.5,74,18
 incubator,Celestial Jeweller's Incubator,ilvl 83,0.5,56,12
-incubator,Diviner's Incubator,ilvl 83,6.0,97,24
+incubator,Diviner's Incubator,ilvl 83,5.5,228,29
 incubator,Enchanted Incubator,ilvl 83,1.0,258,22
 incubator,Foreboding Incubator,ilvl 83,1.0,80,17
 incubator,Geomancer's Incubator,ilvl 83,0.5,268,23
@@ -7939,7 +7944,7 @@ incubator,Obscured Incubator,ilvl 83,0.5,236,21
 incubator,Ornate Incubator,ilvl 83,5.0,255,30
 incubator,Otherworldly Incubator,ilvl 83,0.5,227,18
 incubator,Primal Incubator,ilvl 83,1.0,45,5
-incubator,Singular Incubator,ilvl 83,1.0,120,15
+incubator,Singular Incubator,ilvl 83,0.5,239,21
 incubator,Skittering Incubator,ilvl 83,1.0,215,23
 incubator,Thaumaturge's Incubator,ilvl 83,1.0,241,21
 vial,Vial of Awakening,,30.0,2,2
@@ -9770,9 +9775,9 @@ unique,White Wind,corrupted,7.0,53,46
 unique,Self-Flagellation,corrupted,1.0,100,72
 unique,Zerphi's Heart,clean,13.0,28,24
 unique,Zerphi's Heart,corrupted,10.0,29,28
-unique,Choir of the Storm,clean,180.0,4,4
+unique,Choir of the Storm,clean,238.0,3,3
 unique,Doryani's Delusion,clean,10.0,43,41
-unique,Doryani's Delusion,corrupted,50.0,5,5
+unique,Doryani's Delusion,corrupted,25.0,6,6
 unique,Deerstalker,clean,1.0,41,40
 unique,Deerstalker,corrupted,10.0,77,70
 unique,Militant Faith,clean,5.0,100,16
