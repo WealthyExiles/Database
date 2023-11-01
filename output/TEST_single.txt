@@ -808,13 +808,18 @@ map,Blight Ravaged Coves Map,T16,238.0,4,1
 map,Blight Ravaged Courtyard Map,T16,80.0,2,2
 map,Blight Ravaged Crimson Temple Map,T16,80.0,46,7
 map,Blight Ravaged Cursed Crypt Map,T16,50.0,1,1
-map,Blight Ravaged Dunes Map,T16,60.0,4,2
-map,Blight Ravaged Infested Valley Map,T16,50.0,6,4
+map,Blight Ravaged Dunes Map,T16,60.0,2,2
+map,Blight Ravaged Dungeon Map,T16,238.0,2,1
+map,Blight Ravaged Flooded Mine Map,T16,50.0,1,1
+map,Blight Ravaged Geode Map,T16,238.0,1,1
+map,Blight Ravaged Infested Valley Map,T16,40.0,12,5
 map,Blight Ravaged Leyline Map,T16,100.0,2,2
-map,Blight Ravaged Malformation Map,T16,200.0,1,1
-map,Blight Ravaged Museum Map,T16,80.0,2,2
-map,Blight Ravaged Moon Temple Map,T16,238.0,1,1
-map,Blight Ravaged Port Map,T16,100.0,1,1
+map,Blight Ravaged Museum Map,T16,80.0,4,4
+map,Blight Ravaged Overgrown Shrine Map,T16,50.0,1,1
+map,Blight Ravaged Necropolis Map,T16,238.0,2,1
+map,Blight Ravaged Pit Map,T16,238.0,1,1
+map,Blight Ravaged Orchard Map,T16,50.0,3,2
+map,Blight Ravaged Port Map,T16,100.0,4,2
 map,Blight Ravaged Promenade Map,T16,200.0,1,1
 map,Blight Ravaged Strand Map,T16,238.0,1,1
 map,Blight Ravaged Siege Map,T16,60.0,2,2
@@ -3583,18 +3588,18 @@ gem,Forbidden Rite,clean 1/20,3.0,23,21
 gem,Forbidden Rite,clean 20/20,29.0,7,7
 gem,Forbidden Rite,corrupted 20/20,5.0,4,4
 gem,Forbidden Rite,corrupted 21/20,25.0,14,14
-gem,Manabond,clean 20/0,1.0,12,12
-gem,Manabond,corrupted 20/0,5.0,23,7
+gem,Manabond,clean 20/0,4.0,7,7
+gem,Manabond,corrupted 20/0,5.0,10,10
 gem,Manabond,corrupted 21/0,4.0,11,11
 gem,Manabond,clean 1/20,3.0,20,20
-gem,Manabond,clean 20/20,5.0,9,9
-gem,Manabond,corrupted 20/20,10.0,12,1
-gem,Manabond,corrupted 21/20,19.0,18,14
+gem,Manabond,clean 20/20,5.0,7,7
+gem,Manabond,corrupted 20/20,5.0,4,4
+gem,Manabond,corrupted 21/20,18.0,7,7
 gem,Rage Vortex,clean 20/0,2.0,9,9
-gem,Rage Vortex,corrupted 20/0,5.0,10,10
+gem,Rage Vortex,corrupted 20/0,4.0,2,2
 gem,Rage Vortex,corrupted 21/0,2.0,20,19
 gem,Rage Vortex,clean 1/20,1.0,14,14
-gem,Rage Vortex,clean 20/20,5.0,4,4
+gem,Rage Vortex,clean 20/20,3.0,3,2
 gem,Rage Vortex,corrupted 20/20,4.0,4,4
 gem,Rage Vortex,corrupted 21/20,9.0,9,9
 gem,Shield Crush,clean 20/0,20.0,8,6
@@ -7915,8 +7920,8 @@ contract,Trap Disarmament Contract,ilvl 83+,2.0,33,12
 contract,Agility Contract,ilvl 83+,1.0,35,19
 contract,Deception Contract,ilvl 83+,3.0,56,27
 contract,Engineering Contract,ilvl 83+,1.0,56,28
-blueprint,Blueprint: Bunker,3 wings,2.0,33,24
-blueprint,Blueprint: Mansion,3 wings,5.0,41,27
+blueprint,Blueprint: Bunker,3 wings,2.0,42,35
+blueprint,Blueprint: Mansion,3 wings,2.0,52,35
 blueprint,Blueprint: Records Office,3 wings,2.0,38,30
 blueprint,Blueprint: Smuggler's Den,3 wings,2.0,74,39
 blueprint,Blueprint: Underbelly,3 wings,2.0,70,38
@@ -7957,17 +7962,17 @@ logbook,Bruids of the Broken Circle Logbook,ilvl 83+,9.0,83,52
 logbook,Black Scythe Mercenaries Logbook,ilvl 83+,25.0,96,39
 logbook,Order of the Chalice Logbook,ilvl 83+,7.0,37,31
 logbook,Knights of the Sun Logbook,ilvl 83+,50.0,19,16
-beast,Craicic Chimeral,,476.0,45,21
-beast,Craicic Maw,,10.0,3,3
+beast,Craicic Chimeral,,476.0,57,29
+beast,Craicic Maw,,10.0,3,2
 beast,Craicic Vassal,,7.0,5,4
 beast,Farric Frost Hellion Alpha,,80.0,3,2
 beast,Farric Lynx Alpha,,5.0,40,6
 beast,Farric Wolf Alpha,,15.0,96,14
 beast,Fenumal Plagued Arachnid,,15.0,57,20
-beast,Craicic Spider Crab,,20.0,1,1
+beast,Craicic Spider Crab,,20.0,14,4
 beast,Farric Tiger Alpha,,238.0,2,2
 beast,Fenumal Hybrid Arachnid,,45.0,6,5
-beast,Saqawine Rhex,,25.0,3,3
+beast,Saqawine Rhex,,25.0,2,2
 beast,Primal Crushclaw,,220.0,100,2
 beast,Primal Cystcaller,,30.0,3,2
 beast,Primal Rhex Matriarch,,34.0,29,3
@@ -9810,10 +9815,10 @@ unique,Slitherpinch,clean,1.0,53,52
 unique,Slitherpinch,corrupted,2.0,55,52
 unique,Gorgon's Gaze,clean,99.0,76,64
 unique,Gorgon's Gaze,corrupted,75.0,6,6
-unique,The Fracturing Spinner,clean,15.0,8,8
+unique,The Fracturing Spinner,clean,25.0,10,9
 unique,Sibyl's Lament,clean,1.0,95,82
 unique,Sibyl's Lament,corrupted,5.0,57,57
-unique,Astral Projector,clean,179.0,94,80
+unique,Astral Projector,clean,199.0,55,54
 unique,Astral Projector,corrupted,170.0,19,18
 unique,Feastbind,clean,1.0,85,80
 unique,Feastbind,corrupted,1.0,57,54
