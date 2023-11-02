@@ -791,25 +791,26 @@ map,Primordial Pool Map,T16,3.0,199,27
 map,Promenade Map,T16,4.0,473,27
 map,Racecourse Map,T16,3.0,164,29
 map,Residence Map,T16,3.0,696,28
-map,Silo Map,T16,3.0,680,34
-map,Stagnation Map,T16,3.0,197,22
-map,Siege Map,T16,4.0,242,27
-map,Terrace Map,T16,4.0,170,21
-map,Sulphur Vents Map,T16,3.0,698,31
-map,Strand Map,T16,3.0,2134,32
-map,Thicket Map,T16,3.0,249,26
-map,Temple Map,T16,3.0,613,31
-map,Tower Map,T16,4.0,185,25
-map,Tropical Island Map,T16,4.0,252,23
-map,Volcano Map,T16,4.0,132,19
-map,Wharf Map,T16,4.0,251,26
-map,Wasteland Map,T16,4.0,153,22
-map,Vaal Temple Map,T16,10.0,975,34
-map,Vaal Pyramid Map,T16,3.2777777777777777,620,27
-map,Underground River Map,T16,2.0,406,31
-map,Blighted Bone Crypt Map,T1,12.0,3,2
+map,Silo Map,T16,3.0,846,24
+map,Stagnation Map,T16,3.0,212,21
+map,Siege Map,T16,3.0,290,27
+map,Terrace Map,T16,4.0,123,21
+map,Sulphur Vents Map,T16,3.0,804,28
+map,Strand Map,T16,3.0,2312,37
+map,Thicket Map,T16,3.5,248,25
+map,Temple Map,T16,3.0,598,28
+map,Tower Map,T16,3.0,176,27
+map,Tropical Island Map,T16,4.5,371,24
+map,Wharf Map,T16,3.0,184,25
+map,Wasteland Map,T16,3.5,188,25
+map,Vaal Temple Map,T16,3.0,1245,17
+map,Vaal Pyramid Map,T16,3.0,910,23
+map,Underground River Map,T16,3.0,308,27
+map,Blighted Dunes Map,T2,5.0,1,1
+map,Blighted Stagnation Map,T2,2.0,1,1
+map,Blighted Overgrown Shrine Map,T3,15.0,1,1
 map,Blighted Strand Map,T3,5.0,1,1
-map,Blighted Cemetery Map,T4,16.0,1,1
+map,Blighted Cemetery Map,T4,50.0,1,1
 map,Blighted Moon Temple Map,T4,30.0,1,1
 map,Blighted Arachnid Nest Map,T16,20.0,3,2
 map,Blighted Beach Map,T16,20.0,18,2
@@ -1910,25 +1911,25 @@ gem,Frost Bomb,corrupted 21/0,10.0,15,15
 gem,Frost Bomb,clean 1/20,10.0,19,17
 gem,Frost Bomb,clean 20/20,100.0,1,1
 gem,Frost Bomb,corrupted 20/20,18.0,1,1
-gem,Frost Bomb,corrupted 21/20,15.0,6,6
-gem,Frost Shield,clean 20/0,10.0,14,14
-gem,Frost Shield,corrupted 20/0,10.0,16,13
+gem,Frost Bomb,corrupted 21/20,15.0,5,5
+gem,Frost Shield,clean 20/0,10.0,16,15
+gem,Frost Shield,corrupted 20/0,10.0,11,10
 gem,Frost Shield,corrupted 21/0,8.0,19,19
-gem,Frost Shield,clean 1/20,2.0,23,23
-gem,Frost Shield,clean 20/20,10.0,11,11
-gem,Frost Shield,corrupted 20/20,15.0,5,5
-gem,Frost Shield,corrupted 21/20,14.0,12,12
+gem,Frost Shield,clean 1/20,2.0,20,19
+gem,Frost Shield,clean 20/20,10.0,13,12
+gem,Frost Shield,corrupted 20/20,20.0,2,2
+gem,Frost Shield,corrupted 21/20,10.0,9,8
 gem,Frost Wall,clean 20/0,6.0,11,11
-gem,Frost Wall,corrupted 20/0,5.0,7,7
-gem,Frost Wall,corrupted 21/0,20.0,7,7
-gem,Frost Wall,clean 1/20,5.0,14,14
+gem,Frost Wall,corrupted 20/0,4.0,7,7
+gem,Frost Wall,corrupted 21/0,5.0,9,9
+gem,Frost Wall,clean 1/20,10.0,10,10
 gem,Frost Wall,clean 20/20,10.0,7,7
 gem,Frost Wall,corrupted 20/20,14.0,4,4
-gem,Frost Wall,corrupted 21/20,20.0,4,4
-gem,Frostbite,clean 20/0,5.0,18,17
+gem,Frost Wall,corrupted 21/20,19.0,5,5
+gem,Frostbite,clean 20/0,8.0,12,11
 gem,Frostbite,corrupted 20/0,18.0,30,28
 gem,Frostbite,corrupted 21/0,10.0,13,13
-gem,Frostbite,clean 1/20,4.0,42,38
+gem,Frostbite,clean 1/20,4.0,15,14
 gem,Frostbite,clean 20/20,29.0,6,6
 gem,Frostbite,corrupted 20/20,18.0,15,15
 gem,Frostbite,corrupted 21/20,30.0,7,7
@@ -7742,13 +7743,14 @@ compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain
 compass,Your Maps contain Niko,4,3.6875,9,5
 compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,4,7.0,20,12
 compass,Your Maps contain an additional Legion Encounter,4,7.0,73,21
+compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,2.0,1,1
 compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,3.0,1,1
-compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,3.6875,21,2
-compass,Your Maps contain an additional Abyss:Your Maps can contain Abysses,4,3.6875,63,15
+compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,3.0,51,3
+compass,Your Maps contain an additional Abyss:Your Maps can contain Abysses,4,3.0,33,10
 compass,Your Maps contain a Blight Encounter,4,3.0,63,9
 compass,Slaying Enemies close together can attract monsters from Beyond this realm:25% increased Beyond Demon Pack Size in your Maps,4,49.0,100,21
-compass,Your Maps contain 100% increased number of Runic Monster Markers,4,13.0,25,8
-compass,Delirium Reward Bars fill 100% faster in your Maps,4,36.875,41,23
+compass,Your Maps contain 100% increased number of Runic Monster Markers,4,11.0625,23,11
+compass,Delirium Reward Bars fill 100% faster in your Maps,4,44.25,70,34
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,4,495.6,33,18
 compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,4,7.375,3,2
 compass,Area contains Metamorph Monsters,4,3.0,29,5
@@ -7819,7 +7821,7 @@ compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,236.0,10,7
 contract,Lockpicking Contract,ilvl 83+,2.0,41,12
 contract,Brute Force Contract,ilvl 83+,1.0,33,5
-contract,Perception Contract,ilvl 83+,5.0,31,11
+contract,Perception Contract,ilvl 83+,1.0,100,5
 contract,Demolition Contract,ilvl 83+,2.0,39,10
 contract,Counter-Thaumaturgy Contract,ilvl 83+,1.0,43,10
 contract,Trap Disarmament Contract,ilvl 83+,7.0,16,7
@@ -7841,7 +7843,7 @@ incubator,Cartographer's Incubator,ilvl 83,1.0,180,20
 incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,36,8
 incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,34,10
 incubator,Celestial Jeweller's Incubator,ilvl 83,1.0,35,6
-incubator,Diviner's Incubator,ilvl 83,5.0,124,13
+incubator,Diviner's Incubator,ilvl 83,6.0,132,16
 incubator,Enchanted Incubator,ilvl 83,1.0,78,9
 incubator,Foreboding Incubator,ilvl 83,1.0,172,13
 incubator,Geomancer's Incubator,ilvl 83,1.0,86,14
@@ -7874,7 +7876,7 @@ beast,Craicic Vassal,,9.0,1,1
 beast,Farric Frost Hellion Alpha,,40.0,5,4
 beast,Farric Lynx Alpha,,8.0,100,6
 beast,Farric Wolf Alpha,,15.0,96,8
-beast,Fenumal Plagued Arachnid,,20.0,50,6
+beast,Fenumal Plagued Arachnid,,14.0,71,15
 beast,Craicic Spider Crab,,236.0,1,1
 beast,Farric Tiger Alpha,,236.0,3,3
 beast,Saqawine Rhex,,50.0,7,3
@@ -8677,19 +8679,19 @@ unique,Uzaza's Meadow,corrupted,130.0,4,4
 unique,Rigwald's Savagery,clean,1.0,23,22
 unique,Rigwald's Savagery,corrupted,2.0,20,19
 unique,The Pariah,clean,65.0,16,14
-unique,The Pariah,corrupted,30.0,7,7
-unique,Soulbound,clean,1.0,94,79
+unique,The Pariah,corrupted,80.0,6,6
+unique,Soulbound,clean,1.0,73,64
 unique,Soulbound,corrupted,2.0,63,58
 unique,Retaliation Charm,clean,1.0,87,74
-unique,Retaliation Charm,corrupted,1.0,72,65
-unique,Springleaf,clean,1.0,66,61
+unique,Retaliation Charm,corrupted,2.0,31,30
+unique,Springleaf,clean,1.0,34,34
 unique,Springleaf,corrupted,10.0,25,24
 unique,Obscurantis,clean,1.0,96,93
-unique,Obscurantis,corrupted,2.0,63,62
-unique,The Warden's Brand,clean,1.0,95,82
+unique,Obscurantis,corrupted,5.0,42,41
+unique,The Warden's Brand,clean,1.0,58,48
 unique,The Warden's Brand,corrupted,3.0,49,48
-unique,Victario's Flight,clean,1.0,67,64
-unique,Victario's Flight,corrupted,3.0,33,31
+unique,Victario's Flight,clean,1.0,48,46
+unique,Victario's Flight,corrupted,2.0,22,22
 unique,Sublime Vision,clean,50.0,89,72
 unique,Sublime Vision,corrupted,30.0,5,5
 unique,Bubonic Trail,clean,1.0,100,88
