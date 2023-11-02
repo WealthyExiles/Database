@@ -804,19 +804,19 @@ map,Vaal Pyramid Map,T16,3.0,713,37
 map,Blighted Bone Crypt Map,T1,5.0,4,4
 map,Blighted Dunes Map,T2,5.0,1,1
 map,Blighted Overgrown Shrine Map,T3,15.0,1,1
-map,Blighted Cemetery Map,T4,8.0,4,2
+map,Blighted Strand Map,T3,5.0,2,2
 map,Blighted Moon Temple Map,T4,30.0,1,1
-map,Blighted Dunes Map,T5,5.0,1,1
-map,Blighted Arachnid Nest Map,T16,20.0,8,3
-map,Blighted Arcade Map,T16,25.0,1,1
-map,Blighted Barrows Map,T16,20.0,5,3
-map,Blighted Beach Map,T16,17.0,35,5
-map,Blighted Atoll Map,T16,25.0,27,1
-map,Blighted Bone Crypt Map,T16,10.0,2,2
-map,Blighted Cells Map,T16,19.0,3,3
-map,Blighted Cold River Map,T16,25.0,3,1
-map,Blighted Courtyard Map,T16,20.0,2,2
-map,Blighted Coves Map,T16,30.0,3,2
+map,Blighted Arcade Map,T16,18.0,2,1
+map,Blighted Barrows Map,T16,20.0,1,1
+map,Blighted Beach Map,T16,17.0,4,3
+map,Blighted Atoll Map,T16,20.0,7,1
+map,Blighted Caldera Map,T16,15.0,5,4
+map,Blighted Bone Crypt Map,T16,18.0,1,1
+map,Blighted Castle Ruins Map,T16,10.0,2,2
+map,Blighted Colonnade Map,T16,30.0,2,1
+map,Blighted City Square Map,T16,10.0,12,7
+map,Blighted Cold River Map,T16,20.0,1,1
+map,Blighted Courtyard Map,T16,15.0,3,2
 map,Blighted Cursed Crypt Map,T16,10.0,2,2
 map,Blighted Dunes Map,T16,16.0,20,6
 map,Blighted Dungeon Map,T16,10.0,6,4
@@ -3034,20 +3034,20 @@ gem,Splitting Steel,clean 20/0,3.0,8,8
 gem,Splitting Steel,corrupted 20/0,4.0,10,9
 gem,Splitting Steel,corrupted 21/0,3.0,11,11
 gem,Splitting Steel,clean 1/20,2.0,25,24
-gem,Splitting Steel,clean 20/20,120.0,2,2
-gem,Splitting Steel,corrupted 20/20,30.0,2,2
-gem,Splitting Steel,corrupted 21/20,19.0,12,11
+gem,Splitting Steel,clean 20/20,3.0,7,7
+gem,Splitting Steel,corrupted 20/20,4.0,6,5
+gem,Splitting Steel,corrupted 21/20,15.0,7,7
 gem,Static Strike,clean 20/0,5.0,4,4
-gem,Static Strike,corrupted 20/0,15.0,9,9
-gem,Static Strike,corrupted 21/0,3.0,7,7
-gem,Static Strike,clean 1/20,2.0,9,9
-gem,Static Strike,clean 20/20,14.0,3,3
+gem,Static Strike,corrupted 20/0,5.0,3,3
+gem,Static Strike,corrupted 21/0,4.0,7,7
+gem,Static Strike,clean 1/20,14.0,7,7
+gem,Static Strike,clean 20/20,14.0,4,4
 gem,Static Strike,corrupted 20/20,1.0,3,3
 gem,Static Strike,corrupted 21/20,10.0,5,5
-gem,Steelskin,clean 20/0,10.0,23,22
-gem,Steelskin,corrupted 20/0,38.0,20,16
+gem,Steelskin,clean 20/0,9.0,15,15
+gem,Steelskin,corrupted 20/0,10.0,15,15
 gem,Steelskin,corrupted 21/0,10.0,17,17
-gem,Steelskin,clean 1/20,5.0,44,43
+gem,Steelskin,clean 1/20,15.0,12,12
 gem,Steelskin,clean 20/20,37.0,13,12
 gem,Steelskin,corrupted 20/20,45.0,12,11
 gem,Steelskin,corrupted 21/20,160.0,13,13
@@ -7734,15 +7734,14 @@ compass,Your Maps contain an additional Gloom Shrine:50% increased Duration of S
 compass,Your Maps contain hunted traitors,4,3.0,87,20
 compass,Breaches in your Maps belong to Chayula:Breaches in your Maps contain 3 additional Clasped Hands,4,10.846153846153847,48,21
 compass,Oils found in your Maps are 1 tier higher:Cost of Building and Upgrading Blight Towers in your Maps is doubled,4,10.846153846153847,48,22
-compass,Your Maps contain Jun,4,7.0,58,24
+compass,Your Maps contain Jun,4,7.230769230769231,100,17
 compass,Map Bosses have 20% increased Life:Quality bonus of your Maps also applies to Rarity of Items found,4,3.6153846153846154,73,18
 compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Your Maps have a 50% chance to contain Gifts of the Sacrificed per Sacrifice Fragment used:Your Maps have a 50% chance to contain Gifts of the Red Queen per Mortal Fragment used,4,4.0,15,8
 compass,Catalysts dropped by Metamorphs in your Maps are Duplicated:Metamorphs in your Maps have 100% more Life,4,7.0,32,16
-compass,Players and Monsters take 12% increased Physical Damage:Your Maps contain 6 additional packs of Monsters that deal Physical Damage,4,3.0,5,3
 compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contain 6 additional packs of Monsters that Heal,4,3.0,25,5
 compass,Rogue Exiles deal 20% increased Damage:Rogue Exiles drop 2 additional Jewels:Rogue Exiles in your Maps have 20% increased Life:Your Maps are inhabited by 2 additional Rogue Exiles,4,4.0,66,12
-compass,The First 3 Possessed Monsters drop an additional Polished Scarab:Your Maps contain an additional Tormented Betrayer,4,3.6153846153846154,30,15
-compass,Your Maps contain Einhar,4,2.0,47,12
+compass,The First 3 Possessed Monsters drop an additional Polished Scarab:Your Maps contain an additional Tormented Betrayer,4,3.6153846153846154,47,18
+compass,Your Maps contain Einhar,4,3.0,30,10
 compass,Map Bosses deal 20% increased Damage:Your Maps have 20% Quality,4,5.0,48,13
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Purple Plants,4,282.0,30,18
 compass,The First 3 Possessed Monsters drop an additional Unique Item:Your Maps contain an additional Tormented Graverobber,4,3.6153846153846154,20,5
@@ -7852,22 +7851,22 @@ blueprint,Blueprint: Underbelly,3 wings,2.0,83,52
 blueprint,Blueprint: Repository,3 wings,30.0,47,36
 blueprint,Blueprint: Tunnels,3 wings,25.0,67,54
 blueprint,Blueprint: Laboratory,3 wings,10.0,49,31
-blueprint,Blueprint: Prohibited Library,3 wings,1.0,52,43
+blueprint,Blueprint: Prohibited Library,3 wings,2.0,62,48
 incubator,Abyssal Incubator,ilvl 83,0.5,339,23
 incubator,Blighted Incubator,ilvl 83,0.5,180,21
 incubator,Cartographer's Incubator,ilvl 83,0.5,331,25
 incubator,Celestial Armoursmith's Incubator,ilvl 83,0.5,116,14
 incubator,Celestial Blacksmith's Incubator,ilvl 83,0.5,76,14
-incubator,Celestial Jeweller's Incubator,ilvl 83,0.5,75,10
+incubator,Celestial Jeweller's Incubator,ilvl 83,1.0,97,14
 incubator,Diviner's Incubator,ilvl 83,5.0,243,33
 incubator,Enchanted Incubator,ilvl 83,0.5,335,31
 incubator,Foreboding Incubator,ilvl 83,0.5,318,27
-incubator,Geomancer's Incubator,ilvl 83,0.5,272,29
+incubator,Geomancer's Incubator,ilvl 83,1.0,294,31
 incubator,Infused Incubator,ilvl 83,1.0,443,19
 incubator,Kalguuran Incubator,ilvl 83,1.0,201,25
 incubator,Maddening Incubator,ilvl 83,1.0,154,23
 incubator,Morphing Incubator,ilvl 83,1.0,236,14
-incubator,Mysterious Incubator,ilvl 83,1.0,120,11
+incubator,Mysterious Incubator,ilvl 83,1.0,462,14
 incubator,Obscured Incubator,ilvl 83,0.5,142,20
 incubator,Ornate Incubator,ilvl 83,10.0,334,33
 incubator,Otherworldly Incubator,ilvl 83,0.5,159,22
@@ -7891,13 +7890,13 @@ beast,Craicic Chimeral,,493.5,69,34
 beast,Craicic Maw,,5.0,4,4
 beast,Craicic Vassal,,8.0,59,8
 beast,Farric Frost Hellion Alpha,,60.0,4,3
-beast,Farric Lynx Alpha,,2.0,59,10
+beast,Farric Lynx Alpha,,5.0,41,12
 beast,Farric Wolf Alpha,,10.0,100,22
 beast,Fenumal Plagued Arachnid,,10.0,37,17
 beast,Craicic Spider Crab,,235.0,4,3
 beast,Farric Tiger Alpha,,235.0,1,1
 beast,Fenumal Hybrid Arachnid,,70.0,3,2
-beast,Saqawine Rhex,,80.0,11,3
+beast,Saqawine Rhex,,235.0,3,1
 beast,Vivid Vulture,,893.0,99,13
 beast,Vivid Watcher,,164.5,88,6
 beast,Wild Brambleback,,35.0,71,2
@@ -9372,17 +9371,16 @@ unique,Kitava's Thirst,corrupted,1.0,74,71
 unique,Eye of Malice,clean,1.0,99,97
 unique,Eye of Malice,corrupted,4.0,81,75
 unique,Leper's Alms,clean,1.0,100,96
-unique,Leper's Alms,corrupted,1.0,56,53
-unique,Soulthirst,clean,2.0,34,34
+unique,Leper's Alms,corrupted,1.0,58,55
+unique,Soulthirst,clean,1.0,56,52
 unique,Soulthirst,corrupted,2.0,28,28
 unique,Crown of the Pale King,clean,1.0,98,85
-unique,Crown of the Pale King,corrupted,5.0,26,26
-unique,Calamitous Visions,clean,9.0,11,11
+unique,Crown of the Pale King,corrupted,5.0,33,33
+unique,Calamitous Visions,clean,10.0,22,17
 unique,Calamitous Visions,corrupted,10.0,30,28
-unique,One With Nothing,clean,40.0,48,41
+unique,One With Nothing,clean,35.0,42,40
 unique,One With Nothing,corrupted,30.0,72,63
 unique,Replica Atziri's Foible,clean,15.0,12,11
-unique,Replica Atziri's Foible,corrupted,15.0,1,1
 unique,Thief's Torment,clean,1.0,98,89
 unique,Thief's Torment,corrupted,1.0,94,88
 unique,Widowmaker,clean,1.0,28,27
