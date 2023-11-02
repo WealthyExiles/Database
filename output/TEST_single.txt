@@ -711,25 +711,25 @@ card,Tranquillity,,14.0,30,11
 card,Thunderou's Skies,,1.0,1576,31
 card,Three Voices,,1.0,3232,22
 card,Triskaidekaphobia,,1.0,439,33
-card,Unchained,,1.0,1126,24
-card,Underground Forest,,1.0,158,29
-card,Void of the Elements,,20.0,93,8
-card,Vinia's Token,,1.0,1051,27
-card,Vile Power,,1.0,214,15
-card,Unrequited Love,,10340.0,51,9
-card,Volatile Power,,1.0,4101,24
-card,Wealth And Power,,170.0,44,11
-card,Winter's Embrace,,38.0,39,8
-map,Dunes Map,T2,1.0,102,18
-map,Stagnation Map,T2,1.0,196,24
-map,Strand Map,T3,2.0,141,15
-map,Cemetery Map,T4,1.0,162,26
-map,Bone Crypt Map,T4,1.0,28,8
-map,Moon Temple Map,T4,1.0,144,23
-map,Vaal Pyramid Map,T4,1.0,209,23
-map,Atoll Map,T5,5.0,103,20
-map,Courtyard Map,T5,1.0,232,25
-map,Dunes Map,T5,2.0,11,5
+card,Unchained,,3.0,172,29
+card,Underground Forest,,5.0,271,24
+card,Void of the Elements,,5.0,30,14
+card,Vinia's Token,,1.0,1523,20
+card,Vile Power,,1.0,301,29
+card,Unrequited Love,,9870.0,110,14
+card,Volatile Power,,1.0,693,25
+card,Vanity,,2.0,354,26
+card,Wealth And Power,,40.0,97,20
+card,Winter's Embrace,,20.0,15,8
+map,Bone Crypt Map,T1,0.75,584,19
+map,Dunes Map,T2,2.0,202,23
+map,Overgrown Shrine Map,T3,0.5,401,26
+map,Strand Map,T3,1.0,250,23
+map,Cemetery Map,T4,1.0,253,27
+map,Bone Crypt Map,T4,0.5,75,16
+map,Vaal Pyramid Map,T4,1.0,385,23
+map,Atoll Map,T5,2.0,209,24
+map,Courtyard Map,T5,0.75,327,28
 map,Stagnation Map,T5,2.0,14,4
 map,Alleyways Map,T16,3.5,99,19
 map,Arachnid Nest Map,T16,4.0,140,19
@@ -2429,20 +2429,20 @@ gem,Maim Support,corrupted 21/20,30.0,5,5
 gem,Malevolence,clean 20/0,1.0,30,28
 gem,Malevolence,corrupted 20/0,4.0,63,50
 gem,Malevolence,corrupted 21/0,60.0,30,29
-gem,Malevolence,clean 1/20,24.0,18,18
-gem,Malevolence,clean 20/20,25.0,14,14
+gem,Malevolence,clean 1/20,8.0,33,30
+gem,Malevolence,clean 20/20,25.0,20,18
 gem,Malevolence,corrupted 20/20,15.0,26,20
 gem,Malevolence,corrupted 21/20,235.0,9,8
-gem,Mana Leech Support,clean 20/0,17.0,4,4
-gem,Mana Leech Support,corrupted 20/0,5.0,16,14
-gem,Mana Leech Support,corrupted 21/0,2.0,7,6
-gem,Mana Leech Support,clean 1/20,30.0,4,4
-gem,Mana Leech Support,clean 20/20,470.0,2,2
+gem,Mana Leech Support,clean 20/0,10.0,9,9
+gem,Mana Leech Support,corrupted 20/0,15.0,9,9
+gem,Mana Leech Support,corrupted 21/0,8.0,8,8
+gem,Mana Leech Support,clean 1/20,10.0,14,14
+gem,Mana Leech Support,clean 20/20,10.0,6,6
 gem,Mana Leech Support,corrupted 20/20,235.0,6,4
-gem,Mana Leech Support,corrupted 21/20,10.0,5,4
+gem,Mana Leech Support,corrupted 21/20,10.0,8,8
 gem,Meat Shield Support,clean 20/0,20.0,31,25
 gem,Meat Shield Support,corrupted 20/0,15.0,28,22
-gem,Meat Shield Support,corrupted 21/0,15.0,13,12
+gem,Meat Shield Support,corrupted 21/0,20.0,13,13
 gem,Meat Shield Support,clean 1/20,10.0,18,17
 gem,Meat Shield Support,clean 20/20,35.0,12,11
 gem,Meat Shield Support,corrupted 20/20,35.0,11,7
@@ -7719,8 +7719,8 @@ compass,Final Map Boss in each Map drops an additional Shaper Guardian Map (Tier
 compass,Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,3.6153846153846154,55,7
 compass,Your Maps contain hunted traitors,4,5.0,56,8
 compass,Breaches in your Maps belong to Chayula:Breaches in your Maps contain 3 additional Clasped Hands,4,10.846153846153847,48,21
-compass,Oils found in your Maps are 1 tier higher:Cost of Building and Upgrading Blight Towers in your Maps is doubled,4,10.846153846153847,41,19
-compass,Your Maps contain Jun,4,7.230769230769231,32,17
+compass,Oils found in your Maps are 1 tier higher:Cost of Building and Upgrading Blight Towers in your Maps is doubled,4,10.846153846153847,33,24
+compass,Your Maps contain Jun,4,7.0,58,24
 compass,Map Bosses have 20% increased Life:Quality bonus of your Maps also applies to Rarity of Items found,4,3.6153846153846154,37,14
 compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Your Maps have a 50% chance to contain Gifts of the Sacrificed per Sacrifice Fragment used:Your Maps have a 50% chance to contain Gifts of the Red Queen per Mortal Fragment used,4,3.0,16,9
 compass,Catalysts dropped by Metamorphs in your Maps are Duplicated:Metamorphs in your Maps have 100% more Life,4,7.0,32,16
@@ -7823,7 +7823,7 @@ compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,235.0,10,7
 contract,Lockpicking Contract,ilvl 83+,2.0,44,20
 contract,Brute Force Contract,ilvl 83+,3.0,16,7
-contract,Perception Contract,ilvl 83+,1.0,100,5
+contract,Perception Contract,ilvl 83+,2.0,97,23
 contract,Demolition Contract,ilvl 83+,1.0,50,10
 contract,Counter-Thaumaturgy Contract,ilvl 83+,2.0,31,6
 contract,Trap Disarmament Contract,ilvl 83+,6.0,15,6
@@ -7863,8 +7863,8 @@ incubator,Skittering Incubator,ilvl 83,1.0,833,23
 incubator,Thaumaturge's Incubator,ilvl 83,0.5,95,10
 vial,Vial of Awakening,,30.0,2,2
 vial,Vial of Consequence,,45.0,11,2
-vial,Vial of Dominance,,30.0,61,3
-vial,Vial of Fate,,3.0,19,6
+vial,Vial of Dominance,,20.0,62,4
+vial,Vial of Fate,,3.0,19,7
 vial,Vial of Summoning,,50.0,5,5
 vial,Vial of the Ritual,,3.0,2,2
 vial,Vial of Transcendence,,70.0,10,10
@@ -9016,11 +9016,12 @@ unique,Mark of the Red Covenant,clean,1.0,23,23
 unique,Mark of the Red Covenant,corrupted,2.0,30,30
 unique,Valako's Sign,clean,1.0,96,79
 unique,Valako's Sign,corrupted,1.0,30,29
+unique,The Immortal Will,clean,1175.0,1,1
 unique,The Immortal Will,corrupted,125.0,1,1
 unique,Aegis Aurora,clean,40.0,100,96
 unique,Aegis Aurora,corrupted,30.0,100,97
 unique,Echoes of Creation,clean,4.0,32,26
-unique,Echoes of Creation,corrupted,4.0,14,13
+unique,Echoes of Creation,corrupted,3.0,20,19
 unique,Ralakesh's Impatience,clean,105.0,100,98
 unique,Ralakesh's Impatience,corrupted,90.0,47,40
 unique,Sundance,clean,1.0,27,25
