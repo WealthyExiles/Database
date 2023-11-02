@@ -864,15 +864,10 @@ map,Blight Ravaged Dunes Map,T16,60.0,1,1
 map,Blight Ravaged Infested Valley Map,T16,120.0,5,3
 map,Blight Ravaged Leyline Map,T16,100.0,1,1
 map,Blight Ravaged Malformation Map,T16,200.0,1,1
-map,Blight Ravaged Museum Map,T16,80.0,1,1
-map,Blight Ravaged Overgrown Shrine Map,T16,235.0,1,1
-map,Blight Ravaged Necropolis Map,T16,235.0,1,1
-map,Blight Ravaged Pit Map,T16,90.0,2,2
-map,Blight Ravaged Orchard Map,T16,235.0,1,1
-map,Blight Ravaged Shore Map,T16,100.0,31,3
-map,Blight Ravaged Strand Map,T16,235.0,3,1
-map,Blight Ravaged Siege Map,T16,50.0,1,1
-map,Blight Ravaged Silo Map,T16,50.0,5,3
+map,Blight Ravaged Necropolis Map,T16,235.0,2,1
+map,Blight Ravaged Racecourse Map,T16,60.0,1,1
+map,Blight Ravaged Siege Map,T16,50.0,2,1
+map,Blight Ravaged Silo Map,T16,200.0,3,1
 map,Blight Ravaged Underground River Map,T16,60.0,2,2
 map,Blight Ravaged Tower Map,T16,90.0,4,2
 map,Blight Ravaged Sulphur Vents Map,T16,50.0,3,3
@@ -1430,9 +1425,8 @@ gem,Consecrated Path,clean 1/20,6.0,3,3
 gem,Consecrated Path,clean 20/20,6.0,2,2
 gem,Consecrated Path,corrupted 21/20,6.0,8,8
 gem,Contagion,clean 20/0,5.0,4,4
-gem,Contagion,corrupted 20/0,5.0,3,3
-gem,Contagion,corrupted 21/0,5.0,4,4
-gem,Contagion,clean 1/20,2.0,12,11
+gem,Contagion,corrupted 21/0,10.0,4,4
+gem,Contagion,clean 1/20,1.0,6,5
 gem,Contagion,clean 20/20,3.0,2,2
 gem,Contagion,corrupted 21/20,5.0,3,3
 gem,Controlled Destruction Support,clean 20/0,1.0,18,18
@@ -1440,13 +1434,13 @@ gem,Controlled Destruction Support,corrupted 20/0,5.0,16,12
 gem,Controlled Destruction Support,corrupted 21/0,19.0,3,3
 gem,Controlled Destruction Support,clean 1/20,5.0,11,11
 gem,Controlled Destruction Support,clean 20/20,10.0,12,12
-gem,Controlled Destruction Support,corrupted 20/20,10.0,10,8
-gem,Controlled Destruction Support,corrupted 21/20,19.0,2,2
-gem,Conversion Trap,clean 20/0,2.0,5,5
-gem,Conversion Trap,corrupted 20/0,3.0,3,3
-gem,Conversion Trap,corrupted 21/0,5.0,10,10
+gem,Controlled Destruction Support,corrupted 20/20,10.0,5,5
+gem,Controlled Destruction Support,corrupted 21/20,30.0,3,3
+gem,Conversion Trap,clean 20/0,3.0,2,2
+gem,Conversion Trap,corrupted 20/0,10.0,1,1
+gem,Conversion Trap,corrupted 21/0,3.0,7,7
 gem,Conversion Trap,clean 1/20,3.0,8,8
-gem,Conversion Trap,clean 20/20,5.0,5,5
+gem,Conversion Trap,clean 20/20,50.0,1,1
 gem,Conversion Trap,corrupted 20/20,235.0,2,2
 gem,Conversion Trap,corrupted 21/20,3.0,5,5
 gem,Convocation,clean 20/0,20.0,10,9
@@ -7702,19 +7696,19 @@ gem,Awakened Enhance Support,corrupted 4/0,1645.0,9,7
 gem,Awakened Enhance Support,corrupted 5/0,37600.0,10,10
 gem,Awakened Enhance Support,clean 1/20,7755.0,1,1
 gem,Awakened Enhance Support,corrupted 5/20,35015.0,3,3
-compass,Area contains a Smuggler's Cache,4,3.6153846153846154,69,22
+compass,Area contains a Smuggler's Cache,4,6.0,33,13
 compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,4,5.0,36,11
 compass,Unique Monsters drop Corrupted Items,4,3.0,17,5
 compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,25.307692307692307,9,5
-compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,18.076923076923077,22,13
+compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,21.692307692307693,43,22
 compass,Maps found in your Maps are Corrupted with 8 Modifiers,4,97.61538461538461,31,20
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,18.076923076923077,100,24
-compass,Create a copy of Beasts Captured in your Maps,4,14.461538461538462,48,17
+compass,Create a copy of Beasts Captured in your Maps,4,14.461538461538462,23,16
 compass,25% increased Magic Pack Size,4,8.0,100,15
-compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,4.0,1,1
+compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,5.0,12,2
 compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain an additional Essence,4,3.6153846153846154,100,14
 compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,4,3.6153846153846154,100,16
-compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,3.0,12,3
+compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,3.6153846153846154,10,2
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,5.423076923076923,39,18
 compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,2.0,6,5
 compass,20% increased Pack Size in your Unidentified Maps,4,8.0,82,9
@@ -7824,12 +7818,12 @@ compass,Your Maps contain 100% increased number of Runic Monster Markers,16,235.
 compass,Delirium Reward Bars fill 100% faster in your Maps,16,540.5,4,4
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,16,3055.0,5,4
 compass,Area contains Metamorph Monsters,16,25.0,5,1
-compass,25% increased Pack Size in your Unidentified Maps,16,100.0,6,4
-compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,50.0,4,4
+compass,25% increased Pack Size in your Unidentified Maps,16,100.0,50,6
+compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,50.0,7,5
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,235.0,14,7
 contract,Lockpicking Contract,ilvl 83+,5.0,37,11
 contract,Brute Force Contract,ilvl 83+,1.0,23,13
-contract,Perception Contract,ilvl 83+,1.0,100,9
+contract,Perception Contract,ilvl 83+,5.0,31,11
 contract,Demolition Contract,ilvl 83+,1.0,34,15
 contract,Counter-Thaumaturgy Contract,ilvl 83+,1.0,27,14
 contract,Trap Disarmament Contract,ilvl 83+,5.0,16,6
@@ -7851,7 +7845,7 @@ incubator,Cartographer's Incubator,ilvl 83,1.0,164,17
 incubator,Celestial Armoursmith's Incubator,ilvl 83,0.5,102,15
 incubator,Celestial Blacksmith's Incubator,ilvl 83,0.5,92,16
 incubator,Celestial Jeweller's Incubator,ilvl 83,0.5,73,12
-incubator,Diviner's Incubator,ilvl 83,5.0,92,22
+incubator,Diviner's Incubator,ilvl 83,5.0,124,13
 incubator,Enchanted Incubator,ilvl 83,0.5,418,21
 incubator,Foreboding Incubator,ilvl 83,0.5,187,19
 incubator,Geomancer's Incubator,ilvl 83,0.5,223,18
@@ -7874,10 +7868,10 @@ vial,Vial of Fate,,3.0,15,5
 vial,Vial of Summoning,,55.0,4,3
 vial,Vial of Transcendence,,70.0,17,8
 logbook,Bruids of the Broken Circle Logbook,ilvl 83+,5.0,72,32
-logbook,Black Scythe Mercenaries Logbook,ilvl 83+,24.0,100,24
+logbook,Black Scythe Mercenaries Logbook,ilvl 83+,35.0,71,20
 logbook,Order of the Chalice Logbook,ilvl 83+,10.0,54,18
 logbook,Knights of the Sun Logbook,ilvl 83+,69.0,84,8
-beast,Craicic Chimeral,,517.0,88,20
+beast,Craicic Chimeral,,540.5,73,19
 beast,Craicic Maw,,20.0,1,1
 beast,Farric Frost Hellion Alpha,,235.0,1,1
 beast,Farric Lynx Alpha,,5.0,100,7
@@ -7902,9 +7896,9 @@ map,Enslaver's Map,T16,10.0,100,24
 map,Eradicator's Map,T16,10.0,100,12
 map,Constrictor's Map,T16,9.0,100,15
 map,Purifier's Map,T16,10.0,100,12
-map,Baran's Citadel,T16,29.0,94,20
+map,Baran's Citadel,T16,29.0,99,20
 map,Veritania's Citadel,T16,29.0,94,21
-map,Al-Hezmin's Citadel,T16,25.0,100,29
+map,Al-Hezmin's Citadel,T16,28.0,95,20
 map,Drox's Citadel,T16,28.0,95,21
 unique,Bramblejack,clean,1.0,29,28
 unique,Bramblejack,clean 6-link,470.0,1,1
@@ -8359,29 +8353,28 @@ unique,Voidforge,corrupted,4700.0,4,4
 unique,Voidforge,corrupted 6-link,8225.0,2,2
 unique,Replica Oro's Sacrifice,clean,10.0,5,5
 unique,Echoforge,clean,100.0,15,15
-unique,Echoforge,clean 6-link,940.0,5,5
-unique,Echoforge,corrupted,60.0,3,3
+unique,Echoforge,clean 6-link,1880.0,3,3
+unique,Echoforge,corrupted,235.0,1,1
 unique,Echoforge,corrupted 6-link,1175.0,1,1
-unique,Limbsplit,clean,1.0,36,35
-unique,Limbsplit,corrupted,11.0,12,12
+unique,Limbsplit,clean,1.0,28,27
+unique,Limbsplit,corrupted,11.0,5,5
 unique,Wideswing,clean,1.0,29,29
 unique,Wideswing,clean 6-link,200.0,1,1
-unique,Wideswing,corrupted,20.0,15,15
-unique,Reaper's Pursuit,clean,1.0,60,59
-unique,Reaper's Pursuit,clean 6-link,235.0,2,2
-unique,Reaper's Pursuit,corrupted,15.0,4,4
+unique,Wideswing,corrupted,20.0,5,5
+unique,Reaper's Pursuit,clean,1.0,25,24
+unique,Reaper's Pursuit,clean 6-link,235.0,1,1
+unique,Reaper's Pursuit,corrupted,50.0,5,5
 unique,The Harvest,clean,1.0,46,45
-unique,The Harvest,clean 6-link,470.0,1,1
-unique,The Harvest,corrupted,3.0,37,37
-unique,Replica Harvest,clean,10.0,6,6
-unique,The Blood Reaper,clean,1.0,36,35
-unique,The Blood Reaper,clean 6-link,100.0,1,1
+unique,The Harvest,corrupted,3.0,16,12
+unique,Replica Harvest,clean,10.0,4,4
+unique,The Blood Reaper,clean,1.0,13,13
+unique,The Blood Reaper,clean 6-link,75.0,1,1
 unique,The Blood Reaper,corrupted,50.0,7,7
-unique,Ngamahu's Flame,clean,1.0,20,19
+unique,Ngamahu's Flame,clean,2.0,8,8
 unique,Ngamahu's Flame,corrupted,5.0,19,19
 unique,Ngamahu's Flame,corrupted 6-link,235.0,1,1
-unique,Kaom's Primacy,clean,1.0,46,42
-unique,Kaom's Primacy,clean 6-link,235.0,1,1
+unique,Kaom's Primacy,clean,1.0,28,25
+unique,Kaom's Primacy,clean 6-link,120.0,2,2
 unique,Kaom's Primacy,corrupted,8.0,10,10
 unique,Wings of Entropy,clean,1.0,42,41
 unique,Wings of Entropy,clean 6-link,235.0,1,1
