@@ -706,13 +706,12 @@ map,Tropical Island Map,T16,3.0,681,28
 map,Underground Sea Map,T16,3.0,331,29
 map,Volcano Map,T16,3.0,196,26
 map,Wharf Map,T16,3.0,539,33
-map,Vaal Temple Map,T16,4.5,1211,27
-map,Vaal Pyramid Map,T16,3.0,467,23
-map,Blighted Bone Crypt Map,T1,10.0,2,2
-map,Blighted Dunes Map,T2,5.0,1,1
-map,Blighted Overgrown Shrine Map,T3,15.0,1,1
-map,Blighted Strand Map,T3,5.0,1,1
-map,Blighted Moon Temple Map,T4,30.0,1,1
+map,Vaal Pyramid Map,T16,2.0,659,35
+map,Underground River Map,T16,3.0,521,34
+map,Blighted Bone Crypt Map,T1,9.0,5,4
+map,Blighted Overgrown Shrine Map,T3,6.0,1,1
+map,Blighted Strand Map,T3,5.0,2,2
+map,Blighted Cemetery Map,T4,8.0,1,1
 map,Blighted Alleyways Map,T16,15.0,2,1
 map,Blighted Arcade Map,T16,20.0,1,1
 map,Blighted Beach Map,T16,15.0,8,4
@@ -4504,16 +4503,15 @@ gem,Anomalous Plague Bearer,clean 20/0,40.0,2,2
 gem,Anomalous Plague Bearer,corrupted 20/0,30.0,5,5
 gem,Anomalous Plague Bearer,clean 1/20,30.0,4,4
 gem,Anomalous Plague Bearer,clean 20/20,60.0,1,1
-gem,Anomalous Plague Bearer,corrupted 21/20,408.0,1,1
 gem,Anomalous Poacher's Mark,clean 20/0,100.0,4,4
-gem,Anomalous Poacher's Mark,corrupted 20/0,100.0,3,3
+gem,Anomalous Poacher's Mark,corrupted 20/0,120.0,2,2
 gem,Anomalous Poacher's Mark,corrupted 21/0,600.0,2,2
-gem,Anomalous Poacher's Mark,clean 1/20,80.0,4,4
+gem,Anomalous Poacher's Mark,clean 1/20,100.0,4,4
 gem,Anomalous Poacher's Mark,clean 20/20,100.0,3,3
 gem,Anomalous Poacher's Mark,corrupted 20/20,100.0,2,2
-gem,Anomalous Point Blank Support,corrupted 20/0,80.0,1,1
-gem,Anomalous Point Blank Support,corrupted 21/0,480.0,1,1
-gem,Anomalous Point Blank Support,corrupted 20/20,80.0,1,1
+gem,Anomalous Poacher's Mark,corrupted 21/20,1200.0,1,1
+gem,Anomalous Point Blank Support,clean 1/20,20.0,2,2
+gem,Anomalous Point Blank Support,clean 20/20,240.0,1,1
 gem,Anomalous Power Charge On Critical Support,clean 20/0,240.0,3,3
 gem,Anomalous Power Charge On Critical Support,corrupted 20/0,140.0,19,12
 gem,Anomalous Power Charge On Critical Support,corrupted 21/0,648.0,6,6
@@ -7478,7 +7476,7 @@ compass,25% increased Magic Pack Size,4,7.0,100,8
 compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,3.0,31,5
 compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain an additional Essence,4,3.75,41,18
 compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,4,8.0,99,19
-compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,5.0,4,4
+compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,4.0,9,7
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,7.5,26,15
 compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,4.0,4,3
 compass,20% increased Pack Size in your Unidentified Maps,4,3.75,92,20
@@ -7619,7 +7617,7 @@ blueprint,Blueprint: Laboratory,3 wings,2.0,82,40
 blueprint,Blueprint: Prohibited Library,3 wings,5.0,69,44
 incubator,Abyssal Incubator,ilvl 83,1.0,267,17
 incubator,Blighted Incubator,ilvl 83,1.0,139,13
-incubator,Cartographer's Incubator,ilvl 83,1.0,282,21
+incubator,Cartographer's Incubator,ilvl 83,1.0,294,18
 incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,17,5
 incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,32,8
 incubator,Celestial Jeweller's Incubator,ilvl 83,1.0,54,10
@@ -7651,7 +7649,7 @@ logbook,Bruids of the Broken Circle Logbook,ilvl 83+,10.0,100,30
 logbook,Black Scythe Mercenaries Logbook,ilvl 83+,20.0,100,22
 logbook,Order of the Chalice Logbook,ilvl 83+,9.0,100,32
 logbook,Knights of the Sun Logbook,ilvl 83+,45.0,25,15
-beast,Craicic Chimeral,,504.0,33,20
+beast,Craicic Chimeral,,576.0,23,10
 beast,Craicic Maw,,7.0,4,3
 beast,Farric Frost Hellion Alpha,,50.0,6,3
 beast,Farric Lynx Alpha,,5.0,13,4
@@ -7659,7 +7657,7 @@ beast,Farric Wolf Alpha,,13.0,100,5
 beast,Fenumal Plagued Arachnid,,11.0,27,10
 beast,Craicic Spider Crab,,150.0,4,4
 beast,Farric Tiger Alpha,,150.0,4,3
-beast,Fenumal Hybrid Arachnid,,70.0,1,1
+beast,Fenumal Hybrid Arachnid,,70.0,3,3
 beast,Saqawine Rhex,,80.0,4,2
 beast,Primal Rhex Matriarch,,35.0,2,2
 beast,Vivid Vulture,,864.0,100,5
@@ -8342,7 +8340,7 @@ unique,Voidbringer,corrupted,1.0,43,42
 unique,Flesh and Spirit,clean,1.0,63,54
 unique,Flesh and Spirit,corrupted,1.0,30,30
 unique,Bones of Ullr,clean,1.0,27,26
-unique,Bones of Ullr,corrupted,5.0,54,54
+unique,Bones of Ullr,corrupted,10.0,55,52
 unique,Cyclopean Coil,clean,1.0,86,80
 unique,Cyclopean Coil,corrupted,3.0,99,81
 unique,Allure,clean,1.0,94,86
