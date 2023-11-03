@@ -833,21 +833,18 @@ map,Blight Ravaged Bone Crypt Map,T16,100.0,1,1
 map,Blight Ravaged Castle Ruins Map,T16,235.0,1,1
 map,Blight Ravaged Cemetery Map,T16,80.0,4,4
 map,Blight Ravaged Cells Map,T16,50.0,1,1
-map,Blight Ravaged Colonnade Map,T16,235.0,1,1
-map,Blight Ravaged Coves Map,T16,50.0,3,3
-map,Blight Ravaged Courtyard Map,T16,200.0,1,1
-map,Blight Ravaged Crimson Temple Map,T16,90.0,21,6
-map,Blight Ravaged Cursed Crypt Map,T16,40.0,2,2
-map,Blight Ravaged Dunes Map,T16,235.0,3,2
-map,Blight Ravaged Dungeon Map,T16,50.0,3,2
-map,Blight Ravaged Flooded Mine Map,T16,100.0,1,1
-map,Blight Ravaged Infested Valley Map,T16,60.0,9,5
-map,Blight Ravaged Museum Map,T16,95.0,4,3
-map,Blight Ravaged Moon Temple Map,T16,235.0,1,1
-map,Blight Ravaged Necropolis Map,T16,100.0,1,1
-map,Blight Ravaged Pit Map,T16,50.0,3,2
+map,Blight Ravaged Coves Map,T16,120.0,1,1
+map,Blight Ravaged Crimson Temple Map,T16,90.0,20,7
+map,Blight Ravaged Dunes Map,T16,188.0,2,2
+map,Blight Ravaged Dungeon Map,T16,100.0,1,1
+map,Blight Ravaged Geode Map,T16,100.0,1,1
+map,Blight Ravaged Infested Valley Map,T16,50.0,7,4
+map,Blight Ravaged Leyline Map,T16,100.0,2,2
+map,Blight Ravaged Museum Map,T16,70.0,2,2
+map,Blight Ravaged Necropolis Map,T16,100.0,2,2
+map,Blight Ravaged Pit Map,T16,90.0,3,2
 map,Blight Ravaged Orchard Map,T16,50.0,2,2
-map,Blight Ravaged Plateau Map,T16,50.0,1,1
+map,Blight Ravaged Precinct Map,T16,235.0,1,1
 map,Blight Ravaged Port Map,T16,55.0,2,2
 map,Blight Ravaged Primordial Pool Map,T16,50.0,1,1
 map,Blight Ravaged Racecourse Map,T16,45.0,1,1
@@ -3636,30 +3633,25 @@ gem,Mark On Hit Support,clean 1/20,19.0,17,17
 gem,Mark On Hit Support,clean 20/20,38.0,12,12
 gem,Mark On Hit Support,corrupted 20/20,28.0,21,21
 gem,Mark On Hit Support,corrupted 21/20,235.0,11,11
-gem,Divine Blessing Support,clean 20/0,10.0,35,34
+gem,Divine Blessing Support,clean 20/0,8.0,16,15
 gem,Divine Blessing Support,corrupted 20/0,10.0,82,47
 gem,Divine Blessing Support,corrupted 21/0,10.0,24,23
-gem,Divine Blessing Support,clean 1/20,12.0,58,56
-gem,Divine Blessing Support,clean 20/20,25.0,24,22
+gem,Divine Blessing Support,clean 1/20,19.0,50,19
+gem,Divine Blessing Support,clean 20/20,30.0,42,11
 gem,Divine Blessing Support,corrupted 20/20,29.0,49,23
 gem,Divine Blessing Support,corrupted 21/20,200.0,27,26
-gem,Eternal Blessing Support,clean 20/0,9.0,27,19
-gem,Eternal Blessing Support,corrupted 20/0,10.0,29,25
-gem,Eternal Blessing Support,corrupted 21/0,3.0,24,23
-gem,Eternal Blessing Support,clean 1/20,10.0,13,12
-gem,Eternal Blessing Support,clean 20/20,40.0,18,17
+gem,Eternal Blessing Support,clean 20/0,10.0,10,10
+gem,Eternal Blessing Support,corrupted 20/0,30.0,19,16
+gem,Eternal Blessing Support,corrupted 21/0,10.0,7,7
+gem,Eternal Blessing Support,clean 1/20,30.0,7,7
+gem,Eternal Blessing Support,clean 20/20,40.0,5,5
 gem,Eternal Blessing Support,corrupted 20/20,39.0,13,13
-gem,Eternal Blessing Support,corrupted 21/20,100.0,11,10
-gem,Anomalous Added Chaos Damage Support,corrupted 20/0,100.0,1,1
-gem,Anomalous Added Cold Damage Support,clean 20/0,50.0,2,2
+gem,Eternal Blessing Support,corrupted 21/20,65.0,4,4
 gem,Anomalous Added Cold Damage Support,clean 1/20,50.0,2,2
-gem,Anomalous Added Cold Damage Support,clean 20/20,50.0,2,2
-gem,Anomalous Added Fire Damage Support,corrupted 21/0,587.5,1,1
-gem,Anomalous Added Fire Damage Support,clean 1/20,470.0,1,1
-gem,Anomalous Added Fire Damage Support,corrupted 21/20,587.5,1,1
-gem,Anomalous Added Lightning Damage Support,corrupted 20/0,60.0,1,1
-gem,Anomalous Added Lightning Damage Support,corrupted 21/0,940.0,1,1
-gem,Anomalous Added Lightning Damage Support,clean 1/20,70.0,1,1
+gem,Anomalous Added Fire Damage Support,clean 20/0,235.0,1,1
+gem,Anomalous Added Fire Damage Support,clean 1/20,235.0,1,1
+gem,Anomalous Added Lightning Damage Support,corrupted 20/0,235.0,1,1
+gem,Anomalous Added Lightning Damage Support,corrupted 20/20,235.0,1,1
 gem,Anomalous Additional Accuracy Support,clean 20/0,70.0,1,1
 gem,Anomalous Additional Accuracy Support,corrupted 20/0,40.0,2,2
 gem,Anomalous Additional Accuracy Support,clean 1/20,70.0,1,1
@@ -7743,31 +7735,31 @@ compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 addi
 compass,Your Magic Maps contain 5 additional packs of Magic Monsters:Your Normal Maps contain 5 additional packs of Normal Monsters:Your Rare Maps contain 5 additional Rare Monster packs,16,14.0,100,1
 compass,Your Maps contain 8 additional packs of Corrupted Vaal Monsters:Items dropped by Corrupted Vaal Monsters in your Maps have 30% chance to be Corrupted,16,70.5,8,1
 compass,Players and Monsters take 14% increased Chaos Damage:Your Maps contain 8 additional packs of Monsters that deal Chaos Damage,16,6.0,100,1
-compass,Your Maps contain Ritual Altars,16,70.0,18,5
+compass,Your Maps contain Ritual Altars,16,50.0,13,4
 compass,Map Bosses of your Corrupted Maps drop 3 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,16,15.0,16,4
 compass,The First 3 Possessed Monsters drop an additional Winged Scarab:Your Maps contain an additional Tormented Betrayer,16,3407.5,30,7
 compass,Players and Monsters take 14% increased Cold Damage:Your Maps contain 8 additional packs of Monsters that deal Cold Damage,16,25.0,23,3
 compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,16,10.0,11,2
-compass,Your Maps contain 2 additional Abysses:Your Maps can contain Abysses,16,70.0,32,6
+compass,Your Maps contain 2 additional Abysses:Your Maps can contain Abysses,16,70.5,73,8
 compass,30% increased Magic Pack Size,16,200.0,37,8
 compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain 8 additional packs of Corrupted Vaal Monsters,16,25.0,6,3
 compass,Your Maps contain 35 additional Clusters of Mysterious Barrels,16,25.0,4,2
 compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 5 additional Packs with Mirrored Rare Monsters,16,20.0,63,7
-compass,Final Map Boss in each Map drops an additional Shaper Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,125.0,4,4
+compass,Final Map Boss in each Map drops an additional Shaper Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,100.0,5,5
 compass,Your Maps contain hunted traitors,16,33.0,31,10
-compass,Breaches in your Maps belong to Chayula:Breaches in your Maps contain 3 additional Clasped Hands,16,282.0,14,7
+compass,Breaches in your Maps belong to Chayula:Breaches in your Maps contain 3 additional Clasped Hands,16,235.0,14,7
 compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 8 additional packs of Corrupted Vaal Monsters,16,47.0,12,2
 compass,Oils found in your Maps are 1 tier higher:Cost of Building and Upgrading Blight Towers in your Maps is doubled,16,100.0,19,5
 compass,Players and Monsters take 14% increased Lightning Damage:Your Maps contain 8 additional packs of Monsters that deal Lightning Damage,16,8.0,30,4
-compass,Your Maps contain Jun,16,50.0,20,7
+compass,Your Maps contain Jun,16,49.0,40,10
 compass,Players and Monsters take 14% increased Physical Damage:Your Maps contain 8 additional packs of Monsters that deal Physical Damage,16,6.0,100,1
-compass,Catalysts dropped by Metamorphs in your Maps are Duplicated:Metamorphs in your Maps have 100% more Life,16,50.0,9,4
+compass,Catalysts dropped by Metamorphs in your Maps are Duplicated:Metamorphs in your Maps have 100% more Life,16,50.0,12,3
 compass,Players and Monsters take 14% increased Fire Damage:Your Maps contain 8 additional packs of Monsters that deal Fire Damage,16,25.0,30,4
 compass,Your Maps contain The Sacred Grove,16,564.0,18,11
 compass,Your Maps can contain Breaches:Your Maps contain 2 additional Breaches,16,130.0,27,10
 compass,Your Maps contain Einhar,16,12.0,38,6
 compass,Map Bosses are accompanied by Bodyguards:2 additional Maps drop on Completing your Maps,16,40.0,19,5
-compass,Your Maps contain 8 additional packs of Monsters that Convert when Killed,16,47.0,17,3
+compass,Your Maps contain 8 additional packs of Monsters that Convert when Killed,16,6.0,100,1
 compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,329.0,25,10
 compass,Your Maps contain a Mirror of Delirium,16,282.0,31,12
 compass,100% increased Intelligence gained from Immortal Syndicate targets encountered in your Maps,16,69.0,16,5
@@ -7802,11 +7794,11 @@ contract,Deception Contract,ilvl 83+,9.0,31,17
 contract,Engineering Contract,ilvl 83+,2.0,48,11
 blueprint,Blueprint: Bunker,3 wings,5.0,32,25
 blueprint,Blueprint: Mansion,3 wings,1.0,45,35
-blueprint,Blueprint: Records Office,3 wings,2.0,42,35
-blueprint,Blueprint: Smuggler's Den,3 wings,2.0,59,29
+blueprint,Blueprint: Records Office,3 wings,5.0,27,22
+blueprint,Blueprint: Smuggler's Den,3 wings,5.0,40,25
 blueprint,Blueprint: Underbelly,3 wings,2.0,58,30
 blueprint,Blueprint: Repository,3 wings,40.0,44,32
-blueprint,Blueprint: Tunnels,3 wings,25.0,50,44
+blueprint,Blueprint: Tunnels,3 wings,3.0,54,43
 blueprint,Blueprint: Laboratory,3 wings,8.0,33,23
 blueprint,Blueprint: Prohibited Library,3 wings,5.0,52,39
 incubator,Abyssal Incubator,ilvl 83,0.5,661,23
@@ -7838,7 +7830,7 @@ vial,Vial of Fate,,10.0,4,4
 vial,Vial of Summoning,,55.0,5,5
 vial,Vial of the Ritual,,1.0,1,1
 vial,Vial of Transcendence,,69.0,1,1
-logbook,Bruids of the Broken Circle Logbook,ilvl 83+,8.0,100,33
+logbook,Bruids of the Broken Circle Logbook,ilvl 83+,8.0,66,39
 logbook,Black Scythe Mercenaries Logbook,ilvl 83+,20.0,69,27
 logbook,Order of the Chalice Logbook,ilvl 83+,10.0,37,26
 logbook,Knights of the Sun Logbook,ilvl 83+,30.0,13,12
@@ -7849,13 +7841,13 @@ beast,Farric Frost Hellion Alpha,,45.0,5,3
 beast,Farric Lynx Alpha,,2.0,100,4
 beast,Farric Wolf Alpha,,13.0,100,9
 beast,Fenumal Plagued Arachnid,,15.0,100,12
-beast,Craicic Spider Crab,,43.0,5,4
+beast,Craicic Spider Crab,,190.0,10,3
 beast,Farric Tiger Alpha,,200.0,3,2
 beast,Fenumal Hybrid Arachnid,,100.0,1,1
 beast,Saqawine Rhex,,60.0,10,3
 beast,Primal Rhex Matriarch,,40.0,6,3
 beast,Vivid Vulture,,869.5,100,3
-beast,Vivid Watcher,,141.0,100,4
+beast,Vivid Watcher,,188.0,100,1
 beast,Wild Brambleback,,35.0,39,1
 beast,Wild Bristle Matron,,235.0,100,3
 beast,Wild Hellion Alpha,,305.5,84,4
@@ -9717,14 +9709,14 @@ unique,Eye of Innocence,corrupted,4.0,45,43
 unique,Ashcaller,clean,1.0,80,76
 unique,Ashcaller,corrupted,7.0,30,29
 unique,Starkonja's Head,clean,1.0,97,90
-unique,Starkonja's Head,corrupted,5.0,100,94
+unique,Starkonja's Head,corrupted,4.0,54,52
 unique,Fertile Mind,corrupted,1.0,63,59
-unique,Hand of Wisdom and Action,clean,70.0,11,9
+unique,Hand of Wisdom and Action,clean,80.0,15,14
 unique,Essence Worm,clean,1.0,96,76
-unique,Essence Worm,corrupted,1.0,58,44
+unique,Essence Worm,corrupted,15.0,15,15
 unique,Goredrill,clean,1.0,43,41
 unique,Goredrill,corrupted,10.0,20,20
-unique,Fated End,clean,35.0,7,7
+unique,Fated End,clean,40.0,6,6
 unique,Triumvirate Authority,clean,1.0,98,91
 unique,Triumvirate Authority,corrupted,4.0,2,2
 unique,Replica Volkuur's Guidance,clean,20.0,10,10
