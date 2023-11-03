@@ -697,16 +697,14 @@ map,Vaal Pyramid Map,T16,3.0,467,23
 map,Blighted Bone Crypt Map,T1,10.0,2,2
 map,Blighted Dunes Map,T2,5.0,1,1
 map,Blighted Overgrown Shrine Map,T3,15.0,1,1
-map,Blighted Strand Map,T3,5.0,2,2
-map,Blighted Cemetery Map,T4,20.0,2,1
+map,Blighted Strand Map,T3,5.0,1,1
+map,Blighted Moon Temple Map,T4,30.0,1,1
 map,Blighted Alleyways Map,T16,15.0,2,1
-map,Blighted Arachnid Nest Map,T16,15.0,4,3
-map,Blighted Beach Map,T16,30.0,3,1
-map,Blighted Atoll Map,T16,25.0,33,3
-map,Blighted Caldera Map,T16,15.0,16,3
-map,Blighted Bone Crypt Map,T16,25.0,2,1
-map,Blighted Cemetery Map,T16,40.0,6,3
-map,Blighted Cells Map,T16,25.0,1,1
+map,Blighted Arcade Map,T16,20.0,1,1
+map,Blighted Beach Map,T16,15.0,8,4
+map,Blighted Caldera Map,T16,15.0,3,2
+map,Blighted Bone Crypt Map,T16,20.0,7,2
+map,Blighted Cemetery Map,T16,20.0,15,3
 map,Blighted Chateau Map,T16,20.0,2,2
 map,Blighted City Square Map,T16,20.0,5,2
 map,Blighted Courtyard Map,T16,15.0,2,2
@@ -3976,15 +3974,13 @@ gem,Anomalous Ensnaring Arrow,corrupted 21/0,681.5,2,2
 gem,Anomalous Ensnaring Arrow,clean 1/20,55.0,10,10
 gem,Anomalous Ensnaring Arrow,clean 20/20,40.0,2,2
 gem,Anomalous Ensnaring Arrow,corrupted 20/20,58.0,4,2
-gem,Anomalous Essence Drain,clean 1/20,39.0,1,1
-gem,Anomalous Ethereal Knives,clean 20/0,60.0,4,4
 gem,Anomalous Ethereal Knives,corrupted 20/0,18.0,4,4
 gem,Anomalous Ethereal Knives,corrupted 21/0,1880.0,1,1
 gem,Anomalous Ethereal Knives,corrupted 20/20,18.0,4,4
 gem,Anomalous Ethereal Knives,corrupted 21/20,1880.0,1,1
-gem,Anomalous Explosive Arrow,clean 1/20,45.0,2,2
+gem,Anomalous Explosive Arrow,corrupted 20/0,10.0,2,2
+gem,Anomalous Explosive Arrow,clean 1/20,80.0,3,3
 gem,Anomalous Explosive Arrow,corrupted 20/20,30.0,2,2
-gem,Anomalous Explosive Trap,clean 20/0,20.0,2,2
 gem,Anomalous Explosive Trap,clean 1/20,40.0,1,1
 gem,Anomalous Explosive Trap,clean 20/20,20.0,2,2
 gem,Anomalous Exsanguinate,clean 20/0,98.0,5,5
@@ -7550,7 +7546,7 @@ compass,Rogue Exiles deal 20% increased Damage:Rogue Exiles drop 2 additional Je
 compass,The First 3 Possessed Monsters drop an additional Polished Scarab:Your Maps contain an additional Tormented Betrayer,4,3.671875,10,9
 compass,Your Maps contain Einhar,4,2.0,19,8
 compass,Map Bosses deal 20% increased Damage:Your Maps have 20% Quality,4,6.0,46,12
-compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Purple Plants,4,282.0,7,7
+compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Purple Plants,4,282.0,19,13
 compass,The First 3 Possessed Monsters drop an additional Unique Item:Your Maps contain an additional Tormented Graverobber,4,5.0,1,1
 compass,Your Maps contain a Mirror of Delirium,4,14.6875,44,18
 compass,Your Maps contain Alva,4,7.34375,63,25
@@ -7660,7 +7656,7 @@ blueprint,Blueprint: Laboratory,3 wings,3.0,55,22
 blueprint,Blueprint: Prohibited Library,3 wings,9.0,74,27
 incubator,Abyssal Incubator,ilvl 83,4.0,97,10
 incubator,Blighted Incubator,ilvl 83,1.0,91,15
-incubator,Cartographer's Incubator,ilvl 83,1.0,196,21
+incubator,Cartographer's Incubator,ilvl 83,1.0,126,16
 incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,23,7
 incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,30,5
 incubator,Celestial Jeweller's Incubator,ilvl 83,1.0,27,7
@@ -7672,7 +7668,7 @@ incubator,Infused Incubator,ilvl 83,1.0,143,16
 incubator,Kalguuran Incubator,ilvl 83,1.0,413,11
 incubator,Maddening Incubator,ilvl 83,1.0,63,11
 incubator,Morphing Incubator,ilvl 83,1.0,56,6
-incubator,Mysterious Incubator,ilvl 83,1.0,43,8
+incubator,Mysterious Incubator,ilvl 83,2.0,82,8
 incubator,Obscured Incubator,ilvl 83,1.0,62,12
 incubator,Ornate Incubator,ilvl 83,5.0,185,17
 incubator,Otherworldly Incubator,ilvl 83,1.0,39,8
@@ -7690,7 +7686,7 @@ vial,Vial of Transcendence,,60.0,9,7
 logbook,Bruids of the Broken Circle Logbook,ilvl 83+,10.0,63,35
 logbook,Black Scythe Mercenaries Logbook,ilvl 83+,28.0,45,28
 logbook,Order of the Chalice Logbook,ilvl 83+,10.0,40,29
-logbook,Knights of the Sun Logbook,ilvl 83+,30.0,14,11
+logbook,Knights of the Sun Logbook,ilvl 83+,60.0,15,11
 beast,Craicic Chimeral,,188.0,43,13
 beast,Craicic Maw,,20.0,1,1
 beast,Craicic Vassal,,20.0,2,2
@@ -7933,17 +7929,17 @@ unique,The Ivory Tower,clean,3.0,99,99
 unique,The Ivory Tower,clean 6-link,470.0,10,10
 unique,The Ivory Tower,corrupted,14.0,98,94
 unique,The Ivory Tower,corrupted 6-link,705.0,13,13
-unique,Doryani's Prototype,clean,1.0,36,36
+unique,Doryani's Prototype,clean,10.0,33,33
 unique,Doryani's Prototype,clean 6-link,470.0,11,11
 unique,Doryani's Prototype,corrupted,9.0,64,63
 unique,Doryani's Prototype,corrupted 6-link,235.0,26,25
 unique,Incandescent Heart,clean,2.0,41,41
-unique,Incandescent Heart,clean 6-link,235.0,5,5
+unique,Incandescent Heart,clean 6-link,587.5,2,2
 unique,Incandescent Heart,corrupted,1.0,94,93
 unique,Incandescent Heart,corrupted 6-link,446.5,32,31
 unique,Chains of Command,clean,2.0,32,32
 unique,Chains of Command,clean 6-link,352.5,1,1
-unique,Chains of Command,corrupted,20.0,27,25
+unique,Chains of Command,corrupted,3.0,17,16
 unique,Bloodbond,clean,1.0,96,93
 unique,Bloodbond,clean 6-link,235.0,4,4
 unique,Bloodbond,corrupted,1.0,17,17
