@@ -678,26 +678,34 @@ map,Frozen Cabins Map,T16,3.0,185,27
 map,Geode Map,T16,3.5,243,26
 map,Lair of the Hydra Map,T16,8.0,798,26
 map,Malformation Map,T16,3.0,584,28
-map,Necropolis Map,T16,3.0,155,26
-map,Moon Temple Map,T16,9.0,51,13
-map,Orchard Map,T16,4.0,170,21
-map,Pit Map,T16,4.0,117,20
-map,Pier Map,T16,3.0,153,20
-map,Phantasmagoria Map,T16,3.0,433,31
-map,Primordial Blocks Map,T16,4.0,49,14
-map,Precinct Map,T16,3.0,106,20
-map,Promenade Map,T16,4.0,254,25
-map,Racecourse Map,T16,3.0,119,22
-map,Shore Map,T16,4.5,146,22
-map,Silo Map,T16,3.0,660,30
-map,Stagnation Map,T16,3.0,177,17
-map,Terrace Map,T16,4.0,116,18
-map,Sulphur Vents Map,T16,2.0,810,29
-map,Strand Map,T16,3.0,2658,37
-map,Tower Map,T16,4.0,147,20
-map,Tropical Island Map,T16,4.5,429,24
-map,Volcano Map,T16,4.0,114,22
-map,Wharf Map,T16,3.0,280,25
+map,Maze of the Minotaur Map,T16,10.0,824,27
+map,Mineral Pools Map,T16,3.0,227,24
+map,Necropolis Map,T16,2.0,293,30
+map,Orchard Map,T16,3.0,329,26
+map,Pit Map,T16,3.0,190,27
+map,Pier Map,T16,3.0,223,26
+map,Phantasmagoria Map,T16,2.0,489,26
+map,Pit of the Chimera Map,T16,9.0,892,29
+map,Plateau Map,T16,3.5,607,31
+map,Primordial Blocks Map,T16,3.0,137,26
+map,Precinct Map,T16,2.0,237,27
+map,Port Map,T16,3.0,261,27
+map,Promenade Map,T16,4.0,595,31
+map,Racecourse Map,T16,2.0,252,26
+map,Residence Map,T16,3.0,978,33
+map,Shore Map,T16,3.5,196,30
+map,Silo Map,T16,2.0,791,24
+map,Stagnation Map,T16,3.0,240,26
+map,Siege Map,T16,3.0,333,33
+map,Terrace Map,T16,3.0,159,22
+map,Strand Map,T16,2.0,2475,35
+map,Thicket Map,T16,3.0,340,27
+map,Temple Map,T16,3.0,772,28
+map,Tower Map,T16,3.0,199,29
+map,Tropical Island Map,T16,3.0,681,28
+map,Underground Sea Map,T16,3.0,331,29
+map,Volcano Map,T16,3.0,196,26
+map,Wharf Map,T16,3.0,539,33
 map,Vaal Temple Map,T16,4.5,1211,27
 map,Vaal Pyramid Map,T16,3.0,467,23
 map,Blighted Bone Crypt Map,T1,10.0,2,2
@@ -4490,12 +4498,12 @@ gem,Anomalous Pierce Support,corrupted 20/0,30.0,4,4
 gem,Anomalous Pierce Support,corrupted 21/0,1200.0,1,1
 gem,Anomalous Pierce Support,clean 1/20,80.0,6,6
 gem,Anomalous Pierce Support,corrupted 20/20,90.0,2,2
-gem,Anomalous Pinpoint Support,corrupted 20/0,240.0,1,1
+gem,Anomalous Pierce Support,corrupted 21/20,1200.0,1,1
 gem,Anomalous Pinpoint Support,corrupted 20/20,240.0,1,1
 gem,Anomalous Plague Bearer,clean 20/0,40.0,2,2
-gem,Anomalous Plague Bearer,corrupted 21/0,360.0,1,1
+gem,Anomalous Plague Bearer,corrupted 20/0,30.0,5,5
 gem,Anomalous Plague Bearer,clean 1/20,30.0,4,4
-gem,Anomalous Plague Bearer,clean 20/20,1200.0,1,1
+gem,Anomalous Plague Bearer,clean 20/20,60.0,1,1
 gem,Anomalous Plague Bearer,corrupted 21/20,408.0,1,1
 gem,Anomalous Poacher's Mark,clean 20/0,100.0,4,4
 gem,Anomalous Poacher's Mark,corrupted 20/0,100.0,3,3
@@ -7459,11 +7467,11 @@ gem,Awakened Enhance Support,corrupted 5/0,38400.0,10,10
 gem,Awakened Enhance Support,clean 1/20,7920.0,1,1
 gem,Awakened Enhance Support,corrupted 5/20,35760.0,3,3
 compass,Area contains a Smuggler's Cache,4,7.0,45,18
-compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,4,5.0,13,10
-compass,Unique Monsters drop Corrupted Items,4,4.0,10,6
+compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,4,3.75,17,13
+compass,Unique Monsters drop Corrupted Items,4,4.0,11,6
 compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,19.0,24,14
-compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,30.0,27,16
-compass,Maps found in your Maps are Corrupted with 8 Modifiers,4,105.0,37,20
+compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,18.75,14,13
+compass,Maps found in your Maps are Corrupted with 8 Modifiers,4,10.0,21,20
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,18.75,100,28
 compass,Create a copy of Beasts Captured in your Maps,4,15.0,43,24
 compass,25% increased Magic Pack Size,4,7.0,100,8
@@ -7581,16 +7589,16 @@ compass,Your Maps contain an additional Legion Encounter,16,50.0,54,7
 compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,16,20.0,13,4
 compass,Your Maps contain an additional Shrine:Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,16,120.0,1,1
 compass,Your Maps contain a Blight Encounter,16,10.0,20,7
-compass,Your Maps contain an additional Shrine:Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,16,35.0,33,6
+compass,Your Maps contain an additional Shrine:Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,16,49.0,2,2
 compass,Your Maps contain 8 additional packs of Corrupted Vaal Monsters:Your Maps have a 50% chance to contain Gifts of the Sacrificed per Sacrifice Fragment used:Your Maps have a 50% chance to contain Gifts of the Red Queen per Mortal Fragment used,16,50.0,16,2
-compass,Your Maps contain 100% increased number of Runic Monster Markers,16,150.0,17,8
+compass,Your Maps contain 100% increased number of Runic Monster Markers,16,190.0,15,7
 compass,Delirium Reward Bars fill 100% faster in your Maps,16,696.0,5,4
-compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,16,2880.0,10,2
+compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,16,2880.0,9,3
 compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,16,30.0,14,4
 compass,Area contains Metamorph Monsters,16,10.0,10,7
-compass,25% increased Pack Size in your Unidentified Maps,16,30.0,9,6
-compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,70.0,10,4
-compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,240.0,13,6
+compass,25% increased Pack Size in your Unidentified Maps,16,70.0,12,7
+compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,50.0,14,3
+compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,240.0,11,4
 contract,Lockpicking Contract,ilvl 83+,3.0,80,17
 contract,Brute Force Contract,ilvl 83+,1.0,54,12
 contract,Perception Contract,ilvl 83+,2.0,41,19
@@ -7668,7 +7676,7 @@ map,Eradicator's Map,T16,10.0,98,32
 map,Constrictor's Map,T16,10.0,100,12
 map,Purifier's Map,T16,10.0,100,12
 map,Baran's Citadel,T16,28.0,99,42
-map,Veritania's Citadel,T16,25.0,99,38
+map,Veritania's Citadel,T16,28.0,98,40
 map,Al-Hezmin's Citadel,T16,25.0,100,33
 map,Drox's Citadel,T16,28.0,99,39
 unique,Bramblejack,clean,1.0,29,28
@@ -8319,16 +8327,17 @@ unique,Brutal Restraint,corrupted,40.0,41,31
 unique,The Dark Seer,clean,1.0,27,26
 unique,The Dark Seer,corrupted,16.0,8,8
 unique,Inspired Learning,clean,50.0,16,15
-unique,Inspired Learning,corrupted,45.0,40,38
+unique,Inspired Learning,corrupted,40.0,58,57
 unique,Blood Price,clean,1.0,16,16
-unique,Blood Price,corrupted,3.0,10,10
-unique,The Red Dream,clean,10.0,20,18
+unique,Blood Price,corrupted,20.0,10,10
+unique,The Red Dream,clean,10.0,43,26
 unique,The Red Dream,corrupted,80.0,4,4
+unique,The Tempest's Liberation,clean,110.0,3,3
 unique,The Hidden Blade,clean,80.0,11,10
-unique,The Hidden Blade,corrupted,240.0,16,4
+unique,The Hidden Blade,corrupted,240.0,1,1
 unique,Replica Dreamfeather,clean,60.0,47,45
 unique,Replica Dreamfeather,corrupted,80.0,17,17
-unique,Voidbringer,clean,1.0,29,28
+unique,Voidbringer,clean,1.0,55,52
 unique,Voidbringer,corrupted,1.0,43,42
 unique,Flesh and Spirit,clean,1.0,63,54
 unique,Flesh and Spirit,corrupted,1.0,30,30
