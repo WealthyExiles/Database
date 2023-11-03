@@ -719,16 +719,14 @@ map,Blighted Leyline Map,T16,20.0,1,1
 map,Blighted Malformation Map,T16,20.0,1,1
 map,Blighted Moon Temple Map,T16,23.0,1,1
 map,Blighted Orchard Map,T16,15.0,3,2
-map,Blighted Primordial Pool Map,T16,15.0,1,1
-map,Blighted Port Map,T16,100.0,1,1
-map,Blighted Precinct Map,T16,25.0,1,1
-map,Blighted Volcano Map,T16,15.0,1,1
-map,Blighted Underground River Map,T16,8.0,2,1
-map,Blighted Stagnation Map,T16,50.0,1,1
-map,Blighted Thicket Map,T16,30.0,1,1
-map,Blighted Siege Map,T16,8.0,2,2
-map,Blighted Racecourse Map,T16,8.0,5,4
-map,Blighted Silo Map,T16,7.0,8,4
+map,Blighted Primordial Pool Map,T16,15.0,5,3
+map,Blighted Primordial Blocks Map,T16,20.0,1,1
+map,Blighted Volcano Map,T16,15.0,3,2
+map,Blighted Underground River Map,T16,235.0,1,1
+map,Blighted Sulphur Vents Map,T16,15.0,4,3
+map,Blighted Thicket Map,T16,30.0,2,2
+map,Blighted Shore Map,T16,20.0,2,2
+map,Blighted Racecourse Map,T16,15.0,4,4
 map,Blighted Strand Map,T16,20.0,2,2
 map,Blighted Temple Map,T16,15.0,1,1
 map,Blighted Tropical Island Map,T16,15.0,14,3
@@ -3990,17 +3988,17 @@ gem,Anomalous Faster Attacks Support,clean 20/0,80.0,1,1
 gem,Anomalous Faster Attacks Support,corrupted 20/0,69.0,1,1
 gem,Anomalous Faster Attacks Support,clean 1/20,120.0,3,3
 gem,Anomalous Faster Attacks Support,clean 20/20,80.0,1,1
-gem,Anomalous Faster Casting Support,corrupted 20/0,120.0,1,1
-gem,Anomalous Faster Casting Support,corrupted 20/20,120.0,1,1
+gem,Anomalous Faster Casting Support,corrupted 20/0,470.0,1,1
+gem,Anomalous Faster Casting Support,corrupted 20/20,470.0,1,1
 gem,Anomalous Faster Projectiles Support,clean 20/0,120.0,2,2
 gem,Anomalous Faster Projectiles Support,corrupted 20/0,40.0,5,4
-gem,Anomalous Faster Projectiles Support,clean 1/20,120.0,1,1
-gem,Anomalous Faster Projectiles Support,clean 20/20,120.0,1,1
+gem,Anomalous Faster Projectiles Support,corrupted 21/0,470.0,1,1
+gem,Anomalous Faster Projectiles Support,clean 1/20,100.0,1,1
 gem,Anomalous Faster Projectiles Support,corrupted 20/20,60.0,2,2
-gem,Anomalous Feeding Frenzy Support,clean 20/0,705.0,3,3
-gem,Anomalous Feeding Frenzy Support,corrupted 20/0,587.5,2,2
+gem,Anomalous Feeding Frenzy Support,clean 20/0,916.5,3,3
+gem,Anomalous Feeding Frenzy Support,corrupted 20/0,1175.0,2,2
 gem,Anomalous Feeding Frenzy Support,corrupted 21/0,2115.0,3,3
-gem,Anomalous Feeding Frenzy Support,clean 1/20,940.0,1,1
+gem,Anomalous Feeding Frenzy Support,clean 1/20,916.5,3,3
 gem,Anomalous Feeding Frenzy Support,clean 20/20,705.0,2,2
 gem,Anomalous Feeding Frenzy Support,corrupted 21/20,1410.0,1,1
 gem,Anomalous Fire Penetration Support,corrupted 20/20,100.0,1,1
@@ -7574,7 +7572,7 @@ compass,Area contains a Smuggler's Cache,16,70.5,27,7
 compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,16,70.0,4,2
 compass,Your Maps contain 3 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,16,258.5,39,14
 compass,Unique Monsters drop Corrupted Items,16,70.5,10,1
-compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,16,235.0,1,1
+compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,16,200.0,4,4
 compass,Maps found in your Maps are Corrupted with 8 Modifiers,16,916.5,24,8
 compass,Strongbox Monsters are Enraged:Strongbox Monsters have 600% increased Item Quantity:Your Maps contain an additional Strongbox,16,1880.0,13,6
 compass,Create a copy of Beasts Captured in your Maps,16,235.0,11,5
@@ -7636,7 +7634,7 @@ contract,Brute Force Contract,ilvl 83+,1.0,22,12
 contract,Perception Contract,ilvl 83+,3.0,20,11
 contract,Demolition Contract,ilvl 83+,1.0,25,15
 contract,Counter-Thaumaturgy Contract,ilvl 83+,10.0,14,11
-contract,Trap Disarmament Contract,ilvl 83+,5.0,14,7
+contract,Trap Disarmament Contract,ilvl 83+,1.0,19,13
 contract,Agility Contract,ilvl 83+,1.0,18,8
 contract,Deception Contract,ilvl 83+,5.0,46,16
 contract,Engineering Contract,ilvl 83+,5.0,5,2
@@ -7670,7 +7668,7 @@ incubator,Otherworldly Incubator,ilvl 83,1.0,39,8
 incubator,Primal Incubator,ilvl 83,1.0,76,9
 incubator,Singular Incubator,ilvl 83,1.0,284,18
 incubator,Skittering Incubator,ilvl 83,1.0,215,18
-incubator,Thaumaturge's Incubator,ilvl 83,1.0,74,13
+incubator,Thaumaturge's Incubator,ilvl 83,1.0,98,11
 vial,Vial of Awakening,,30.0,3,2
 vial,Vial of Consequence,,45.0,8,5
 vial,Vial of Dominance,,50.0,1,1
@@ -7686,7 +7684,7 @@ beast,Craicic Chimeral,,188.0,43,13
 beast,Craicic Maw,,20.0,1,1
 beast,Craicic Vassal,,20.0,2,2
 beast,Farric Frost Hellion Alpha,,45.0,9,5
-beast,Farric Lynx Alpha,,2.0,26,7
+beast,Farric Lynx Alpha,,5.0,36,9
 beast,Farric Wolf Alpha,,14.0,48,9
 beast,Fenumal Plagued Arachnid,,20.0,20,8
 beast,Craicic Spider Crab,,235.0,1,1
@@ -7963,7 +7961,7 @@ unique,Carcass Jack,corrupted 6-link,352.5,22,22
 unique,The Admiral,clean,2.0,10,10
 unique,The Admiral,corrupted,1410.0,1,1
 unique,Saqawal's Nest,clean,10.0,71,67
-unique,Saqawal's Nest,clean 6-link,470.0,10,10
+unique,Saqawal's Nest,clean 6-link,587.5,13,13
 unique,Saqawal's Nest,corrupted,1057.5,6,6
 unique,Saqawal's Nest,corrupted 6-link,1057.5,4,4
 unique,The Eternity Shroud,clean,20.0,16,16
