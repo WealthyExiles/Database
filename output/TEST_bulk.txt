@@ -3592,13 +3592,17 @@ map,Blighted Tropical Island Map,T16,25.0,1,2
 map,Blighted Underground Sea Map,T16,25.0,1,2
 map,Blighted Wharf Map,T16,15.0,1,5
 map,Blight Ravaged Arachnid Nest Map,T16,240.0,1,1
-map,Blight Ravaged Bone Crypt Map,T16,60.0,1,1
-map,Blight Ravaged Castle Ruins Map,T16,240.0,1,1
-map,Blight Ravaged Chateau Map,T16,240.0,1,1
-map,Blight Ravaged City Square Map,T16,80.0,1,3
-map,Blight Ravaged Coves Map,T16,80.0,1,2
-map,Blight Ravaged Crimson Temple Map,T16,80.0,1,7
-map,Blight Ravaged Dunes Map,T16,192.0,1,1
+map,Blight Ravaged Beach Map,T16,60.0,1,1
+map,Blight Ravaged Bone Crypt Map,T16,240.0,1,1
+map,Blight Ravaged Cells Map,T16,150.0,1,1
+map,Blight Ravaged Chateau Map,T16,100.0,1,2
+map,Blight Ravaged Colonnade Map,T16,75.0,1,2
+map,Blight Ravaged Coves Map,T16,55.0,1,3
+map,Blight Ravaged Courtyard Map,T16,200.0,1,1
+map,Blight Ravaged Crimson Temple Map,T16,80.0,1,6
+map,Blight Ravaged Crimson Temple Map,T16,240.0,9,1
+map,Blight Ravaged Crimson Temple Map,T16,240.0,18,1
+map,Blight Ravaged Dungeon Map,T16,100.0,1,2
 map,Blight Ravaged Infested Valley Map,T16,60.0,1,3
 map,Blight Ravaged Malformation Map,T16,200.0,1,1
 map,Blight Ravaged Museum Map,T16,80.0,1,3
@@ -7445,25 +7449,19 @@ gem,Anomalous Purity of Elements,corrupted 21/20,1272.0,1,11
 gem,Anomalous Purity of Fire,clean 20/0,80.0,1,2
 gem,Anomalous Purity of Fire,corrupted 20/0,200.0,1,1
 gem,Anomalous Purity of Fire,corrupted 21/0,720.0,1,1
-gem,Anomalous Purity of Fire,clean 1/20,80.0,1,3
-gem,Anomalous Purity of Fire,clean 20/20,80.0,1,2
-gem,Anomalous Purity of Ice,clean 20/0,85.0,1,2
-gem,Anomalous Purity of Ice,corrupted 20/0,50.0,1,1
+gem,Anomalous Purity of Fire,corrupted 20/20,200.0,1,1
+gem,Anomalous Purity of Fire,corrupted 21/20,2400.0,1,1
 gem,Anomalous Purity of Ice,clean 1/20,20.0,1,3
-gem,Anomalous Purity of Ice,clean 20/20,85.0,1,2
-gem,Anomalous Purity of Ice,corrupted 21/20,720.0,1,1
-gem,Anomalous Purity of Lightning,corrupted 20/0,50.0,1,2
+gem,Anomalous Purity of Lightning,corrupted 20/0,240.0,1,1
 gem,Anomalous Purity of Lightning,corrupted 21/0,720.0,1,1
-gem,Anomalous Purity of Lightning,corrupted 21/20,720.0,1,1
-gem,Anomalous Rage Support,clean 20/0,90.0,1,1
+gem,Anomalous Rage Support,clean 20/0,60.0,1,2
 gem,Anomalous Rage Support,corrupted 20/0,70.0,1,4
-gem,Anomalous Rage Support,clean 1/20,30.0,1,3
-gem,Anomalous Rage Support,clean 20/20,90.0,1,1
-gem,Anomalous Rage Support,corrupted 20/20,45.0,1,1
-gem,Anomalous Rain of Arrows,clean 20/0,100.0,1,1
-gem,Anomalous Rain of Arrows,corrupted 20/0,20.0,1,1
+gem,Anomalous Rage Support,clean 1/20,100.0,1,2
+gem,Anomalous Rage Support,clean 20/20,100.0,1,1
+gem,Anomalous Rage Support,corrupted 20/20,60.0,1,2
+gem,Anomalous Rain of Arrows,clean 20/0,49.0,1,3
 gem,Anomalous Rain of Arrows,clean 1/20,55.0,1,3
-gem,Anomalous Rain of Arrows,clean 20/20,100.0,1,1
+gem,Anomalous Rain of Arrows,clean 20/20,49.0,1,3
 gem,Anomalous Rain of Arrows,corrupted 20/20,240.0,1,1
 gem,Anomalous Raise Spectre,clean 20/0,200.0,1,1
 gem,Anomalous Raise Spectre,corrupted 20/0,40.0,1,6
@@ -10405,11 +10403,11 @@ compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain
 compass,Your Maps contain Niko,4,3.75,1,8
 compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,4,5.0,1,12
 compass,Your Maps contain an additional Legion Encounter,4,7.0,1,25
-compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,2.0,1,3
+compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,2.0,1,5
 compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,2.0,1,2
-compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,3.0,1,4
+compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,4.0,1,7
 compass,Your Maps contain an additional Abyss:Your Maps can contain Abysses,4,5.0,1,6
-compass,Your Maps contain a Blight Encounter,4,2.0,1,12
+compass,Your Maps contain a Blight Encounter,4,3.0,1,14
 compass,Slaying Enemies close together can attract monsters from Beyond this realm:25% increased Beyond Demon Pack Size in your Maps,4,49.0,1,21
 compass,Your Maps contain 100% increased number of Runic Monster Markers,4,11.25,1,9
 compass,Delirium Reward Bars fill 100% faster in your Maps,4,41.25,1,15
@@ -10534,8 +10532,8 @@ incubator,Mysterious Incubator,ilvl 83,1.0,1,13
 incubator,Mysterious Incubator,ilvl 83,1.0,9,6
 incubator,Obscured Incubator,ilvl 83,1.0,1,15
 incubator,Obscured Incubator,ilvl 83,1.0,9,5
-incubator,Ornate Incubator,ilvl 83,7.0,1,23
-incubator,Ornate Incubator,ilvl 83,10.0,9,4
+incubator,Ornate Incubator,ilvl 83,5.0,1,26
+incubator,Ornate Incubator,ilvl 83,10.0,9,8
 incubator,Otherworldly Incubator,ilvl 83,1.0,1,11
 incubator,Otherworldly Incubator,ilvl 83,1.0,9,2
 incubator,Primal Incubator,ilvl 83,1.0,1,10
@@ -10557,15 +10555,15 @@ vial,Vial of Transcendence,,60.0,1,7
 vial,Vial of Sacrifice,,80.0,1,1
 logbook,Bruids of the Broken Circle Logbook,ilvl 83+,10.0,1,30
 logbook,Black Scythe Mercenaries Logbook,ilvl 83+,20.0,1,37
-logbook,Order of the Chalice Logbook,ilvl 83+,9.0,1,32
-logbook,Knights of the Sun Logbook,ilvl 83+,45.0,1,15
+logbook,Order of the Chalice Logbook,ilvl 83+,9.0,1,39
+logbook,Knights of the Sun Logbook,ilvl 83+,45.0,1,21
 beast,Craicic Chimeral,,576.0,1,10
 beast,Craicic Maw,,7.0,1,3
 beast,Farric Frost Hellion Alpha,,50.0,1,3
 beast,Farric Lynx Alpha,,5.0,1,5
 beast,Farric Wolf Alpha,,13.0,1,13
 beast,Fenumal Plagued Arachnid,,11.0,1,10
-beast,Craicic Spider Crab,,150.0,1,4
+beast,Craicic Spider Crab,,240.0,1,2
 beast,Farric Tiger Alpha,,150.0,1,3
 beast,Fenumal Hybrid Arachnid,,70.0,1,3
 beast,Saqawine Rhex,,10.0,1,2
@@ -11300,18 +11298,19 @@ unique,Tulborn,clean,1.0,1,34
 unique,Tulborn,corrupted,5.0,1,4
 unique,Leadership's Price,corrupted,5.0,1,47
 unique,Replica Bitterdream,clean,40.0,1,10
+unique,Replica Bitterdream,corrupted,480.0,1,1
 unique,Eclipse Solaris,clean,1.0,1,37
 unique,Eclipse Solaris,corrupted,1.0,1,16
-unique,Endless Misery,corrupted,720.0,1,1
-unique,Tukohama's Fortress,clean,7.0,1,9
-unique,Tukohama's Fortress,corrupted,90.0,1,4
+unique,Endless Misery,corrupted,60.0,1,2
+unique,Tukohama's Fortress,clean,9.0,1,9
+unique,Tukohama's Fortress,corrupted,20.0,1,5
 unique,Cybil's Paw,clean,1.0,1,17
-unique,Cybil's Paw,corrupted,6.0,1,11
-unique,Uul-Netol's Vow,clean,3360.0,1,10
+unique,Cybil's Paw,corrupted,7.0,1,14
+unique,Uul-Netol's Vow,clean,3360.0,1,16
 unique,The Felbog Fang,clean,1.0,1,58
-unique,The Felbog Fang,corrupted,40.0,1,5
+unique,The Felbog Fang,corrupted,1.0,1,10
 unique,Kongming's Stratagem,clean,1.0,1,19
-unique,Kongming's Stratagem,corrupted,1.0,1,24
+unique,Kongming's Stratagem,corrupted,2.0,1,23
 unique,Timeclasp,clean,1.0,1,85
 unique,Timeclasp,corrupted,3.0,1,63
 unique,The Burden of Truth,clean,5.0,1,22
