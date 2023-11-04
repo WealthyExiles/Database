@@ -464,34 +464,33 @@ card,The Breach,,2.0,157,19
 card,The Brawny Battle Mage,,1.0,63,18
 card,The Body,,1.0,292,23
 card,The Cache,,1.0,530,26
-card,The Calling,,1.0,629,20
-card,The Card Sharp,,1.0,248,25
-card,The Carrion Crow,,1.0,1383,20
-card,The Celestial Justicar,,2.0,501,19
-card,The Catch,,5.0,54,13
-card,The Cataclysm,,1.0,1702,29
-card,The Cartographer,,1.0,1592,22
-card,The Celestial Stone,,1.0,246,19
-card,The Chosen,,20.0,100,28
-card,The Cheater,,696.0,14,4
-card,The Coming Storm,,1.0,1140,24
-card,The Conduit,,1.0,130,19
-card,The Craving,,1.0,409,15
-card,The Cursed King,,1.0,1460,21
-card,The Damned,,5.0,129,12
-card,The Deceiver,,1.0,270,22
-card,The Deal,,1.0,264,26
-card,The Dapper Prodigy,,1.0,706,20
-card,The Deep Ones,,1.0,90,19
-card,The Dreamer,,3.0,175,19
-card,The Dragon's Heart,,25.0,204,34
-card,The Dragon,,1.0,751,23
-card,The Doppelganger,,1.0,1752,18
-card,The Doctor,,3360.0,143,13
-card,The Dreamland,,1.0,1416,26
-card,The Drunken Aristocrat,,1.0,346,29
-card,The Dungeon Master,,2.0,400,24
-card,The Easy Stroll,,1.0,466,25
+card,The Calling,,1.0,370,23
+card,The Card Sharp,,1.0,141,22
+card,The Carrion Crow,,1.0,646,24
+card,The Catch,,5.0,17,9
+card,The Catalyst,,1.0,689,23
+card,The Cataclysm,,1.0,262,22
+card,The Cartographer,,4.0,521,20
+card,The Celestial Stone,,2.0,48,18
+card,The Chosen,,40.0,59,27
+card,The Cheater,,552.0,16,6
+card,The Chain's That Bind,,2.0,937,24
+card,The Coming Storm,,1.0,241,20
+card,The Craving,,1.0,39,13
+card,The Cursed King,,1.0,80,20
+card,The Deceiver,,1.0,170,22
+card,The Deal,,1.0,149,21
+card,The Darkest Dream,,1.0,104,20
+card,The Deep Ones,,2.0,77,16
+card,The Demon,,5040.0,5,3
+card,The Destination,,30.0,26,14
+card,The Dreamer,,1.0,69,24
+card,The Dragon's Heart,,5.0,141,28
+card,The Dragon,,1.0,741,20
+card,The Doppelganger,,0.948905109489051,1082,25
+card,The Doctor,,3480.0,21,7
+card,The Dreamland,,1.0,202,22
+card,The Dungeon Master,,3.0,98,22
 card,The Endles's Darkness,,180.0,25,9
 card,The Encroaching Darkness,,0.5,3367,15
 card,The Emptiness,,8.0,127,15
@@ -4860,21 +4859,22 @@ gem,Anomalous Vitality,corrupted 20/0,360.0,4,4
 gem,Anomalous Vitality,clean 20/20,720.0,4,4
 gem,Anomalous Vitality,corrupted 20/20,576.0,4,4
 gem,Anomalous Void Manipulation Support,clean 20/0,120.0,2,2
-gem,Anomalous Void Manipulation Support,clean 1/20,120.0,2,2
+gem,Anomalous Void Manipulation Support,corrupted 20/0,20.0,2,2
+gem,Anomalous Void Manipulation Support,corrupted 21/0,200.0,1,1
+gem,Anomalous Void Manipulation Support,clean 1/20,60.0,3,3
 gem,Anomalous Void Manipulation Support,clean 20/20,120.0,2,2
-gem,Anomalous Void Manipulation Support,corrupted 20/20,35.0,2,2
-gem,Anomalous Void Sphere,clean 20/0,60.0,3,2
-gem,Anomalous Void Sphere,corrupted 20/0,60.0,1,1
-gem,Anomalous Void Sphere,corrupted 21/0,720.0,1,1
+gem,Anomalous Void Manipulation Support,corrupted 21/20,200.0,1,1
+gem,Anomalous Void Sphere,clean 20/0,65.0,2,2
+gem,Anomalous Void Sphere,corrupted 20/0,720.0,1,1
 gem,Anomalous Void Sphere,clean 1/20,30.0,5,4
 gem,Anomalous Void Sphere,clean 20/20,60.0,3,2
-gem,Anomalous Void Sphere,corrupted 20/20,60.0,1,1
 gem,Anomalous Volatile Dead,clean 20/0,60.0,2,2
 gem,Anomalous Volatile Dead,corrupted 20/0,240.0,1,1
-gem,Anomalous Volatile Dead,corrupted 20/20,240.0,1,1
-gem,Anomalous Volley Support,corrupted 20/0,40.0,1,1
+gem,Anomalous Volatile Dead,clean 1/20,48.0,2,2
+gem,Anomalous Volatile Dead,corrupted 21/20,1680.0,2,2
+gem,Anomalous Volley Support,clean 1/20,240.0,1,1
+gem,Anomalous Volley Support,clean 20/20,240.0,1,1
 gem,Anomalous Vortex,clean 20/0,200.0,1,1
-gem,Anomalous Vortex,clean 1/20,200.0,2,2
 gem,Anomalous Vortex,clean 20/20,200.0,1,1
 gem,Anomalous Vulnerability,clean 20/0,240.0,2,2
 gem,Anomalous Vulnerability,corrupted 20/0,160.0,7,7
@@ -7485,9 +7485,9 @@ compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems d
 compass,Your Maps contain an additional Legion Encounter,4,8.0,63,12
 compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,4.0,16,3
 compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,4.0,12,5
-compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,3.0,15,9
+compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,4.0,3,3
 compass,Your Maps contain an additional Abyss:Your Maps can contain Abysses,4,5.0,100,6
-compass,Your Maps contain a Blight Encounter,4,3.0,37,13
+compass,Your Maps contain a Blight Encounter,4,3.0,24,7
 compass,Slaying Enemies close together can attract monsters from Beyond this realm:25% increased Beyond Demon Pack Size in your Maps,4,49.0,100,21
 compass,Your Maps contain 100% increased number of Runic Monster Markers,4,7.384615384615385,25,16
 compass,Delirium Reward Bars fill 100% faster in your Maps,4,44.30769230769231,40,33
@@ -7495,9 +7495,9 @@ compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest
 compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,4,2.0,4,4
 compass,Area contains Metamorph Monsters,4,3.6923076923076925,32,9
 compass,Your Maps contain The Sacred Grove,4,73.84615384615385,100,33
-compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,4,10.0,19,10
-compass,Players and Monsters take 12% increased Cold Damage:Your Maps contain 6 additional packs of Monsters that deal Cold Damage,4,4.0,7,4
-compass,Slaying Enemies close together can attract monsters from Beyond this realm:35% increased Beyond Demon Pack Size in your Maps,16,720.0,10,4
+compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,4,5.0,17,9
+compass,Players and Monsters take 12% increased Cold Damage:Your Maps contain 6 additional packs of Monsters that deal Cold Damage,4,4.0,2,1
+compass,Slaying Enemies close together can attract monsters from Beyond this realm:35% increased Beyond Demon Pack Size in your Maps,16,720.0,20,7
 compass,Area contains a Smuggler's Cache,16,50.0,41,7
 compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,16,49.0,20,3
 compass,Your Maps contain 3 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,16,240.0,17,7
@@ -7572,7 +7572,7 @@ contract,Engineering Contract,ilvl 83+,1.0,25,17
 blueprint,Blueprint: Bunker,3 wings,5.0,25,19
 blueprint,Blueprint: Mansion,3 wings,5.0,25,16
 blueprint,Blueprint: Records Office,3 wings,1.0,25,20
-blueprint,Blueprint: Smuggler's Den,3 wings,5.0,53,31
+blueprint,Blueprint: Smuggler's Den,3 wings,5.0,54,34
 blueprint,Blueprint: Underbelly,3 wings,3.0,48,26
 blueprint,Blueprint: Repository,3 wings,20.0,53,34
 blueprint,Blueprint: Tunnels,3 wings,29.0,74,41
@@ -7584,8 +7584,8 @@ incubator,Cartographer's Incubator,ilvl 83,1.0,230,16
 incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,55,13
 incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,83,14
 incubator,Celestial Jeweller's Incubator,ilvl 83,1.0,64,13
-incubator,Diviner's Incubator,ilvl 83,5.0,216,31
-incubator,Enchanted Incubator,ilvl 83,1.0,384,29
+incubator,Diviner's Incubator,ilvl 83,8.0,126,22
+incubator,Enchanted Incubator,ilvl 83,1.0,213,15
 incubator,Foreboding Incubator,ilvl 83,1.0,213,22
 incubator,Geomancer's Incubator,ilvl 83,1.0,124,22
 incubator,Infused Incubator,ilvl 83,1.0,289,27
@@ -7624,19 +7624,19 @@ beast,Farric Tiger Alpha,,220.0,2,2
 beast,Fenumal Hybrid Arachnid,,216.0,9,4
 beast,Saqawine Rhex,,9.0,20,6
 beast,Primal Rhex Matriarch,,35.0,1,1
-beast,Vivid Vulture,,888.0,38,4
+beast,Vivid Vulture,,840.0,33,5
 beast,Vivid Watcher,,130.0,100,7
 beast,Wild Brambleback,,38.0,100,3
 beast,Wild Bristle Matron,,240.0,40,10
-beast,Wild Hellion Alpha,,288.0,78,8
+beast,Wild Hellion Alpha,,288.0,4,3
 beast,Craiceann First of the Deep,,70.0,5,3
 beast,Farrul First of the Plains,,240.0,1,1
 beast,Fenumus First of the Night,,240.0,2,2
 beast,Saqawal First of the Sky,,216.0,1,1
 map,Enslaver's Map,T16,10.0,76,20
-map,Eradicator's Map,T16,10.0,80,27
+map,Eradicator's Map,T16,10.0,100,20
 map,Constrictor's Map,T16,10.0,71,24
-map,Purifier's Map,T16,3.0,59,23
+map,Purifier's Map,T16,10.0,100,17
 map,Baran's Citadel,T16,29.0,100,43
 map,Veritania's Citadel,T16,28.0,98,40
 map,Al-Hezmin's Citadel,T16,28.0,99,37
@@ -8625,17 +8625,17 @@ unique,Efficient Training,corrupted,1.0,92,62
 unique,Medved's Challenge,clean,1.0,4,4
 unique,Medved's Challenge,corrupted,100.0,1,1
 unique,Wyrmsign,clean,1.0,24,24
-unique,Wyrmsign,corrupted,1.0,37,35
+unique,Wyrmsign,corrupted,1.0,26,26
 unique,Shavronne's Pace,clean,1.0,25,23
-unique,Shavronne's Pace,corrupted,8.0,40,40
-unique,Torchoak Step,clean,1.0,95,89
+unique,Shavronne's Pace,corrupted,1.0,30,29
+unique,Torchoak Step,clean,1.0,36,35
 unique,Torchoak Step,corrupted,3.0,69,63
 unique,Blood of Corruption,corrupted,8.0,11,11
 unique,Aukuna's Will,clean,1.0,34,31
 unique,Aukuna's Will,corrupted,2.0,19,17
 unique,Crystallised Omniscience,clean,2400.0,30,27
-unique,Crystallised Omniscience,corrupted,1440.0,62,52
-unique,Farrul's Bite,clean,10.0,13,13
+unique,Crystallised Omniscience,corrupted,1632.0,32,29
+unique,Farrul's Bite,clean,10.0,13,12
 unique,Farrul's Bite,corrupted,10.0,4,4
 unique,Maligaro's Restraint,clean,1.0,59,52
 unique,Maligaro's Restraint,corrupted,2.0,24,22
