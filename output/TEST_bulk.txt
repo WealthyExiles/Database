@@ -3223,13 +3223,20 @@ map,Blighted Racecourse Map,T16,20.0,1,2
 map,Blighted Silo Map,T16,20.0,1,1
 map,Blighted Strand Map,T16,20.0,1,2
 map,Blighted Tower Map,T16,20.0,1,3
-map,Blighted Underground Sea Map,T16,25.0,1,2
-map,Blighted Wharf Map,T16,15.0,1,5
+map,Blighted Underground Sea Map,T16,20.0,1,2
+map,Blighted Wharf Map,T16,60.0,1,1
 map,Blight Ravaged Arachnid Nest Map,T16,240.0,1,1
-map,Blight Ravaged Beach Map,T16,60.0,1,1
-map,Blight Ravaged Bone Crypt Map,T16,240.0,1,1
-map,Blight Ravaged Cells Map,T16,150.0,1,1
-map,Blight Ravaged Chateau Map,T16,100.0,1,2
+map,Blight Ravaged Arcade Map,T16,110.0,1,2
+map,Blight Ravaged Atoll Map,T16,240.0,1,1
+map,Blight Ravaged Barrows Map,T16,150.0,1,1
+map,Blight Ravaged Beach Map,T16,60.0,1,2
+map,Blight Ravaged Caldera Map,T16,170.0,1,1
+map,Blight Ravaged Castle Ruins Map,T16,240.0,1,1
+map,Blight Ravaged Cemetery Map,T16,85.0,1,1
+map,Blight Ravaged Chateau Map,T16,240.0,1,1
+map,Blight Ravaged City Square Map,T16,80.0,1,1
+map,Blight Ravaged City Square Map,T16,80.0,9,1
+map,Blight Ravaged City Square Map,T16,80.0,18,1
 map,Blight Ravaged Colonnade Map,T16,75.0,1,2
 map,Blight Ravaged Coves Map,T16,55.0,1,3
 map,Blight Ravaged Courtyard Map,T16,200.0,1,1
@@ -7547,14 +7554,13 @@ gem,Divergent Additional Accuracy Support,clean 1/20,70.0,1,7
 gem,Divergent Additional Accuracy Support,corrupted 20/20,89.0,1,1
 gem,Divergent Advanced Traps Support,corrupted 20/0,30.0,1,1
 gem,Divergent Advanced Traps Support,corrupted 20/20,30.0,1,1
-gem,Divergent Advanced Traps Support,corrupted 21/20,720.0,1,2
-gem,Divergent Ancestral Cry,clean 20/0,50.0,1,3
-gem,Divergent Ancestral Cry,corrupted 21/0,4800.0,1,1
-gem,Divergent Ancestral Cry,clean 1/20,50.0,1,3
-gem,Divergent Ancestral Cry,clean 20/20,50.0,1,3
-gem,Divergent Ancestral Cry,corrupted 21/20,4800.0,1,1
-gem,Divergent Ancestral Protector,corrupted 20/0,200.0,1,1
-gem,Divergent Ancestral Protector,corrupted 21/0,1440.0,1,3
+gem,Divergent Ancestral Call Support,corrupted 21/0,240.0,1,1
+gem,Divergent Ancestral Call Support,corrupted 20/20,80.0,1,2
+gem,Divergent Ancestral Call Support,corrupted 21/20,240.0,1,1
+gem,Divergent Ancestral Cry,clean 20/0,200.0,1,1
+gem,Divergent Ancestral Cry,clean 1/20,55.0,1,2
+gem,Divergent Ancestral Cry,clean 20/20,200.0,1,1
+gem,Divergent Ancestral Protector,corrupted 20/0,150.0,1,1
 gem,Divergent Ancestral Protector,corrupted 21/20,2760.0,1,2
 gem,Divergent Ancestral Warchief,clean 20/0,130.0,1,1
 gem,Divergent Ancestral Warchief,corrupted 21/0,720.0,1,1
@@ -9946,11 +9952,11 @@ compass,Your Maps contain Ritual Altars,4,7.384615384615385,1,13
 compass,Players and Monsters take 12% increased Lightning Damage:Your Maps contain 6 additional packs of Monsters that deal Lightning Damage,4,3.0,1,3
 compass,Your Magic Maps contain 4 additional packs of Magic Monsters:Your Normal Maps contain 4 additional packs of Normal Monsters:Your Rare Maps contain 4 additional Rare Monster packs,4,3.0,1,14
 compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 4 additional Packs with Mirrored Rare Monsters,4,3.6923076923076925,1,11
-compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,4,4.0,1,4
+compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,4,3.0,1,2
 compass,Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,2.0,1,6
 compass,The First 3 Possessed Monsters drop an additional Rusted Scarab:Your Maps contain an additional Tormented Betrayer,4,2.0,1,2
 compass,Your Maps contain 6 additional packs of Monsters that Convert when Killed,4,3.0,1,2
-compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Items dropped by Corrupted Vaal Monsters in your Maps have 25% chance to be Corrupted,4,4.0,1,2
+compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Items dropped by Corrupted Vaal Monsters in your Maps have 25% chance to be Corrupted,4,3.0,1,2
 compass,Final Map Boss in each Map drops an additional Shaper Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,11.076923076923077,1,20
 compass,Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,4.0,1,6
 compass,Your Maps contain hunted traitors,4,4.0,1,17
@@ -10076,8 +10082,8 @@ incubator,Abyssal Incubator,ilvl 83,2.0,1,17
 incubator,Abyssal Incubator,ilvl 83,10.0,9,8
 incubator,Blighted Incubator,ilvl 83,1.0,1,12
 incubator,Blighted Incubator,ilvl 83,1.0,9,3
-incubator,Cartographer's Incubator,ilvl 83,1.0,1,16
-incubator,Cartographer's Incubator,ilvl 83,1.0,9,9
+incubator,Cartographer's Incubator,ilvl 83,1.0,1,21
+incubator,Cartographer's Incubator,ilvl 83,1.0,9,8
 incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,1,10
 incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,9,1
 incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,1,17
@@ -10089,8 +10095,8 @@ incubator,Enchanted Incubator,ilvl 83,1.0,1,15
 incubator,Enchanted Incubator,ilvl 83,90.0,9,7
 incubator,Foreboding Incubator,ilvl 83,1.0,1,14
 incubator,Foreboding Incubator,ilvl 83,1.0,9,4
-incubator,Geomancer's Incubator,ilvl 83,1.0,1,22
-incubator,Geomancer's Incubator,ilvl 83,1.0,9,6
+incubator,Geomancer's Incubator,ilvl 83,1.0,1,15
+incubator,Geomancer's Incubator,ilvl 83,1.0,9,3
 incubator,Infused Incubator,ilvl 83,1.0,1,15
 incubator,Infused Incubator,ilvl 83,1.0,9,6
 incubator,Kalguuran Incubator,ilvl 83,1.0,1,21
@@ -10121,7 +10127,7 @@ incubator,Thaumaturge's Incubator,ilvl 83,1.0,1,13
 incubator,Thaumaturge's Incubator,ilvl 83,1.0,9,3
 vial,Vial of Consequence,,45.0,1,3
 vial,Vial of Dominance,,15.0,1,1
-vial,Vial of Fate,,10.0,1,4
+vial,Vial of Fate,,3.0,1,6
 vial,Vial of Summoning,,45.0,1,3
 vial,Vial of the Ritual,,2.0,1,2
 vial,Vial of Transcendence,,60.0,1,5
@@ -10153,7 +10159,7 @@ beast,Saqawal First of the Sky,,99.0,1,4
 map,Enslaver's Map,T16,10.0,1,20
 map,Eradicator's Map,T16,10.0,1,20
 map,Constrictor's Map,T16,10.0,1,18
-map,Purifier's Map,T16,10.0,1,17
+map,Purifier's Map,T16,10.0,1,15
 map,Baran's Citadel,T16,10.0,1,33
 map,Veritania's Citadel,T16,28.0,1,40
 map,Al-Hezmin's Citadel,T16,28.0,1,37
@@ -11324,8 +11330,8 @@ unique,Deidbell,clean,1.0,1,15
 unique,Deidbell,corrupted,8.0,1,6
 unique,Three-step Assault,clean,1.0,1,52
 unique,Three-step Assault,corrupted,5.0,1,95
-unique,Sandstorm Visage,clean,240.0,1,71
-unique,Sandstorm Visage,corrupted,240.0,1,14
+unique,Sandstorm Visage,clean,288.0,1,27
+unique,Sandstorm Visage,corrupted,240.0,1,6
 unique,The Siege,clean,19.0,1,34
 unique,The Siege,corrupted,10.0,1,16
 unique,Ezomyte Peak,clean,1.0,1,26
