@@ -680,28 +680,25 @@ map,Colonnade Map,T16,3.0,135,27
 map,Colosseum Map,T16,3.0,315,25
 map,Courtyard Map,T16,3.0,120,21
 map,Coves Map,T16,3.0,328,24
-map,Crimson Temple Map,T16,2.0,10052,32
-map,Cursed Crypt Map,T16,3.0,127,24
-map,Dunes Map,T16,4.0,3487,32
-map,Excavation Map,T16,2.0,1919,34
-map,Flooded Mine Map,T16,2.0,225,29
-map,Factory Map,T16,4.0,163,25
-map,Frozen Cabins Map,T16,3.0,107,19
-map,Fungal Hollow Map,T16,3.0,294,30
-map,Geode Map,T16,3.0,174,24
-map,Leyline Map,T16,3.0,1052,30
-map,Malformation Map,T16,3.0,327,24
-map,Maze Map,T16,3.0,195,28
-map,Maze of the Minotaur Map,T16,9.0,686,34
-map,Mineral Pools Map,T16,3.0,131,21
-map,Moon Temple Map,T16,5.0,92,19
-map,Orchard Map,T16,3.0,182,23
-map,Overgrown Shrine Map,T16,3.0,550,22
-map,Pit Map,T16,3.0,184,25
-map,Pier Map,T16,3.0,134,20
-map,Phantasmagoria Map,T16,3.0,345,27
-map,Plateau Map,T16,3.0,485,26
-map,Primordial Blocks Map,T16,3.0,81,20
+map,Cursed Crypt Map,T16,3.0,134,21
+map,Dunes Map,T16,4.0,3099,22
+map,Excavation Map,T16,2.0833333333333335,1969,25
+map,Dungeon Map,T16,3.0,226,23
+map,Flooded Mine Map,T16,3.0,243,25
+map,Forge of the Phoenix Map,T16,10.0,868,29
+map,Lair of the Hydra Map,T16,10.0,942,26
+map,Maze Map,T16,3.0,276,26
+map,Mineral Pools Map,T16,3.0,145,22
+map,Necropolis Map,T16,3.0,223,28
+map,Museum Map,T16,3.0,237,24
+map,Moon Temple Map,T16,4.0,106,22
+map,Orchard Map,T16,3.0,190,24
+map,Overgrown Shrine Map,T16,3.0,377,22
+map,Pit Map,T16,4.0,135,23
+map,Pier Map,T16,3.0,158,23
+map,Phantasmagoria Map,T16,2.9,580,33
+map,Pit of the Chimera Map,T16,10.0,796,34
+map,Plateau Map,T16,3.0,767,28
 map,Precinct Map,T16,2.0,147,28
 map,Port Map,T16,3.0,223,28
 map,Primordial Pool Map,T16,3.0,171,23
@@ -5779,11 +5776,17 @@ gem,Divergent Nightblade Support,clean 1/20,120.0,1,1
 gem,Divergent Nightblade Support,clean 20/20,100.0,1,1
 gem,Divergent Nightblade Support,corrupted 20/20,35.0,1,1
 gem,Divergent Orb of Storms,corrupted 20/0,30.0,1,1
-gem,Divergent Penance Brand,corrupted 21/20,476.0,1,1
-gem,Divergent Perforate,clean 20/0,70.0,1,1
-gem,Divergent Pestilent Strike,corrupted 21/0,476.0,1,1
-gem,Divergent Petrified Blood,corrupted 20/0,50.0,2,2
-gem,Divergent Petrified Blood,corrupted 21/0,476.0,1,1
+gem,Divergent Penance Brand,clean 20/0,571.1999999999999,1,1
+gem,Divergent Penance Brand,corrupted 20/0,40.0,1,1
+gem,Divergent Penance Brand,corrupted 21/0,595.0,1,1
+gem,Divergent Penance Brand,clean 1/20,40.0,2,2
+gem,Divergent Penance Brand,corrupted 20/20,40.0,1,1
+gem,Divergent Perforate,clean 20/0,238.0,1,1
+gem,Divergent Perforate,clean 20/20,238.0,1,1
+gem,Divergent Petrified Blood,corrupted 20/0,50.0,1,1
+gem,Divergent Petrified Blood,corrupted 21/0,595.0,1,1
+gem,Divergent Petrified Blood,clean 1/20,149.0,2,2
+gem,Divergent Petrified Blood,corrupted 20/20,50.0,1,1
 gem,Divergent Petrified Blood,corrupted 21/20,476.0,1,1
 gem,Divergent Phase Run,clean 20/0,238.0,1,1
 gem,Divergent Phase Run,corrupted 21/0,238.0,1,1
@@ -7459,16 +7462,16 @@ compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest
 compass,Your Maps contain Niko,16,50.0,2,2
 compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,16,90.0,12,7
 compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain 2 additional Essences,16,70.0,2,2
-compass,Your Maps contain an additional Legion Encounter,16,60.0,16,3
-compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,16,17.0,9,5
+compass,Your Maps contain an additional Legion Encounter,16,60.0,14,5
+compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,16,17.0,13,5
 compass,Your Maps contain an additional Shrine:Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,16,25.0,5,5
-compass,Your Maps contain a Blight Encounter,16,10.0,5,2
-compass,Your Maps contain an additional Shrine:Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,16,35.0,3,3
-compass,Your Maps contain 8 additional packs of Corrupted Vaal Monsters:Your Maps have a 50% chance to contain Gifts of the Sacrificed per Sacrifice Fragment used:Your Maps have a 50% chance to contain Gifts of the Red Queen per Mortal Fragment used,16,18.0,7,3
+compass,Your Maps contain a Blight Encounter,16,25.0,4,1
+compass,Your Maps contain an additional Shrine:Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,16,35.0,24,8
+compass,Your Maps contain 8 additional packs of Corrupted Vaal Monsters:Your Maps have a 50% chance to contain Gifts of the Sacrificed per Sacrifice Fragment used:Your Maps have a 50% chance to contain Gifts of the Red Queen per Mortal Fragment used,16,17.0,6,2
 compass,Your Maps contain 100% increased number of Runic Monster Markers,16,100.0,19,8
 compass,Delirium Reward Bars fill 100% faster in your Maps,16,571.1999999999999,13,6
-compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,16,2618.0,3,2
-compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,16,25.0,2,2
+compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,16,2499.0,12,5
+compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,16,8.0,4,3
 compass,Area contains Metamorph Monsters,16,25.0,5,3
 compass,25% increased Pack Size in your Unidentified Maps,16,30.0,26,4
 compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,60.0,5,4
@@ -7491,15 +7494,15 @@ blueprint,Blueprint: Repository,3 wings,20.0,65,42
 blueprint,Blueprint: Tunnels,3 wings,20.0,70,49
 blueprint,Blueprint: Laboratory,3 wings,1.0,75,42
 blueprint,Blueprint: Prohibited Library,3 wings,3.0,81,47
-incubator,Abyssal Incubator,ilvl 83,1.0,246,19
+incubator,Abyssal Incubator,ilvl 83,1.0,253,29
 incubator,Blighted Incubator,ilvl 83,1.0,80,18
 incubator,Cartographer's Incubator,ilvl 83,1.0,193,17
 incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,24,12
-incubator,Celestial Blacksmith's Incubator,ilvl 83,10.0,44,13
+incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,34,13
 incubator,Celestial Jeweller's Incubator,ilvl 83,1.0,45,13
 incubator,Diviner's Incubator,ilvl 83,5.0,155,33
 incubator,Enchanted Incubator,ilvl 83,1.0,220,29
-incubator,Foreboding Incubator,ilvl 83,2.0,293,15
+incubator,Foreboding Incubator,ilvl 83,1.0,204,25
 incubator,Geomancer's Incubator,ilvl 83,1.0,107,14
 incubator,Infused Incubator,ilvl 83,1.0,111,17
 incubator,Kalguuran Incubator,ilvl 83,1.0,655,19
@@ -7510,7 +7513,7 @@ incubator,Obscured Incubator,ilvl 83,0.5,73,17
 incubator,Ornate Incubator,ilvl 83,10.0,346,35
 incubator,Otherworldly Incubator,ilvl 83,1.0,94,15
 incubator,Primal Incubator,ilvl 83,0.5,117,15
-incubator,Singular Incubator,ilvl 83,1.0,130,16
+incubator,Singular Incubator,ilvl 83,1.0,167,32
 incubator,Skittering Incubator,ilvl 83,1.0,563,22
 incubator,Thaumaturge's Incubator,ilvl 83,1.0,86,13
 vial,Vial of Consequence,,25.0,3,3
@@ -7530,8 +7533,8 @@ beast,Craicic Vassal,,10.0,4,2
 beast,Farric Frost Hellion Alpha,,50.0,5,5
 beast,Farric Lynx Alpha,,5.0,12,6
 beast,Farric Wolf Alpha,,13.0,100,18
-beast,Fenumal Plagued Arachnid,,15.0,46,19
-beast,Craicic Spider Crab,,100.0,9,3
+beast,Fenumal Plagued Arachnid,,20.0,25,10
+beast,Craicic Spider Crab,,100.0,10,4
 beast,Farric Tiger Alpha,,170.0,6,3
 beast,Fenumal Hybrid Arachnid,,214.20000000000002,8,3
 beast,Saqawine Rhex,,10.0,14,4
@@ -7541,7 +7544,7 @@ beast,Vivid Watcher,,142.79999999999998,100,4
 beast,Wild Brambleback,,25.0,45,4
 beast,Wild Bristle Matron,,234.0,76,13
 beast,Wild Hellion Alpha,,285.59999999999997,100,3
-beast,Craiceann First of the Deep,,50.0,7,5
+beast,Craiceann First of the Deep,,40.0,11,10
 beast,Farrul First of the Plains,,452.2,7,7
 beast,Fenumus First of the Night,,180.0,14,9
 beast,Saqawal First of the Sky,,70.0,10,6
@@ -9515,15 +9518,15 @@ unique,Replica Last Resort,corrupted,238.0,1,1
 unique,Replica Nebulis,clean,100.0,1,1
 unique,Rat's Nest,clean,1.0,89,85
 unique,Rat's Nest,corrupted,10.0,53,52
-unique,Atziri's Acuity,clean,4.0,9,8
-unique,Atziri's Acuity,corrupted,40.0,13,13
+unique,Atziri's Acuity,clean,4.0,21,18
+unique,Atziri's Acuity,corrupted,40.0,8,8
 unique,Maw of Conquest,clean,2.0,23,22
-unique,Maw of Conquest,corrupted,2.0,28,28
-unique,Replica Malachai's Artifice,clean,20.0,4,4
+unique,Maw of Conquest,corrupted,10.0,16,16
+unique,Replica Malachai's Artifice,clean,10.0,8,8
 unique,Drillneck,clean,1.0,31,29
 unique,Drillneck,corrupted,1.0,75,70
 unique,The Night Lamp,clean,3.0,99,31
-unique,Prism Guardian,clean,15.0,43,39
+unique,Prism Guardian,clean,15.0,45,44
 unique,Prism Guardian,corrupted,10.0,75,68
 unique,Ngamahu's Sign,clean,1.0,98,87
 unique,Ngamahu's Sign,corrupted,8.0,43,41
