@@ -676,18 +676,19 @@ card,Volatile Power,,1.0,4380,30
 card,Vanity,,1.0,282,29
 card,Winter's Embrace,,9.0,40,11
 map,Bone Crypt Map,T1,0.75,402,22
-map,Stagnation Map,T2,1.0,257,19
-map,Overgrown Shrine Map,T3,1.0,228,17
-map,Strand Map,T3,1.0,192,18
-map,Cemetery Map,T4,1.0,149,19
-map,Bone Crypt Map,T4,1.0,61,11
-map,Moon Temple Map,T4,1.0,98,18
-map,Vaal Pyramid Map,T4,1.0,232,17
-map,Atoll Map,T5,2.0,165,20
-map,Courtyard Map,T5,1.0,238,18
-map,Dunes Map,T5,4.0,151,4
-map,Arachnid Nest Map,T16,3.0,171,19
-map,Arachnid Tomb Map,T16,3.0,214,21
+map,Stagnation Map,T2,0.5,260,22
+map,Overgrown Shrine Map,T3,0.5,284,23
+map,Strand Map,T3,1.0,76,16
+map,Cemetery Map,T4,1.0,207,22
+map,Moon Temple Map,T4,1.0,109,19
+map,Vaal Pyramid Map,T4,1.0,309,23
+map,Atoll Map,T5,2.0,238,24
+map,Courtyard Map,T5,1.0,234,21
+map,Dunes Map,T5,3.0,65,4
+map,Mineral Pools Map,T5,0.5,22,7
+map,Stagnation Map,T5,1.0,12,7
+map,Alleyways Map,T16,3.0,83,25
+map,Arachnid Tomb Map,T16,3.0,127,21
 map,Arcade Map,T16,4.0,93,17
 map,Atoll Map,T16,5.0,263,22
 map,Barrows Map,T16,4.0,149,22
@@ -5339,17 +5340,17 @@ gem,Divergent Discharge,corrupted 21/20,1785.0,3,3
 gem,Divergent Discipline,corrupted 21/0,666.4,1,1
 gem,Divergent Discipline,clean 1/20,238.0,1,1
 gem,Divergent Discipline,corrupted 21/20,666.4,1,1
-gem,Divergent Dread Banner,clean 20/0,99.0,6,6
-gem,Divergent Dread Banner,corrupted 20/0,70.0,7,7
+gem,Divergent Dread Banner,clean 20/0,90.0,2,2
+gem,Divergent Dread Banner,corrupted 20/0,50.0,11,11
 gem,Divergent Dread Banner,corrupted 21/0,952.0,2,2
 gem,Divergent Dread Banner,clean 1/20,70.0,9,9
-gem,Divergent Dread Banner,clean 20/20,130.0,6,6
 gem,Divergent Dread Banner,corrupted 20/20,70.0,6,3
 gem,Divergent Dread Banner,corrupted 21/20,952.0,2,2
+gem,Divergent Dual Strike,corrupted 20/20,80.0,1,1
+gem,Divergent Earthshatter,clean 20/0,55.0,1,1
 gem,Divergent Earthshatter,corrupted 20/0,30.0,1,1
 gem,Divergent Earthshatter,corrupted 21/0,952.0,1,1
-gem,Divergent Earthshatter,clean 20/20,50.0,1,1
-gem,Divergent Efficacy Support,clean 20/0,150.0,2,2
+gem,Divergent Efficacy Support,clean 20/0,90.0,5,5
 gem,Divergent Efficacy Support,corrupted 20/0,60.0,9,8
 gem,Divergent Efficacy Support,corrupted 21/0,833.0,1,1
 gem,Divergent Efficacy Support,clean 1/20,150.0,2,2
@@ -7462,13 +7463,13 @@ compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest
 compass,Map Bosses drop 1 additional Unique Item,4,5.0,6,4
 compass,Your Maps can contain Breaches:Your Maps contain an additional Breach,4,7.0,87,13
 compass,Map Bosses are accompanied by Bodyguards:An additional Map drops on Completing your Maps,4,5.0,8,5
-compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,10.0,3,1
+compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,10.0,1,1
 compass,Your Maps contain Niko,4,5.0,16,3
 compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,4,5.0,16,11
 compass,Your Maps contain an additional Legion Encounter,4,8.0,63,12
 compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,10.0,1,1
 compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,2.0,8,4
-compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,5.0,3,3
+compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,2.0,6,5
 compass,Your Maps contain an additional Abyss:Your Maps can contain Abysses,4,3.661538461538462,26,11
 compass,Your Maps contain a Blight Encounter,4,3.0,7,6
 compass,Slaying Enemies close together can attract monsters from Beyond this realm:25% increased Beyond Demon Pack Size in your Maps,4,49.0,100,21
@@ -7551,26 +7552,26 @@ contract,Engineering Contract,ilvl 83+,1.0,35,17
 blueprint,Blueprint: Bunker,3 wings,10.0,39,15
 blueprint,Blueprint: Mansion,3 wings,10.0,39,23
 blueprint,Blueprint: Records Office,3 wings,3.0,48,19
-blueprint,Blueprint: Smuggler's Den,3 wings,5.0,46,27
+blueprint,Blueprint: Smuggler's Den,3 wings,4.0,49,26
 blueprint,Blueprint: Underbelly,3 wings,4.0,100,27
-blueprint,Blueprint: Repository,3 wings,20.0,45,31
+blueprint,Blueprint: Repository,3 wings,40.0,40,25
 blueprint,Blueprint: Tunnels,3 wings,10.0,39,27
 blueprint,Blueprint: Laboratory,3 wings,2.0,60,33
 blueprint,Blueprint: Prohibited Library,3 wings,4.0,65,38
-incubator,Abyssal Incubator,ilvl 83,2.0,143,13
+incubator,Abyssal Incubator,ilvl 83,1.0,170,13
 incubator,Blighted Incubator,ilvl 83,1.0,48,9
 incubator,Cartographer's Incubator,ilvl 83,1.0,259,14
 incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,11,5
 incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,16,7
-incubator,Celestial Jeweller's Incubator,ilvl 83,1.0,35,11
+incubator,Celestial Jeweller's Incubator,ilvl 83,1.0,19,5
 incubator,Diviner's Incubator,ilvl 83,5.0,71,15
 incubator,Enchanted Incubator,ilvl 83,1.0,217,16
-incubator,Foreboding Incubator,ilvl 83,1.0,37,9
+incubator,Foreboding Incubator,ilvl 83,1.0,68,12
 incubator,Geomancer's Incubator,ilvl 83,1.0,93,9
-incubator,Infused Incubator,ilvl 83,1.0,70,7
+incubator,Infused Incubator,ilvl 83,1.0,109,9
 incubator,Kalguuran Incubator,ilvl 83,2.0,470,16
 incubator,Maddening Incubator,ilvl 83,6.0,30,7
-incubator,Morphing Incubator,ilvl 83,1.0,29,3
+incubator,Morphing Incubator,ilvl 83,1.0,49,6
 incubator,Mysterious Incubator,ilvl 83,1.0,61,5
 incubator,Obscured Incubator,ilvl 83,1.0,37,9
 incubator,Ornate Incubator,ilvl 83,5.0,206,16
@@ -7594,8 +7595,8 @@ beast,Craicic Maw,,15.0,1,1
 beast,Craicic Vassal,,10.0,4,4
 beast,Farric Frost Hellion Alpha,,45.0,8,5
 beast,Farric Lynx Alpha,,5.0,40,5
-beast,Farric Wolf Alpha,,11.0,100,9
-beast,Fenumal Plagued Arachnid,,10.0,40,9
+beast,Farric Wolf Alpha,,12.0,100,7
+beast,Fenumal Plagued Arachnid,,15.0,10,6
 beast,Craicic Spider Crab,,100.0,4,4
 beast,Farric Tiger Alpha,,238.0,1,1
 beast,Fenumal Hybrid Arachnid,,100.0,4,2
@@ -7607,7 +7608,7 @@ beast,Vivid Watcher,,130.0,100,7
 beast,Wild Brambleback,,35.0,49,4
 beast,Wild Bristle Matron,,238.0,100,5
 beast,Wild Hellion Alpha,,288.0,100,4
-beast,Craiceann First of the Deep,,50.0,9,3
+beast,Craiceann First of the Deep,,50.0,3,2
 beast,Farrul First of the Plains,,476.0,5,1
 beast,Fenumus First of the Night,,238.0,4,2
 beast,Saqawal First of the Sky,,50.0,7,4
@@ -9119,23 +9120,22 @@ unique,Emperor's Wit,clean,3570.0,7,7
 unique,The Gilded Chalice,clean,595.0,41,32
 unique,Le Heup of All,clean,1.0,99,93
 unique,Le Heup of All,corrupted,3.0,97,83
-unique,Song of the Sirens,clean,238.0,2,2
+unique,Song of the Sirens,clean,100.0,3,3
 unique,Song of the Sirens,corrupted,71400.0,1,1
-unique,Skirmish,clean,1.0,55,51
+unique,Skirmish,clean,1.0,42,39
 unique,Skirmish,corrupted,2.0,35,34
-unique,Replica Tasalio's Sign,clean,10.0,20,19
+unique,Replica Tasalio's Sign,clean,15.0,9,7
 unique,Cospri's Malice,clean,6.0,100,97
 unique,Cospri's Malice,corrupted,10.0,61,56
 unique,Storm Prison,clean,1.0,27,27
 unique,Storm Prison,corrupted,3.0,19,19
-unique,Bloodsoaked Medallion,clean,1.0,95,83
+unique,Bloodsoaked Medallion,clean,1.0,98,84
 unique,Bloodsoaked Medallion,corrupted,2.0,53,51
-unique,Crest of Desire,clean,90.0,30,26
-unique,Crest of Desire,corrupted,80.0,1,1
-unique,Death's Door,clean,145.0,16,12
-unique,Death's Door,corrupted,25.0,13,4
+unique,Crest of Desire,clean,100.0,14,14
+unique,Crest of Desire,corrupted,476.0,1,1
+unique,Death's Door,clean,100.0,7,7
 unique,Lethal Pride,clean,20.0,99,54
-unique,Lethal Pride,corrupted,30.0,100,70
+unique,Lethal Pride,corrupted,30.0,36,36
 unique,Mercenary's Lot,clean,1.0,48,47
 unique,Mercenary's Lot,corrupted,1.0,71,69
 unique,Wheel of the Stormsail,clean,1.0,40,38
