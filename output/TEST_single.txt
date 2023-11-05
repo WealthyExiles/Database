@@ -737,7 +737,6 @@ map,Vaal Temple Map,T16,4.5,941,31
 map,Underground River Map,T16,3.0,527,32
 map,Blighted Bone Crypt Map,T1,8.0,4,3
 map,Blighted Stagnation Map,T2,235.0,1,1
-map,Blighted Strand Map,T3,5.0,2,2
 map,Blighted Alleyways Map,T16,25.0,1,1
 map,Blighted Beach Map,T16,23.0,3,2
 map,Blighted Atoll Map,T16,30.0,6,1
@@ -6243,13 +6242,14 @@ gem,Divergent Poisonous Concoction,corrupted 20/20,235.0,1,1
 gem,Divergent Absolution,clean 20/0,44.0,1,1
 gem,Divergent Absolution,clean 1/20,44.0,1,1
 gem,Divergent Absolution,clean 20/20,44.0,1,1
-gem,Divergent Battlemage's Cry,corrupted 20/0,470.0,1,1
-gem,Divergent Battlemage's Cry,clean 1/20,29.0,1,1
+gem,Divergent Battlemage's Cry,clean 20/0,352.5,1,1
+gem,Divergent Battlemage's Cry,corrupted 20/0,705.0,1,1
+gem,Divergent Battlemage's Cry,clean 1/20,352.5,1,1
+gem,Divergent Battlemage's Cry,clean 20/20,352.5,1,1
 gem,Divergent Battlemage's Cry,corrupted 20/20,98.0,1,1
-gem,Divergent Behead Support,clean 1/20,140.0,1,1
-gem,Divergent Blade Trap,corrupted 20/0,100.0,1,1
+gem,Divergent Behead Support,corrupted 21/0,352.5,1,1
 gem,Divergent Boneshatter,corrupted 20/0,211.5,16,12
-gem,Divergent Boneshatter,corrupted 21/0,3219.5,3,3
+gem,Divergent Boneshatter,corrupted 21/0,7755.0,3,3
 gem,Divergent Boneshatter,clean 1/20,352.5,2,2
 gem,Divergent Boneshatter,clean 20/20,705.0,1,1
 gem,Divergent Boneshatter,corrupted 20/20,470.0,5,5
@@ -7369,11 +7369,11 @@ compass,Slaying Enemies close together can attract monsters from Beyond this rea
 compass,Your Maps contain 100% increased number of Runic Monster Markers,4,15.0,18,6
 compass,Delirium Reward Bars fill 100% faster in your Maps,4,42.72727272727273,48,20
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,4,540.5,70,29
-compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,4,4.0,9,3
+compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,4,4.0,16,3
 compass,Area contains Metamorph Monsters,4,4.0,6,6
 compass,Your Maps contain The Sacred Grove,4,60.0,66,31
-compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,4,7.0,10,7
-compass,Players and Monsters take 12% increased Cold Damage:Your Maps contain 6 additional packs of Monsters that deal Cold Damage,4,3.0,98,5
+compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,4,6.0,16,10
+compass,Players and Monsters take 12% increased Cold Damage:Your Maps contain 6 additional packs of Monsters that deal Cold Damage,4,4.0,4,3
 compass,Slaying Enemies close together can attract monsters from Beyond this realm:35% increased Beyond Demon Pack Size in your Maps,16,658.0,26,12
 compass,Area contains a Smuggler's Cache,16,50.0,17,4
 compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,16,49.0,5,3
@@ -7456,11 +7456,11 @@ incubator,Abyssal Incubator,ilvl 83,1.0,219,29
 incubator,Blighted Incubator,ilvl 83,1.0,131,20
 incubator,Cartographer's Incubator,ilvl 83,1.0,328,21
 incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,55,11
-incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,51,11
+incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,84,15
 incubator,Celestial Jeweller's Incubator,ilvl 83,1.0,35,7
 incubator,Diviner's Incubator,ilvl 83,10.0,284,27
-incubator,Enchanted Incubator,ilvl 83,1.0,339,27
-incubator,Foreboding Incubator,ilvl 83,1.0,207,20
+incubator,Enchanted Incubator,ilvl 83,1.0,380,21
+incubator,Foreboding Incubator,ilvl 83,1.0,134,14
 incubator,Geomancer's Incubator,ilvl 83,1.0,141,22
 incubator,Infused Incubator,ilvl 83,1.0,58,14
 incubator,Kalguuran Incubator,ilvl 83,1.0,321,23
@@ -7488,8 +7488,8 @@ beast,Craicic Chimeral,,540.5,98,21
 beast,Craicic Maw,,15.0,1,1
 beast,Craicic Vassal,,9.0,3,3
 beast,Farric Frost Hellion Alpha,,55.0,7,6
-beast,Farric Lynx Alpha,,5.0,55,10
-beast,Farric Wolf Alpha,,10.0,51,20
+beast,Farric Lynx Alpha,,5.0,23,7
+beast,Farric Wolf Alpha,,10.0,38,13
 beast,Fenumal Plagued Arachnid,,13.0,20,12
 beast,Craicic Spider Crab,,10.0,4,4
 beast,Farric Tiger Alpha,,200.0,4,2
@@ -7899,22 +7899,20 @@ unique,Martyr of Innocence,corrupted,30.0,4,4
 unique,Witchhunter's Judgment,clean,15.0,7,7
 unique,Femurs of the Saints,clean,1.0,30,29
 unique,Femurs of the Saints,corrupted,20.0,4,4
-unique,Femurs of the Saints,corrupted 6-link,587.5,2,2
-unique,The Searing Touch,clean,1.0,9,9
-unique,The Searing Touch,corrupted,235.0,1,1
-unique,Agnerod East,clean,1.0,43,37
-unique,Agnerod East,corrupted,10.0,9,8
+unique,The Searing Touch,clean,1.0,14,14
+unique,The Searing Touch,corrupted,235.0,2,2
+unique,Agnerod East,clean,1.0,57,52
+unique,Agnerod East,corrupted,7.0,8,8
 unique,Agnerod North,clean,1.0,42,36
-unique,Agnerod North,clean 6-link,20.0,1,1
-unique,Agnerod North,corrupted,10.0,5,5
+unique,Agnerod North,clean 6-link,60.0,2,2
+unique,Agnerod North,corrupted,30.0,4,4
 unique,Agnerod South,clean,1.0,62,58
 unique,Agnerod South,clean 6-link,940.0,1,1
-unique,Agnerod South,corrupted,5.0,11,11
+unique,Agnerod South,corrupted,10.0,7,7
 unique,Agnerod West,clean,1.0,64,62
-unique,Agnerod West,clean 6-link,150.0,1,1
 unique,Agnerod West,corrupted,15.0,7,7
 unique,Agnerod West,corrupted 6-link,1175.0,1,1
-unique,The Enmity Divine,clean,14.0,1,1
+unique,The Enmity Divine,clean,6.0,3,3
 unique,The Yielding Mortality,clean,235.0,4,3
 unique,The Yielding Mortality,clean 6-link,235.0,2,1
 unique,Shiversting,clean,1.0,28,27
