@@ -714,9 +714,10 @@ map,Volcano Map,T16,4.0,140,22
 map,Vaal Temple Map,T16,4.0,798,21
 map,Vaal Pyramid Map,T16,2.0,556,29
 map,Blighted Bone Crypt Map,T1,8.0,3,3
+map,Blighted Cemetery Map,T4,6.0,2,1
+map,Blighted Moon Temple Map,T4,10.0,1,1
 map,Blighted Dunes Map,T5,5.0,1,1
-map,Blighted Alleyways Map,T16,29.0,2,1
-map,Blighted Arachnid Nest Map,T16,25.0,4,2
+map,Blighted Alleyways Map,T16,20.0,1,1
 map,Blighted Barrows Map,T16,29.0,2,2
 map,Blighted Beach Map,T16,30.0,5,1
 map,Blighted Atoll Map,T16,20.0,15,3
@@ -7154,19 +7155,15 @@ gem,Awakened Arrow Nova Support,clean 5/0,474.0,11,5
 gem,Awakened Arrow Nova Support,corrupted 5/0,284.4,18,12
 gem,Awakened Arrow Nova Support,corrupted 6/0,1422.0,4,4
 gem,Awakened Arrow Nova Support,clean 1/20,474.0,8,3
-gem,Awakened Arrow Nova Support,clean 5/20,592.5,3,3
-gem,Awakened Arrow Nova Support,corrupted 4/20,474.0,2,2
-gem,Awakened Arrow Nova Support,corrupted 5/20,545.0999999999999,5,5
+gem,Awakened Arrow Nova Support,clean 5/20,474.0,8,3
+gem,Awakened Arrow Nova Support,corrupted 5/20,474.0,10,6
 gem,Awakened Arrow Nova Support,corrupted 6/20,948.0,3,3
-gem,Awakened Unleash Support,clean 1/0,1185.0,14,8
-gem,Awakened Unleash Support,clean 3/0,1493.1,1,1
+gem,Awakened Unleash Support,clean 1/0,1066.5,7,6
 gem,Awakened Unleash Support,clean 5/0,1896.0,5,3
 gem,Awakened Unleash Support,corrupted 5/0,1777.5,2,2
 gem,Awakened Unleash Support,corrupted 6/0,3792.0,9,9
-gem,Awakened Unleash Support,clean 1/20,1090.1999999999998,6,6
-gem,Awakened Unleash Support,clean 3/20,1493.1,1,1
+gem,Awakened Unleash Support,clean 1/20,1659.0,2,2
 gem,Awakened Unleash Support,clean 5/20,1872.3000000000002,6,4
-gem,Awakened Unleash Support,corrupted 5/20,1659.0,4,4
 gem,Awakened Unleash Support,corrupted 6/20,3792.0,8,8
 gem,Awakened Spell Cascade Support,clean 1/0,3555.0,6,6
 gem,Awakened Spell Cascade Support,clean 5/0,4503.0,1,1
@@ -7202,7 +7199,7 @@ compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 
 compass,Unique Monsters drop Corrupted Items,4,4.0,21,8
 compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,13.0,24,18
 compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,5.0,38,18
-compass,Maps found in your Maps are Corrupted with 8 Modifiers,4,100.14084507042253,39,13
+compass,Maps found in your Maps are Corrupted with 8 Modifiers,4,140.0,22,15
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,16.690140845070424,46,20
 compass,Create a copy of Beasts Captured in your Maps,4,23.0,59,24
 compass,25% increased Magic Pack Size,4,7.0,100,8
@@ -7354,7 +7351,7 @@ incubator,Maddening Incubator,ilvl 83,1.0,43,11
 incubator,Morphing Incubator,ilvl 83,1.0,86,11
 incubator,Mysterious Incubator,ilvl 83,1.0,92,8
 incubator,Obscured Incubator,ilvl 83,1.0,77,12
-incubator,Ornate Incubator,ilvl 83,5.0,324,29
+incubator,Ornate Incubator,ilvl 83,5.0,227,22
 incubator,Otherworldly Incubator,ilvl 83,1.0,30,6
 incubator,Primal Incubator,ilvl 83,1.0,46,6
 incubator,Singular Incubator,ilvl 83,1.0,91,21
@@ -7374,7 +7371,7 @@ beast,Craicic Chimeral,,545.0999999999999,39,19
 beast,Craicic Maw,,2.0,5,4
 beast,Craicic Vassal,,9.0,11,6
 beast,Farric Frost Hellion Alpha,,55.0,15,8
-beast,Farric Lynx Alpha,,7.0,32,7
+beast,Farric Lynx Alpha,,7.0,35,8
 beast,Farric Wolf Alpha,,9.0,60,18
 beast,Fenumal Plagued Arachnid,,15.0,68,17
 beast,Craicic Spider Crab,,80.0,9,5
@@ -7393,7 +7390,7 @@ beast,Wild Hellion Alpha,,284.4,38,8
 beast,Craiceann First of the Deep,,50.0,9,7
 beast,Farrul First of the Plains,,237.0,14,10
 beast,Fenumus First of the Night,,199.0,39,13
-beast,Saqawal First of the Sky,,60.0,12,8
+beast,Saqawal First of the Sky,,50.0,16,11
 map,Enslaver's Map,T16,5.0,100,33
 map,Eradicator's Map,T16,10.0,100,21
 map,Constrictor's Map,T16,10.0,99,29
@@ -8667,19 +8664,19 @@ unique,Replica Winterheart,clean,10.0,6,6
 unique,Replica Winterheart,corrupted,948.0,1,1
 unique,Rigwald's Curse,corrupted,1.0,49,48
 unique,Asphyxia's Wrath,clean,1.0,49,44
-unique,Asphyxia's Wrath,corrupted,4.0,100,95
+unique,Asphyxia's Wrath,corrupted,1.0,49,45
 unique,Apep's Rage,clean,5.0,53,52
-unique,Apep's Rage,corrupted,15.0,8,8
+unique,Apep's Rage,corrupted,4.0,24,24
 unique,The Princess,clean,1.0,50,48
-unique,The Princess,corrupted,3.0,21,21
+unique,The Princess,corrupted,3.0,17,16
 unique,Southbound,clean,1.0,100,98
 unique,Southbound,corrupted,3.0,99,90
 unique,Transcendent Flesh,clean,149.0,16,9
-unique,Transcendent Flesh,corrupted,948.0,31,2
-unique,Yaomac's Accord,clean,49.0,5,5
-unique,Yaomac's Accord,corrupted,80.0,1,1
+unique,Transcendent Flesh,corrupted,14220.0,2,2
+unique,Yaomac's Accord,clean,237.0,1,1
+unique,Yaomac's Accord,corrupted,711.0,1,1
 unique,Craiceann's Pincers,clean,9.0,11,11
-unique,Craiceann's Pincers,corrupted,20.0,2,2
+unique,Craiceann's Pincers,corrupted,100.0,1,1
 unique,Siegebreaker,clean,1.0,94,80
 unique,Siegebreaker,corrupted,2.0,68,65
 unique,Headhunter,clean,25359.0,44,43
