@@ -193,34 +193,32 @@ delirium-orb,Timeless Delirium Orb,,6.0,115,14
 delirium-orb,Amorphou's Delirium Orb,,10.0,130,21
 catalyst,Turbulent Catalyst,,0.9,6629,32
 catalyst,Imbued Catalyst,,0.3333333333333333,10423,21
-catalyst,Tempering Catalyst,,0.5,3088,33
-catalyst,Fertile Catalyst,,8.0,1844,28
-catalyst,Prismatic Catalyst,,18.0,1631,31
-catalyst,Accelerating Catalyst,,2.0,620,23
-catalyst,Unstable Catalyst,,20.0,563,22
-oil,Clear Oil,,0.07142857142857142,24417,43
-oil,Amber Oil,,0.0985576923076923,21087,38
-oil,Verdant Oil,,0.16666666666666666,14868,37
-oil,Teal Oil,,0.25,13120,38
-oil,Indigo Oil,,0.3333333333333333,6617,35
-oil,Violet Oil,,1.0,6250,34
-oil,Crimson Oil,,2.0,2971,37
-oil,Black Oil,,0.02,2749,30
-oil,Opalescent Oil,,12.0,2117,31
-oil,Silver Oil,,37.0,1170,23
-oil,Oil Extractor,,18.0,935,20
-oil,Reflective Oil,,0.5,762,16
-oil,Tainted Oil,,230.0,132,11
-scarab,Rusted Breach Scarab,,1.0,8266,38
-scarab,Gilded Bestiary Scarab,,3.0,2670,17
-scarab,Winged Elder Scarab,,45.0,265,23
-scarab,Rusted Ambush Scarab,,1.0,8194,42
-scarab,Rusted Legion Scarab,,1.0,10229,29
-scarab,Winged Torment Scarab,,48.0,139,23
-scarab,Polished Legion Scarab,,5.0,6532,26
-scarab,Polished Ambush Scarab,,1.0,3920,38
-scarab,Winged Bestiary Scarab,,44.0,191,22
-scarab,Polished Breach Scarab,,1.0,4316,38
+catalyst,Fertile Catalyst,,0.14285714285714285,1545,33
+catalyst,Prismatic Catalyst,,18.0,1445,33
+catalyst,Intrinsic Catalyst,,1.0,11125,39
+catalyst,Accelerating Catalyst,,2.0,411,21
+catalyst,Unstable Catalyst,,20.0,448,19
+oil,Clear Oil,,0.05,27721,40
+oil,Amber Oil,,0.09090909090909091,29145,40
+oil,Sepia Oil,,0.05,33440,40
+oil,Verdant Oil,,0.1,25192,45
+oil,Teal Oil,,0.24,12329,37
+oil,Azure Oil,,0.3333333333333333,6637,31
+oil,Crimson Oil,,1.98,3742,35
+oil,Black Oil,,4.070796460176991,1782,27
+oil,Opalescent Oil,,12.777777777777777,1513,28
+oil,Golden Oil,,76.66666666666666,569,23
+oil,Oil Extractor,,14.0,426,16
+oil,Reflective Oil,,1.0,693,17
+oil,Tainted Oil,,306.66666666666663,102,8
+scarab,Rusted Breach Scarab,,1.0,5886,34
+scarab,Gilded Bestiary Scarab,,3.0,2565,26
+scarab,Winged Elder Scarab,,40.0,286,19
+scarab,Gilded Elder Scarab,,3.0,1482,22
+scarab,Rusted Legion Scarab,,1.0,6504,41
+scarab,Winged Torment Scarab,,45.0,154,23
+scarab,Winged Bestiary Scarab,,45.0,188,23
+scarab,Gilded Breach Scarab,,5.0,2220,24
 scarab,Gilded Legion Scarab,,5.0,2971,20
 scarab,Winged Legion Scarab,,44.0,200,20
 scarab,Gilded Ambush Scarab,,5.0,1268,27
@@ -6395,13 +6393,14 @@ gem,Phantasmal Flame Wall,clean 20/20,230.0,1,1
 gem,Phantasmal Flame Wall,corrupted 20/20,230.0,3,3
 gem,Phantasmal Flameblast,clean 20/0,40.0,1,1
 gem,Phantasmal Flameblast,corrupted 20/0,15.0,1,1
+gem,Phantasmal Flameblast,corrupted 21/0,460.0,1,1
 gem,Phantasmal Flameblast,clean 1/20,40.0,1,1
-gem,Phantasmal Flameblast,clean 20/20,50.0,1,1
+gem,Phantasmal Flameblast,clean 20/20,40.0,1,1
+gem,Phantasmal Flameblast,corrupted 21/20,460.0,1,1
 gem,Phantasmal Frenzy,clean 20/0,70.0,2,2
+gem,Phantasmal Frenzy,corrupted 20/0,40.0,1,1
 gem,Phantasmal Frenzy,clean 1/20,60.0,3,3
-gem,Phantasmal Frenzy,clean 20/20,70.0,2,2
-gem,Phantasmal Frost Bomb,clean 1/20,80.0,1,1
-gem,Phantasmal Frost Shield,clean 20/0,85.0,2,2
+gem,Phantasmal Frenzy,corrupted 20/20,40.0,1,1
 gem,Phantasmal Frost Shield,corrupted 20/0,50.0,1,1
 gem,Phantasmal Frost Shield,corrupted 21/0,230.0,1,1
 gem,Phantasmal Frost Shield,clean 20/20,85.0,2,2
@@ -7378,18 +7377,19 @@ compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain 
 compass,Your Maps contain an additional Shrine:Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,16,25.0,5,5
 compass,Your Maps contain a Blight Encounter,16,12.0,21,1
 compass,Your Maps contain an additional Shrine:Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,16,35.0,28,2
+compass,Your Maps contain 100% increased number of Runic Monster Markers,16,230.0,1,1
 compass,Delirium Reward Bars fill 100% faster in your Maps,16,529.0,14,7
-compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,16,2990.0,3,2
-compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,16,7.0,2,1
-compass,Area contains Metamorph Monsters,16,14.0,24,5
+compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,16,2875.0,5,4
+compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,16,7.0,3,2
+compass,Area contains Metamorph Monsters,16,12.0,23,4
 compass,25% increased Pack Size in your Unidentified Maps,16,30.0,26,4
 compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,68.0,3,3
-compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,200.0,17,7
+compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,230.0,5,3
 contract,Lockpicking Contract,ilvl 83+,2.0,34,13
 contract,Brute Force Contract,ilvl 83+,1.0,23,11
 contract,Perception Contract,ilvl 83+,2.0,18,11
 contract,Demolition Contract,ilvl 83+,2.0,28,9
-contract,Counter-Thaumaturgy Contract,ilvl 83+,1.0,21,13
+contract,Counter-Thaumaturgy Contract,ilvl 83+,2.0,22,15
 contract,Trap Disarmament Contract,ilvl 83+,2.0,15,9
 contract,Agility Contract,ilvl 83+,2.0,16,9
 contract,Deception Contract,ilvl 83+,5.0,47,13
@@ -7400,13 +7400,13 @@ blueprint,Blueprint: Records Office,3 wings,3.0,28,25
 blueprint,Blueprint: Smuggler's Den,3 wings,5.0,49,35
 blueprint,Blueprint: Underbelly,3 wings,3.0,44,31
 blueprint,Blueprint: Repository,3 wings,20.0,52,34
-blueprint,Blueprint: Tunnels,3 wings,15.0,63,36
+blueprint,Blueprint: Tunnels,3 wings,30.0,29,20
 blueprint,Blueprint: Laboratory,3 wings,3.0,42,25
 blueprint,Blueprint: Prohibited Library,3 wings,5.0,69,40
 incubator,Abyssal Incubator,ilvl 83,1.0,189,19
 incubator,Blighted Incubator,ilvl 83,1.0,66,9
 incubator,Cartographer's Incubator,ilvl 83,1.0,234,11
-incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,55,11
+incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,19,7
 incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,84,15
 incubator,Celestial Jeweller's Incubator,ilvl 83,1.0,35,7
 incubator,Diviner's Incubator,ilvl 83,19.0,215,14
@@ -7445,7 +7445,7 @@ beast,Craicic Spider Crab,,100.0,5,5
 beast,Farric Tiger Alpha,,199.0,1,1
 beast,Fenumal Hybrid Arachnid,,100.0,1,1
 beast,Saqawine Rhex,,99.0,3,3
-beast,Primal Rhex Matriarch,,35.0,100,3
+beast,Primal Rhex Matriarch,,40.0,100,3
 beast,Vivid Abberarach,,5.0,1,1
 beast,Vivid Vulture,,874.0,36,5
 beast,Vivid Watcher,,138.0,99,7
@@ -8020,6 +8020,7 @@ unique,Hegemony's Era,corrupted,40.0,9,9
 unique,The Grey Spire,clean,1.0,41,41
 unique,The Grey Spire,corrupted,4.0,8,8
 unique,Atziri's Rule,clean,10.0,13,12
+unique,Atziri's Rule,clean 6-link,851.0,1,1
 unique,Atziri's Rule,corrupted,50.0,3,3
 unique,Atziri's Rule,corrupted 6-link,920.0,2,2
 unique,Atziri's Promise,clean,2.0,100,77
