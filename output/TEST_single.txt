@@ -709,18 +709,23 @@ map,Blighted Bone Crypt Map,T16,20.0,2,2
 map,Blighted Castle Ruins Map,T16,25.0,2,2
 map,Blighted Cemetery Map,T16,20.0,15,6
 map,Blighted Cells Map,T16,20.0,3,2
-map,Blighted City Square Map,T16,25.0,3,3
-map,Blighted Cold River Map,T16,16.0,1,1
+map,Blighted Colonnade Map,T16,30.0,2,2
+map,Blighted City Square Map,T16,20.0,5,4
+map,Blighted Cold River Map,T16,30.0,1,1
 map,Blighted Courtyard Map,T16,30.0,1,1
-map,Blighted Coves Map,T16,30.0,3,1
-map,Blighted Crimson Temple Map,T16,18.0,16,9
-map,Blighted Dunes Map,T16,10.0,11,4
-map,Blighted Infested Valley Map,T16,20.0,5,3
-map,Blighted Leyline Map,T16,20.0,4,1
-map,Blighted Museum Map,T16,30.0,1,1
-map,Blighted Necropolis Map,T16,30.0,2,2
-map,Blighted Orchard Map,T16,20.0,2,2
-map,Blighted Primordial Pool Map,T16,20.0,1,1
+map,Blighted Crimson Temple Map,T16,20.0,25,6
+map,Blighted Dunes Map,T16,20.0,37,3
+map,Blighted Dungeon Map,T16,20.0,2,2
+map,Blighted Infested Valley Map,T16,40.0,2,2
+map,Blighted Leyline Map,T16,20.0,3,2
+map,Blighted Malformation Map,T16,30.0,2,2
+map,Blighted Moon Temple Map,T16,23.0,2,2
+map,Blighted Mineral Pools Map,T16,25.0,1,1
+map,Blighted Necropolis Map,T16,20.0,2,1
+map,Blighted Overgrown Shrine Map,T16,30.0,1,1
+map,Blighted Orchard Map,T16,20.0,3,2
+map,Blighted Pit Map,T16,25.0,1,1
+map,Blighted Primordial Pool Map,T16,40.0,1,1
 map,Blighted Primordial Blocks Map,T16,20.0,1,1
 map,Blighted Underground River Map,T16,30.0,5,2
 map,Blighted Sulphur Vents Map,T16,60.0,1,1
@@ -6674,19 +6679,16 @@ gem,Cursed Ground Support,corrupted 21/20,63.0,1,1
 gem,Anomalous Cursed Ground Support,clean 20/0,80.0,1,1
 gem,Anomalous Cursed Ground Support,corrupted 20/0,95.0,4,3
 gem,Anomalous Cursed Ground Support,clean 1/20,80.0,1,1
-gem,Anomalous Cursed Ground Support,corrupted 20/20,230.0,1,1
 gem,Anomalous Cursed Ground Support,corrupted 21/20,276.0,2,2
-gem,Divergent Cursed Ground Support,clean 20/0,40.0,3,3
-gem,Divergent Cursed Ground Support,corrupted 20/0,50.0,2,2
-gem,Divergent Cursed Ground Support,corrupted 20/20,35.0,1,1
+gem,Divergent Cursed Ground Support,clean 20/0,65.0,2,2
+gem,Divergent Cursed Ground Support,clean 1/20,80.0,2,2
+gem,Divergent Cursed Ground Support,clean 20/20,80.0,1,1
 gem,Hex Bloom Support,clean 20/0,3.0,3,3
 gem,Hex Bloom Support,corrupted 20/0,10.0,3,3
 gem,Hex Bloom Support,corrupted 21/0,10.0,6,6
-gem,Hex Bloom Support,clean 1/20,10.0,5,5
+gem,Hex Bloom Support,clean 1/20,3.0,4,4
 gem,Hex Bloom Support,clean 20/20,10.0,3,3
-gem,Hex Bloom Support,corrupted 20/20,20.0,4,4
 gem,Hex Bloom Support,corrupted 21/20,10.0,4,4
-gem,Anomalous Hex Bloom Support,corrupted 20/0,100.0,1,1
 gem,Anomalous Hex Bloom Support,clean 1/20,30.0,2,2
 gem,Anomalous Hex Bloom Support,clean 20/20,200.0,1,1
 gem,Divergent Hex Bloom Support,clean 1/20,230.0,1,1
@@ -7218,15 +7220,16 @@ compass,Your Maps contain Ritual Altars,4,6.865671641791045,21,9
 compass,Players and Monsters take 12% increased Lightning Damage:Your Maps contain 6 additional packs of Monsters that deal Lightning Damage,4,5.0,26,3
 compass,Your Magic Maps contain 4 additional packs of Magic Monsters:Your Normal Maps contain 4 additional packs of Normal Monsters:Your Rare Maps contain 4 additional Rare Monster packs,4,3.0,33,8
 compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 4 additional Packs with Mirrored Rare Monsters,4,4.0,100,4
-compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,4,2.0,13,4
-compass,Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,3.0,46,13
-compass,The First 3 Possessed Monsters drop an additional Rusted Scarab:Your Maps contain an additional Tormented Betrayer,4,2.0,6,4
+compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,4,2.0,8,6
+compass,Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,2.0,40,12
+compass,The First 3 Possessed Monsters drop an additional Rusted Scarab:Your Maps contain an additional Tormented Betrayer,4,4.0,10,5
 compass,Your Maps contain 6 additional packs of Monsters that Convert when Killed,4,5.0,2,2
+compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Items dropped by Corrupted Vaal Monsters in your Maps have 25% chance to be Corrupted,4,5.0,8,4
 compass,Final Map Boss in each Map drops an additional Shaper Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,10.0,37,18
-compass,Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,3.4328358208955225,23,8
+compass,Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,3.4328358208955225,52,12
 compass,Your Maps contain hunted traitors,4,3.4328358208955225,100,8
 compass,Breaches in your Maps belong to Chayula:Breaches in your Maps contain 3 additional Clasped Hands,4,17.16417910447761,39,18
-compass,Oils found in your Maps are 1 tier higher:Cost of Building and Upgrading Blight Towers in your Maps is doubled,4,12.0,17,9
+compass,Oils found in your Maps are 1 tier higher:Cost of Building and Upgrading Blight Towers in your Maps is doubled,4,10.298507462686567,35,14
 compass,Your Maps contain Jun,4,5.0,70,17
 compass,Map Bosses have 20% increased Life:Quality bonus of your Maps also applies to Rarity of Items found,4,2.0,67,9
 compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Your Maps have a 50% chance to contain Gifts of the Sacrificed per Sacrifice Fragment used:Your Maps have a 50% chance to contain Gifts of the Red Queen per Mortal Fragment used,4,3.0,4,4
@@ -7330,7 +7333,7 @@ blueprint,Blueprint: Records Office,3 wings,3.0,33,28
 blueprint,Blueprint: Smuggler's Den,3 wings,2.0,51,35
 blueprint,Blueprint: Underbelly,3 wings,3.0,34,25
 blueprint,Blueprint: Repository,3 wings,25.0,58,40
-blueprint,Blueprint: Tunnels,3 wings,30.0,29,20
+blueprint,Blueprint: Tunnels,3 wings,20.0,91,45
 blueprint,Blueprint: Laboratory,3 wings,5.0,41,29
 blueprint,Blueprint: Prohibited Library,3 wings,3.0,48,37
 incubator,Abyssal Incubator,ilvl 83,1.0,181,20
@@ -7343,13 +7346,13 @@ incubator,Diviner's Incubator,ilvl 83,6.0,184,24
 incubator,Enchanted Incubator,ilvl 83,1.0,232,18
 incubator,Foreboding Incubator,ilvl 83,1.0,136,15
 incubator,Geomancer's Incubator,ilvl 83,1.0,85,13
-incubator,Infused Incubator,ilvl 83,1.0,139,8
+incubator,Infused Incubator,ilvl 83,1.0,115,15
 incubator,Kalguuran Incubator,ilvl 83,1.0,302,24
 incubator,Maddening Incubator,ilvl 83,3.0,53,8
 incubator,Morphing Incubator,ilvl 83,5.0,55,10
 incubator,Mysterious Incubator,ilvl 83,1.0,37,7
 incubator,Obscured Incubator,ilvl 83,2.0,49,7
-incubator,Ornate Incubator,ilvl 83,8.0,193,22
+incubator,Ornate Incubator,ilvl 83,8.0,365,33
 incubator,Otherworldly Incubator,ilvl 83,1.0,34,8
 incubator,Primal Incubator,ilvl 83,1.0,42,7
 incubator,Singular Incubator,ilvl 83,1.0,138,17
@@ -7373,7 +7376,7 @@ beast,Farric Lynx Alpha,,10.0,9,3
 beast,Farric Wolf Alpha,,10.0,30,10
 beast,Fenumal Plagued Arachnid,,15.0,28,14
 beast,Craicic Spider Crab,,90.0,6,5
-beast,Farric Tiger Alpha,,150.0,5,3
+beast,Farric Tiger Alpha,,80.0,6,4
 beast,Fenumal Hybrid Arachnid,,50.0,10,5
 beast,Saqawine Rhex,,50.0,5,4
 beast,Primal Crushclaw,,20.0,8,1
@@ -7382,7 +7385,7 @@ beast,Vivid Vulture,,851.0,24,7
 beast,Vivid Watcher,,138.0,63,6
 beast,Wild Brambleback,,30.0,100,4
 beast,Wild Bristle Matron,,234.0,100,4
-beast,Wild Hellion Alpha,,276.0,31,5
+beast,Wild Hellion Alpha,,276.0,75,5
 beast,Craiceann First of the Deep,,70.0,4,4
 beast,Farrul First of the Plains,,230.0,14,11
 beast,Fenumus First of the Night,,184.0,15,9
@@ -7392,7 +7395,7 @@ map,Eradicator's Map,T16,11.0,65,17
 map,Constrictor's Map,T16,10.0,100,31
 map,Purifier's Map,T16,10.0,72,32
 map,Baran's Citadel,T16,25.0,99,28
-map,Veritania's Citadel,T16,8.0,100,28
+map,Veritania's Citadel,T16,10.0,100,47
 map,Al-Hezmin's Citadel,T16,8.0,100,27
 map,Drox's Citadel,T16,8.0,100,25
 unique,Bramblejack,clean,1.0,31,29
@@ -8254,14 +8257,14 @@ unique,Fate of the Vaal,clean,75.0,5,5
 unique,Vixen's Entrapment,clean,4.0,98,95
 unique,Vixen's Entrapment,corrupted,3.0,95,88
 unique,Bino's Kitchen Knife,clean,30.0,3,3
-unique,Bino's Kitchen Knife,corrupted,100.0,2,2
+unique,Bino's Kitchen Knife,corrupted,100.0,1,1
 unique,Circle of Nostalgia,clean,2.0,99,72
 unique,Circle of Nostalgia,corrupted,10.0,17,17
 unique,Stormshroud,clean,460.0,24,24
-unique,Stormshroud,corrupted,690.0,13,13
+unique,Stormshroud,corrupted,621.0,16,16
 unique,Crown of Thorns,clean,1.0,31,31
-unique,Crown of Thorns,corrupted,3.0,43,41
-unique,Faithguard,clean,6.0,5,5
+unique,Crown of Thorns,corrupted,20.0,18,18
+unique,Faithguard,clean,1.0,4,4
 unique,Belt of the Deceiver,clean,1.0,99,90
 unique,Belt of the Deceiver,corrupted,1.0,55,54
 unique,Callinellus Malleus,clean,1.0,19,19
