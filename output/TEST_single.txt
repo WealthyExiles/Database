@@ -699,11 +699,16 @@ map,Vaal Temple Map,T16,4.0,1158,26
 map,Vaal Pyramid Map,T16,2.0,840,26
 map,Underground River Map,T16,3.0,480,32
 map,Blighted Bone Crypt Map,T1,12.0,4,2
-map,Blighted Arachnid Nest Map,T16,10.0,5,2
-map,Blighted Beach Map,T16,30.0,3,1
+map,Blighted Dunes Map,T5,5.0,1,1
+map,Blighted Alleyways Map,T16,29.0,2,1
+map,Blighted Arachnid Nest Map,T16,25.0,4,2
+map,Blighted Barrows Map,T16,29.0,2,2
+map,Blighted Beach Map,T16,30.0,5,1
+map,Blighted Atoll Map,T16,20.0,15,3
 map,Blighted Bone Crypt Map,T16,20.0,2,2
-map,Blighted Cemetery Map,T16,20.0,10,5
-map,Blighted Cells Map,T16,10.0,1,1
+map,Blighted Castle Ruins Map,T16,25.0,2,2
+map,Blighted Cemetery Map,T16,20.0,15,6
+map,Blighted Cells Map,T16,20.0,3,2
 map,Blighted City Square Map,T16,25.0,3,3
 map,Blighted Cold River Map,T16,16.0,1,1
 map,Blighted Courtyard Map,T16,30.0,1,1
@@ -6656,20 +6661,19 @@ gem,Alchemist's Mark,corrupted 20/20,4.0,2,2
 gem,Alchemist's Mark,corrupted 21/20,50.0,1,1
 gem,Anomalous Alchemist's Mark,corrupted 20/0,50.0,2,2
 gem,Anomalous Alchemist's Mark,corrupted 20/20,50.0,1,1
-gem,Divergent Alchemist's Mark,clean 20/0,75.0,2,2
+gem,Divergent Alchemist's Mark,clean 20/0,100.0,1,1
 gem,Divergent Alchemist's Mark,clean 1/20,80.0,4,3
-gem,Divergent Alchemist's Mark,corrupted 20/20,230.0,1,1
-gem,Cursed Ground Support,clean 20/0,19.0,9,9
+gem,Divergent Alchemist's Mark,clean 20/20,100.0,1,1
+gem,Cursed Ground Support,clean 20/0,10.0,6,6
 gem,Cursed Ground Support,corrupted 20/0,10.0,11,11
 gem,Cursed Ground Support,corrupted 21/0,2.0,8,8
-gem,Cursed Ground Support,clean 1/20,19.0,10,10
+gem,Cursed Ground Support,clean 1/20,10.0,7,7
 gem,Cursed Ground Support,clean 20/20,15.0,1,1
-gem,Cursed Ground Support,corrupted 20/20,10.0,3,3
-gem,Cursed Ground Support,corrupted 21/20,12.0,5,5
-gem,Anomalous Cursed Ground Support,clean 20/0,90.0,4,4
+gem,Cursed Ground Support,corrupted 20/20,10.0,1,1
+gem,Cursed Ground Support,corrupted 21/20,63.0,1,1
+gem,Anomalous Cursed Ground Support,clean 20/0,80.0,1,1
 gem,Anomalous Cursed Ground Support,corrupted 20/0,95.0,4,3
-gem,Anomalous Cursed Ground Support,corrupted 21/0,276.0,2,2
-gem,Anomalous Cursed Ground Support,clean 1/20,90.0,3,3
+gem,Anomalous Cursed Ground Support,clean 1/20,80.0,1,1
 gem,Anomalous Cursed Ground Support,corrupted 20/20,230.0,1,1
 gem,Anomalous Cursed Ground Support,corrupted 21/20,276.0,2,2
 gem,Divergent Cursed Ground Support,clean 20/0,40.0,3,3
@@ -7201,7 +7205,7 @@ compass,Maps found in your Maps are Corrupted with 8 Modifiers,4,102.98507462686
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,17.16417910447761,46,20
 compass,Create a copy of Beasts Captured in your Maps,4,22.0,36,12
 compass,25% increased Magic Pack Size,4,7.0,100,8
-compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,2.0,2,2
+compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,3.0,25,3
 compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain an additional Essence,4,3.4328358208955225,64,13
 compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,4,8.0,100,14
 compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,2.0,29,1
@@ -7340,7 +7344,7 @@ incubator,Enchanted Incubator,ilvl 83,1.0,232,18
 incubator,Foreboding Incubator,ilvl 83,1.0,136,15
 incubator,Geomancer's Incubator,ilvl 83,1.0,85,13
 incubator,Infused Incubator,ilvl 83,1.0,139,8
-incubator,Kalguuran Incubator,ilvl 83,1.0,446,14
+incubator,Kalguuran Incubator,ilvl 83,1.0,302,24
 incubator,Maddening Incubator,ilvl 83,3.0,53,8
 incubator,Morphing Incubator,ilvl 83,5.0,55,10
 incubator,Mysterious Incubator,ilvl 83,1.0,37,7
@@ -7376,13 +7380,13 @@ beast,Primal Crushclaw,,20.0,8,1
 beast,Primal Rhex Matriarch,,50.0,100,2
 beast,Vivid Vulture,,851.0,24,7
 beast,Vivid Watcher,,138.0,63,6
-beast,Wild Brambleback,,30.0,56,7
+beast,Wild Brambleback,,30.0,100,4
 beast,Wild Bristle Matron,,234.0,100,4
 beast,Wild Hellion Alpha,,276.0,31,5
 beast,Craiceann First of the Deep,,70.0,4,4
 beast,Farrul First of the Plains,,230.0,14,11
 beast,Fenumus First of the Night,,184.0,15,9
-beast,Saqawal First of the Sky,,230.0,1,1
+beast,Saqawal First of the Sky,,65.0,8,3
 map,Enslaver's Map,T16,6.0,73,29
 map,Eradicator's Map,T16,11.0,65,17
 map,Constrictor's Map,T16,10.0,100,31
@@ -8235,14 +8239,14 @@ unique,Badge of the Brotherhood,corrupted,100.0,42,40
 unique,Intuitive Leap,clean,65.0,19,16
 unique,Intuitive Leap,corrupted,60.0,29,28
 unique,The Blue Dream,clean,5.0,24,18
-unique,The Blue Dream,corrupted,20.0,4,4
+unique,The Blue Dream,corrupted,20.0,8,8
 unique,Ryslatha's Coil,clean,8.0,100,98
 unique,Ryslatha's Coil,corrupted,20.0,23,23
 unique,The Goddess Bound,clean,1.0,33,33
-unique,The Goddess Bound,corrupted,8.0,10,10
+unique,The Goddess Bound,corrupted,5.0,10,10
 unique,Polaric Devastation,clean,15.0,99,91
-unique,Polaric Devastation,corrupted,50.0,4,3
-unique,Dreadarc,clean,1.0,33,29
+unique,Polaric Devastation,corrupted,75.0,6,6
+unique,Dreadarc,clean,1.0,45,42
 unique,Dreadarc,corrupted,5.0,10,10
 unique,Alpha's Howl,clean,1.0,71,57
 unique,Alpha's Howl,corrupted,3.0,100,88
