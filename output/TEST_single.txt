@@ -150,25 +150,24 @@ scouting-report,Comprehensive Scouting Report,,35.85,134,7
 scouting-report,Operative's Scouting Report,,3.0,335,5
 scouting-report,Explorer's Scouting Report,,0.5,10606,30
 scouting-report,Influenced Scouting Report,,1.0,1924,18
-incubator,Singular Incubator,,1.0,1730,28
-incubator,Cartographer's Incubator,,0.5,4439,27
-incubator,Otherworldly Incubator,,1.0,999,27
-incubator,Fragmented Incubator,,0.1,5456,21
-incubator,Fossilised Incubator,,0.5,5666,20
-incubator,Skittering Incubator,,0.5,7157,35
-incubator,Obscured Incubator,,1.0,788,32
-incubator,Celestial Jeweller's Incubator,,0.5,578,23
-incubator,Celestial Armoursmith's Incubator,,0.5,649,27
-incubator,Diviner's Incubator,,1.0,1119,37
-incubator,Primal Incubator,,0.47619047619047616,1918,35
-incubator,Geomancer's Incubator,,0.1,2493,37
-incubator,Ornate Incubator,,6.0,3981,32
-incubator,Maddening Incubator,,0.3333333333333333,1259,34
-incubator,Mysteriou's Incubator,,0.5,1996,27
-incubator,Thaumaturge's Incubator,,0.5,882,28
-incubator,Morphing Incubator,,0.25,1816,34
-incubator,Blighted Incubator,,0.2,2692,29
-artifact,Astragali,,0.5,9735,28
+incubator,Cartographer's Incubator,,0.5,3891,23
+incubator,Otherworldly Incubator,,1.0,775,31
+incubator,Abyssal Incubator,,0.05,5724,22
+incubator,Fragmented Incubator,,0.1,5320,25
+incubator,Infused Incubator,,0.7,2948,28
+incubator,Fossilised Incubator,,1.0,6190,19
+incubator,Skittering Incubator,,1.0,6099,25
+incubator,Foreboding Incubator,,1.0,1496,30
+incubator,Obscured Incubator,,1.0,736,28
+incubator,Celestial Armoursmith's Incubator,,0.5,576,28
+incubator,Celestial Blacksmith's Incubator,,0.16666666666666666,642,25
+incubator,Diviner's Incubator,,5.0,1101,31
+incubator,Primal Incubator,,0.1,3384,30
+incubator,Enchanted Incubator,,0.1,5710,26
+incubator,Ornate Incubator,,3.0,3704,37
+incubator,Maddening Incubator,,1.0,804,23
+incubator,Mysteriou's Incubator,,0.5,1971,27
+incubator,Morphing Incubator,,0.25,1652,34
 artifact,Exotic Coinage,,2.0,2967,36
 artifact,Scrap Metal,,0.9958333333333333,4401,21
 artifact,Burial Medallion,,4.0,2027,38
@@ -930,23 +929,24 @@ gem,Archmage Support,corrupted 21/0,3.0,9,8
 gem,Archmage Support,clean 1/20,8.0,9,9
 gem,Archmage Support,clean 20/20,9.0,3,3
 gem,Archmage Support,corrupted 20/20,35.0,2,2
-gem,Arctic Armour,clean 20/0,4.0,22,21
-gem,Arctic Armour,corrupted 20/0,10.0,16,16
+gem,Archmage Support,corrupted 21/20,25.0,6,5
+gem,Arctic Armour,clean 20/0,9.0,16,15
+gem,Arctic Armour,corrupted 20/0,15.0,11,11
 gem,Arctic Armour,corrupted 21/0,11.0,12,12
 gem,Arctic Armour,clean 1/20,3.0,16,15
 gem,Arctic Armour,clean 20/20,20.0,11,10
 gem,Arctic Armour,corrupted 20/20,15.0,10,8
-gem,Arctic Armour,corrupted 21/20,40.0,17,17
-gem,Armageddon Brand,clean 20/0,4.0,1,1
-gem,Armageddon Brand,corrupted 20/0,3.0,5,5
+gem,Arctic Armour,corrupted 21/20,39.0,8,8
+gem,Armageddon Brand,clean 20/0,5.0,6,6
+gem,Armageddon Brand,corrupted 20/0,4.0,5,4
 gem,Armageddon Brand,corrupted 21/0,5.0,13,13
 gem,Armageddon Brand,clean 1/20,4.0,1,1
-gem,Armageddon Brand,clean 20/20,4.0,5,5
+gem,Armageddon Brand,clean 20/20,9.0,2,2
 gem,Armageddon Brand,corrupted 20/20,3.0,3,3
 gem,Armageddon Brand,corrupted 21/20,5.0,9,9
 gem,Arrogance Support,clean 20/0,10.0,31,26
-gem,Arrogance Support,corrupted 20/0,5.0,82,36
-gem,Arrogance Support,corrupted 21/0,25.0,39,34
+gem,Arrogance Support,corrupted 20/0,10.0,33,23
+gem,Arrogance Support,corrupted 21/0,20.0,20,17
 gem,Arrogance Support,clean 1/20,10.0,29,28
 gem,Arrogance Support,clean 20/20,45.0,11,11
 gem,Arrogance Support,corrupted 20/20,15.0,48,18
@@ -7210,7 +7210,7 @@ compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant o
 compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,4,8.0,100,14
 compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,2.0,29,1
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,9.0,25,9
-compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,4.0,6,5
+compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,4.0,12,6
 compass,20% increased Pack Size in your Unidentified Maps,4,8.0,99,11
 compass,Players and Monsters take 12% increased Chaos Damage:Your Maps contain 6 additional packs of Monsters that deal Chaos Damage,4,5.0,21,4
 compass,Strongbox Monsters are Enraged:Strongbox Monsters have 500% increased Item Quantity:Your Maps contain an additional Strongbox,4,57.93939393939394,100,37
@@ -7343,8 +7343,8 @@ blueprint,Blueprint: Laboratory,3 wings,4.0,58,39
 blueprint,Blueprint: Prohibited Library,3 wings,2.0,71,46
 incubator,Abyssal Incubator,ilvl 83,1.0,245,31
 incubator,Blighted Incubator,ilvl 83,1.0,181,23
-incubator,Cartographer's Incubator,ilvl 83,1.0,338,13
-incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,21,4
+incubator,Cartographer's Incubator,ilvl 83,1.0,692,29
+incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,38,11
 incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,39,8
 incubator,Celestial Jeweller's Incubator,ilvl 83,1.0,25,7
 incubator,Diviner's Incubator,ilvl 83,5.0,229,23
@@ -7382,7 +7382,7 @@ beast,Farric Wolf Alpha,,10.0,68,17
 beast,Fenumal Plagued Arachnid,,13.0,75,16
 beast,Craicic Spider Crab,,79.0,17,6
 beast,Farric Tiger Alpha,,170.0,3,3
-beast,Fenumal Hybrid Arachnid,,100.0,11,6
+beast,Fenumal Hybrid Arachnid,,239.0,7,2
 beast,Saqawine Rhex,,88.0,3,3
 beast,Primal Cystcaller,,5.0,4,2
 beast,Primal Rhex Matriarch,,35.0,3,2
@@ -7394,12 +7394,12 @@ beast,Wild Bristle Matron,,286.8,85,6
 beast,Wild Hellion Alpha,,286.8,38,8
 beast,Craiceann First of the Deep,,45.0,23,12
 beast,Farrul First of the Plains,,239.0,17,13
-beast,Fenumus First of the Night,,239.0,37,13
+beast,Fenumus First of the Night,,230.0,38,11
 beast,Saqawal First of the Sky,,70.0,24,11
 map,Enslaver's Map,T16,9.0,100,19
 map,Eradicator's Map,T16,10.0,100,20
 map,Constrictor's Map,T16,10.0,100,18
-map,Purifier's Map,T16,10.0,100,30
+map,Purifier's Map,T16,10.0,100,22
 map,Baran's Citadel,T16,24.0,100,43
 map,Veritania's Citadel,T16,24.0,100,35
 map,Al-Hezmin's Citadel,T16,24.0,100,43
@@ -8791,20 +8791,19 @@ unique,Steppan Eard,corrupted,18.0,8,8
 unique,Atziri's Foible,clean,14.0,32,31
 unique,Atziri's Foible,corrupted,19.0,3,3
 unique,Wondertrap,clean,1.0,45,42
-unique,Wondertrap,corrupted,8.0,20,20
-unique,Replica Hyrri's Truth,clean,15.0,10,10
+unique,Wondertrap,corrupted,5.0,27,26
+unique,Replica Hyrri's Truth,clean,20.0,21,20
 unique,Chitus' Apex,clean,10.0,93,87
-unique,Chitus' Apex,corrupted,10.0,25,25
+unique,Chitus' Apex,corrupted,9.0,19,19
 unique,Karui Ward,clean,2.0,97,79
-unique,Karui Ward,corrupted,2.0,95,78
+unique,Karui Ward,corrupted,2.0,77,73
 unique,Survivor's Guilt,clean,1.0,4,4
-unique,Survivor's Guilt,corrupted,100.0,1,1
-unique,Soul Taker,clean,1195.0,5,5
-unique,Replica Tukohama's Fortress,clean,20.0,2,2
+unique,Survivor's Guilt,corrupted,239.0,1,1
+unique,Soul Taker,clean,1553.5,5,5
 unique,Saemus' Gift,clean,1.0,27,27
 unique,Saemus' Gift,corrupted,10.0,36,35
 unique,Malachai's Artifice,clean,1.0,92,81
-unique,Malachai's Artifice,corrupted,2.0,53,27
+unique,Malachai's Artifice,corrupted,1.0,71,37
 unique,The Torrent's Reclamation,clean,1434.0,3,3
 unique,The Torrent's Reclamation,corrupted,956.0,44,42
 unique,Nadir Mode,clean,3.0,17,12
