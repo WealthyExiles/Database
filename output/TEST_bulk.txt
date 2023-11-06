@@ -2924,14 +2924,9 @@ map,Wharf Map,T16,35.0,18,1
 map,Wasteland Map,T16,5.0,1,14
 map,Wasteland Map,T16,5.0,9,5
 map,Wasteland Map,T16,5.0,18,1
-map,Vaal Pyramid Map,T16,2.0,1,29
-map,Vaal Pyramid Map,T16,3.0,9,12
-map,Vaal Pyramid Map,T16,3.0,18,7
-map,Vaal Pyramid Map,T16,3.0,30,5
-map,Vaal Pyramid Map,T16,3.0,50,2
-map,Blighted Bone Crypt Map,T1,8.0,1,3
-map,Blighted Cemetery Map,T4,6.0,1,1
-map,Blighted Moon Temple Map,T4,10.0,1,1
+map,Underground River Map,T16,3.0,1,22
+map,Underground River Map,T16,4.0,9,6
+map,Underground River Map,T16,30.0,18,1
 map,Blighted Dunes Map,T5,5.0,1,1
 map,Blighted Alleyways Map,T16,20.0,1,1
 map,Blighted Beach Map,T16,30.0,1,1
@@ -3668,25 +3663,25 @@ gem,Cyclone,clean 20/20,40.0,1,7
 gem,Cyclone,corrupted 20/20,40.0,1,4
 gem,Cyclone,corrupted 21/20,150.0,1,6
 gem,Damage on Full Life Support,clean 20/0,20.0,1,4
-gem,Damage on Full Life Support,corrupted 20/0,20.0,1,4
+gem,Damage on Full Life Support,corrupted 20/0,5.0,1,3
 gem,Damage on Full Life Support,corrupted 21/0,10.0,1,20
-gem,Damage on Full Life Support,clean 1/20,20.0,1,5
+gem,Damage on Full Life Support,clean 1/20,20.0,1,2
 gem,Damage on Full Life Support,clean 20/20,20.0,1,4
 gem,Damage on Full Life Support,corrupted 20/20,20.0,1,2
-gem,Damage on Full Life Support,corrupted 21/20,50.0,1,6
+gem,Damage on Full Life Support,corrupted 21/20,45.0,1,4
 gem,Dark Pact,clean 20/0,4.0,1,6
 gem,Dark Pact,corrupted 20/0,10.0,1,1
-gem,Dark Pact,corrupted 21/0,9.0,1,10
+gem,Dark Pact,corrupted 21/0,5.0,1,7
 gem,Dark Pact,clean 1/20,2.0,1,7
-gem,Dark Pact,clean 20/20,3.0,1,5
-gem,Dark Pact,corrupted 21/20,9.0,1,6
+gem,Dark Pact,clean 20/20,5.0,1,2
+gem,Dark Pact,corrupted 21/20,5.0,1,5
 gem,Dash,clean 20/0,5.0,1,11
-gem,Dash,corrupted 20/0,4.0,1,12
+gem,Dash,corrupted 20/0,30.0,1,5
 gem,Dash,corrupted 21/0,3.0,1,12
 gem,Dash,clean 1/20,5.0,1,21
 gem,Dash,clean 20/20,20.0,1,5
-gem,Dash,corrupted 20/20,20.0,1,5
-gem,Dash,corrupted 21/20,25.0,1,8
+gem,Dash,corrupted 20/20,60.0,1,3
+gem,Dash,corrupted 21/20,30.0,1,4
 gem,Deadly Ailments Support,clean 20/0,3.0,1,7
 gem,Deadly Ailments Support,corrupted 20/0,10.0,1,3
 gem,Deadly Ailments Support,corrupted 21/0,15.0,1,6
@@ -9525,18 +9520,17 @@ compass,Area contains Metamorph Monsters,4,3.621212121212121,1,10
 compass,Your Maps contain The Sacred Grove,4,60.0,1,31
 compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,4,3.621212121212121,1,9
 compass,Players and Monsters take 12% increased Cold Damage:Your Maps contain 6 additional packs of Monsters that deal Cold Damage,4,5.0,1,3
-compass,Slaying Enemies close together can attract monsters from Beyond this realm:35% increased Beyond Demon Pack Size in your Maps,16,669.1999999999999,1,7
-compass,Area contains a Smuggler's Cache,16,45.0,1,4
-compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,16,40.0,1,2
+compass,Slaying Enemies close together can attract monsters from Beyond this realm:35% increased Beyond Demon Pack Size in your Maps,16,717.0,1,4
+compass,Area contains a Smuggler's Cache,16,59.0,1,3
+compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,16,40.0,1,1
 compass,Your Maps contain 3 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,16,239.0,1,5
-compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,16,143.0,1,2
-compass,Maps found in your Maps are Corrupted with 8 Modifiers,16,717.0,1,3
-compass,Strongbox Monsters are Enraged:Strongbox Monsters have 600% increased Item Quantity:Your Maps contain an additional Strongbox,16,1673.0,1,11
-compass,Create a copy of Beasts Captured in your Maps,16,239.0,1,3
+compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,16,239.0,1,2
+compass,Maps found in your Maps are Corrupted with 8 Modifiers,16,956.0,1,1
+compass,Strongbox Monsters are Enraged:Strongbox Monsters have 600% increased Item Quantity:Your Maps contain an additional Strongbox,16,1673.0,1,6
 compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contain 8 additional packs of Monsters that Heal,16,10.0,1,2
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,85.0,1,3
 compass,Your Magic Maps contain 5 additional packs of Magic Monsters:Your Normal Maps contain 5 additional packs of Normal Monsters:Your Rare Maps contain 5 additional Rare Monster packs,16,12.0,1,2
-compass,Your Maps contain Ritual Altars,16,70.0,1,1
+compass,Your Maps contain Ritual Altars,16,74.0,1,3
 compass,Map Bosses of your Corrupted Maps drop 3 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,16,8.0,1,5
 compass,Players and Monsters take 14% increased Cold Damage:Your Maps contain 8 additional packs of Monsters that deal Cold Damage,16,20.0,1,1
 compass,Your Maps contain 2 additional Abysses:Your Maps can contain Abysses,16,50.0,1,7
@@ -9651,7 +9645,7 @@ vial,Vial of Summoning,,50.0,1,2
 vial,Vial of Summoning,,50.0,9,1
 vial,Vial of the Ritual,,10.0,1,1
 vial,Vial of Transcendence,,71.0,1,8
-logbook,Bruids of the Broken Circle Logbook,ilvl 83+,9.0,1,46
+logbook,Bruids of the Broken Circle Logbook,ilvl 83+,10.0,1,33
 logbook,Black Scythe Mercenaries Logbook,ilvl 83+,25.0,1,32
 logbook,Order of the Chalice Logbook,ilvl 83+,10.0,1,24
 logbook,Knights of the Sun Logbook,ilvl 83+,45.0,1,15
@@ -11370,10 +11364,10 @@ unique,Mightflay,corrupted,10.0,1,5
 unique,Uzaza's Valley,clean,956.0,1,4
 unique,The Surrender,clean,932.1,1,7
 unique,The Surrender,corrupted,1673.0,1,1
-unique,Farrul's Pounce,clean,4.0,1,10
-unique,Farrul's Pounce,corrupted,15.0,1,2
+unique,Farrul's Pounce,clean,15.0,1,7
+unique,Farrul's Pounce,corrupted,30.0,1,2
 unique,Hyaon's Fury,clean,1.0,1,61
-unique,Hyaon's Fury,corrupted,3.0,1,9
+unique,Hyaon's Fury,corrupted,10.0,1,10
 unique,Mask of the Tribunal,clean,4.0,1,89
 unique,Mask of the Tribunal,corrupted,20.0,1,16
 unique,Vivinsect,clean,20.0,1,23
