@@ -152,13 +152,14 @@ incubator,Infused Incubator,,1.0,3279,36
 incubator,Fossilised Incubator,,0.5,5708,25
 incubator,Skittering Incubator,,1.0,4888,36
 incubator,Foreboding Incubator,,1.0,1358,36
-incubator,Celestial Armoursmith's Incubator,,0.6666666666666666,355,19
-incubator,Diviner's Incubator,,4.0,453,26
-incubator,Primal Incubator,,0.5,1356,27
-incubator,Ornate Incubator,,4.0,412,28
-incubator,Maddening Incubator,,1.0,365,18
-incubator,Thaumaturge's Incubator,,1.0,410,23
-artifact,Astragali,,0.6666666666666666,7791,27
+incubator,Celestial Jeweller's Incubator,,0.5,630,24
+incubator,Celestial Armoursmith's Incubator,,0.2,529,28
+incubator,Diviner's Incubator,,1.0,1388,41
+incubator,Primal Incubator,,0.3333333333333333,1384,27
+incubator,Enchanted Incubator,,0.2,5521,35
+incubator,Maddening Incubator,,0.3333333333333333,1147,31
+incubator,Morphing Incubator,,0.25,1400,36
+incubator,Blighted Incubator,,0.3333333333333333,1950,34
 artifact,Exotic Coinage,,7.0,1218,27
 artifact,Burial Medallion,,4.0,567,23
 delirium-orb,Fragmented Delirium Orb,,10.0,144,15
@@ -2264,23 +2265,22 @@ gem,Lightning Penetration Support,corrupted 20/20,45.0,2,1
 gem,Lightning Spire Trap,clean 20/0,10.0,3,3
 gem,Lightning Spire Trap,corrupted 20/0,5.0,2,2
 gem,Lightning Spire Trap,corrupted 21/0,3.0,7,7
-gem,Lightning Spire Trap,clean 1/20,1.0,9,7
-gem,Lightning Spire Trap,clean 20/20,10.0,2,2
-gem,Lightning Spire Trap,corrupted 20/20,40.0,1,1
-gem,Lightning Spire Trap,corrupted 21/20,3.0,2,2
+gem,Lightning Spire Trap,clean 1/20,3.0,8,8
+gem,Lightning Spire Trap,clean 20/20,3.0,5,5
+gem,Lightning Spire Trap,corrupted 21/20,60.0,2,2
 gem,Lightning Strike,clean 20/0,15.0,13,13
 gem,Lightning Strike,corrupted 20/0,4.0,20,13
 gem,Lightning Strike,corrupted 21/0,4.0,23,18
-gem,Lightning Strike,clean 1/20,5.0,19,18
-gem,Lightning Strike,clean 20/20,40.0,11,11
-gem,Lightning Strike,corrupted 20/20,30.0,6,4
+gem,Lightning Strike,clean 1/20,4.0,14,14
+gem,Lightning Strike,clean 20/20,15.0,5,5
+gem,Lightning Strike,corrupted 20/20,5.0,10,9
 gem,Lightning Strike,corrupted 21/20,9.0,14,14
 gem,Lightning Tendrils,clean 20/0,2.0,6,5
-gem,Lightning Tendrils,corrupted 20/0,2.0,4,4
+gem,Lightning Tendrils,corrupted 20/0,10.0,6,6
 gem,Lightning Tendrils,corrupted 21/0,4.0,9,9
-gem,Lightning Tendrils,clean 1/20,3.0,11,11
-gem,Lightning Tendrils,clean 20/20,40.0,3,3
-gem,Lightning Tendrils,corrupted 20/20,2.0,4,2
+gem,Lightning Tendrils,clean 1/20,3.0,11,10
+gem,Lightning Tendrils,clean 20/20,3.0,4,4
+gem,Lightning Tendrils,corrupted 20/20,135.0,3,3
 gem,Lightning Tendrils,corrupted 21/20,10.0,6,6
 gem,Lightning Trap,clean 20/0,1.0,4,4
 gem,Lightning Trap,corrupted 20/0,5.0,3,3
@@ -7303,7 +7303,7 @@ incubator,Celestial Jeweller's Incubator,ilvl 83,47.0,65,4
 incubator,Diviner's Incubator,ilvl 83,10.0,77,12
 incubator,Enchanted Incubator,ilvl 83,1.0,385,15
 incubator,Foreboding Incubator,ilvl 83,1.0,75,14
-incubator,Geomancer's Incubator,ilvl 83,1.0,50,11
+incubator,Geomancer's Incubator,ilvl 83,1.0,139,17
 incubator,Infused Incubator,ilvl 83,1.0,352,11
 incubator,Kalguuran Incubator,ilvl 83,1.0,272,23
 incubator,Maddening Incubator,ilvl 83,1.0,79,7
@@ -7335,7 +7335,7 @@ beast,Farric Lynx Alpha,,5.0,46,10
 beast,Farric Wolf Alpha,,10.0,17,7
 beast,Fenumal Plagued Arachnid,,10.0,34,11
 beast,Craicic Spider Crab,,49.0,25,3
-beast,Farric Tiger Alpha,,110.0,7,6
+beast,Farric Tiger Alpha,,120.0,5,4
 beast,Fenumal Hybrid Arachnid,,200.0,8,3
 beast,Saqawine Rhex,,100.0,2,1
 beast,Primal Crushclaw,,30.0,1,1
@@ -7659,13 +7659,12 @@ unique,Widowhail,corrupted 6-link,761.6,17,17
 unique,Quill Rain,clean,1.0,98,96
 unique,Quill Rain,clean 6-link,714.0,4,4
 unique,Quill Rain,corrupted,5.0,34,32
-unique,Replica Quill Rain,clean,10.0,9,9
-unique,Replica Quill Rain,clean 6-link,200.0,1,1
+unique,Replica Quill Rain,clean,5.0,8,8
 unique,Storm Cloud,clean,1.0,47,44
 unique,Storm Cloud,clean 6-link,833.0,1,1
-unique,Storm Cloud,corrupted,10.0,8,8
+unique,Storm Cloud,corrupted,3.0,14,13
 unique,Roth's Reach,clean,1.0,49,46
-unique,Roth's Reach,corrupted,10.0,5,5
+unique,Roth's Reach,corrupted,1.0,7,7
 unique,Doomfletch,clean,3.0,16,16
 unique,Doomfletch,clean 6-link,595.0,1,1
 unique,Doomfletch,corrupted,10.0,14,14
