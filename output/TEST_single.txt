@@ -705,12 +705,15 @@ map,Wasteland Map,T16,3.0,248,22
 map,Vaal Pyramid Map,T16,3.0,537,19
 map,Underground River Map,T16,3.0,462,28
 map,Blighted Bone Crypt Map,T1,5.0,6,5
-map,Blighted Arcade Map,T16,238.0,7,1
-map,Blighted Beach Map,T16,30.0,5,1
+map,Blighted Arcade Map,T16,60.0,1,1
+map,Blighted Barrows Map,T16,60.0,1,1
+map,Blighted Beach Map,T16,30.0,5,2
 map,Blighted Atoll Map,T16,25.0,11,1
-map,Blighted Cemetery Map,T16,20.0,1,1
-map,Blighted Chateau Map,T16,238.0,11,1
-map,Blighted City Square Map,T16,25.0,4,2
+map,Blighted Caldera Map,T16,20.0,3,2
+map,Blighted Cells Map,T16,30.0,2,2
+map,Blighted Chateau Map,T16,60.0,1,1
+map,Blighted City Square Map,T16,25.0,6,3
+map,Blighted Cold River Map,T16,60.0,1,1
 map,Blighted Crimson Temple Map,T16,20.0,6,4
 map,Blighted Dunes Map,T16,23.0,39,3
 map,Blighted Dungeon Map,T16,21.0,2,2
@@ -2024,17 +2027,18 @@ gem,Ignite Proliferation Support,clean 1/20,4.0,6,6
 gem,Ignite Proliferation Support,clean 20/20,45.0,3,3
 gem,Ignite Proliferation Support,corrupted 20/20,238.0,2,1
 gem,Ignite Proliferation Support,corrupted 21/20,40.0,2,2
-gem,Immolate Support,clean 20/0,10.0,5,5
-gem,Immolate Support,corrupted 20/0,20.0,2,2
-gem,Immolate Support,corrupted 21/0,4.0,4,4
+gem,Immolate Support,clean 20/0,10.0,6,6
+gem,Immolate Support,corrupted 20/0,9.0,6,6
+gem,Immolate Support,corrupted 21/0,10.0,5,5
 gem,Immolate Support,clean 1/20,10.0,6,6
 gem,Immolate Support,clean 20/20,10.0,5,5
+gem,Immolate Support,corrupted 20/20,10.0,3,3
 gem,Immolate Support,corrupted 21/20,100.0,2,2
 gem,Immortal Call,clean 20/0,4.0,10,10
 gem,Immortal Call,corrupted 20/0,15.0,30,24
 gem,Immortal Call,corrupted 21/0,5.0,12,12
 gem,Immortal Call,clean 1/20,7.0,25,24
-gem,Immortal Call,clean 20/20,20.0,16,10
+gem,Immortal Call,clean 20/20,20.0,16,11
 gem,Immortal Call,corrupted 20/20,15.0,18,15
 gem,Immortal Call,corrupted 21/20,20.0,10,10
 gem,Impale Support,clean 20/0,10.0,7,6
@@ -7237,18 +7241,19 @@ compass,Players and their Minions cannot take Reflected Damage:Your Maps contain
 compass,Final Map Boss in each Map drops an additional Shaper Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,130.0,6,3
 compass,Your Maps contain hunted traitors,16,40.0,8,2
 compass,Breaches in your Maps belong to Chayula:Breaches in your Maps contain 3 additional Clasped Hands,16,309.40000000000003,9,1
-compass,Oils found in your Maps are 1 tier higher:Cost of Building and Upgrading Blight Towers in your Maps is doubled,16,238.0,2,1
+compass,Oils found in your Maps are 1 tier higher:Cost of Building and Upgrading Blight Towers in your Maps is doubled,16,140.0,5,1
 compass,Players and Monsters take 14% increased Lightning Damage:Your Maps contain 8 additional packs of Monsters that deal Lightning Damage,16,20.0,1,1
 compass,Your Maps contain Jun,16,3570.0,2,1
+compass,Catalysts dropped by Metamorphs in your Maps are Duplicated:Metamorphs in your Maps have 100% more Life,16,45.0,3,2
 compass,Your Maps contain The Sacred Grove,16,476.0,3,2
 compass,Your Maps can contain Breaches:Your Maps contain 2 additional Breaches,16,238.0,8,4
-compass,Your Maps contain Einhar,16,12.0,10,2
-compass,Map Bosses are accompanied by Bodyguards:2 additional Maps drop on Completing your Maps,16,30.0,5,3
-compass,Your Maps contain 8 additional packs of Monsters that Convert when Killed,16,5.0,100,1
-compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,285.59999999999997,5,2
+compass,Map Bosses are accompanied by Bodyguards:2 additional Maps drop on Completing your Maps,16,25.0,10,7
+compass,Your Maps contain 8 additional packs of Monsters that Convert when Killed,16,20.0,2,2
+compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,476.0,3,2
 compass,Your Maps contain a Mirror of Delirium,16,309.40000000000003,1,1
+compass,100% increased Intelligence gained from Immortal Syndicate targets encountered in your Maps,16,80.0,5,2
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Purple Plants,16,1428.0,1,1
-compass,Your Maps contain Alva,16,90.0,4,4
+compass,Your Maps contain Alva,16,90.0,10,5
 compass,Your Maps contain Niko,16,45.0,2,2
 compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,16,1904.0,2,2
 compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain 2 additional Essences,16,70.0,13,4
@@ -7266,7 +7271,7 @@ contract,Brute Force Contract,ilvl 83+,2.0,43,14
 contract,Perception Contract,ilvl 83+,1.0,34,19
 contract,Demolition Contract,ilvl 83+,2.0,20,13
 contract,Counter-Thaumaturgy Contract,ilvl 83+,2.0,23,17
-contract,Trap Disarmament Contract,ilvl 83+,2.0,15,7
+contract,Trap Disarmament Contract,ilvl 83+,2.0,15,11
 contract,Agility Contract,ilvl 83+,2.0,19,11
 contract,Deception Contract,ilvl 83+,8.0,45,13
 contract,Engineering Contract,ilvl 83+,1.0,26,14
@@ -7301,7 +7306,7 @@ incubator,Primal Incubator,ilvl 83,1190.0,33,1
 incubator,Singular Incubator,ilvl 83,1.0,49,10
 incubator,Skittering Incubator,ilvl 83,1.0,464,14
 incubator,Thaumaturge's Incubator,ilvl 83,1.0,82,4
-vial,Vial of Consequence,,35.0,3,3
+vial,Vial of Consequence,,45.0,2,2
 vial,Vial of Dominance,,13.0,1,1
 vial,Vial of Fate,,15.0,2,2
 vial,Vial of Summoning,,30.0,17,5
@@ -7474,18 +7479,18 @@ unique,Shavronne's Wrappings,clean,4.0,63,62
 unique,Shavronne's Wrappings,clean 6-link,357.0,14,14
 unique,Shavronne's Wrappings,corrupted,7.0,93,85
 unique,Shavronne's Wrappings,corrupted 6-link,100.0,24,24
-unique,Infernal Mantle,clean,1.0,22,22
+unique,Infernal Mantle,clean,3.0,25,23
 unique,Infernal Mantle,clean 6-link,238.0,2,2
-unique,Infernal Mantle,corrupted,4.0,65,57
-unique,Infernal Mantle,corrupted 6-link,476.0,9,9
+unique,Infernal Mantle,corrupted,10.0,17,17
+unique,Infernal Mantle,corrupted 6-link,238.0,5,5
 unique,Doedre's Skin,clean,1.0,14,14
-unique,Doedre's Skin,corrupted,20.0,10,10
-unique,Doedre's Skin,corrupted 6-link,100.0,1,1
-unique,Fenumus' Shroud,clean,10.0,6,6
-unique,The Beast Fur Shawl,clean,1.0,93,82
+unique,Doedre's Skin,corrupted,100.0,7,7
+unique,Fenumus' Shroud,clean,45.0,4,4
+unique,Fenumus' Shroud,corrupted,2380.0,1,1
+unique,The Beast Fur Shawl,clean,1.0,37,36
 unique,The Beast Fur Shawl,clean 6-link,357.0,1,1
-unique,The Beast Fur Shawl,corrupted,1.0,43,43
-unique,The Beast Fur Shawl,corrupted 6-link,9520.0,1,1
+unique,The Beast Fur Shawl,corrupted,10.0,23,23
+unique,The Beast Fur Shawl,corrupted 6-link,952.0,1,1
 unique,The Queen's Hunger,clean,2.0,57,56
 unique,The Queen's Hunger,corrupted,50.0,4,4
 unique,Gruthkul's Pelt,clean,140.0,65,59
