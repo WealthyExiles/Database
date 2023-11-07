@@ -763,20 +763,21 @@ map,Blighted Malformation Map,T16,30.0,2,1
 map,Blighted Moon Temple Map,T16,20.0,3,3
 map,Blighted Mineral Pools Map,T16,25.0,1,1
 map,Blighted Museum Map,T16,19.0,2,2
-map,Blighted Orchard Map,T16,20.0,1,1
-map,Blighted Wasteland Map,T16,25.0,1,1
+map,Blighted Orchard Map,T16,20.0,2,2
+map,Blighted Pit Map,T16,25.0,1,1
+map,Blighted Port Map,T16,20.0,2,2
+map,Blighted Promenade Map,T16,20.0,3,2
 map,Blighted Volcano Map,T16,20.0,1,1
-map,Blighted Siege Map,T16,15.0,5,4
-map,Blighted Shore Map,T16,20.0,1,1
-map,Blighted Racecourse Map,T16,20.0,3,1
-map,Blighted Silo Map,T16,60.0,1,1
-map,Blighted Strand Map,T16,15.666666666666666,20,4
-map,Blighted Temple Map,T16,30.0,1,1
-map,Blighted Tower Map,T16,30.0,1,1
-map,Blighted Underground Sea Map,T16,20.0,1,1
-map,Blighted Wharf Map,T16,40.0,1,1
-map,Blight Ravaged Arachnid Nest Map,T16,60.0,3,3
-map,Blight Ravaged Atoll Map,T16,235.0,1,1
+map,Blighted Thicket Map,T16,20.0,2,2
+map,Blighted Siege Map,T16,12.0,2,2
+map,Blighted Silo Map,T16,40.0,3,3
+map,Blighted Strand Map,T16,20.0,4,2
+map,Blighted Temple Map,T16,12.0,4,3
+map,Blighted Tower Map,T16,20.0,5,2
+map,Blighted Wharf Map,T16,25.0,1,1
+map,Blight Ravaged Arachnid Nest Map,T16,60.0,1,1
+map,Blight Ravaged Atoll Map,T16,90.0,1,1
+map,Blight Ravaged Beach Map,T16,235.0,1,1
 map,Blight Ravaged Caldera Map,T16,60.0,2,2
 map,Blight Ravaged Bone Crypt Map,T16,80.0,2,2
 map,Blight Ravaged Cemetery Map,T16,60.0,1,1
@@ -3909,23 +3910,28 @@ gem,Anomalous Efficacy Support,corrupted 21/20,2350.0,1,1
 gem,Anomalous Elemental Army Support,corrupted 20/0,35.0,3,3
 gem,Anomalous Elemental Army Support,clean 1/20,15.0,1,1
 gem,Anomalous Elemental Damage with Attacks Support,clean 20/0,235.0,4,4
-gem,Anomalous Elemental Damage with Attacks Support,clean 1/20,235.0,1,1
-gem,Anomalous Elemental Damage with Attacks Support,clean 20/20,940.0,1,1
-gem,Anomalous Elemental Focus Support,clean 20/0,70.0,1,1
-gem,Anomalous Elemental Focus Support,corrupted 20/0,80.0,1,1
+gem,Anomalous Elemental Damage with Attacks Support,corrupted 21/0,2350.0,1,1
+gem,Anomalous Elemental Damage with Attacks Support,clean 1/20,45.0,5,5
+gem,Anomalous Elemental Damage with Attacks Support,clean 20/20,235.0,3,3
+gem,Anomalous Elemental Damage with Attacks Support,corrupted 21/20,2350.0,1,1
+gem,Anomalous Elemental Focus Support,clean 20/0,70.0,2,2
 gem,Anomalous Elemental Focus Support,corrupted 21/0,235.0,1,1
 gem,Anomalous Elemental Focus Support,clean 1/20,100.0,1,1
+gem,Anomalous Elemental Focus Support,clean 20/20,70.0,2,2
 gem,Anomalous Elemental Focus Support,corrupted 20/20,80.0,1,1
+gem,Anomalous Elemental Hit,clean 20/0,90.0,1,1
 gem,Anomalous Elemental Hit,corrupted 20/0,90.0,1,1
-gem,Anomalous Elemental Hit,corrupted 21/20,211.5,1,1
+gem,Anomalous Elemental Hit,clean 1/20,90.0,1,1
+gem,Anomalous Elemental Hit,clean 20/20,90.0,1,1
+gem,Anomalous Elemental Hit,corrupted 20/20,235.0,1,1
 gem,Anomalous Elemental Penetration Support,clean 20/0,1081.0,7,5
-gem,Anomalous Elemental Penetration Support,corrupted 20/0,1151.5,5,3
+gem,Anomalous Elemental Penetration Support,corrupted 20/0,1175.0,1,1
 gem,Anomalous Elemental Penetration Support,corrupted 21/0,2585.0,2,2
 gem,Anomalous Elemental Penetration Support,clean 1/20,940.0,4,4
-gem,Anomalous Elemental Penetration Support,clean 20/20,940.0,4,4
-gem,Anomalous Elemental Penetration Support,corrupted 20/20,1151.5,3,1
-gem,Anomalous Elemental Penetration Support,corrupted 21/20,2585.0,2,2
-gem,Anomalous Elemental Proliferation Support,corrupted 20/0,100.0,1,1
+gem,Anomalous Elemental Penetration Support,clean 20/20,1057.5,2,2
+gem,Anomalous Elemental Penetration Support,corrupted 21/20,3760.0,1,1
+gem,Anomalous Elemental Proliferation Support,clean 20/0,170.0,2,2
+gem,Anomalous Elemental Proliferation Support,corrupted 20/0,20.0,5,4
 gem,Anomalous Elemental Proliferation Support,clean 20/20,352.5,2,2
 gem,Anomalous Elemental Proliferation Support,corrupted 20/20,100.0,1,1
 gem,Anomalous Elemental Weakness,corrupted 20/0,50.0,2,2
@@ -7218,22 +7224,23 @@ compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,3.0,5,2
 compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,5.0,3,2
 compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,3.0,11,4
 compass,Your Maps contain an additional Abyss:Your Maps can contain Abysses,4,4.0,32,7
-compass,Your Maps contain a Blight Encounter,4,3.0,65,11
+compass,Your Maps contain a Blight Encounter,4,2.0,73,19
 compass,Slaying Enemies close together can attract monsters from Beyond this realm:25% increased Beyond Demon Pack Size in your Maps,4,40.0,79,23
 compass,Your Maps contain 100% increased number of Runic Monster Markers,4,13.0,10,6
-compass,Delirium Reward Bars fill 100% faster in your Maps,4,32.638888888888886,32,19
+compass,Delirium Reward Bars fill 100% faster in your Maps,4,60.0,8,8
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,4,517.0,7,7
 compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,4,3.0,12,4
 compass,Area contains Metamorph Monsters,4,4.0,18,5
 compass,Your Maps contain The Sacred Grove,4,58.75,75,20
-compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,4,8.0,6,5
+compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,4,5.0,9,9
 compass,Slaying Enemies close together can attract monsters from Beyond this realm:35% increased Beyond Demon Pack Size in your Maps,16,728.5,2,2
-compass,Area contains a Smuggler's Cache,16,50.0,3,3
+compass,Area contains a Smuggler's Cache,16,50.0,4,3
 compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,16,40.0,1,1
 compass,Your Maps contain 3 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,16,282.0,10,6
+compass,Unique Monsters drop Corrupted Items,16,10.0,1,1
 compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,16,180.0,1,1
 compass,Strongbox Monsters are Enraged:Strongbox Monsters have 600% increased Item Quantity:Your Maps contain an additional Strongbox,16,150.0,2,1
-compass,Create a copy of Beasts Captured in your Maps,16,211.5,4,3
+compass,Create a copy of Beasts Captured in your Maps,16,235.0,2,2
 compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contain 8 additional packs of Monsters that Heal,16,10.0,7,4
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,80.0,3,3
 compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,16,20.0,1,1
@@ -7307,7 +7314,7 @@ incubator,Mysterious Incubator,ilvl 83,1.0,50,6
 incubator,Obscured Incubator,ilvl 83,1.0,13,3
 incubator,Ornate Incubator,ilvl 83,9.0,55,12
 incubator,Otherworldly Incubator,ilvl 83,1.0,38,9
-incubator,Primal Incubator,ilvl 83,10.0,11,5
+incubator,Primal Incubator,ilvl 83,1.0,70,9
 incubator,Singular Incubator,ilvl 83,1.0,100,14
 incubator,Skittering Incubator,ilvl 83,1.0,366,23
 incubator,Thaumaturge's Incubator,ilvl 83,1.0,69,8
@@ -8887,12 +8894,12 @@ unique,Astramentis,corrupted,30.0,28,28
 unique,Eyes of the Greatwolf,corrupted,1.0,98,91
 unique,Reckless Defence,corrupted,1.0,96,88
 unique,Shattershard,clean,10.0,3,3
-unique,Hinekora's Sight,clean,1.0,99,95
+unique,Hinekora's Sight,clean,1.0,76,72
 unique,Hinekora's Sight,corrupted,4.0,27,25
 unique,Geofri's Crest,clean,1.0,98,95
 unique,Geofri's Crest,corrupted,3.0,26,25
 unique,Perandus Blazon,clean,1.0,97,80
-unique,Perandus Blazon,corrupted,4.0,98,85
+unique,Perandus Blazon,corrupted,1.0,63,60
 unique,Piscator's Vigil,clean,1.0,47,43
 unique,Piscator's Vigil,corrupted,2.0,17,17
 unique,Replica Inya's Epiphany,clean,16.0,14,13
