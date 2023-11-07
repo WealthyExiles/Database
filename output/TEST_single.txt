@@ -659,27 +659,26 @@ map,Stagnation Map,T2,1.0,179,20
 map,Overgrown Shrine Map,T3,1.0,205,20
 map,Strand Map,T3,2.0,107,14
 map,Cemetery Map,T4,1.0,135,19
-map,Moon Temple Map,T4,1.0,134,22
-map,Courtyard Map,T5,1.0,371,25
-map,Dunes Map,T5,2.0,153,6
-map,Mineral Pools Map,T5,1.0,39,7
-map,Stagnation Map,T5,1.0,27,3
-map,Alleyways Map,T16,4.0,102,22
-map,Arachnid Tomb Map,T16,4.0,193,22
-map,Arcade Map,T16,4.0,94,19
-map,Atoll Map,T16,4.444444444444445,412,25
-map,Beach Map,T16,4.0,2753,41
-map,Caldera Map,T16,4.0,200,23
-map,Bone Crypt Map,T16,4.0,164,18
-map,Castle Ruins Map,T16,5.0,91,18
-map,City Square Map,T16,3.0,2709,24
-map,Chateau Map,T16,3.0,144,20
-map,Cemetery Map,T16,3.0,1945,27
-map,Cold River Map,T16,4.0,264,20
-map,Colonnade Map,T16,4.0,229,24
-map,Colosseum Map,T16,4.0,205,22
-map,Courtyard Map,T16,4.5,112,19
-map,Coves Map,T16,4.0,347,20
+map,Moon Temple Map,T4,1.0,102,17
+map,Vaal Pyramid Map,T4,1.0,178,20
+map,Atoll Map,T5,1.0,89,19
+map,Courtyard Map,T5,1.0,203,16
+map,Dunes Map,T5,5.0,13,5
+map,Stagnation Map,T5,1.0,22,6
+map,Alleyways Map,T16,3.0,107,19
+map,Arachnid Tomb Map,T16,3.0,123,16
+map,Arcade Map,T16,4.0,92,19
+map,Atoll Map,T16,4.0,186,18
+map,Caldera Map,T16,4.0,155,20
+map,Bone Crypt Map,T16,3.0,146,17
+map,Castle Ruins Map,T16,5.0,97,14
+map,Cells Map,T16,3.0,133,17
+map,City Square Map,T16,2.0,2638,28
+map,Chateau Map,T16,3.0,136,16
+map,Cemetery Map,T16,4.0,2372,33
+map,Colonnade Map,T16,3.0,216,18
+map,Colosseum Map,T16,3.0,222,17
+map,Courtyard Map,T16,4.0,108,17
 map,Crimson Temple Map,T16,2.0,8684,28
 map,Dunes Map,T16,4.0,2178,25
 map,Excavation Map,T16,2.0,1550,30
@@ -3341,29 +3340,29 @@ gem,Intuitive Link,corrupted 20/20,48.0,1,1
 gem,Intuitive Link,corrupted 21/20,4.0,4,4
 gem,Vampiric Link,clean 20/0,20.0,2,2
 gem,Vampiric Link,corrupted 20/0,20.0,2,2
-gem,Vampiric Link,corrupted 21/0,5.0,3,3
+gem,Vampiric Link,corrupted 21/0,5.0,7,7
 gem,Vampiric Link,clean 1/20,3.0,5,5
-gem,Vampiric Link,clean 20/20,55.0,1,1
-gem,Vampiric Link,corrupted 21/20,6.0,4,3
-gem,Destructive Link,clean 20/0,1.0,5,5
-gem,Destructive Link,corrupted 20/0,20.0,1,1
-gem,Destructive Link,corrupted 21/0,1.0,7,7
+gem,Vampiric Link,clean 20/20,5.0,2,2
+gem,Vampiric Link,corrupted 21/20,5.0,5,5
+gem,Destructive Link,clean 20/0,2.0,4,4
+gem,Destructive Link,corrupted 20/0,3.0,3,3
+gem,Destructive Link,corrupted 21/0,3.0,11,11
 gem,Destructive Link,clean 1/20,3.0,5,5
-gem,Destructive Link,clean 20/20,3.0,3,3
+gem,Destructive Link,clean 20/20,75.0,1,1
 gem,Destructive Link,corrupted 20/20,20.0,1,1
-gem,Destructive Link,corrupted 21/20,5.0,3,3
+gem,Destructive Link,corrupted 21/20,4.0,8,8
 gem,Soul Link,clean 20/0,5.0,9,8
-gem,Soul Link,corrupted 20/0,5.0,3,2
+gem,Soul Link,corrupted 20/0,80.0,1,1
 gem,Soul Link,corrupted 21/0,8.0,7,7
-gem,Soul Link,clean 1/20,2.0,15,14
-gem,Soul Link,clean 20/20,5.0,4,4
-gem,Soul Link,corrupted 20/20,5.0,2,2
+gem,Soul Link,clean 1/20,5.0,7,7
+gem,Soul Link,clean 20/20,50.0,2,2
+gem,Soul Link,corrupted 20/20,80.0,1,1
 gem,Soul Link,corrupted 21/20,20.0,4,4
-gem,Temporal Rift,clean 20/0,5.0,11,11
+gem,Temporal Rift,clean 20/0,7.0,8,7
 gem,Temporal Rift,corrupted 20/0,9.0,11,11
 gem,Temporal Rift,corrupted 21/0,5.0,22,21
 gem,Temporal Rift,clean 1/20,3.0,29,28
-gem,Temporal Rift,clean 20/20,229.0,6,6
+gem,Temporal Rift,clean 20/20,7.0,7,6
 gem,Temporal Rift,corrupted 20/20,40.0,19,7
 gem,Temporal Rift,corrupted 21/20,14.0,6,6
 gem,Tornado,clean 20/0,5.0,11,10
@@ -7206,22 +7205,23 @@ compass,Your Maps contain Jun,4,7.0,59,13
 compass,Map Bosses have 20% increased Life:Quality bonus of your Maps also applies to Rarity of Items found,4,4.0,54,7
 compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Your Maps have a 50% chance to contain Gifts of the Sacrificed per Sacrifice Fragment used:Your Maps have a 50% chance to contain Gifts of the Red Queen per Mortal Fragment used,4,3.0,19,4
 compass,Catalysts dropped by Metamorphs in your Maps are Duplicated:Metamorphs in your Maps have 100% more Life,4,7.0,10,5
-compass,Players and Monsters take 12% increased Physical Damage:Your Maps contain 6 additional packs of Monsters that deal Physical Damage,4,4.0,1,1
-compass,Rogue Exiles deal 20% increased Damage:Rogue Exiles drop 2 additional Jewels:Rogue Exiles in your Maps have 20% increased Life:Your Maps are inhabited by 2 additional Rogue Exiles,4,3.0,11,4
+compass,Players and Monsters take 12% increased Physical Damage:Your Maps contain 6 additional packs of Monsters that deal Physical Damage,4,5.0,7,1
+compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contain 6 additional packs of Monsters that Heal,4,5.0,30,1
+compass,Rogue Exiles deal 20% increased Damage:Rogue Exiles drop 2 additional Jewels:Rogue Exiles in your Maps have 20% increased Life:Your Maps are inhabited by 2 additional Rogue Exiles,4,3.0,17,4
 compass,The First 3 Possessed Monsters drop an additional Polished Scarab:Your Maps contain an additional Tormented Betrayer,4,5.0,2,2
 compass,Your Maps contain Einhar,4,3.0,27,11
 compass,Map Bosses deal 20% increased Damage:Your Maps have 20% Quality,4,3.357142857142857,23,13
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Purple Plants,4,194.71428571428572,29,14
 compass,The First 3 Possessed Monsters drop an additional Unique Item:Your Maps contain an additional Tormented Graverobber,4,3.0,11,2
-compass,Your Maps contain a Mirror of Delirium,4,16.785714285714285,21,13
+compass,Your Maps contain a Mirror of Delirium,4,16.785714285714285,32,10
 compass,Your Maps contain Alva,4,10.0,28,13
 compass,100% increased Intelligence gained from Immortal Syndicate targets encountered in your Maps,4,7.0,16,6
 compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,60.0,7,4
-compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Blue Plants,4,258.5,22,16
-compass,Map Bosses drop 1 additional Unique Item,4,3.0,8,2
+compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Blue Plants,4,218.21428571428572,22,14
+compass,Map Bosses drop 1 additional Unique Item,4,3.0,27,5
 compass,Your Maps can contain Breaches:Your Maps contain an additional Breach,4,7.0,87,13
 compass,Map Bosses are accompanied by Bodyguards:An additional Map drops on Completing your Maps,4,6.714285714285714,24,8
-compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,3.0,3,3
+compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,4.0,8,3
 compass,Your Maps contain Niko,4,3.0,12,9
 compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,4,10.0,10,8
 compass,Your Maps contain an additional Legion Encounter,4,8.0,63,12
@@ -7328,10 +7328,10 @@ incubator,Infused Incubator,ilvl 83,1.0,374,9
 incubator,Kalguuran Incubator,ilvl 83,1.0,130,15
 incubator,Maddening Incubator,ilvl 83,2.0,83,8
 incubator,Morphing Incubator,ilvl 83,1.0,196,8
-incubator,Mysterious Incubator,ilvl 83,1.0,323,4
+incubator,Mysterious Incubator,ilvl 83,1.0,168,6
 incubator,Obscured Incubator,ilvl 83,1.0,154,8
 incubator,Ornate Incubator,ilvl 83,9.0,91,19
-incubator,Otherworldly Incubator,ilvl 83,1.0,73,12
+incubator,Otherworldly Incubator,ilvl 83,1.0,82,11
 incubator,Primal Incubator,ilvl 83,2.0,45,5
 incubator,Singular Incubator,ilvl 83,1.0,56,11
 incubator,Skittering Incubator,ilvl 83,1.0,555,20
@@ -7339,14 +7339,15 @@ incubator,Thaumaturge's Incubator,ilvl 83,1.0,134,6
 vial,Vial of Awakening,,50.0,18,2
 vial,Vial of Consequence,,50.0,22,4
 vial,Vial of Dominance,,20.0,3,3
-vial,Vial of Summoning,,235.0,3,3
+vial,Vial of Fate,,40.0,3,3
+vial,Vial of Summoning,,235.0,2,2
 vial,Vial of the Ritual,,2.0,14,5
-vial,Vial of Transcendence,,72.0,14,4
+vial,Vial of Transcendence,,70.0,15,5
 logbook,Bruids of the Broken Circle Logbook,ilvl 83+,10.0,96,28
 logbook,Black Scythe Mercenaries Logbook,ilvl 83+,25.0,60,20
 logbook,Order of the Chalice Logbook,ilvl 83+,10.0,24,14
 logbook,Knights of the Sun Logbook,ilvl 83+,60.0,48,11
-beast,Craicic Chimeral,,517.0,79,20
+beast,Craicic Chimeral,,470.0,53,16
 beast,Craicic Maw,,10.0,3,2
 beast,Craicic Vassal,,9.0,19,3
 beast,Farric Frost Hellion Alpha,,50.0,4,3
@@ -7354,10 +7355,10 @@ beast,Farric Lynx Alpha,,5.0,99,6
 beast,Farric Wolf Alpha,,14.0,16,5
 beast,Fenumal Plagued Arachnid,,10.0,51,7
 beast,Craicic Spider Crab,,160.0,9,6
-beast,Farric Tiger Alpha,,140.0,3,3
+beast,Farric Tiger Alpha,,140.0,9,5
 beast,Fenumal Hybrid Arachnid,,120.0,9,4
-beast,Saqawine Rhex,,235.0,2,2
-beast,Primal Crushclaw,,10.0,88,3
+beast,Saqawine Rhex,,9.0,3,3
+beast,Primal Crushclaw,,99.0,2,1
 beast,Primal Rhex Matriarch,,50.0,78,3
 beast,Vivid Abberarach,,15.0,7,1
 beast,Vivid Vulture,,846.0,100,7
@@ -7369,10 +7370,10 @@ beast,Craiceann First of the Deep,,35.0,11,4
 beast,Farrul First of the Plains,,282.0,2,1
 beast,Saqawal First of the Sky,,55.0,8,4
 map,Enslaver's Map,T16,10.0,76,19
-map,Eradicator's Map,T16,8.0,97,30
+map,Eradicator's Map,T16,9.0,84,22
 map,Constrictor's Map,T16,10.0,79,23
 map,Purifier's Map,T16,9.0,100,29
-map,Baran's Citadel,T16,28.0,100,26
+map,Baran's Citadel,T16,23.0,100,27
 map,Veritania's Citadel,T16,28.0,100,25
 map,Al-Hezmin's Citadel,T16,28.0,100,28
 map,Drox's Citadel,T16,27.0,100,28
@@ -8367,13 +8368,13 @@ unique,The Poised Prism,clean,1.0,58,56
 unique,The Poised Prism,corrupted,5.0,60,54
 unique,Emberwake,clean,1.0,60,59
 unique,Emberwake,corrupted,10.0,23,23
-unique,Soul Tether,clean,1.0,32,32
-unique,Soul Tether,corrupted,10.0,19,19
+unique,Soul Tether,clean,1.0,20,20
+unique,Soul Tether,corrupted,10.0,7,7
 unique,Cadigan's Crown,clean,3.0,5,5
-unique,Cadigan's Crown,corrupted,20.0,2,2
+unique,Cadigan's Crown,corrupted,90.0,4,4
 unique,Matua Tupuna,clean,1.0,18,18
-unique,Matua Tupuna,corrupted,10.0,41,40
-unique,Ornament of the East,clean,1.0,20,18
+unique,Matua Tupuna,corrupted,10.0,19,18
+unique,Ornament of the East,clean,1.0,21,21
 unique,Ornament of the East,corrupted,10.0,14,14
 unique,Honourhome,clean,1.0,50,50
 unique,Honourhome,corrupted,1.0,22,21
