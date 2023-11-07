@@ -679,21 +679,23 @@ map,Cemetery Map,T16,4.0,2372,33
 map,Colonnade Map,T16,3.0,216,18
 map,Colosseum Map,T16,3.0,222,17
 map,Courtyard Map,T16,4.0,108,17
-map,Crimson Temple Map,T16,2.0,8684,28
-map,Dunes Map,T16,4.0,2178,25
-map,Excavation Map,T16,2.0,1550,30
-map,Dungeon Map,T16,2.5,319,25
-map,Flooded Mine Map,T16,3.0,215,24
-map,Factory Map,T16,3.0,378,20
-map,Frozen Cabins Map,T16,4.0,80,16
-map,Forge of the Phoenix Map,T16,2.0,735,30
-map,Fungal Hollow Map,T16,4.0,277,28
-map,Lair of the Hydra Map,T16,9.0,805,27
-map,Malformation Map,T16,2.5,519,26
-map,Maze of the Minotaur Map,T16,10.0,604,20
-map,Mineral Pools Map,T16,3.0,131,23
-map,Necropolis Map,T16,3.0,254,27
-map,Moon Temple Map,T16,4.5,63,21
+map,Crimson Temple Map,T16,3.0,8471,30
+map,Cursed Crypt Map,T16,5.0,114,17
+map,Excavation Map,T16,2.0833333333333335,1298,28
+map,Dungeon Map,T16,2.5,268,25
+map,Flooded Mine Map,T16,3.0,193,26
+map,Factory Map,T16,4.0,201,15
+map,Frozen Cabins Map,T16,4.0,84,15
+map,Geode Map,T16,4.0,169,20
+map,Infested Valley Map,T16,3.0,843,30
+map,Lair of the Hydra Map,T16,10.0,502,24
+map,Leyline Map,T16,3.0,476,24
+map,Malformation Map,T16,3.0,366,22
+map,Maze Map,T16,3.0,162,21
+map,Maze of the Minotaur Map,T16,10.0,495,23
+map,Mineral Pools Map,T16,3.6666666666666665,127,18
+map,Necropolis Map,T16,3.0,138,21
+map,Museum Map,T16,3.0,241,23
 map,Orchard Map,T16,4.0,189,21
 map,Overgrown Shrine Map,T16,2.0,491,23
 map,Pit Map,T16,3.0,164,23
@@ -3365,14 +3367,14 @@ gem,Temporal Rift,clean 1/20,3.0,29,28
 gem,Temporal Rift,clean 20/20,7.0,7,6
 gem,Temporal Rift,corrupted 20/20,40.0,19,7
 gem,Temporal Rift,corrupted 21/20,14.0,6,6
-gem,Tornado,clean 20/0,5.0,11,10
-gem,Tornado,corrupted 20/0,10.0,5,5
-gem,Tornado,corrupted 21/0,2.0,14,14
-gem,Tornado,clean 1/20,4.0,18,16
+gem,Tornado,clean 20/0,4.0,6,6
+gem,Tornado,corrupted 20/0,9.0,9,6
+gem,Tornado,corrupted 21/0,30.0,6,6
+gem,Tornado,clean 1/20,5.0,6,6
 gem,Tornado,clean 20/20,9.0,6,6
 gem,Tornado,corrupted 20/20,10.0,6,6
 gem,Tornado,corrupted 21/20,1175.0,2,2
-gem,Poisonous Concoction,clean 20/0,3.0,2,2
+gem,Poisonous Concoction,clean 20/0,15.0,4,4
 gem,Poisonous Concoction,corrupted 20/0,4.0,3,3
 gem,Poisonous Concoction,corrupted 21/0,5.0,10,10
 gem,Poisonous Concoction,clean 1/20,3.0,6,6
@@ -7225,9 +7227,9 @@ compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain
 compass,Your Maps contain Niko,4,3.0,12,9
 compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,4,10.0,10,8
 compass,Your Maps contain an additional Legion Encounter,4,8.0,63,12
-compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,3.0,4,2
+compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,150.0,1,1
 compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,3.0,2,2
-compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,3.0,28,5
+compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,3.0,17,5
 compass,Your Maps contain an additional Abyss:Your Maps can contain Abysses,4,3.357142857142857,40,10
 compass,Your Maps contain a Blight Encounter,4,3.0,65,11
 compass,Slaying Enemies close together can attract monsters from Beyond this realm:25% increased Beyond Demon Pack Size in your Maps,4,40.0,77,22
@@ -7368,7 +7370,7 @@ beast,Wild Bristle Matron,,235.0,100,9
 beast,Wild Hellion Alpha,,282.0,28,3
 beast,Craiceann First of the Deep,,35.0,11,4
 beast,Farrul First of the Plains,,282.0,2,1
-beast,Saqawal First of the Sky,,55.0,8,4
+beast,Saqawal First of the Sky,,55.0,11,6
 map,Enslaver's Map,T16,10.0,76,19
 map,Eradicator's Map,T16,9.0,84,22
 map,Constrictor's Map,T16,10.0,79,23
@@ -8381,17 +8383,17 @@ unique,Honourhome,corrupted,1.0,22,21
 unique,Wilma's Requital,clean,2.0,98,93
 unique,Wilma's Requital,corrupted,4.0,28,28
 unique,Hyperboreus,clean,6.0,19,19
-unique,Hyperboreus,corrupted,150.0,1,1
+unique,Hyperboreus,corrupted,1.0,1,1
 unique,Gang's Momentum,clean,1.0,68,65
-unique,Gang's Momentum,corrupted,5.0,50,48
-unique,Hand of Thought and Motion,clean,2.0,26,24
-unique,Hand of Thought and Motion,corrupted,15.0,6,6
+unique,Gang's Momentum,corrupted,5.0,29,28
+unique,Hand of Thought and Motion,clean,2.0,18,17
+unique,Hand of Thought and Motion,corrupted,80.0,1,1
 unique,Hrimnor's Resolve,clean,1.0,36,34
 unique,Hrimnor's Resolve,corrupted,1.0,39,37
 unique,Mageblood,clean,76610.0,50,50
-unique,Mageblood,corrupted,33840.0,27,27
-unique,Shadows and Dust,clean,1.0,66,63
-unique,Shadows and Dust,corrupted,10.0,46,45
+unique,Mageblood,corrupted,29375.0,21,20
+unique,Shadows and Dust,clean,1.0,26,25
+unique,Shadows and Dust,corrupted,10.0,27,25
 unique,Lochtonial Caress,clean,1.0,91,89
 unique,Lochtonial Caress,corrupted,9.0,52,49
 unique,Usurper's Penance,clean,3.0,9,9
