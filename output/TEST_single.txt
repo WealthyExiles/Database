@@ -709,20 +709,20 @@ map,Promenade Map,T16,3.0,335,23
 map,Racecourse Map,T16,2.0,125,20
 map,Residence Map,T16,3.0,355,21
 map,Shore Map,T16,3.0,95,23
-map,Silo Map,T16,4.0,671,32
-map,Stagnation Map,T16,3.0,143,20
-map,Siege Map,T16,4.0,201,21
-map,Sulphur Vents Map,T16,3.0,664,24
-map,Strand Map,T16,2.0,1566,32
-map,Thicket Map,T16,4.0,168,20
-map,Temple Map,T16,2.0,307,21
-map,Tower Map,T16,4.0,160,20
-map,Tropical Island Map,T16,4.5,220,21
-map,Underground Sea Map,T16,3.0,206,26
-map,Volcano Map,T16,3.0,118,20
-map,Wharf Map,T16,4.0,177,21
-map,Wasteland Map,T16,4.5,107,15
-map,Underground River Map,T16,3.9,326,22
+map,Silo Map,T16,3.0,620,31
+map,Stagnation Map,T16,3.0,133,18
+map,Sulphur Vents Map,T16,2.0,569,24
+map,Strand Map,T16,4.0,1682,33
+map,Temple Map,T16,3.0,217,24
+map,Tower Map,T16,3.5,155,20
+map,Tropical Island Map,T16,5.0,324,22
+map,Underground Sea Map,T16,3.0,186,22
+map,Volcano Map,T16,3.0,75,14
+map,Wharf Map,T16,3.0,136,22
+map,Wasteland Map,T16,3.5,133,14
+map,Vaal Temple Map,T16,9.0,928,26
+map,Underground River Map,T16,3.0,276,22
+map,Blighted Stagnation Map,T2,10.0,1,1
 map,Blighted Alleyways Map,T16,40.0,2,1
 map,Blighted Beach Map,T16,20.0,2,1
 map,Blighted Atoll Map,T16,25.0,11,1
@@ -5110,22 +5110,18 @@ gem,Divergent Detonate Dead,corrupted 21/0,3760.0,1,1
 gem,Divergent Detonate Dead,clean 1/20,45.0,1,1
 gem,Divergent Detonate Dead,clean 20/20,45.0,1,1
 gem,Divergent Detonate Dead,corrupted 20/20,50.0,2,2
-gem,Divergent Devouring Totem,clean 20/0,60.0,1,1
-gem,Divergent Devouring Totem,corrupted 20/0,80.0,2,2
-gem,Divergent Devouring Totem,corrupted 21/0,120.0,1,1
-gem,Divergent Devouring Totem,clean 1/20,60.0,1,1
+gem,Divergent Devouring Totem,corrupted 20/0,60.0,1,1
+gem,Divergent Devouring Totem,corrupted 20/20,60.0,1,1
 gem,Divergent Devouring Totem,corrupted 21/20,120.0,1,1
-gem,Divergent Discharge,clean 20/0,329.0,4,2
-gem,Divergent Discharge,corrupted 20/0,50.0,3,3
+gem,Divergent Discharge,corrupted 20/0,20.0,4,4
 gem,Divergent Discharge,corrupted 21/0,1762.5,3,3
 gem,Divergent Discharge,clean 1/20,190.0,3,3
-gem,Divergent Discharge,clean 20/20,329.0,4,2
 gem,Divergent Discharge,corrupted 20/20,55.0,6,4
-gem,Divergent Discharge,corrupted 21/20,1762.5,3,3
-gem,Divergent Discipline,corrupted 21/0,658.0,1,1
-gem,Divergent Discipline,clean 1/20,235.0,1,1
+gem,Divergent Discharge,corrupted 21/20,1057.5,4,3
+gem,Divergent Discipline,corrupted 20/0,100.0,2,2
 gem,Divergent Discipline,corrupted 21/20,658.0,1,1
-gem,Divergent Dread Banner,clean 20/0,90.0,2,2
+gem,Divergent Divine Ire,clean 20/0,110.0,1,1
+gem,Divergent Divine Ire,clean 20/20,110.0,1,1
 gem,Divergent Dread Banner,corrupted 20/0,50.0,11,11
 gem,Divergent Dread Banner,corrupted 21/0,940.0,2,2
 gem,Divergent Dread Banner,clean 1/20,70.0,9,9
@@ -7022,23 +7018,23 @@ compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop add
 compass,Create a copy of Beasts Captured in your Maps,4,34.932432432432435,4,2
 compass,25% increased Magic Pack Size,4,6.0,75,8
 compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,16.0,3,1
-compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain an additional Essence,4,5.0,28,4
+compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain an additional Essence,4,5.0,45,8
 compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,4,5.0,38,10
-compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,5.0,5,3
+compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,4.0,15,5
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,10.0,18,6
 compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,3.0,6,5
 compass,20% increased Pack Size in your Unidentified Maps,4,8.0,100,6
-compass,Players and Monsters take 12% increased Chaos Damage:Your Maps contain 6 additional packs of Monsters that deal Chaos Damage,4,16.0,2,1
+compass,Players and Monsters take 12% increased Chaos Damage:Your Maps contain 6 additional packs of Monsters that deal Chaos Damage,4,5.0,5,2
 compass,Strongbox Monsters are Enraged:Strongbox Monsters have 500% increased Item Quantity:Your Maps contain an additional Strongbox,4,50.810810810810814,100,37
 compass,Your Maps contain Ritual Altars,4,6.351351351351352,31,6
 compass,Players and Monsters take 12% increased Lightning Damage:Your Maps contain 6 additional packs of Monsters that deal Lightning Damage,4,5.0,4,2
 compass,Your Magic Maps contain 4 additional packs of Magic Monsters:Your Normal Maps contain 4 additional packs of Normal Monsters:Your Rare Maps contain 4 additional Rare Monster packs,4,3.0,84,5
 compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 4 additional Packs with Mirrored Rare Monsters,4,3.0,33,9
 compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,4,3.0,1,1
-compass,Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,3.0,24,2
+compass,Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,3.0,7,3
 compass,The First 3 Possessed Monsters drop an additional Rusted Scarab:Your Maps contain an additional Tormented Betrayer,4,4.0,26,7
 compass,Your Maps contain 6 additional packs of Monsters that Convert when Killed,4,3.0,37,4
-compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Items dropped by Corrupted Vaal Monsters in your Maps have 25% chance to be Corrupted,4,5.0,2,2
+compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Items dropped by Corrupted Vaal Monsters in your Maps have 25% chance to be Corrupted,4,4.0,10,3
 compass,Final Map Boss in each Map drops an additional Shaper Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,11.0,28,7
 compass,Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,3.0,13,4
 compass,Your Maps contain hunted traitors,4,4.0,41,8
@@ -7122,8 +7118,8 @@ compass,Area contains Metamorph Monsters,16,60.0,1,1
 compass,25% increased Pack Size in your Unidentified Maps,16,69.0,1,1
 compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,90.0,1,1
 contract,Lockpicking Contract,ilvl 83+,9.0,11,8
-contract,Brute Force Contract,ilvl 83+,2.0,24,17
-contract,Perception Contract,ilvl 83+,4.0,38,12
+contract,Brute Force Contract,ilvl 83+,4.0,10,8
+contract,Perception Contract,ilvl 83+,4.0,14,9
 contract,Demolition Contract,ilvl 83+,4.0,13,8
 contract,Counter-Thaumaturgy Contract,ilvl 83+,4.0,8,4
 contract,Trap Disarmament Contract,ilvl 83+,10.0,3,2
@@ -7136,7 +7132,7 @@ blueprint,Blueprint: Records Office,3 wings,1.0,25,21
 blueprint,Blueprint: Smuggler's Den,3 wings,5.0,40,24
 blueprint,Blueprint: Underbelly,3 wings,1.0,37,28
 blueprint,Blueprint: Repository,3 wings,25.0,54,25
-blueprint,Blueprint: Tunnels,3 wings,5.0,46,36
+blueprint,Blueprint: Tunnels,3 wings,10.0,44,31
 blueprint,Blueprint: Laboratory,3 wings,4.0,16,14
 blueprint,Blueprint: Prohibited Library,3 wings,4.0,31,19
 incubator,Abyssal Incubator,ilvl 83,1.0,173,13
@@ -7980,22 +7976,21 @@ unique,The Ephemeral Bond,clean,1.0,91,75
 unique,The Ephemeral Bond,corrupted,5.0,49,48
 unique,Replica Emberwake,clean,50.0,23,22
 unique,Replica Emberwake,corrupted,1175.0,1,1
-unique,Soul's Wick,corrupted,1.0,47,44
+unique,Soul's Wick,corrupted,2.0,33,30
 unique,Umbilicus Immortalis,clean,1.0,24,24
-unique,Umbilicus Immortalis,corrupted,20.0,12,10
+unique,Umbilicus Immortalis,corrupted,10.0,12,10
 unique,Jaws of Agony,clean,1.0,12,12
 unique,Jaws of Agony,corrupted,10.0,20,18
-unique,The Unshattered Will,clean,50.0,1,1
-unique,Voidwalker,clean,1.0,49,44
-unique,Voidwalker,corrupted,3.0,18,18
-unique,Pure Talent,clean,7.0,27,25
+unique,The Unshattered Will,clean,10.0,1,1
+unique,Voidwalker,clean,1.0,24,20
+unique,Voidwalker,corrupted,4.0,15,15
+unique,Pure Talent,clean,10.0,13,12
 unique,Pure Talent,corrupted,8.0,12,12
-unique,Brinerot Mark,clean,20.0,6,5
+unique,Brinerot Mark,clean,4.0,3,3
 unique,Brinerot Mark,corrupted,10.0,5,5
 unique,Uzaza's Mountain,clean,25.0,22,20
-unique,Uzaza's Mountain,corrupted,235.0,1,1
 unique,Ahn's Heritage,clean,1.0,35,33
-unique,Ahn's Heritage,corrupted,3.0,13,13
+unique,Ahn's Heritage,corrupted,20.0,9,9
 unique,Quickening Covenant,corrupted,15.0,16,16
 unique,Willclash,clean,1.0,85,80
 unique,Willclash,corrupted,5.0,25,25
