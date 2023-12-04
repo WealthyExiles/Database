@@ -259,6 +259,13 @@ currency,Veiled Chaos Orb,,15.0,9,9
 currency,Veiled Chaos Orb,,15.0,18,8
 currency,Veiled Chaos Orb,,16.176470588235293,30,3
 currency,Veiled Chaos Orb,,27.5,50,1
+currency,Enkindling Orb,,0.5,1,23
+currency,Enkindling Orb,,0.5,9,22
+currency,Enkindling Orb,,0.75,18,19
+currency,Enkindling Orb,,0.75,30,17
+currency,Enkindling Orb,,2.0,50,16
+currency,Enkindling Orb,,2.0,100,14
+currency,Enkindling Orb,,2.2916666666666665,500,3
 currency,Instilling Orb,,0.36,1,28
 currency,Instilling Orb,,0.36,9,28
 currency,Instilling Orb,,0.36,18,27
@@ -3787,6 +3794,7 @@ map,Blight Ravaged Strand Map,T16,50.0,9,1
 map,Blight Ravaged Silo Map,T16,50.0,1,2
 map,Blight Ravaged Underground Sea Map,T16,275.0,1,1
 map,Blight Ravaged Tower Map,T16,50.0,1,1
+map,Blight Ravaged Temple Map,T16,50.0,1,1
 map,Blight Ravaged Sulphur Vents Map,T16,120.0,1,1
 map,Acton's Nightmare,T3,4.0,1,7
 map,Acton's Nightmare,T16,2.5,1,16
@@ -3826,10 +3834,11 @@ map,Mao Kun,T16,3.0,9,8
 map,Mao Kun,T16,8.0,18,5
 map,Mao Kun,T16,15.0,30,1
 map,Olmec's Sanctum,T1,3.0,1,9
-map,Olmec's Sanctum,T16,2.0,1,15
-map,Olmec's Sanctum,T16,2.0,9,3
-map,Olmec's Sanctum,T16,2.0,18,2
-map,Olmec's Sanctum,T16,2.0,30,1
+map,Olmec's Sanctum,T16,3.0,1,15
+map,Olmec's Sanctum,T16,3.0,9,5
+map,Olmec's Sanctum,T16,3.0,18,3
+map,Olmec's Sanctum,T16,3.0,30,1
+map,Olmec's Sanctum,T16,3.0,50,1
 map,Pillar's of Arun,T2,5.0,1,8
 map,Pillar's of Arun,T5,5.0,1,2
 map,Pillar's of Arun,T16,5.0,1,14
@@ -6656,15 +6665,15 @@ gem,Awakened Enhance Support,clean 1/0,10450.0,1,1
 gem,Awakened Enhance Support,corrupted 4/0,2200.0,1,4
 gem,Awakened Enhance Support,corrupted 4/20,2200.0,1,3
 compass,Area contains a Smuggler's Cache,4,2.0,1,1
-compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,4,2.0,1,3
+compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,4,2.0,1,4
 compass,Unique Monsters drop Corrupted Items,4,5500.0,1,1
-compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,2.0,1,4
-compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,13.5,1,5
-compass,Maps found in your Maps are Corrupted with 8 Modifiers,4,120.0,1,6
+compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,12.0,1,2
+compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,13.75,1,5
+compass,Maps found in your Maps are Corrupted with 8 Modifiers,4,120.0,1,4
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,20.0,1,8
-compass,Create a copy of Beasts Captured in your Maps,4,25.0,1,2
+compass,Create a copy of Beasts Captured in your Maps,4,8.25,1,2
 compass,25% increased Magic Pack Size,4,5.0,1,2
-compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain an additional Essence,4,2.0,1,3
+compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain an additional Essence,4,2.0,1,4
 compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,4,2.0,1,1
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,6.0,1,6
 compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,2.0,1,2
@@ -6704,7 +6713,7 @@ compass,Map Bosses are accompanied by Bodyguards:An additional Map drops on Comp
 compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,2.0,1,1
 compass,Your Maps contain Niko,4,6.0,1,1
 compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,4,8.0,1,2
-compass,Your Maps contain an additional Legion Encounter,4,5.4,1,7
+compass,Your Maps contain an additional Legion Encounter,4,5.5,1,7
 compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,2.0,1,1
 compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,2.0,1,2
 compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,2.0,1,2
@@ -7190,7 +7199,7 @@ unique,Sinvicta's Mettle,clean,4.0,1,12
 unique,Replica Wings of Entropy,clean,50.0,1,2
 unique,Hezmana's Bloodlust,clean,49.0,1,5
 unique,Hezmana's Bloodlust,corrupted,30.0,1,2
-unique,Uul-Netol's Kiss,clean,14.0,1,3
+unique,Uul-Netol's Kiss,clean,7.0,1,1
 unique,Kingmaker,clean,7150.0,1,2
 unique,Debeon's Dirge,clean,1.0,1,11
 unique,Debeon's Dirge,clean 6-link,100.0,1,1
@@ -7269,7 +7278,7 @@ unique,Olroth's Resolve,clean,275.0,1,14
 unique,Oriath's End,clean,4950.0,1,4
 unique,Progenesis,clean,9625.0,1,13
 unique,Replica Sorrow of the Divine,clean,275.0,1,2
-unique,Rotgut,clean,1.0,1,19
+unique,Rotgut,clean,1.0,1,18
 unique,Sin's Rebirth,clean,275.0,1,2
 unique,Soul Catcher,clean,1.0,1,7
 unique,Starlight Chalice,clean,2750.0,1,1
@@ -7295,7 +7304,7 @@ unique,Elegant Hubris,clean,20.0,1,49
 unique,Elegant Hubris,corrupted,30.0,1,12
 unique,The Blood Dance,clean,10.0,1,4
 unique,The Blood Dance,corrupted,100.0,1,1
-unique,Leash of Oblation,clean,8.0,1,14
+unique,Leash of Oblation,clean,4.0,1,12
 unique,Leash of Oblation,corrupted,30.0,1,4
 unique,Blasphemer's Grasp,clean,10.0,1,13
 unique,Blasphemer's Grasp,corrupted,44.0,1,4
@@ -7303,7 +7312,7 @@ unique,Maligaro's Lens,clean,1.0,1,7
 unique,Maligaro's Lens,corrupted,1.0,1,8
 unique,Wildslash,clean,1.0,1,5
 unique,Wildslash,corrupted,7.0,1,4
-unique,Circle of Regret,clean,4.0,1,43
+unique,Circle of Regret,clean,7.0,1,43
 unique,Circle of Regret,corrupted,50.0,1,3
 unique,Memory Vault,clean,1.0,1,13
 unique,Memory Vault,corrupted,20.0,1,1
@@ -7318,17 +7327,17 @@ unique,Brutal Restraint,corrupted,825.0,1,2
 unique,The Dark Seer,clean,3.0,1,10
 unique,The Dark Seer,corrupted,40.0,1,1
 unique,Inspired Learning,clean,90.0,1,3
-unique,Inspired Learning,corrupted,275.0,1,9
+unique,Inspired Learning,corrupted,275.0,1,6
 unique,Blood Price,clean,1.0,1,7
 unique,Blood Price,corrupted,30.0,1,2
-unique,The Red Dream,clean,20.0,1,5
+unique,The Red Dream,clean,12.0,1,3
 unique,The Red Dream,corrupted,10.0,1,2
 unique,The Tempest's Liberation,corrupted,550.0,1,1
 unique,The Hidden Blade,clean,27500.0,1,1
 unique,Replica Dreamfeather,clean,125.0,1,13
 unique,Replica Dreamfeather,corrupted,100.0,1,3
 unique,Voidbringer,clean,1.0,1,22
-unique,Voidbringer,corrupted,40.0,1,9
+unique,Voidbringer,corrupted,20.0,1,7
 unique,Flesh and Spirit,clean,1.0,1,7
 unique,Flesh and Spirit,corrupted,49.0,1,4
 unique,Bones of Ullr,clean,1.0,1,10
@@ -7338,13 +7347,13 @@ unique,Cyclopean Coil,corrupted,100.0,1,6
 unique,Allure,clean,1.0,1,10
 unique,Allure,corrupted,25.0,1,5
 unique,Magna Eclipsis,clean,60.0,1,2
-unique,Grand Spectrum,clean,90.0,1,28
+unique,Grand Spectrum,clean,95.0,1,25
 unique,Grand Spectrum,corrupted,2200.0,1,3
-unique,The Oppressor,clean,1.0,1,13
+unique,The Oppressor,clean,1.0,1,11
 unique,The Oppressor,corrupted,1.0,1,12
 unique,Mind of the Council,clean,4.0,1,17
 unique,Mind of the Council,corrupted,60.0,1,5
-unique,The Druggery,clean,1.0,1,28
+unique,The Druggery,clean,1.0,1,25
 unique,The Druggery,corrupted,1.0,1,8
 unique,The Scourge,clean,5.0,1,12
 unique,The Scourge,corrupted,50.0,1,1
@@ -7358,22 +7367,22 @@ unique,Lifesprig,corrupted,40.0,1,4
 unique,Replica Grip of the Council,clean,50.0,1,2
 unique,Triad Grip,clean,1.0,1,21
 unique,Triad Grip,corrupted,5.0,1,15
-unique,Shaper's Seed,clean,1.0,1,32
+unique,Shaper's Seed,clean,1.0,1,21
 unique,Shaper's Seed,corrupted,4.0,1,13
 unique,Fragility,corrupted,1.0,1,14
 unique,Putembo's Valley,clean,40.0,1,9
-unique,Marylene's Fallacy,clean,2.0,1,21
+unique,Marylene's Fallacy,clean,1.0,1,15
 unique,Marylene's Fallacy,corrupted,15.0,1,10
 unique,Galesight,clean,10.0,1,4
 unique,Galesight,corrupted,120.0,1,1
 unique,Melding of the Flesh,clean,60.0,1,15
 unique,Melding of the Flesh,corrupted,50.0,1,2
 unique,Thunderfist,clean,65.0,1,2
-unique,Tulborn,clean,5.0,1,10
+unique,Tulborn,clean,10.0,1,5
 unique,Leadership's Price,corrupted,5.0,1,16
-unique,Replica Bitterdream,clean,25.0,1,4
+unique,Replica Bitterdream,clean,60.0,1,5
 unique,Eclipse Solaris,clean,1.0,1,11
-unique,Eclipse Solaris,corrupted,7.0,1,6
+unique,Eclipse Solaris,corrupted,1.0,1,7
 unique,Endless Misery,clean,550.0,1,1
 unique,Endless Misery,corrupted,550.0,1,1
 unique,Tukohama's Fortress,clean,10.0,1,2
@@ -7385,7 +7394,7 @@ unique,The Felbog Fang,clean,4.0,1,4
 unique,Kongming's Stratagem,clean,1.0,1,9
 unique,Kongming's Stratagem,corrupted,50.0,1,2
 unique,Timeclasp,clean,1.0,1,28
-unique,Timeclasp,corrupted,10.0,1,9
+unique,Timeclasp,corrupted,10.0,1,6
 unique,The Burden of Truth,clean,10.0,1,4
 unique,The Burden of Truth,corrupted,275.0,1,1
 unique,Sign of the Sin Eater,clean,1.0,1,10
@@ -7404,66 +7413,63 @@ unique,Ashes of the Stars,corrupted,35750.0,1,6
 unique,Primordial Eminence,clean,20.0,1,7
 unique,Primordial Eminence,corrupted,33.0,1,9
 unique,The Blue Nightmare,clean,550.0,1,5
-unique,Split Personality,corrupted,5.0,1,36
-unique,Jack the Axe,clean,10.0,1,5
+unique,Split Personality,corrupted,5.0,1,33
+unique,Jack the Axe,clean,10.0,1,4
 unique,Jack the Axe,corrupted,9075.0,1,1
-unique,Ceaseless Feast,clean,5.0,1,7
-unique,Ceaseless Feast,corrupted,14.0,1,2
-unique,Darkray Vectors,clean,3.0,1,27
-unique,Darkray Vectors,corrupted,0.5,1,17
-unique,Replica Kalisa's Grace,clean,13.0,1,4
-unique,Doedre's Tongue,clean,5.0,1,22
-unique,Doedre's Tongue,corrupted,10.0,1,5
-unique,Kaom's Roots,clean,2.0,1,13
+unique,Ceaseless Feast,clean,30.0,1,7
+unique,Darkray Vectors,clean,3.0,1,17
+unique,Darkray Vectors,corrupted,5.0,1,20
+unique,Replica Kalisa's Grace,clean,20.0,1,2
+unique,Doedre's Tongue,clean,3.0,1,15
+unique,Doedre's Tongue,corrupted,2.0,1,5
+unique,Kaom's Roots,clean,2.0,1,12
 unique,Kaom's Roots,corrupted,2.0,1,9
 unique,Haemophilia,clean,10.0,1,11
-unique,Haemophilia,corrupted,15.0,1,7
-unique,Bitterbind Point,clean,5.0,1,28
-unique,Bitterbind Point,corrupted,100.0,1,1
-unique,Kalisa's Grace,clean,1.0,1,13
+unique,Haemophilia,corrupted,11.0,1,6
+unique,Bitterbind Point,clean,5.0,1,19
+unique,Bitterbind Point,corrupted,100.0,1,2
+unique,Kalisa's Grace,clean,1.0,1,15
 unique,Kalisa's Grace,corrupted,5.0,1,13
-unique,Chalice of Horrors,clean,1.0,1,15
-unique,Chalice of Horrors,corrupted,35.0,1,5
-unique,Earendel's Embrace,clean,1.0,1,17
-unique,Earendel's Embrace,corrupted,4.0,1,1
+unique,Chalice of Horrors,clean,1.0,1,14
+unique,Chalice of Horrors,corrupted,40.0,1,4
+unique,Earendel's Embrace,clean,1.0,1,14
 unique,Blackflame,clean,9075.0,1,1
-unique,Thousand Teeth Temu,clean,1.0,1,9
-unique,Thousand Teeth Temu,corrupted,1.0,1,8
-unique,Command of the Pit,clean,5.0,1,4
+unique,Thousand Teeth Temu,clean,1.0,1,12
+unique,Thousand Teeth Temu,corrupted,1.0,1,5
+unique,Command of the Pit,clean,10.0,1,5
 unique,Blackgleam,clean,1.0,1,14
-unique,Blackgleam,corrupted,20.0,1,4
-unique,Replica Allure,clean,100.0,1,1
-unique,Uzaza's Meadow,clean,20.0,1,5
-unique,Rigwald's Savagery,clean,8.0,1,9
-unique,Rigwald's Savagery,corrupted,20.0,1,3
-unique,The Pariah,clean,3.0,1,5
-unique,The Pariah,corrupted,120.0,1,2
-unique,Soulbound,clean,1.0,1,40
+unique,Blackgleam,corrupted,15.0,1,7
+unique,Replica Allure,clean,75.0,1,1
+unique,Uzaza's Meadow,clean,20.0,1,8
+unique,Rigwald's Savagery,clean,1.0,1,7
+unique,Rigwald's Savagery,corrupted,15.0,1,3
+unique,The Pariah,clean,10.0,1,5
+unique,The Pariah,corrupted,10.0,1,3
+unique,Soulbound,clean,1.0,1,19
 unique,Soulbound,corrupted,3.0,1,7
-unique,Retaliation Charm,clean,1.0,1,35
-unique,Retaliation Charm,corrupted,20.0,1,13
-unique,Springleaf,clean,1.0,1,20
-unique,Springleaf,corrupted,25.0,1,3
-unique,Obscurantis,clean,2.0,1,18
-unique,Obscurantis,corrupted,1.0,1,6
-unique,The Warden's Brand,clean,1.0,1,25
-unique,The Warden's Brand,corrupted,1.0,1,7
-unique,Victario's Flight,clean,1.0,1,17
-unique,Victario's Flight,corrupted,90.0,1,5
-unique,Sublime Vision,clean,825.0,1,15
+unique,Retaliation Charm,clean,1.0,1,22
+unique,Retaliation Charm,corrupted,20.0,1,4
+unique,Springleaf,clean,4.0,1,14
+unique,Springleaf,corrupted,10.0,1,2
+unique,Obscurantis,clean,2.0,1,16
+unique,Obscurantis,corrupted,1.0,1,4
+unique,The Warden's Brand,clean,1.0,1,20
+unique,The Warden's Brand,corrupted,30.0,1,6
+unique,Victario's Flight,clean,1.0,1,15
+unique,Victario's Flight,corrupted,100.0,1,5
+unique,Sublime Vision,clean,275.0,1,16
 unique,Sublime Vision,corrupted,1100.0,1,1
-unique,Bubonic Trail,clean,1.0,1,13
-unique,Bubonic Trail,corrupted,2750.0,1,1
-unique,Ephemeral Edge,clean,5.0,1,10
-unique,Ephemeral Edge,corrupted,6875.0,1,3
-unique,Replica Lioneye's Paws,clean,120.0,1,1
-unique,Thrillsteel,clean,1.0,1,23
-unique,Thrillsteel,corrupted,5.0,1,4
-unique,The Ephemeral Bond,clean,1.0,1,43
-unique,The Ephemeral Bond,corrupted,10.0,1,8
-unique,Replica Emberwake,clean,70.0,1,4
+unique,Bubonic Trail,clean,1.0,1,9
+unique,Bubonic Trail,corrupted,5.0,1,2
+unique,Ephemeral Edge,clean,1.0,1,9
+unique,Ephemeral Edge,corrupted,6875.0,1,2
+unique,Thrillsteel,clean,1.0,1,22
+unique,Thrillsteel,corrupted,5.0,1,8
+unique,The Ephemeral Bond,clean,1.0,1,27
+unique,The Ephemeral Bond,corrupted,5.0,1,15
+unique,Replica Emberwake,clean,150.0,1,4
 unique,Soul's Wick,corrupted,5.0,1,17
-unique,Umbilicus Immortalis,clean,2.0,1,12
+unique,Umbilicus Immortalis,clean,10.0,1,6
 unique,Umbilicus Immortalis,corrupted,20.0,1,3
 unique,Jaws of Agony,clean,1.0,1,13
 unique,Jaws of Agony,corrupted,25.0,1,5
