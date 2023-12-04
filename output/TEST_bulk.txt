@@ -379,13 +379,13 @@ currency,Primal Crystallised Lifeforce,,0.038461538461538464,50,43
 currency,Primal Crystallised Lifeforce,,0.038461538461538464,100,43
 currency,Primal Crystallised Lifeforce,,0.04,500,41
 currency,Primal Crystallised Lifeforce,,0.04453735684421014,10000,19
-currency,Vivid Crystallised Lifeforce,,0.011627906976744186,1,39
-currency,Vivid Crystallised Lifeforce,,0.011627906976744186,9,37
-currency,Vivid Crystallised Lifeforce,,0.011627906976744186,18,37
-currency,Vivid Crystallised Lifeforce,,0.011627906976744186,30,37
-currency,Vivid Crystallised Lifeforce,,0.011627906976744186,50,37
-currency,Vivid Crystallised Lifeforce,,0.011627906976744186,100,37
-currency,Vivid Crystallised Lifeforce,,0.011627906976744186,500,36
+currency,Vivid Crystallised Lifeforce,,0.011627906976744186,1,35
+currency,Vivid Crystallised Lifeforce,,0.011627906976744186,9,35
+currency,Vivid Crystallised Lifeforce,,0.011627906976744186,18,35
+currency,Vivid Crystallised Lifeforce,,0.011627906976744186,30,34
+currency,Vivid Crystallised Lifeforce,,0.011627906976744186,50,34
+currency,Vivid Crystallised Lifeforce,,0.011627906976744186,100,33
+currency,Vivid Crystallised Lifeforce,,0.011627906976744186,500,31
 currency,Vivid Crystallised Lifeforce,,0.10208333333333335,10000,9
 currency,Wild Crystallised Lifeforce,,0.04,1,45
 currency,Wild Crystallised Lifeforce,,0.04,9,45
@@ -542,13 +542,18 @@ fragment,Sacrifice at Dusk,,0.6779661016949152,30,27
 fragment,Sacrifice at Dusk,,0.6779661016949152,50,22
 fragment,Sacrifice at Dusk,,0.6779661016949152,100,19
 fragment,Sacrifice at Dusk,,0.6779661016949152,500,7
-fragment,Sacrifice at Dawn,,0.3,1,30
-fragment,Sacrifice at Dawn,,0.3,9,27
-fragment,Sacrifice at Dawn,,0.75,18,21
-fragment,Sacrifice at Dawn,,0.75,30,19
-fragment,Sacrifice at Dawn,,0.75,50,14
-fragment,Sacrifice at Dawn,,0.98,100,12
-fragment,Sacrifice at Dawn,,0.98,500,2
+fragment,Sacrifice at Midnight,,3.0,1,15
+fragment,Sacrifice at Midnight,,3.0,9,11
+fragment,Sacrifice at Midnight,,4.0,18,7
+fragment,Sacrifice at Midnight,,4.0,30,5
+fragment,Sacrifice at Midnight,,4.9,50,2
+fragment,Sacrifice at Dawn,,0.5555555555555556,1,25
+fragment,Sacrifice at Dawn,,0.5555555555555556,9,24
+fragment,Sacrifice at Dawn,,0.98,18,20
+fragment,Sacrifice at Dawn,,0.98,30,19
+fragment,Sacrifice at Dawn,,0.98,50,15
+fragment,Sacrifice at Dawn,,0.98,100,13
+fragment,Sacrifice at Dawn,,0.98,500,3
 fragment,Sacrifice at Noon,,0.5,1,22
 fragment,Sacrifice at Noon,,1.0,9,18
 fragment,Sacrifice at Noon,,1.0,18,16
@@ -556,275 +561,297 @@ fragment,Sacrifice at Noon,,1.0,30,14
 fragment,Sacrifice at Noon,,1.0,50,9
 fragment,Sacrifice at Noon,,1.0,100,8
 fragment,Sacrifice at Noon,,2.0,500,1
-fragment,Mortal Grief,,1.0,1,28
-fragment,Mortal Grief,,5.0,9,16
-fragment,Mortal Grief,,7.0,18,9
-fragment,Mortal Grief,,12.0,30,6
-fragment,Mortal Grief,,15.0,50,2
-fragment,Mortal Grief,,21.151079136690647,100,1
-fragment,Mortal Rage,,7.0,1,25
-fragment,Mortal Rage,,19.8,9,10
-fragment,Mortal Rage,,19.8,18,6
-fragment,Mortal Rage,,19.8,30,4
-fragment,Mortal Rage,,19.8,50,3
-fragment,Mortal Hope,,5.0,1,27
-fragment,Mortal Hope,,9.0,9,13
-fragment,Mortal Hope,,9.0,18,6
-fragment,Mortal Hope,,9.0,30,5
-fragment,Mortal Hope,,19.8,50,2
-fragment,Mortal Ignorance,,26.0,1,23
-fragment,Mortal Ignorance,,26.0,9,11
-fragment,Mortal Ignorance,,30.0,18,5
-fragment,Mortal Ignorance,,30.0,30,3
-fragment,Fragment of the Hydra,,3.0,1,19
-fragment,Fragment of the Hydra,,15.0,9,7
-fragment,Fragment of the Hydra,,15.0,18,3
-fragment,Fragment of the Hydra,,22.0,30,1
-fragment,Fragment of the Hydra,,22.0,50,1
-fragment,Fragment of the Phoenix,,3.0,1,21
-fragment,Fragment of the Phoenix,,15.0,9,9
-fragment,Fragment of the Phoenix,,15.0,18,4
-fragment,Fragment of the Phoenix,,16.333333333333332,30,3
-fragment,Fragment of the Phoenix,,22.0,50,1
-fragment,Fragment of the Phoenix,,22.0,100,1
-fragment,Fragment of the Minotaur,,3.0,1,18
-fragment,Fragment of the Minotaur,,15.0,9,10
-fragment,Fragment of the Minotaur,,15.0,18,5
-fragment,Fragment of the Minotaur,,16.333333333333332,30,3
-fragment,Fragment of the Minotaur,,22.0,50,2
-fragment,Fragment of the Minotaur,,22.0,100,1
-fragment,Fragment of the Chimera,,11.0,1,21
-fragment,Fragment of the Chimera,,16.0,9,9
-fragment,Fragment of the Chimera,,16.0,18,3
-fragment,Fragment of the Chimera,,16.333333333333332,30,2
-fragment,Fragment of Enslavement,,24.0,1,17
-fragment,Fragment of Enslavement,,25.0,9,3
-fragment,Fragment of Enslavement,,25.0,18,2
-fragment,Fragment of Eradication,,20.0,1,15
-fragment,Fragment of Eradication,,25.0,9,3
-fragment,Fragment of Eradication,,25.0,18,2
-fragment,Fragment of Constriction,,24.0,1,10
-fragment,Fragment of Constriction,,24.0,9,4
-fragment,Fragment of Constriction,,25.0,18,2
-fragment,Fragment of Purification,,24.0,1,13
-fragment,Fragment of Purification,,24.0,9,4
-fragment,Fragment of Purification,,24.0,18,2
-fragment,Fragment of Emptiness,,64.0,1,12
-fragment,Fragment of Emptiness,,80.0,9,5
-fragment,Fragment of Emptiness,,80.0,18,3
-fragment,Fragment of Emptiness,,80.0,30,1
-fragment,Fragment of Terror,,55.0,1,16
-fragment,Fragment of Terror,,80.0,9,5
-fragment,Fragment of Terror,,80.0,18,3
-fragment,Fragment of Terror,,80.0,30,3
+fragment,Mortal Grief,,1.0,1,29
+fragment,Mortal Grief,,5.0,9,12
+fragment,Mortal Grief,,5.0,18,5
+fragment,Mortal Grief,,12.0,30,3
+fragment,Mortal Grief,,15.0,50,1
+fragment,Mortal Rage,,5.0,1,25
+fragment,Mortal Rage,,13.0,9,7
+fragment,Mortal Rage,,19.8,18,4
+fragment,Mortal Rage,,19.8,30,2
+fragment,Mortal Rage,,19.8,50,2
+fragment,Mortal Hope,,0.5,1,29
+fragment,Mortal Hope,,7.0,9,14
+fragment,Mortal Hope,,7.0,18,11
+fragment,Mortal Hope,,7.0,30,5
+fragment,Mortal Hope,,8.571428571428571,50,2
+fragment,Mortal Hope,,8.571428571428571,100,1
+fragment,Mortal Ignorance,,22.0,1,20
+fragment,Mortal Ignorance,,22.0,9,5
+fragment,Mortal Ignorance,,40.0,18,1
+fragment,Mortal Ignorance,,40.0,30,1
+fragment,Fragment of the Hydra,,3.0,1,15
+fragment,Fragment of the Hydra,,10.0,9,7
+fragment,Fragment of the Hydra,,22.0,18,3
+fragment,Fragment of the Hydra,,22.0,30,2
+fragment,Fragment of the Hydra,,22.0,50,2
+fragment,Fragment of the Hydra,,25.0,100,1
+fragment,Fragment of the Phoenix,,3.0,1,17
+fragment,Fragment of the Phoenix,,10.0,9,9
+fragment,Fragment of the Phoenix,,10.0,18,4
+fragment,Fragment of the Phoenix,,10.0,30,4
+fragment,Fragment of the Phoenix,,22.0,50,2
+fragment,Fragment of the Phoenix,,22.0,100,2
+fragment,Fragment of the Minotaur,,3.0,1,19
+fragment,Fragment of the Minotaur,,12.0,9,13
+fragment,Fragment of the Minotaur,,12.0,18,5
+fragment,Fragment of the Minotaur,,16.0,30,4
+fragment,Fragment of the Minotaur,,22.0,50,3
+fragment,Fragment of the Minotaur,,22.0,100,2
+fragment,Fragment of the Chimera,,3.0,1,19
+fragment,Fragment of the Chimera,,14.0,9,10
+fragment,Fragment of the Chimera,,14.0,18,4
+fragment,Fragment of the Chimera,,25.0,30,2
+fragment,Fragment of the Chimera,,25.0,50,1
+fragment,Fragment of the Chimera,,25.0,100,1
+fragment,Fragment of Enslavement,,20.0,1,14
+fragment,Fragment of Enslavement,,20.0,9,5
+fragment,Fragment of Enslavement,,20.0,18,4
+fragment,Fragment of Enslavement,,30.625,30,3
+fragment,Fragment of Enslavement,,30.625,50,3
+fragment,Fragment of Enslavement,,30.625,100,2
+fragment,Fragment of Eradication,,20.0,1,12
+fragment,Fragment of Eradication,,20.0,9,5
+fragment,Fragment of Eradication,,30.625,18,3
+fragment,Fragment of Eradication,,30.625,30,3
+fragment,Fragment of Eradication,,30.625,50,3
+fragment,Fragment of Eradication,,30.625,100,2
+fragment,Fragment of Constriction,,20.0,1,14
+fragment,Fragment of Constriction,,20.0,9,4
+fragment,Fragment of Constriction,,20.0,18,4
+fragment,Fragment of Constriction,,30.625,30,3
+fragment,Fragment of Constriction,,30.625,50,3
+fragment,Fragment of Constriction,,30.625,100,2
+fragment,Fragment of Purification,,19.0,1,12
+fragment,Fragment of Purification,,19.0,9,5
+fragment,Fragment of Purification,,30.625,18,3
+fragment,Fragment of Purification,,30.625,30,3
+fragment,Fragment of Purification,,30.625,50,3
+fragment,Fragment of Purification,,30.625,100,2
+fragment,Fragment of Emptiness,,60.0,1,13
+fragment,Fragment of Emptiness,,73.5,9,4
+fragment,Fragment of Emptiness,,73.5,18,1
+fragment,Fragment of Emptiness,,73.5,30,1
+fragment,Fragment of Emptiness,,73.5,50,1
+fragment,Fragment of Emptiness,,73.5,100,1
+fragment,Fragment of Terror,,50.0,1,16
+fragment,Fragment of Terror,,60.0,9,6
+fragment,Fragment of Terror,,60.0,18,3
+fragment,Fragment of Terror,,73.5,30,2
+fragment,Fragment of Terror,,73.5,50,1
+fragment,Fragment of Terror,,73.5,100,1
 fragment,Fragment of Shape,,122.5,1,11
 fragment,Fragment of Shape,,171.5,9,2
 fragment,Fragment of Shape,,171.5,18,1
 fragment,Fragment of Shape,,171.5,30,1
 fragment,Fragment of Shape,,171.5,50,1
-fragment,Fragment of Knowledge,,122.5,1,11
-fragment,Fragment of Knowledge,,171.5,9,3
-fragment,Fragment of Knowledge,,171.5,18,1
-fragment,Fragment of Knowledge,,171.5,30,1
-fragment,Fragment of Knowledge,,171.5,50,1
-fragment,Al-Hezmin's Crest,,10.0,1,19
-fragment,Al-Hezmin's Crest,,25.0,9,9
-fragment,Al-Hezmin's Crest,,25.0,18,5
-fragment,Al-Hezmin's Crest,,30.625,30,2
-fragment,Al-Hezmin's Crest,,30.625,50,1
+fragment,Fragment of Knowledge,,122.5,1,12
+fragment,Fragment of Knowledge,,171.5,9,2
+fragment,Fragment of Knowledge,,171.5,18,2
+fragment,Fragment of Knowledge,,171.5,30,2
+fragment,Fragment of Knowledge,,171.5,50,2
+fragment,Fragment of Knowledge,,245.0,100,1
+fragment,Al-Hezmin's Crest,,10.0,1,18
+fragment,Al-Hezmin's Crest,,15.0,9,9
+fragment,Al-Hezmin's Crest,,15.0,18,6
+fragment,Al-Hezmin's Crest,,24.5,30,3
+fragment,Al-Hezmin's Crest,,24.5,50,2
 fragment,Baran's Crest,,14.0,1,18
 fragment,Baran's Crest,,14.0,9,8
 fragment,Baran's Crest,,14.0,18,6
 fragment,Baran's Crest,,24.5,30,3
 fragment,Baran's Crest,,24.5,50,2
-fragment,Drox's Crest,,18.0,1,18
-fragment,Drox's Crest,,26.0,9,6
-fragment,Drox's Crest,,30.625,18,2
-fragment,Drox's Crest,,30.625,30,2
-fragment,Veritania's Crest,,19.0,1,19
-fragment,Veritania's Crest,,24.5,9,7
-fragment,Veritania's Crest,,30.625,18,2
-fragment,Veritania's Crest,,30.625,30,2
-fragment,Veritania's Crest,,30.625,50,2
-fragment,Victorious Fate,,10.0,1,24
+fragment,Drox's Crest,,14.0,1,19
+fragment,Drox's Crest,,17.0,9,8
+fragment,Drox's Crest,,17.0,18,5
+fragment,Drox's Crest,,24.5,30,3
+fragment,Drox's Crest,,24.5,50,1
+fragment,Veritania's Crest,,15.0,1,17
+fragment,Veritania's Crest,,15.0,9,8
+fragment,Veritania's Crest,,15.0,18,4
+fragment,Veritania's Crest,,24.5,30,3
+fragment,Veritania's Crest,,24.5,50,3
+fragment,Victorious Fate,,10.0,1,18
+fragment,Victorious Fate,,50.0,9,3
+fragment,Victorious Fate,,50.0,18,2
 fragment,Deadly Fate,,180.0,1,6
-fragment,Ignominious Fate,,30.0,1,15
-fragment,Offering to the Goddess,,0.7424242424242424,1,35
-fragment,Offering to the Goddess,,0.7424242424242424,9,31
-fragment,Offering to the Goddess,,0.7424242424242424,18,30
-fragment,Offering to the Goddess,,0.7424242424242424,30,24
-fragment,Offering to the Goddess,,0.7424242424242424,50,21
-fragment,Offering to the Goddess,,0.7424242424242424,100,13
-fragment,Offering to the Goddess,,0.7424242424242424,500,3
-fragment,Tribute to the Goddess,,15.0,1,14
-fragment,Tribute to the Goddess,,30.625,9,5
-fragment,Tribute to the Goddess,,30.625,18,2
-fragment,Tribute to the Goddess,,30.625,30,1
+fragment,Ignominious Fate,,25.0,1,14
+fragment,Ignominious Fate,,60.0,9,1
+fragment,Offering to the Goddess,,0.7424242424242424,1,29
+fragment,Offering to the Goddess,,0.7424242424242424,9,25
+fragment,Offering to the Goddess,,0.7424242424242424,18,25
+fragment,Offering to the Goddess,,0.7424242424242424,30,21
+fragment,Offering to the Goddess,,0.7424242424242424,50,18
+fragment,Offering to the Goddess,,0.7424242424242424,100,10
+fragment,Offering to the Goddess,,0.7424242424242424,500,2
+fragment,Tribute to the Goddess,,18.0,1,10
+fragment,Tribute to the Goddess,,122.5,9,2
+fragment,Tribute to the Goddess,,245.0,18,1
 fragment,Gift to the Goddess,,367.5,1,9
-fragment,Gift to the Goddess,,1960.0,9,3
-fragment,Dedication to the Goddess,,70.0,1,9
+fragment,Gift to the Goddess,,2940.0,9,2
+fragment,Dedication to the Goddess,,91.875,1,9
 fragment,Dedication to the Goddess,,735.0,9,2
 fragment,Dedication to the Goddess,,735.0,18,2
-fragment,Will of Chaos,,200.0,1,9
+fragment,Will of Chaos,,150.0,1,6
 fragment,Will of Chaos,,367.5,9,1
-fragment,Xoph's Breachstone,,50.0,1,11
-fragment,Xoph's Breachstone,,70.0,9,3
-fragment,Xoph's Breachstone,,100.0,18,2
-fragment,Xoph's Breachstone,,100.0,30,1
-fragment,Tul's Breachstone,,50.0,1,11
-fragment,Tul's Breachstone,,70.0,9,2
-fragment,Esh's Breachstone,,30.0,1,12
-fragment,Esh's Breachstone,,70.0,9,4
-fragment,Esh's Breachstone,,122.5,18,1
-fragment,Uul-Netol's Breachstone,,68.0,1,7
-fragment,Uul-Netol's Breachstone,,122.5,9,2
-fragment,Uul-Netol's Breachstone,,122.5,18,1
-fragment,Chayula's Breachstone,,122.5,1,8
-fragment,Chayula's Breachstone,,122.5,9,5
+fragment,Xoph's Breachstone,,45.0,1,8
+fragment,Xoph's Breachstone,,81.66666666666666,9,3
+fragment,Xoph's Breachstone,,122.5,18,1
+fragment,Tul's Breachstone,,40.0,1,10
+fragment,Tul's Breachstone,,81.66666666666666,9,3
+fragment,Tul's Breachstone,,81.66666666666666,18,1
+fragment,Esh's Breachstone,,40.0,1,13
+fragment,Esh's Breachstone,,81.66666666666666,9,3
+fragment,Esh's Breachstone,,81.66666666666666,18,2
+fragment,Uul-Netol's Breachstone,,80.0,1,6
+fragment,Uul-Netol's Breachstone,,245.0,9,1
+fragment,Chayula's Breachstone,,122.5,1,12
+fragment,Chayula's Breachstone,,122.5,9,6
 fragment,Chayula's Breachstone,,122.5,18,5
 fragment,Chayula's Breachstone,,122.5,30,2
-fragment,Chayula's Breachstone,,122.5,50,2
+fragment,Chayula's Breachstone,,245.0,50,1
 fragment,Chayula's Breachstone,,245.0,100,1
-fragment,Esh's Flawless Breachstone,,4900.0,1,1
+fragment,Tul's Flawless Breachstone,,1960.0,1,1
 fragment,Uul-Netol's Flawless Breachstone,,2205.0,1,1
-fragment,Chayula's Flawless Breachstone,,2450.0,1,1
-fragment,Timeless Eternal Emblem,,3.0,1,14
-fragment,Timeless Eternal Emblem,,4.0,9,8
-fragment,Timeless Eternal Emblem,,7.0,18,5
-fragment,Timeless Eternal Emblem,,7.0,30,5
-fragment,Timeless Eternal Emblem,,10.0,50,4
-fragment,Timeless Eternal Emblem,,15.0,100,2
+fragment,Timeless Eternal Emblem,,3.0,1,18
+fragment,Timeless Eternal Emblem,,9.8,9,8
+fragment,Timeless Eternal Emblem,,9.8,18,5
+fragment,Timeless Eternal Emblem,,9.8,30,5
+fragment,Timeless Eternal Emblem,,12.25,50,4
+fragment,Timeless Eternal Emblem,,12.25,100,3
 fragment,Timeless Karui Emblem,,3.0,1,21
-fragment,Timeless Karui Emblem,,3.0,9,14
-fragment,Timeless Karui Emblem,,7.0,18,8
-fragment,Timeless Karui Emblem,,7.0,30,6
-fragment,Timeless Karui Emblem,,10.652173913043478,50,4
+fragment,Timeless Karui Emblem,,5.0,9,11
+fragment,Timeless Karui Emblem,,10.652173913043478,18,6
+fragment,Timeless Karui Emblem,,10.652173913043478,30,5
+fragment,Timeless Karui Emblem,,10.652173913043478,50,5
 fragment,Timeless Karui Emblem,,12.25,100,3
-fragment,Timeless Vaal Emblem,,7.0,1,20
-fragment,Timeless Vaal Emblem,,10.0,9,12
-fragment,Timeless Vaal Emblem,,11.395348837209303,18,7
-fragment,Timeless Vaal Emblem,,11.395348837209303,30,5
-fragment,Timeless Vaal Emblem,,11.395348837209303,50,5
-fragment,Timeless Vaal Emblem,,20.0,100,3
-fragment,Timeless Templar Emblem,,25.0,1,18
-fragment,Timeless Templar Emblem,,25.0,9,11
-fragment,Timeless Templar Emblem,,25.0,18,7
-fragment,Timeless Templar Emblem,,56.53846153846154,30,4
+fragment,Timeless Vaal Emblem,,7.0,1,19
+fragment,Timeless Vaal Emblem,,8.166666666666666,9,9
+fragment,Timeless Vaal Emblem,,8.166666666666666,18,3
+fragment,Timeless Vaal Emblem,,8.166666666666666,30,3
+fragment,Timeless Vaal Emblem,,20.416666666666664,50,2
+fragment,Timeless Vaal Emblem,,20.416666666666664,100,2
+fragment,Timeless Templar Emblem,,20.0,1,17
+fragment,Timeless Templar Emblem,,49.0,9,7
+fragment,Timeless Templar Emblem,,55.68181818181818,18,4
+fragment,Timeless Templar Emblem,,56.53846153846154,30,3
 fragment,Timeless Templar Emblem,,56.53846153846154,50,3
 fragment,Timeless Templar Emblem,,81.66666666666666,100,1
-fragment,Timeless Maraketh Emblem,,25.0,1,19
-fragment,Timeless Maraketh Emblem,,30.0,9,7
-fragment,Timeless Maraketh Emblem,,30.0,18,5
-fragment,Timeless Maraketh Emblem,,77.36842105263158,30,3
-fragment,Timeless Maraketh Emblem,,81.66666666666666,50,2
-fragment,Unrelenting Timeless Eternal Emblem,,44.0,1,5
-fragment,Unrelenting Timeless Eternal Emblem,,44.0,9,2
-fragment,Unrelenting Timeless Eternal Emblem,,81.66666666666666,18,1
-fragment,Unrelenting Timeless Karui Emblem,,50.0,1,3
-fragment,Unrelenting Timeless Karui Emblem,,50.0,9,2
-fragment,Unrelenting Timeless Karui Emblem,,50.0,18,2
-fragment,Unrelenting Timeless Karui Emblem,,50.0,30,2
-fragment,Unrelenting Timeless Templar Emblem,,40.0,1,7
-fragment,Unrelenting Timeless Vaal Emblem,,81.66666666666666,1,4
-fragment,Unrelenting Timeless Vaal Emblem,,81.66666666666666,9,1
-fragment,Unrelenting Timeless Vaal Emblem,,81.66666666666666,18,1
-fragment,Unrelenting Timeless Maraketh Emblem,,81.66666666666666,1,3
-fragment,Unrelenting Timeless Maraketh Emblem,,81.66666666666666,9,1
-fragment,Unrelenting Timeless Maraketh Emblem,,81.66666666666666,18,1
-fragment,Simulacrum,,50.0,1,12
-fragment,Simulacrum,,80.0,9,6
-fragment,Simulacrum,,150.0,18,1
-fragment,Simulacrum,,150.0,30,1
-fragment,Sacred Blossom,,294.0,1,10
-fragment,Sacred Blossom,,367.5,9,2
-fragment,Sacred Blossom,,612.5,18,1
-fragment,Sacred Blossom,,612.5,30,1
-fragment,Sacred Blossom,,612.5,50,1
+fragment,Timeless Maraketh Emblem,,20.0,1,18
+fragment,Timeless Maraketh Emblem,,24.5,9,4
+fragment,Timeless Maraketh Emblem,,77.36842105263158,18,3
+fragment,Timeless Maraketh Emblem,,77.36842105263158,30,2
+fragment,Timeless Maraketh Emblem,,81.66666666666666,50,1
+fragment,Unrelenting Timeless Eternal Emblem,,40.0,1,3
+fragment,Unrelenting Timeless Karui Emblem,,20.0,1,3
+fragment,Unrelenting Timeless Karui Emblem,,50.0,9,1
+fragment,Unrelenting Timeless Karui Emblem,,50.0,18,1
+fragment,Unrelenting Timeless Templar Emblem,,50.0,1,6
+fragment,Unrelenting Timeless Templar Emblem,,245.0,9,1
+fragment,Unrelenting Timeless Vaal Emblem,,40.0,1,5
+fragment,Unrelenting Timeless Vaal Emblem,,245.0,9,1
+fragment,Unrelenting Timeless Maraketh Emblem,,217.77777777777777,1,3
+fragment,Unrelenting Timeless Maraketh Emblem,,217.77777777777777,9,1
+fragment,Simulacrum,,61.25,1,10
+fragment,Simulacrum,,81.66666666666666,9,6
+fragment,Simulacrum,,81.66666666666666,18,3
+fragment,Simulacrum,,81.66666666666666,30,3
+fragment,Sacred Blossom,,294.0,1,9
+fragment,Sacred Blossom,,367.5,9,1
 fragment,Ritual Vessel,,13.0,1,15
 fragment,Ritual Vessel,,15.3125,9,9
 fragment,Ritual Vessel,,15.3125,18,7
 fragment,Ritual Vessel,,15.3125,30,6
 fragment,Ritual Vessel,,15.3125,50,2
-invitation,Maven's Invitation: The Atlas,,0.4666666666666667,1,26
-invitation,Maven's Invitation: The Atlas,,0.4666666666666667,9,20
-invitation,Maven's Invitation: The Atlas,,0.4666666666666667,18,14
-invitation,Maven's Invitation: The Atlas,,1.0,30,8
-invitation,Maven's Invitation: The Atlas,,1.0,50,4
-invitation,Maven's Invitation: The Formed,,60.0,1,18
-invitation,Maven's Invitation: The Twisted,,45.0,1,23
-invitation,Maven's Invitation: The Twisted,,81.66666666666666,9,1
-invitation,Maven's Invitation: The Twisted,,81.66666666666666,18,1
-invitation,Maven's Invitation: The Forgotten,,10.0,1,22
-invitation,Maven's Invitation: The Forgotten,,10.0,9,6
+invitation,Maven's Invitation: The Atlas,,0.4666666666666667,1,23
+invitation,Maven's Invitation: The Atlas,,0.4666666666666667,9,19
+invitation,Maven's Invitation: The Atlas,,0.4666666666666667,18,12
+invitation,Maven's Invitation: The Atlas,,1.0,30,7
+invitation,Maven's Invitation: The Atlas,,1.0,50,2
+invitation,Maven's Invitation: The Formed,,54.0,1,26
+invitation,Maven's Invitation: The Formed,,60.0,9,2
+invitation,Maven's Invitation: The Twisted,,35.0,1,25
+invitation,Maven's Invitation: The Twisted,,50.0,9,2
+invitation,Maven's Invitation: The Twisted,,50.0,18,2
+invitation,Maven's Invitation: The Twisted,,50.0,30,1
+invitation,Maven's Invitation: The Forgotten,,10.0,1,19
+invitation,Maven's Invitation: The Forgotten,,30.0,9,2
 invitation,Maven's Invitation: The Hidden,,5.0,1,17
 invitation,Maven's Invitation: The Hidden,,5.0,9,4
 invitation,Maven's Invitation: The Hidden,,5.0,18,1
-invitation,Maven's Invitation: The Feared,,5.0,1,30
-invitation,Maven's Invitation: The Feared,,5.0,9,8
-invitation,Maven's Invitation: The Feared,,6.0,18,6
+invitation,Maven's Invitation: The Feared,,5.0,1,32
+invitation,Maven's Invitation: The Feared,,6.0,9,11
+invitation,Maven's Invitation: The Feared,,6.0,18,7
 invitation,Maven's Invitation: The Feared,,6.0,30,4
 invitation,Maven's Invitation: The Feared,,8.166666666666666,50,3
-invitation,Maven's Invitation: The Feared,,8.166666666666666,100,1
-invitation,Maven's Invitation: The Elderslayers,,50.0,1,25
+invitation,Maven's Invitation: The Feared,,8.166666666666666,100,2
+invitation,Maven's Invitation: The Elderslayers,,30.0,1,32
+invitation,Maven's Invitation: The Elderslayers,,81.66666666666666,9,3
 invitation,The Maven's Writ,,245.0,1,13
-invitation,The Maven's Writ,,294.0,9,7
-invitation,The Maven's Writ,,343.0,18,3
-invitation,The Maven's Writ,,367.5,30,1
-invitation,The Maven's Writ,,367.5,50,1
-invitation,Writhing Invitation,,3.0,1,17
-invitation,Writhing Invitation,,10.0,9,8
-invitation,Writhing Invitation,,20.0,18,1
+invitation,The Maven's Writ,,245.0,9,9
+invitation,The Maven's Writ,,343.0,18,4
+invitation,Writhing Invitation,,3.0,1,16
+invitation,Writhing Invitation,,9.0,9,9
+invitation,Writhing Invitation,,20.0,18,3
+invitation,Writhing Invitation,,2450.0,30,1
 invitation,Screaming Invitation,,269.5,1,11
-invitation,Screaming Invitation,,490.0,9,3
-invitation,Polaric Invitation,,1.75,1,17
-invitation,Polaric Invitation,,4.0,9,11
-invitation,Polaric Invitation,,4.0,18,7
-invitation,Polaric Invitation,,24.5,30,2
-invitation,Incandescent Invitation,,122.5,1,17
-invitation,Incandescent Invitation,,245.0,9,5
-invitation,Incandescent Invitation,,367.5,18,2
+invitation,Screaming Invitation,,612.5,9,3
+invitation,Screaming Invitation,,612.5,18,1
+invitation,Screaming Invitation,,612.5,30,1
+invitation,Screaming Invitation,,612.5,50,1
+invitation,Screaming Invitation,,612.5,100,1
+invitation,Polaric Invitation,,1.75,1,16
+invitation,Polaric Invitation,,3.0,9,12
+invitation,Polaric Invitation,,5.0,18,6
+invitation,Polaric Invitation,,12.0,30,3
+invitation,Polaric Invitation,,12.0,50,1
+invitation,Polaric Invitation,,12.0,100,1
+invitation,Incandescent Invitation,,122.5,1,18
+invitation,Incandescent Invitation,,294.0,9,6
+invitation,Incandescent Invitation,,294.0,18,5
 invitation,Incandescent Invitation,,367.5,30,1
 fragment,Shiny Reliquary Key,,6125.0,1,1
-fragment,Voidborn Reliquary Key,,980.0,1,9
+fragment,Cosmic Reliquary Key,,1225.0,1,1
+fragment,Voidborn Reliquary Key,,1029.0,1,11
 fragment,Voidborn Reliquary Key,,1470.0,9,1
 fragment,Voidborn Reliquary Key,,1470.0,18,1
-fragment,Archive Reliquary Key,,1715.0,1,1
-memory-line,Alva's Memory of Cascading Fortunes,,5.0,1,21
-memory-line,Alva's Memory of Reverse Incursion,,5.0,1,24
-memory-line,Einhar's Memory of Harvest Beasts,,1225.0,1,15
+memory-line,Alva's Memory of Cascading Fortunes,,5.0,1,24
+memory-line,Alva's Memory of Reverse Incursion,,5.0,1,30
+memory-line,Einhar's Memory of Harvest Beasts,,1225.0,1,12
 memory-line,Einhar's Memory of Harvest Beasts,,1470.0,9,4
 memory-line,Einhar's Memory of Harvest Beasts,,1470.0,18,4
 memory-line,Einhar's Memory of Harvest Beasts,,1470.0,30,4
 memory-line,Einhar's Memory of Harvest Beasts,,1715.0,50,2
-memory-line,Einhar's Memory of Crystal Prisons,,367.5,1,10
-memory-line,Einhar's Memory of the Sacred Grove,,490.0,1,10
-memory-line,Kirac's Memory of the Pantheon,,5.0,1,22
-memory-line,Kirac's Memory of Survivor's Guilt,,48.0,1,17
-memory-line,Kirac's Memory of Phaaryl,,1.0,1,22
-memory-line,Niko's Memory of Grasping Hands,,10.0,1,11
-memory-line,Niko's Memory of Demonic Onslaught,,25.0,1,14
-memory-line,Niko's Memory of Chasms,,5.0,1,17
-memory-line,Niko's Memory of Tormented Souls,,10.0,1,13
-memory-line,Niko's Memory of Tormented Souls,,490.0,9,1
-scouting-report,Singular Scouting Report,,3.0,1,34
-scouting-report,Singular Scouting Report,,3.0,9,18
-scouting-report,Singular Scouting Report,,4.0,18,9
-scouting-report,Singular Scouting Report,,4.166666666666667,30,7
-scouting-report,Singular Scouting Report,,4.166666666666667,50,6
-scouting-report,Singular Scouting Report,,4.166666666666667,100,3
-scouting-report,Otherworldly Scouting Report,,1.5,1,4
-scouting-report,Vaal Scouting Report,,0.4166666666666667,1,32
-scouting-report,Vaal Scouting Report,,0.4166666666666667,9,20
-scouting-report,Vaal Scouting Report,,0.5074626865671642,18,15
-scouting-report,Vaal Scouting Report,,0.5074626865671642,30,13
-scouting-report,Vaal Scouting Report,,0.5074626865671642,50,11
-scouting-report,Vaal Scouting Report,,0.9,100,4
+memory-line,Einhar's Memory of Crystal Prisons,,50.0,1,12
+memory-line,Einhar's Memory of the Sacred Grove,,490.0,1,11
+memory-line,Kirac's Memory of the Pantheon,,1.0,1,24
+memory-line,Kirac's Memory of Survivor's Guilt,,90.0,1,13
+memory-line,Kirac's Memory of Phaaryl,,1.0,1,18
+memory-line,Niko's Memory of Grasping Hands,,10.0,1,15
+memory-line,Niko's Memory of Demonic Onslaught,,14.0,1,17
+memory-line,Niko's Memory of Chasms,,10.0,1,19
+memory-line,Niko's Memory of Tormented Souls,,10.0,1,14
+scouting-report,Singular Scouting Report,,2.0,1,31
+scouting-report,Singular Scouting Report,,3.0,9,15
+scouting-report,Singular Scouting Report,,3.0,18,8
+scouting-report,Singular Scouting Report,,3.0,30,7
+scouting-report,Singular Scouting Report,,3.0625,50,4
+scouting-report,Singular Scouting Report,,3.0625,100,3
+scouting-report,Otherworldly Scouting Report,,200.0,1,2
+scouting-report,Vaal Scouting Report,,0.5,1,26
+scouting-report,Vaal Scouting Report,,0.5,9,19
+scouting-report,Vaal Scouting Report,,0.5,18,15
+scouting-report,Vaal Scouting Report,,0.5,30,14
+scouting-report,Vaal Scouting Report,,0.5074626865671642,50,10
+scouting-report,Vaal Scouting Report,,0.8,100,5
 scouting-report,Vaal Scouting Report,,2.45,500,1
-scouting-report,Comprehensive Scouting Report,,61.25,1,5
+scouting-report,Comprehensive Scouting Report,,61.25,1,2
 scouting-report,Comprehensive Scouting Report,,61.25,9,2
-scouting-report,Comprehensive Scouting Report,,61.25,18,2
-scouting-report,Comprehensive Scouting Report,,245.0,30,1
-scouting-report,Operative's Scouting Report,,22.0,1,1
+scouting-report,Comprehensive Scouting Report,,61.25,18,1
+scouting-report,Operative's Scouting Report,,1.95,1,2
+scouting-report,Operative's Scouting Report,,1.95,9,2
+scouting-report,Operative's Scouting Report,,1.95,18,1
 scouting-report,Blighted Scouting Report,,5.0,1,5
 scouting-report,Explorer's Scouting Report,,0.6,1,20
 scouting-report,Explorer's Scouting Report,,0.6,9,16
@@ -833,153 +860,137 @@ scouting-report,Explorer's Scouting Report,,0.6,30,14
 scouting-report,Explorer's Scouting Report,,0.8928571428571429,50,13
 scouting-report,Explorer's Scouting Report,,0.8928571428571429,100,8
 scouting-report,Explorer's Scouting Report,,2.0,500,3
-scouting-report,Influenced Scouting Report,,2.0,1,36
-scouting-report,Influenced Scouting Report,,3.0,9,21
-scouting-report,Influenced Scouting Report,,4.0,18,17
+scouting-report,Influenced Scouting Report,,2.0,1,31
+scouting-report,Influenced Scouting Report,,2.9166666666666665,9,16
+scouting-report,Influenced Scouting Report,,2.9166666666666665,18,11
 scouting-report,Influenced Scouting Report,,4.083333333333333,30,8
-scouting-report,Influenced Scouting Report,,4.083333333333333,50,5
+scouting-report,Influenced Scouting Report,,4.083333333333333,50,4
 scouting-report,Influenced Scouting Report,,4.083333333333333,100,2
 scouting-report,Delirious Scouting Report,,2.0,1,7
 scouting-report,Delirious Scouting Report,,18.846153846153847,9,3
 scouting-report,Delirious Scouting Report,,24.5,18,2
 incubator,Singular Incubator,,1.0,1,22
-incubator,Singular Incubator,,1.0,9,12
-incubator,Singular Incubator,,1.0,18,9
-incubator,Singular Incubator,,2.0,30,6
-incubator,Singular Incubator,,2.0,50,5
-incubator,Singular Incubator,,4.0,100,2
-incubator,Cartographer's Incubator,,0.9,1,23
-incubator,Cartographer's Incubator,,0.9,9,15
-incubator,Cartographer's Incubator,,0.9,18,13
-incubator,Cartographer's Incubator,,1.0,30,9
-incubator,Cartographer's Incubator,,1.0,50,8
-incubator,Cartographer's Incubator,,1.0,100,4
-incubator,Otherworldly Incubator,,1.0,1,16
-incubator,Otherworldly Incubator,,1.0,9,9
-incubator,Otherworldly Incubator,,1.0,18,6
-incubator,Otherworldly Incubator,,2.0,30,3
-incubator,Otherworldly Incubator,,2.0,50,3
-incubator,Otherworldly Incubator,,2.0,100,1
-incubator,Abyssal Incubator,,0.1,1,27
-incubator,Abyssal Incubator,,0.1,9,16
-incubator,Abyssal Incubator,,0.1,18,15
-incubator,Abyssal Incubator,,0.1,30,12
-incubator,Abyssal Incubator,,0.1,50,9
-incubator,Abyssal Incubator,,0.1,100,9
-incubator,Abyssal Incubator,,0.7,500,1
-incubator,Fragmented Incubator,,0.3,1,24
-incubator,Fragmented Incubator,,0.3,9,14
-incubator,Fragmented Incubator,,0.3,18,14
-incubator,Fragmented Incubator,,0.3,30,12
-incubator,Fragmented Incubator,,0.3,50,11
-incubator,Fragmented Incubator,,0.3,100,7
-incubator,Infused Incubator,,0.9,1,23
-incubator,Infused Incubator,,0.9,9,17
-incubator,Infused Incubator,,1.0,18,14
-incubator,Infused Incubator,,1.0,30,11
-incubator,Infused Incubator,,1.0,50,7
-incubator,Infused Incubator,,2.0,100,5
-incubator,Fossilised Incubator,,0.9,1,23
-incubator,Fossilised Incubator,,0.9,9,15
-incubator,Fossilised Incubator,,0.9,18,12
-incubator,Fossilised Incubator,,0.9,30,12
-incubator,Fossilised Incubator,,1.0,50,9
-incubator,Fossilised Incubator,,1.0,100,6
-incubator,Skittering Incubator,,1.0,1,22
-incubator,Skittering Incubator,,1.9,9,16
-incubator,Skittering Incubator,,2.0,18,12
-incubator,Skittering Incubator,,4.0,30,5
-incubator,Skittering Incubator,,4.0,50,4
-incubator,Skittering Incubator,,4.0,100,3
-incubator,Foreboding Incubator,,1.0,1,22
-incubator,Foreboding Incubator,,1.0,9,10
-incubator,Foreboding Incubator,,1.0,18,5
-incubator,Foreboding Incubator,,2.0,30,4
-incubator,Foreboding Incubator,,2.0,50,2
-incubator,Foreboding Incubator,,2.0,100,1
-incubator,Obscured Incubator,,1.0,1,15
-incubator,Obscured Incubator,,1.0,9,8
-incubator,Obscured Incubator,,1.0,18,4
-incubator,Obscured Incubator,,55.0,30,2
-incubator,Obscured Incubator,,1225.0,50,1
-incubator,Celestial Jeweller's Incubator,,0.3,1,13
-incubator,Celestial Jeweller's Incubator,,0.3,9,8
-incubator,Celestial Jeweller's Incubator,,3.0,18,4
-incubator,Celestial Jeweller's Incubator,,20.0,30,2
-incubator,Celestial Jeweller's Incubator,,1225.0,50,1
-incubator,Celestial Armoursmith's Incubator,,0.3,1,13
-incubator,Celestial Armoursmith's Incubator,,0.3,9,5
-incubator,Celestial Armoursmith's Incubator,,20.0,18,2
-incubator,Celestial Armoursmith's Incubator,,1225.0,30,1
-incubator,Celestial Armoursmith's Incubator,,1225.0,50,1
-incubator,Celestial Blacksmith's Incubator,,0.3,1,18
-incubator,Celestial Blacksmith's Incubator,,0.3,9,6
-incubator,Celestial Blacksmith's Incubator,,4.0,18,3
-incubator,Celestial Blacksmith's Incubator,,1225.0,30,1
-incubator,Kalguuran Incubator,,1.0,1,20
-incubator,Kalguuran Incubator,,2.0,9,9
-incubator,Kalguuran Incubator,,2.0,18,5
-incubator,Kalguuran Incubator,,2.0,30,4
-incubator,Kalguuran Incubator,,2.0,50,4
-incubator,Kalguuran Incubator,,10.0,100,2
-incubator,Diviner's Incubator,,5.0,1,13
-incubator,Diviner's Incubator,,21.0,9,5
-incubator,Diviner's Incubator,,21.0,18,3
-incubator,Diviner's Incubator,,21.0,30,3
-incubator,Diviner's Incubator,,245.0,50,2
-incubator,Primal Incubator,,0.3,1,19
+incubator,Singular Incubator,,1.0,9,11
+incubator,Singular Incubator,,1.0,18,4
+incubator,Singular Incubator,,1.0,30,4
+incubator,Singular Incubator,,1.0,50,3
+incubator,Singular Incubator,,1.0,100,2
+incubator,Cartographer's Incubator,,0.9,1,24
+incubator,Cartographer's Incubator,,0.9,9,12
+incubator,Cartographer's Incubator,,0.9,18,8
+incubator,Cartographer's Incubator,,1.0,30,6
+incubator,Cartographer's Incubator,,1.0,50,5
+incubator,Cartographer's Incubator,,2.0,100,2
+incubator,Otherworldly Incubator,,1.0,1,20
+incubator,Otherworldly Incubator,,1.0,9,6
+incubator,Otherworldly Incubator,,4.0,18,2
+incubator,Otherworldly Incubator,,4.0,30,1
+incubator,Otherworldly Incubator,,4.0,50,1
+incubator,Abyssal Incubator,,0.3,1,27
+incubator,Abyssal Incubator,,0.3,9,16
+incubator,Abyssal Incubator,,0.3,18,13
+incubator,Abyssal Incubator,,0.3,30,10
+incubator,Abyssal Incubator,,0.3,50,7
+incubator,Abyssal Incubator,,0.3,100,6
+incubator,Abyssal Incubator,,0.7,500,2
+incubator,Fragmented Incubator,,0.3,1,32
+incubator,Fragmented Incubator,,0.3,9,15
+incubator,Fragmented Incubator,,0.3,18,11
+incubator,Fragmented Incubator,,0.3,30,8
+incubator,Fragmented Incubator,,0.3,50,6
+incubator,Fragmented Incubator,,0.3,100,5
+incubator,Infused Incubator,,0.9,1,24
+incubator,Infused Incubator,,0.9,9,14
+incubator,Infused Incubator,,1.0,18,9
+incubator,Infused Incubator,,1.0,30,7
+incubator,Infused Incubator,,1.0,50,4
+incubator,Infused Incubator,,2.0,100,2
+incubator,Fossilised Incubator,,0.9,1,29
+incubator,Fossilised Incubator,,0.9,9,11
+incubator,Fossilised Incubator,,0.9,18,9
+incubator,Fossilised Incubator,,0.9,30,7
+incubator,Fossilised Incubator,,1.0,50,4
+incubator,Fossilised Incubator,,1.0,100,4
+incubator,Skittering Incubator,,1.9,1,26
+incubator,Skittering Incubator,,1.9,9,9
+incubator,Skittering Incubator,,2.0,18,2
+incubator,Skittering Incubator,,2.0,30,1
+incubator,Foreboding Incubator,,1.0,1,24
+incubator,Foreboding Incubator,,1.9,9,5
+incubator,Foreboding Incubator,,2.0,18,2
+incubator,Foreboding Incubator,,2.0,30,1
+incubator,Foreboding Incubator,,2.0,50,1
+incubator,Obscured Incubator,,1.0,1,14
+incubator,Obscured Incubator,,1.0,9,3
+incubator,Obscured Incubator,,1.0,18,2
+incubator,Obscured Incubator,,1.0,30,1
+incubator,Obscured Incubator,,1.0,50,1
+incubator,Obscured Incubator,,1.0,100,1
+incubator,Celestial Jeweller's Incubator,,0.3,1,14
+incubator,Celestial Jeweller's Incubator,,0.3,9,5
+incubator,Celestial Jeweller's Incubator,,20.0,18,3
+incubator,Celestial Jeweller's Incubator,,20.0,30,1
+incubator,Celestial Armoursmith's Incubator,,0.3,1,18
+incubator,Celestial Armoursmith's Incubator,,0.3,9,4
+incubator,Celestial Armoursmith's Incubator,,20.0,18,1
+incubator,Celestial Blacksmith's Incubator,,0.3,1,17
+incubator,Celestial Blacksmith's Incubator,,0.3,9,5
+incubator,Celestial Blacksmith's Incubator,,4.0,18,2
+incubator,Kalguuran Incubator,,1.0,1,25
+incubator,Kalguuran Incubator,,2.0,9,8
+incubator,Kalguuran Incubator,,10.0,18,3
+incubator,Kalguuran Incubator,,10.0,30,1
+incubator,Kalguuran Incubator,,10.0,50,1
+incubator,Kalguuran Incubator,,10.0,100,1
+incubator,Diviner's Incubator,,8.0,1,21
+incubator,Diviner's Incubator,,11.0,9,6
+incubator,Diviner's Incubator,,30.0,18,2
+incubator,Primal Incubator,,0.3,1,23
 incubator,Primal Incubator,,0.3,9,10
 incubator,Primal Incubator,,0.3,18,9
-incubator,Primal Incubator,,0.3,30,7
-incubator,Primal Incubator,,0.3,50,5
+incubator,Primal Incubator,,0.3,30,4
+incubator,Primal Incubator,,0.3,50,4
 incubator,Primal Incubator,,0.3,100,2
-incubator,Enchanted Incubator,,0.3,1,24
-incubator,Enchanted Incubator,,0.3,9,15
-incubator,Enchanted Incubator,,0.3,18,14
-incubator,Enchanted Incubator,,0.98,30,7
-incubator,Enchanted Incubator,,0.98,50,6
+incubator,Enchanted Incubator,,0.3,1,29
+incubator,Enchanted Incubator,,0.3,9,13
+incubator,Enchanted Incubator,,0.3,18,7
+incubator,Enchanted Incubator,,0.98,30,6
+incubator,Enchanted Incubator,,0.98,50,5
 incubator,Enchanted Incubator,,0.98,100,5
-incubator,Enchanted Incubator,,0.98,500,1
-incubator,Geomancer's Incubator,,0.3,1,23
-incubator,Geomancer's Incubator,,0.3,9,12
-incubator,Geomancer's Incubator,,1.0,18,9
-incubator,Geomancer's Incubator,,1.0,30,5
-incubator,Geomancer's Incubator,,2.0,50,2
+incubator,Enchanted Incubator,,0.98,500,2
+incubator,Geomancer's Incubator,,0.3,1,22
+incubator,Geomancer's Incubator,,0.3,9,11
+incubator,Geomancer's Incubator,,1.0,18,7
+incubator,Geomancer's Incubator,,1.0,30,4
+incubator,Geomancer's Incubator,,2.0,50,3
 incubator,Geomancer's Incubator,,2.0,100,1
-incubator,Ornate Incubator,,3.0,1,20
-incubator,Ornate Incubator,,10.0,9,4
-incubator,Ornate Incubator,,10.0,18,3
-incubator,Ornate Incubator,,10.0,30,1
-incubator,Ornate Incubator,,10.0,50,1
-incubator,Ornate Incubator,,10.0,100,1
-incubator,Maddening Incubator,,1.0,1,14
-incubator,Maddening Incubator,,1.0,9,9
-incubator,Maddening Incubator,,4.0,18,5
-incubator,Maddening Incubator,,4.0,30,3
-incubator,Maddening Incubator,,1225.0,50,1
-incubator,Mysteriou's Incubator,,0.9,1,18
-incubator,Mysteriou's Incubator,,0.9,9,8
-incubator,Mysteriou's Incubator,,1.0,18,6
-incubator,Mysteriou's Incubator,,1.0,30,5
-incubator,Mysteriou's Incubator,,20.0,50,3
-incubator,Mysteriou's Incubator,,1225.0,100,1
-incubator,Thaumaturge's Incubator,,1.0,1,15
-incubator,Thaumaturge's Incubator,,1.0,9,6
-incubator,Thaumaturge's Incubator,,1.0,18,5
-incubator,Thaumaturge's Incubator,,1225.0,30,1
-incubator,Thaumaturge's Incubator,,1225.0,50,1
+incubator,Ornate Incubator,,8.9,1,21
+incubator,Ornate Incubator,,8.9,9,6
+incubator,Ornate Incubator,,8.9,18,2
+incubator,Maddening Incubator,,1.0,1,18
+incubator,Maddening Incubator,,1.0,9,4
+incubator,Maddening Incubator,,4.0,18,2
+incubator,Maddening Incubator,,4.0,30,1
+incubator,Mysteriou's Incubator,,0.9,1,19
+incubator,Mysteriou's Incubator,,0.9,9,11
+incubator,Mysteriou's Incubator,,1.0,18,5
+incubator,Mysteriou's Incubator,,20.0,30,2
+incubator,Mysteriou's Incubator,,20.0,50,2
+incubator,Thaumaturge's Incubator,,1.0,1,18
+incubator,Thaumaturge's Incubator,,1.0,9,3
+incubator,Thaumaturge's Incubator,,1.0,18,2
 incubator,Morphing Incubator,,1.0,1,19
-incubator,Morphing Incubator,,1.0,9,10
-incubator,Morphing Incubator,,1.0,18,9
-incubator,Morphing Incubator,,4.0,30,7
-incubator,Morphing Incubator,,4.0,50,4
-incubator,Morphing Incubator,,1225.0,100,1
+incubator,Morphing Incubator,,1.0,9,8
+incubator,Morphing Incubator,,1.0,18,4
+incubator,Morphing Incubator,,1.0,30,3
+incubator,Morphing Incubator,,1.0,50,2
+incubator,Morphing Incubator,,1.0,100,1
 incubator,Blighted Incubator,,0.9,1,21
-incubator,Blighted Incubator,,0.9,9,13
-incubator,Blighted Incubator,,0.9,18,9
-incubator,Blighted Incubator,,1.0,30,5
-incubator,Blighted Incubator,,1.0,50,4
-incubator,Blighted Incubator,,1.0,100,4
+incubator,Blighted Incubator,,0.9,9,8
+incubator,Blighted Incubator,,0.9,18,6
+incubator,Blighted Incubator,,1.0,30,3
+incubator,Blighted Incubator,,1.0,50,3
+incubator,Blighted Incubator,,1.0,100,3
 artifact,Astragali,,0.3333333333333333,1,30
 artifact,Astragali,,0.3333333333333333,9,19
 artifact,Astragali,,0.3333333333333333,18,16
@@ -1326,11 +1337,11 @@ scarab,Winged Breach Scarab,,38.0,1,17
 scarab,Winged Breach Scarab,,73.5,9,3
 scarab,Winged Breach Scarab,,73.5,18,1
 scarab,Rusted Cartography Scarab,,1.0,1,20
-scarab,Rusted Cartography Scarab,,1.5,9,16
+scarab,Rusted Cartography Scarab,,1.5,9,14
 scarab,Rusted Cartography Scarab,,1.5,18,12
-scarab,Rusted Cartography Scarab,,1.5,30,10
-scarab,Rusted Cartography Scarab,,1.5,50,9
-scarab,Rusted Cartography Scarab,,1.5,100,5
+scarab,Rusted Cartography Scarab,,1.5,30,8
+scarab,Rusted Cartography Scarab,,1.5,50,7
+scarab,Rusted Cartography Scarab,,1.5,100,3
 scarab,Gilded Sulphite Scarab,,3.0,1,28
 scarab,Gilded Sulphite Scarab,,6.0,9,19
 scarab,Gilded Sulphite Scarab,,8.0,18,10
@@ -1379,46 +1390,46 @@ scarab,Gilded Cartography Scarab,,5.0,18,14
 scarab,Gilded Cartography Scarab,,6.0,30,7
 scarab,Gilded Cartography Scarab,,8.8,50,4
 scarab,Gilded Cartography Scarab,,8.8,100,2
-scarab,Rusted Divination Scarab,,1.0,1,28
-scarab,Rusted Divination Scarab,,3.0,9,23
-scarab,Rusted Divination Scarab,,3.0,18,23
-scarab,Rusted Divination Scarab,,3.0,30,22
-scarab,Rusted Divination Scarab,,3.0,50,19
-scarab,Rusted Divination Scarab,,3.0,100,11
-scarab,Rusted Divination Scarab,,3.450704225352113,500,2
+scarab,Rusted Divination Scarab,,2.0,1,25
+scarab,Rusted Divination Scarab,,3.0,9,20
+scarab,Rusted Divination Scarab,,3.0,18,20
+scarab,Rusted Divination Scarab,,3.0,30,19
+scarab,Rusted Divination Scarab,,3.0,50,16
+scarab,Rusted Divination Scarab,,3.0,100,10
+scarab,Rusted Divination Scarab,,4.9,500,1
 scarab,Polished Harbinger Scarab,,2.0,1,17
-scarab,Polished Harbinger Scarab,,12.25,9,10
-scarab,Polished Harbinger Scarab,,12.25,18,8
-scarab,Polished Harbinger Scarab,,12.25,30,6
-scarab,Polished Harbinger Scarab,,12.25,50,4
+scarab,Polished Harbinger Scarab,,5.0,9,10
+scarab,Polished Harbinger Scarab,,5.0,18,8
+scarab,Polished Harbinger Scarab,,5.0,30,7
+scarab,Polished Harbinger Scarab,,5.0,50,5
 scarab,Polished Harbinger Scarab,,12.25,100,2
 scarab,Polished Harbinger Scarab,,12.25,500,2
-scarab,Gilded Metamorph Scarab,,3.0,1,24
-scarab,Gilded Metamorph Scarab,,7.0,9,13
-scarab,Gilded Metamorph Scarab,,7.0,18,8
-scarab,Gilded Metamorph Scarab,,7.0,30,5
-scarab,Gilded Metamorph Scarab,,7.903225806451613,50,2
-scarab,Gilded Abyss Scarab,,3.0,1,26
-scarab,Gilded Abyss Scarab,,5.0,9,23
-scarab,Gilded Abyss Scarab,,7.0,18,14
+scarab,Gilded Metamorph Scarab,,3.0,1,25
+scarab,Gilded Metamorph Scarab,,5.0,9,15
+scarab,Gilded Metamorph Scarab,,7.0,18,10
+scarab,Gilded Metamorph Scarab,,7.0,30,6
+scarab,Gilded Metamorph Scarab,,7.989130434782608,50,2
+scarab,Gilded Abyss Scarab,,5.0,1,22
+scarab,Gilded Abyss Scarab,,6.0,9,20
+scarab,Gilded Abyss Scarab,,6.0,18,13
 scarab,Gilded Abyss Scarab,,7.0,30,11
-scarab,Gilded Abyss Scarab,,7.903225806451613,50,8
-scarab,Gilded Abyss Scarab,,11.666666666666666,100,1
-scarab,Polished Abyss Scarab,,1.0,1,17
-scarab,Polished Abyss Scarab,,3.0,9,13
-scarab,Polished Abyss Scarab,,4.0,18,10
-scarab,Polished Abyss Scarab,,4.0,30,5
-scarab,Polished Abyss Scarab,,4.0,50,3
+scarab,Gilded Abyss Scarab,,7.8,50,7
+scarab,Polished Abyss Scarab,,1.0,1,18
+scarab,Polished Abyss Scarab,,3.0,9,12
+scarab,Polished Abyss Scarab,,3.5,18,9
+scarab,Polished Abyss Scarab,,3.5,30,5
+scarab,Polished Abyss Scarab,,4.0,50,4
 scarab,Polished Abyss Scarab,,4.9,100,2
-scarab,Winged Metamorph Scarab,,30.0,1,17
+scarab,Winged Metamorph Scarab,,20.0,1,19
 scarab,Winged Metamorph Scarab,,122.5,9,1
 scarab,Winged Metamorph Scarab,,122.5,18,1
-scarab,Rusted Blight Scarab,,1.0,1,20
+scarab,Rusted Blight Scarab,,1.0,1,21
 scarab,Rusted Blight Scarab,,1.0,9,18
-scarab,Rusted Blight Scarab,,1.5,18,16
-scarab,Rusted Blight Scarab,,1.5,30,15
-scarab,Rusted Blight Scarab,,1.5,50,14
-scarab,Rusted Blight Scarab,,1.5,100,11
+scarab,Rusted Blight Scarab,,1.1,18,15
+scarab,Rusted Blight Scarab,,1.5,30,13
+scarab,Rusted Blight Scarab,,1.5,50,11
+scarab,Rusted Blight Scarab,,1.5,100,8
+scarab,Rusted Blight Scarab,,1.5,500,1
 scarab,Polished Blight Scarab,,2.0,1,24
 scarab,Polished Blight Scarab,,2.0,9,20
 scarab,Polished Blight Scarab,,4.9,18,13
@@ -1426,107 +1437,111 @@ scarab,Polished Blight Scarab,,4.9,30,11
 scarab,Polished Blight Scarab,,4.9,50,8
 scarab,Polished Blight Scarab,,4.9,100,5
 scarab,Polished Blight Scarab,,4.9,500,1
-scarab,Winged Abyss Scarab,,40.0,1,16
-scarab,Winged Abyss Scarab,,122.5,9,1
-scarab,Gilded Blight Scarab,,2.0,1,30
-scarab,Gilded Blight Scarab,,6.0,9,19
-scarab,Gilded Blight Scarab,,7.205882352941177,18,10
+scarab,Winged Abyss Scarab,,0.5,1,23
+scarab,Winged Abyss Scarab,,119.35897435897435,9,3
+scarab,Winged Abyss Scarab,,119.35897435897435,18,1
+scarab,Winged Abyss Scarab,,119.35897435897435,30,1
+scarab,Gilded Blight Scarab,,3.0,1,27
+scarab,Gilded Blight Scarab,,7.0,9,19
+scarab,Gilded Blight Scarab,,7.205882352941177,18,8
 scarab,Gilded Blight Scarab,,7.205882352941177,30,8
-scarab,Gilded Blight Scarab,,7.205882352941177,50,3
-scarab,Winged Blight Scarab,,37.0,1,17
-scarab,Winged Blight Scarab,,122.5,9,1
-scarab,Rusted Abyss Scarab,,1.0,1,16
-scarab,Rusted Abyss Scarab,,1.0,9,14
-scarab,Rusted Abyss Scarab,,1.0,18,13
-scarab,Rusted Abyss Scarab,,1.0,30,13
-scarab,Rusted Abyss Scarab,,1.0,50,12
+scarab,Gilded Blight Scarab,,7.205882352941177,50,4
+scarab,Winged Blight Scarab,,37.0,1,19
+scarab,Winged Blight Scarab,,122.5,9,2
+scarab,Rusted Abyss Scarab,,1.0,1,14
+scarab,Rusted Abyss Scarab,,1.0,9,11
+scarab,Rusted Abyss Scarab,,1.0,18,11
+scarab,Rusted Abyss Scarab,,1.0,30,11
+scarab,Rusted Abyss Scarab,,1.0,50,11
 scarab,Rusted Abyss Scarab,,1.0,100,7
-scarab,Rusted Abyss Scarab,,2.45,500,1
-scarab,Winged Expedition Scarab,,35.0,1,16
+scarab,Rusted Abyss Scarab,,2.0,500,3
+scarab,Winged Expedition Scarab,,35.0,1,24
 scarab,Winged Expedition Scarab,,122.5,9,1
-scarab,Gilded Expedition Scarab,,3.0,1,26
+scarab,Gilded Expedition Scarab,,3.0,1,28
 scarab,Gilded Expedition Scarab,,5.0,9,22
-scarab,Gilded Expedition Scarab,,5.0,18,18
-scarab,Gilded Expedition Scarab,,7.65625,30,10
-scarab,Gilded Expedition Scarab,,8.979057591623036,50,7
+scarab,Gilded Expedition Scarab,,5.0,18,15
+scarab,Gilded Expedition Scarab,,8.166666666666666,30,8
+scarab,Gilded Expedition Scarab,,8.979057591623036,50,6
 scarab,Gilded Expedition Scarab,,8.979057591623036,100,3
-scarab,Polished Expedition Scarab,,2.0,1,20
-scarab,Polished Expedition Scarab,,2.5,9,15
-scarab,Polished Expedition Scarab,,3.0,18,13
-scarab,Polished Expedition Scarab,,4.0,30,10
-scarab,Polished Expedition Scarab,,4.0,50,6
+scarab,Polished Expedition Scarab,,2.0,1,19
+scarab,Polished Expedition Scarab,,2.5,9,14
+scarab,Polished Expedition Scarab,,3.0,18,11
+scarab,Polished Expedition Scarab,,4.0,30,8
+scarab,Polished Expedition Scarab,,5.0,50,5
 scarab,Polished Expedition Scarab,,5.485074626865671,100,2
 scarab,Polished Expedition Scarab,,6.125,500,1
-scarab,Gilded Harbinger Scarab,,6.0,1,25
-scarab,Gilded Harbinger Scarab,,7.903225806451613,9,16
-scarab,Gilded Harbinger Scarab,,7.903225806451613,18,12
-scarab,Gilded Harbinger Scarab,,7.903225806451613,30,10
-scarab,Gilded Harbinger Scarab,,11.666666666666666,50,6
-scarab,Gilded Harbinger Scarab,,11.666666666666666,100,3
-scarab,Winged Harbinger Scarab,,40.0,1,20
-scarab,Winged Harbinger Scarab,,102.08333333333334,9,3
-scarab,Winged Harbinger Scarab,,102.08333333333334,18,1
-scarab,Rusted Expedition Scarab,,1.0,1,20
-scarab,Rusted Expedition Scarab,,1.2,9,16
-scarab,Rusted Expedition Scarab,,1.2,18,16
-scarab,Rusted Expedition Scarab,,1.2,30,16
-scarab,Rusted Expedition Scarab,,1.2,50,13
-scarab,Rusted Expedition Scarab,,1.2,100,8
-scarab,Rusted Expedition Scarab,,2.227272727272727,500,2
-scarab,Winged Divination Scarab,,59.0,1,20
-scarab,Winged Divination Scarab,,116.66666666666666,9,5
-scarab,Winged Divination Scarab,,116.66666666666666,18,4
+scarab,Gilded Harbinger Scarab,,6.0,1,23
+scarab,Gilded Harbinger Scarab,,10.9,9,14
+scarab,Gilded Harbinger Scarab,,10.9,18,11
+scarab,Gilded Harbinger Scarab,,10.9,30,9
+scarab,Gilded Harbinger Scarab,,12.25,50,7
+scarab,Gilded Harbinger Scarab,,15.3125,100,3
+scarab,Winged Harbinger Scarab,,40.0,1,24
+scarab,Winged Harbinger Scarab,,102.08333333333334,9,2
+scarab,Winged Harbinger Scarab,,102.08333333333334,18,2
+scarab,Winged Harbinger Scarab,,122.5,30,1
+scarab,Rusted Expedition Scarab,,1.0,1,15
+scarab,Rusted Expedition Scarab,,2.0,9,12
+scarab,Rusted Expedition Scarab,,2.0,18,12
+scarab,Rusted Expedition Scarab,,2.0,30,12
+scarab,Rusted Expedition Scarab,,2.0,50,8
+scarab,Rusted Expedition Scarab,,2.227272727272727,100,5
+scarab,Rusted Expedition Scarab,,2.227272727272727,500,1
+scarab,Winged Divination Scarab,,40.0,1,27
+scarab,Winged Divination Scarab,,116.66666666666666,9,7
+scarab,Winged Divination Scarab,,116.66666666666666,18,5
 scarab,Winged Divination Scarab,,122.5,30,2
 scarab,Winged Divination Scarab,,122.5,50,1
 scarab,Winged Divination Scarab,,122.5,100,1
-scarab,Gilded Divination Scarab,,18.846153846153847,1,34
-scarab,Gilded Divination Scarab,,18.846153846153847,9,28
-scarab,Gilded Divination Scarab,,18.846153846153847,18,19
-scarab,Gilded Divination Scarab,,19.6,30,15
-scarab,Gilded Divination Scarab,,19.6,50,7
+scarab,Gilded Divination Scarab,,15.0,1,32
+scarab,Gilded Divination Scarab,,16.333333333333332,9,24
+scarab,Gilded Divination Scarab,,16.333333333333332,18,19
+scarab,Gilded Divination Scarab,,19.6,30,14
+scarab,Gilded Divination Scarab,,19.6,50,9
 scarab,Gilded Divination Scarab,,19.6,100,4
-scarab,Gilded Divination Scarab,,19.6,500,1
-scarab,Rusted Shaper Scarab,,1.0,1,20
-scarab,Rusted Shaper Scarab,,1.0,9,19
-scarab,Rusted Shaper Scarab,,1.0,18,18
+scarab,Gilded Divination Scarab,,19.6,500,2
+scarab,Rusted Shaper Scarab,,1.0,1,18
+scarab,Rusted Shaper Scarab,,1.0,9,18
+scarab,Rusted Shaper Scarab,,1.0,18,17
 scarab,Rusted Shaper Scarab,,1.0,30,17
 scarab,Rusted Shaper Scarab,,1.0,50,15
-scarab,Rusted Shaper Scarab,,2.0,100,10
-scarab,Rusted Shaper Scarab,,2.4257425742574257,500,2
+scarab,Rusted Shaper Scarab,,2.0,100,9
+scarab,Rusted Shaper Scarab,,2.45,500,1
 scarab,Polished Shaper Scarab,,1.0,1,18
 scarab,Polished Shaper Scarab,,2.0,9,14
 scarab,Polished Shaper Scarab,,2.0,18,12
 scarab,Polished Shaper Scarab,,2.0,30,10
 scarab,Polished Shaper Scarab,,2.0,50,6
 scarab,Polished Shaper Scarab,,6.125,100,1
-scarab,Gilded Shaper Scarab,,2.0,1,24
-scarab,Gilded Shaper Scarab,,5.0,9,18
-scarab,Gilded Shaper Scarab,,6.0,18,12
-scarab,Gilded Shaper Scarab,,8.166666666666666,30,7
-scarab,Gilded Shaper Scarab,,122.5,50,1
-scarab,Polished Reliquary Scarab,,1.0,1,17
-scarab,Polished Reliquary Scarab,,2.0,9,11
-scarab,Polished Reliquary Scarab,,5.0,18,8
-scarab,Polished Reliquary Scarab,,5.0,30,8
-scarab,Polished Reliquary Scarab,,5.444444444444445,50,4
+scarab,Gilded Shaper Scarab,,2.0,1,26
+scarab,Gilded Shaper Scarab,,4.0,9,22
+scarab,Gilded Shaper Scarab,,7.0,18,14
+scarab,Gilded Shaper Scarab,,7.0,30,12
+scarab,Gilded Shaper Scarab,,7.0,50,3
+scarab,Gilded Shaper Scarab,,7.8,100,1
+scarab,Polished Reliquary Scarab,,1.0,1,20
+scarab,Polished Reliquary Scarab,,2.0,9,14
+scarab,Polished Reliquary Scarab,,3.5,18,7
+scarab,Polished Reliquary Scarab,,3.5,30,7
+scarab,Polished Reliquary Scarab,,5.444444444444445,50,3
 scarab,Polished Reliquary Scarab,,5.444444444444445,100,2
-scarab,Rusted Reliquary Scarab,,1.0,1,20
-scarab,Rusted Reliquary Scarab,,1.0,9,16
-scarab,Rusted Reliquary Scarab,,1.0,18,13
-scarab,Rusted Reliquary Scarab,,1.0,30,11
-scarab,Rusted Reliquary Scarab,,1.0,50,10
-scarab,Rusted Reliquary Scarab,,2.45,100,5
+scarab,Rusted Reliquary Scarab,,1.0,1,16
+scarab,Rusted Reliquary Scarab,,1.0,9,14
+scarab,Rusted Reliquary Scarab,,1.0,18,11
+scarab,Rusted Reliquary Scarab,,1.0,30,10
+scarab,Rusted Reliquary Scarab,,1.0,50,9
+scarab,Rusted Reliquary Scarab,,2.45,100,4
 scarab,Rusted Reliquary Scarab,,2.45,500,1
-scarab,Winged Cartography Scarab,,40.0,1,19
-scarab,Winged Cartography Scarab,,111.36363636363636,9,2
+scarab,Winged Cartography Scarab,,35.0,1,23
+scarab,Winged Cartography Scarab,,111.36363636363636,9,3
 scarab,Winged Cartography Scarab,,111.36363636363636,18,2
 scarab,Winged Cartography Scarab,,111.36363636363636,30,1
 scarab,Winged Cartography Scarab,,111.36363636363636,50,1
 scarab,Winged Cartography Scarab,,111.36363636363636,100,1
 scarab,Polished Divination Scarab,,3.0,1,27
 scarab,Polished Divination Scarab,,9.9,9,18
-scarab,Polished Divination Scarab,,9.9,18,14
-scarab,Polished Divination Scarab,,9.9,30,11
+scarab,Polished Divination Scarab,,9.9,18,15
+scarab,Polished Divination Scarab,,9.9,30,10
 scarab,Polished Divination Scarab,,9.9,50,7
 scarab,Polished Divination Scarab,,10.652173913043478,100,4
 scarab,Gilded Reliquary Scarab,,9.0,1,29
@@ -1536,20 +1551,18 @@ scarab,Gilded Reliquary Scarab,,12.25,30,9
 scarab,Gilded Reliquary Scarab,,12.25,50,8
 scarab,Gilded Reliquary Scarab,,12.25,100,3
 scarab,Winged Shaper Scarab,,25.0,1,23
-scarab,Winged Shaper Scarab,,98.0,9,2
-scarab,Winged Shaper Scarab,,122.5,18,1
-scarab,Rusted Torment Scarab,,1.0,1,19
-scarab,Rusted Torment Scarab,,1.0,9,16
-scarab,Rusted Torment Scarab,,1.0,18,14
-scarab,Rusted Torment Scarab,,1.0,30,13
-scarab,Rusted Torment Scarab,,1.0,50,11
-scarab,Rusted Torment Scarab,,2.4257425742574257,100,8
-scarab,Rusted Torment Scarab,,2.4257425742574257,500,1
-scarab,Polished Torment Scarab,,1.0,1,19
-scarab,Polished Torment Scarab,,2.0,9,13
-scarab,Polished Torment Scarab,,2.0,18,9
-scarab,Polished Torment Scarab,,2.0,30,8
-scarab,Polished Torment Scarab,,5.833333333333333,50,3
+scarab,Winged Shaper Scarab,,98.0,9,3
+scarab,Rusted Torment Scarab,,1.0,1,17
+scarab,Rusted Torment Scarab,,1.0,9,15
+scarab,Rusted Torment Scarab,,1.0,18,13
+scarab,Rusted Torment Scarab,,1.0,30,11
+scarab,Rusted Torment Scarab,,1.0,50,9
+scarab,Rusted Torment Scarab,,2.45,100,6
+scarab,Polished Torment Scarab,,1.0,1,17
+scarab,Polished Torment Scarab,,2.0,9,11
+scarab,Polished Torment Scarab,,2.0,18,7
+scarab,Polished Torment Scarab,,2.0,30,7
+scarab,Polished Torment Scarab,,3.5,50,4
 scarab,Polished Torment Scarab,,5.833333333333333,100,2
 scarab,Polished Torment Scarab,,5.833333333333333,500,1
 scarab,Winged Reliquary Scarab,,30.0,1,23
@@ -1558,12 +1571,13 @@ scarab,Winged Reliquary Scarab,,103.65384615384615,18,4
 scarab,Winged Reliquary Scarab,,111.36363636363636,30,3
 scarab,Winged Reliquary Scarab,,111.36363636363636,50,2
 scarab,Winged Reliquary Scarab,,111.36363636363636,100,1
-scarab,Rusted Bestiary Scarab,,1.0,1,19
-scarab,Rusted Bestiary Scarab,,1.0,9,17
-scarab,Rusted Bestiary Scarab,,1.0,18,13
-scarab,Rusted Bestiary Scarab,,2.0,30,11
-scarab,Rusted Bestiary Scarab,,2.0,50,10
-scarab,Rusted Bestiary Scarab,,2.0,100,9
+scarab,Rusted Bestiary Scarab,,1.0,1,21
+scarab,Rusted Bestiary Scarab,,1.0,9,19
+scarab,Rusted Bestiary Scarab,,1.0,18,16
+scarab,Rusted Bestiary Scarab,,1.5,30,13
+scarab,Rusted Bestiary Scarab,,1.5,50,12
+scarab,Rusted Bestiary Scarab,,2.0,100,8
+scarab,Rusted Bestiary Scarab,,2.5,500,1
 scarab,Rusted Elder Scarab,,1.0,1,20
 scarab,Rusted Elder Scarab,,1.0,9,18
 scarab,Rusted Elder Scarab,,2.0,18,16
@@ -1571,225 +1585,231 @@ scarab,Rusted Elder Scarab,,2.0,30,16
 scarab,Rusted Elder Scarab,,2.0,50,13
 scarab,Rusted Elder Scarab,,2.0,100,10
 scarab,Rusted Elder Scarab,,2.4257425742574257,500,2
-scarab,Polished Elder Scarab,,1.0,1,20
-scarab,Polished Elder Scarab,,2.0,9,15
-scarab,Polished Elder Scarab,,2.0,18,12
-scarab,Polished Elder Scarab,,2.0,30,9
-scarab,Polished Elder Scarab,,2.0,50,6
-scarab,Polished Elder Scarab,,4.8804780876494025,100,3
-scarab,Gilded Torment Scarab,,2.0,1,27
-scarab,Gilded Torment Scarab,,6.0,9,20
-scarab,Gilded Torment Scarab,,8.448275862068966,18,10
-scarab,Gilded Torment Scarab,,8.448275862068966,30,7
-scarab,Gilded Torment Scarab,,9.074074074074074,50,3
-resonator,Primitive Chaotic Resonator,,0.7142857142857143,1,32
-resonator,Primitive Chaotic Resonator,,2.0,9,28
-resonator,Primitive Chaotic Resonator,,2.0,18,27
-resonator,Primitive Chaotic Resonator,,2.0,30,26
-resonator,Primitive Chaotic Resonator,,2.0,50,26
-resonator,Primitive Chaotic Resonator,,2.0,100,15
-resonator,Primitive Chaotic Resonator,,2.45,500,4
-resonator,Potent Chaotic Resonator,,1.0,1,35
-resonator,Potent Chaotic Resonator,,3.0,9,25
+scarab,Polished Elder Scarab,,1.0,1,17
+scarab,Polished Elder Scarab,,2.0,9,10
+scarab,Polished Elder Scarab,,2.0,18,8
+scarab,Polished Elder Scarab,,2.0,30,6
+scarab,Polished Elder Scarab,,2.0,50,5
+scarab,Polished Elder Scarab,,6.125,100,2
+scarab,Gilded Torment Scarab,,2.0,1,22
+scarab,Gilded Torment Scarab,,4.0,9,18
+scarab,Gilded Torment Scarab,,4.0,18,9
+scarab,Gilded Torment Scarab,,4.0,30,7
+scarab,Gilded Torment Scarab,,6.5,50,3
+resonator,Primitive Chaotic Resonator,,0.7142857142857143,1,30
+resonator,Primitive Chaotic Resonator,,2.0,9,26
+resonator,Primitive Chaotic Resonator,,2.0,18,26
+resonator,Primitive Chaotic Resonator,,2.0,30,25
+resonator,Primitive Chaotic Resonator,,2.0,50,25
+resonator,Primitive Chaotic Resonator,,2.0,100,17
+resonator,Primitive Chaotic Resonator,,2.45,500,5
+resonator,Potent Chaotic Resonator,,2.0,1,31
+resonator,Potent Chaotic Resonator,,3.0,9,24
 resonator,Potent Chaotic Resonator,,3.0,18,22
 resonator,Potent Chaotic Resonator,,3.0,30,15
-resonator,Potent Chaotic Resonator,,3.0,50,13
-resonator,Potent Chaotic Resonator,,3.0,100,6
-resonator,Powerful Chaotic Resonator,,1.0,1,32
-resonator,Powerful Chaotic Resonator,,6.0,9,22
-resonator,Powerful Chaotic Resonator,,6.0,18,15
-resonator,Powerful Chaotic Resonator,,6.0,30,9
-resonator,Powerful Chaotic Resonator,,6.0,50,7
-resonator,Powerful Chaotic Resonator,,6.0,100,4
+resonator,Potent Chaotic Resonator,,3.0,50,12
+resonator,Potent Chaotic Resonator,,3.0,100,7
+resonator,Powerful Chaotic Resonator,,1.0,1,30
+resonator,Powerful Chaotic Resonator,,5.0,9,22
+resonator,Powerful Chaotic Resonator,,6.0,18,16
+resonator,Powerful Chaotic Resonator,,6.0,30,12
+resonator,Powerful Chaotic Resonator,,6.0,50,9
+resonator,Powerful Chaotic Resonator,,6.0,100,6
 resonator,Prime Chaotic Resonator,,35.0,1,35
 resonator,Prime Chaotic Resonator,,50.0,9,8
 resonator,Prime Chaotic Resonator,,122.5,18,3
 resonator,Prime Chaotic Resonator,,5145.0,30,1
-fossil,Scorched Fossil,,0.5,1,22
+fossil,Scorched Fossil,,0.5,1,24
 fossil,Scorched Fossil,,0.5,9,20
-fossil,Scorched Fossil,,0.5,18,20
-fossil,Scorched Fossil,,0.5,30,19
-fossil,Scorched Fossil,,1.0,50,11
-fossil,Scorched Fossil,,1.0,100,8
+fossil,Scorched Fossil,,0.5,18,19
+fossil,Scorched Fossil,,0.5,30,18
+fossil,Scorched Fossil,,1.0,50,13
+fossil,Scorched Fossil,,1.0,100,11
 fossil,Frigid Fossil,,0.5,1,25
 fossil,Frigid Fossil,,0.5,9,22
 fossil,Frigid Fossil,,0.5,18,20
 fossil,Frigid Fossil,,0.5,30,18
 fossil,Frigid Fossil,,1.0,50,10
 fossil,Frigid Fossil,,1.0,100,8
-fossil,Perfect Fossil,,12.0,1,19
-fossil,Perfect Fossil,,16.333333333333332,9,9
-fossil,Perfect Fossil,,22.272727272727273,18,4
-fossil,Perfect Fossil,,24.5,30,2
-fossil,Perfect Fossil,,24.5,50,2
+fossil,Perfect Fossil,,12.0,1,21
+fossil,Perfect Fossil,,15.0,9,11
+fossil,Perfect Fossil,,15.3125,18,5
+fossil,Perfect Fossil,,15.3125,30,5
+fossil,Perfect Fossil,,15.3125,50,4
 fossil,Perfect Fossil,,24.5,100,1
-fossil,Bound Fossil,,1.0,1,25
-fossil,Bound Fossil,,4.8,9,13
-fossil,Bound Fossil,,4.8,18,10
-fossil,Bound Fossil,,6.451612903225806,30,6
-fossil,Bound Fossil,,7.205882352941177,50,3
-fossil,Bound Fossil,,7.205882352941177,100,1
-fossil,Deft Fossil,,1.0,1,24
-fossil,Deft Fossil,,6.0,9,13
-fossil,Deft Fossil,,15.3125,18,9
-fossil,Deft Fossil,,15.3125,30,5
-fossil,Deft Fossil,,15.3125,50,3
-fossil,Deft Fossil,,15.3125,100,1
+fossil,Bound Fossil,,2.0,1,23
+fossil,Bound Fossil,,4.8,9,12
+fossil,Bound Fossil,,4.8,18,8
+fossil,Bound Fossil,,6.451612903225806,30,4
+fossil,Bound Fossil,,11.136363636363637,50,2
+fossil,Deft Fossil,,1.0,1,21
+fossil,Deft Fossil,,5.0,9,13
+fossil,Deft Fossil,,14.411764705882353,18,7
+fossil,Deft Fossil,,14.411764705882353,30,6
+fossil,Deft Fossil,,20.416666666666664,50,3
+fossil,Deft Fossil,,24.5,100,2
 fossil,Jagged Fossil,,1.0,1,18
-fossil,Jagged Fossil,,1.0,9,16
-fossil,Jagged Fossil,,1.0,18,15
-fossil,Jagged Fossil,,1.0,30,15
+fossil,Jagged Fossil,,1.0,9,14
+fossil,Jagged Fossil,,1.0,18,13
+fossil,Jagged Fossil,,1.0,30,13
 fossil,Jagged Fossil,,1.0,50,10
-fossil,Jagged Fossil,,3.0625,100,4
-fossil,Fundamental Fossil,,1.0,1,25
-fossil,Fundamental Fossil,,1.9,9,18
-fossil,Fundamental Fossil,,7.101449275362319,18,15
-fossil,Fundamental Fossil,,7.101449275362319,30,11
-fossil,Fundamental Fossil,,7.101449275362319,50,11
-fossil,Fundamental Fossil,,7.903225806451613,100,4
-fossil,Metallic Fossil,,1.0,1,24
-fossil,Metallic Fossil,,1.0,9,22
-fossil,Metallic Fossil,,1.0,18,21
-fossil,Metallic Fossil,,1.0,30,17
-fossil,Metallic Fossil,,1.0,50,15
-fossil,Metallic Fossil,,1.0,100,12
-fossil,Aberrant Fossil,,1.0,1,24
+fossil,Jagged Fossil,,2.0,100,5
+fossil,Fundamental Fossil,,1.0,1,27
+fossil,Fundamental Fossil,,1.9,9,22
+fossil,Fundamental Fossil,,7.101449275362319,18,18
+fossil,Fundamental Fossil,,7.101449275362319,30,15
+fossil,Fundamental Fossil,,7.101449275362319,50,15
+fossil,Fundamental Fossil,,8.166666666666666,100,7
+fossil,Fundamental Fossil,,10.0,500,1
+fossil,Metallic Fossil,,1.0,1,25
+fossil,Metallic Fossil,,1.0,9,21
+fossil,Metallic Fossil,,1.0,18,19
+fossil,Metallic Fossil,,1.0,30,16
+fossil,Metallic Fossil,,1.0,50,14
+fossil,Metallic Fossil,,1.0,100,11
+fossil,Aberrant Fossil,,1.0,1,26
 fossil,Aberrant Fossil,,1.0,9,22
-fossil,Aberrant Fossil,,1.0,18,21
-fossil,Aberrant Fossil,,1.3,30,18
-fossil,Aberrant Fossil,,2.0,50,11
-fossil,Aberrant Fossil,,2.0416666666666665,100,7
-fossil,Faceted Fossil,,90.0,1,12
-fossil,Faceted Fossil,,122.5,9,2
+fossil,Aberrant Fossil,,1.0,18,19
+fossil,Aberrant Fossil,,1.3,30,17
+fossil,Aberrant Fossil,,2.0,50,12
+fossil,Aberrant Fossil,,2.0416666666666665,100,8
+fossil,Faceted Fossil,,80.0,1,14
+fossil,Faceted Fossil,,175.0,9,1
 fossil,Faceted Fossil,,175.0,18,1
-fossil,Pristine Fossil,,0.9090909090909091,1,25
+fossil,Pristine Fossil,,0.9090909090909091,1,27
 fossil,Pristine Fossil,,0.9090909090909091,9,24
-fossil,Pristine Fossil,,1.0,18,23
+fossil,Pristine Fossil,,1.0,18,22
 fossil,Pristine Fossil,,1.0,30,21
-fossil,Pristine Fossil,,1.1111111111111112,50,16
-fossil,Pristine Fossil,,2.0,100,8
+fossil,Pristine Fossil,,1.1111111111111112,50,14
+fossil,Pristine Fossil,,2.5,100,7
 fossil,Bloodstained Fossil,,3.0,1,10
 fossil,Bloodstained Fossil,,7.9,9,3
-fossil,Corroded Fossil,,1.0,1,33
-fossil,Corroded Fossil,,3.9516129032258065,9,25
-fossil,Corroded Fossil,,3.9516129032258065,18,20
+fossil,Corroded Fossil,,3.9516129032258065,1,30
+fossil,Corroded Fossil,,3.9516129032258065,9,24
+fossil,Corroded Fossil,,3.9516129032258065,18,18
 fossil,Corroded Fossil,,3.9516129032258065,30,16
 fossil,Corroded Fossil,,3.9516129032258065,50,13
-fossil,Corroded Fossil,,5.975609756097561,100,3
-fossil,Fractured Fossil,,15.0,1,23
-fossil,Fractured Fossil,,20.0,9,9
-fossil,Fractured Fossil,,24.5,18,3
-fossil,Fractured Fossil,,24.5,30,2
+fossil,Corroded Fossil,,5.975609756097561,100,4
+fossil,Fractured Fossil,,15.0,1,21
+fossil,Fractured Fossil,,20.0,9,10
+fossil,Fractured Fossil,,24.5,18,7
+fossil,Fractured Fossil,,24.5,30,4
 fossil,Fractured Fossil,,70.0,50,1
 fossil,Fractured Fossil,,70.0,100,1
 fossil,Hollow Fossil,,45.0,1,18
 fossil,Hollow Fossil,,55.0,9,4
 fossil,Hollow Fossil,,80.0,18,1
-fossil,Dense Fossil,,1.0,1,18
-fossil,Dense Fossil,,1.0,9,15
-fossil,Dense Fossil,,1.0,18,13
-fossil,Dense Fossil,,1.0,30,12
+fossil,Dense Fossil,,1.0,1,20
+fossil,Dense Fossil,,2.0,9,15
+fossil,Dense Fossil,,2.0,18,11
+fossil,Dense Fossil,,2.0,30,9
 fossil,Dense Fossil,,2.0,50,7
-fossil,Dense Fossil,,3.0,100,3
-fossil,Prismatic Fossil,,1.0,1,24
-fossil,Prismatic Fossil,,2.0,9,20
-fossil,Prismatic Fossil,,3.5,18,14
-fossil,Prismatic Fossil,,3.5,30,11
+fossil,Dense Fossil,,4.083333333333333,100,2
+fossil,Dense Fossil,,6.0,500,1
+fossil,Prismatic Fossil,,1.0,1,23
+fossil,Prismatic Fossil,,3.9,9,17
+fossil,Prismatic Fossil,,3.9,18,12
+fossil,Prismatic Fossil,,3.9,30,9
 fossil,Prismatic Fossil,,3.9516129032258065,50,7
-fossil,Prismatic Fossil,,5.975609756097561,100,3
-fossil,Glyphic Fossil,,80.0,1,15
-fossil,Glyphic Fossil,,163.33333333333331,9,4
-fossil,Glyphic Fossil,,163.33333333333331,18,2
+fossil,Prismatic Fossil,,7.0,100,4
+fossil,Glyphic Fossil,,80.0,1,13
+fossil,Glyphic Fossil,,175.0,9,1
+fossil,Glyphic Fossil,,175.0,18,1
 fossil,Glyphic Fossil,,175.0,30,1
 fossil,Glyphic Fossil,,175.0,50,1
-fossil,Tangled Fossil,,2.0,1,10
-fossil,Tangled Fossil,,2.0,9,7
-fossil,Tangled Fossil,,7.0,18,4
-fossil,Tangled Fossil,,7.0,30,3
-fossil,Gilded Fossil,,1.0,1,12
-fossil,Gilded Fossil,,1.0,9,7
-fossil,Gilded Fossil,,5.0,18,5
-fossil,Gilded Fossil,,5.0,30,4
-fossil,Gilded Fossil,,7.903225806451613,50,2
+fossil,Tangled Fossil,,2.0,1,12
+fossil,Tangled Fossil,,2.0,9,8
+fossil,Tangled Fossil,,11.666666666666666,18,3
+fossil,Tangled Fossil,,12.25,30,1
+fossil,Gilded Fossil,,1.0,1,14
+fossil,Gilded Fossil,,1.0,9,9
+fossil,Gilded Fossil,,4.0,18,6
+fossil,Gilded Fossil,,7.903225806451613,30,4
+fossil,Gilded Fossil,,7.903225806451613,50,3
 fossil,Gilded Fossil,,10.0,100,1
-fossil,Sanctified Fossil,,5.0,1,23
-fossil,Sanctified Fossil,,6.0,9,14
-fossil,Sanctified Fossil,,15.3125,18,6
-fossil,Serrated Fossil,,1.0,1,19
-fossil,Serrated Fossil,,3.0,9,11
-fossil,Serrated Fossil,,5.9,18,8
-fossil,Serrated Fossil,,6.621621621621622,30,6
-fossil,Serrated Fossil,,6.621621621621622,50,3
+fossil,Sanctified Fossil,,5.0,1,22
+fossil,Sanctified Fossil,,6.0,9,13
+fossil,Sanctified Fossil,,18.846153846153847,18,7
+fossil,Serrated Fossil,,1.0,1,16
+fossil,Serrated Fossil,,3.0,9,8
+fossil,Serrated Fossil,,5.9,18,5
+fossil,Serrated Fossil,,9.607843137254902,30,3
+fossil,Serrated Fossil,,9.607843137254902,50,2
 fossil,Lucent Fossil,,0.5,1,22
 fossil,Lucent Fossil,,0.9666666666666667,9,15
 fossil,Lucent Fossil,,0.9666666666666667,18,14
 fossil,Lucent Fossil,,0.9666666666666667,30,14
 fossil,Lucent Fossil,,1.5,50,8
 fossil,Lucent Fossil,,2.8,100,4
-fossil,Shuddering Fossil,,1.0,1,27
-fossil,Shuddering Fossil,,11.136363636363637,9,15
-fossil,Shuddering Fossil,,11.136363636363637,18,12
-fossil,Shuddering Fossil,,13.125,30,8
-fossil,Shuddering Fossil,,13.125,50,5
-fossil,Shuddering Fossil,,20.416666666666664,100,1
-fossil,Aetheric Fossil,,1.0,1,17
+fossil,Shuddering Fossil,,8.0,1,24
+fossil,Shuddering Fossil,,10.0,9,16
+fossil,Shuddering Fossil,,12.25,18,11
+fossil,Shuddering Fossil,,12.25,30,9
+fossil,Shuddering Fossil,,12.25,50,8
+fossil,Shuddering Fossil,,20.416666666666664,100,3
+fossil,Shuddering Fossil,,20.416666666666664,500,1
+fossil,Aetheric Fossil,,1.0,1,20
 fossil,Aetheric Fossil,,2.0,9,14
-fossil,Aetheric Fossil,,2.0,18,13
-fossil,Aetheric Fossil,,3.888888888888889,30,10
-fossil,Aetheric Fossil,,3.888888888888889,50,5
-fossil,Aetheric Fossil,,3.888888888888889,100,3
-fossil,Aetheric Fossil,,6.125,500,1
-essence,Screaming Essence of Hatred,,0.7142857142857143,1,15
-essence,Screaming Essence of Hatred,,0.7142857142857143,9,10
-essence,Screaming Essence of Hatred,,0.7142857142857143,18,7
-essence,Screaming Essence of Hatred,,0.7142857142857143,30,5
-essence,Screaming Essence of Hatred,,0.7142857142857143,50,2
-essence,Screaming Essence of Hatred,,0.7142857142857143,100,1
-essence,Shrieking Essence of Hatred,,2.0,1,15
-essence,Shrieking Essence of Hatred,,2.0,9,11
+fossil,Aetheric Fossil,,2.0,18,12
+fossil,Aetheric Fossil,,4.016393442622951,30,9
+fossil,Aetheric Fossil,,4.016393442622951,50,7
+fossil,Aetheric Fossil,,4.9,100,3
+fossil,Aetheric Fossil,,5.0,500,2
+essence,Screaming Essence of Hatred,,0.7142857142857143,1,16
+essence,Screaming Essence of Hatred,,0.7142857142857143,9,12
+essence,Screaming Essence of Hatred,,0.7142857142857143,18,8
+essence,Screaming Essence of Hatred,,0.7142857142857143,30,7
+essence,Screaming Essence of Hatred,,0.7142857142857143,50,4
+essence,Screaming Essence of Hatred,,0.7142857142857143,100,3
+essence,Shrieking Essence of Hatred,,1.0,1,16
+essence,Shrieking Essence of Hatred,,2.0,9,12
 essence,Shrieking Essence of Hatred,,2.0,18,8
-essence,Shrieking Essence of Hatred,,2.0,30,7
-essence,Shrieking Essence of Hatred,,2.2222222222222223,50,3
+essence,Shrieking Essence of Hatred,,2.0,30,6
+essence,Shrieking Essence of Hatred,,2.0,50,4
 essence,Shrieking Essence of Hatred,,2.2222222222222223,100,3
-essence,Deafening Essence of Hatred,,5.0,1,18
-essence,Deafening Essence of Hatred,,5.0,9,14
-essence,Deafening Essence of Hatred,,6.444444444444445,18,7
-essence,Deafening Essence of Hatred,,6.444444444444445,30,2
-essence,Deafening Essence of Hatred,,16.333333333333332,50,1
-essence,Screaming Essence of Woe,,1.0,1,15
-essence,Screaming Essence of Woe,,1.0,9,10
-essence,Screaming Essence of Woe,,1.0,18,7
-essence,Screaming Essence of Woe,,1.0,30,5
-essence,Screaming Essence of Woe,,2.7222222222222223,50,2
-essence,Screaming Essence of Woe,,2.7222222222222223,100,1
-essence,Shrieking Essence of Woe,,2.0,1,15
-essence,Shrieking Essence of Woe,,2.0,9,10
-essence,Shrieking Essence of Woe,,2.1142857142857143,18,8
-essence,Shrieking Essence of Woe,,2.1142857142857143,30,6
-essence,Shrieking Essence of Woe,,3.0,50,4
-essence,Shrieking Essence of Woe,,4.537037037037037,100,3
-essence,Deafening Essence of Woe,,4.0,1,21
-essence,Deafening Essence of Woe,,4.0,9,17
-essence,Deafening Essence of Woe,,4.0,18,15
-essence,Deafening Essence of Woe,,6.0,30,7
-essence,Deafening Essence of Woe,,9.8,50,2
+essence,Deafening Essence of Hatred,,3.0,1,22
+essence,Deafening Essence of Hatred,,4.0,9,19
+essence,Deafening Essence of Hatred,,5.0,18,13
+essence,Deafening Essence of Hatred,,6.444444444444445,30,6
+essence,Deafening Essence of Hatred,,8.166666666666666,50,3
+essence,Deafening Essence of Hatred,,8.166666666666666,100,1
+essence,Screaming Essence of Woe,,0.5555555555555556,1,16
+essence,Screaming Essence of Woe,,0.5555555555555556,9,13
+essence,Screaming Essence of Woe,,0.5555555555555556,18,11
+essence,Screaming Essence of Woe,,0.5555555555555556,30,8
+essence,Screaming Essence of Woe,,1.1111111111111112,50,4
+essence,Screaming Essence of Woe,,2.7222222222222223,100,2
+essence,Shrieking Essence of Woe,,1.0,1,18
+essence,Shrieking Essence of Woe,,2.0,9,12
+essence,Shrieking Essence of Woe,,2.0,18,11
+essence,Shrieking Essence of Woe,,2.0,30,8
+essence,Shrieking Essence of Woe,,2.0,50,4
+essence,Shrieking Essence of Woe,,4.537037037037037,100,2
+essence,Deafening Essence of Woe,,1.0,1,32
+essence,Deafening Essence of Woe,,4.0,9,26
+essence,Deafening Essence of Woe,,4.0,18,22
+essence,Deafening Essence of Woe,,6.0,30,13
+essence,Deafening Essence of Woe,,8.166666666666666,50,5
+essence,Deafening Essence of Woe,,12.0,100,2
 essence,Screaming Essence of Greed,,1.0,1,18
-essence,Screaming Essence of Greed,,1.0,9,10
-essence,Screaming Essence of Greed,,1.0,18,6
-essence,Screaming Essence of Greed,,1.0,30,5
+essence,Screaming Essence of Greed,,1.0,9,12
+essence,Screaming Essence of Greed,,1.0,18,9
+essence,Screaming Essence of Greed,,1.0,30,6
 essence,Screaming Essence of Greed,,1.2,50,3
 essence,Screaming Essence of Greed,,1.2,100,1
-essence,Shrieking Essence of Greed,,2.0,1,20
-essence,Shrieking Essence of Greed,,2.0,9,14
-essence,Shrieking Essence of Greed,,2.0,18,11
-essence,Shrieking Essence of Greed,,3.0,30,8
-essence,Shrieking Essence of Greed,,3.0,50,4
+essence,Shrieking Essence of Greed,,1.0,1,18
+essence,Shrieking Essence of Greed,,3.0,9,13
+essence,Shrieking Essence of Greed,,3.0,18,11
+essence,Shrieking Essence of Greed,,4.803921568627451,30,7
+essence,Shrieking Essence of Greed,,4.803921568627451,50,3
 essence,Shrieking Essence of Greed,,9.074074074074074,100,1
-essence,Deafening Essence of Greed,,4.0,1,21
-essence,Deafening Essence of Greed,,4.0,9,16
-essence,Deafening Essence of Greed,,4.0,18,14
-essence,Deafening Essence of Greed,,4.0,30,9
+essence,Deafening Essence of Greed,,4.0,1,23
+essence,Deafening Essence of Greed,,4.0,9,18
+essence,Deafening Essence of Greed,,4.0,18,16
+essence,Deafening Essence of Greed,,4.0,30,11
 essence,Deafening Essence of Greed,,4.0,50,5
+essence,Deafening Essence of Greed,,8.448275862068966,100,1
+essence,Deafening Essence of Greed,,8.448275862068966,500,1
 essence,Screaming Essence of Contempt,,2.0,1,14
 essence,Screaming Essence of Contempt,,2.0,9,10
 essence,Screaming Essence of Contempt,,2.0,18,4
@@ -6654,38 +6674,35 @@ compass,Rogue Exiles deal 20% increased Damage:Rogue Exiles drop 2 additional Je
 compass,The First 3 Possessed Monsters drop an additional Polished Scarab:Your Maps contain an additional Tormented Betrayer,4,2.0,1,3
 compass,Your Maps contain Einhar,4,2.0,1,1
 compass,Map Bosses deal 20% increased Damage:Your Maps have 20% Quality,4,25.0,1,1
-compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Purple Plants,4,245.0,1,4
+compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Purple Plants,4,200.0,1,7
 compass,The First 3 Possessed Monsters drop an additional Unique Item:Your Maps contain an additional Tormented Graverobber,4,2.0,1,1
-compass,Your Maps contain a Mirror of Delirium,4,15.473684210526315,1,6
+compass,Your Maps contain a Mirror of Delirium,4,20.0,1,9
 compass,Your Maps contain Alva,4,10.0,1,5
 compass,100% increased Intelligence gained from Immortal Syndicate targets encountered in your Maps,4,2.0,1,5
-compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,10.0,1,5
-compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Blue Plants,4,245.0,1,5
-compass,Your Maps can contain Breaches:Your Maps contain an additional Breach,4,2.0,1,1
+compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,10.0,1,6
+compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Blue Plants,4,200.0,1,7
+compass,Your Maps can contain Breaches:Your Maps contain an additional Breach,4,6.0,1,2
 compass,Map Bosses are accompanied by Bodyguards:An additional Map drops on Completing your Maps,4,2.0,1,1
-compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,2.0,1,1
 compass,Your Maps contain Niko,4,15.0,1,1
-compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,4,8.0,1,5
+compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,4,8.0,1,4
 compass,Your Maps contain an additional Legion Encounter,4,5.157894736842105,1,9
 compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,2.0,1,1
-compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,2.0,1,2
+compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,25.0,1,1
 compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,2.0,1,2
-compass,Your Maps contain an additional Abyss:Your Maps can contain Abysses,4,2.0,1,1
-compass,Your Maps contain a Blight Encounter,4,2.0,1,1
-compass,Slaying Enemies close together can attract monsters from Beyond this realm:25% increased Beyond Demon Pack Size in your Maps,4,29.0,1,3
-compass,Your Maps contain 100% increased number of Runic Monster Markers,4,20.0,1,5
-compass,Delirium Reward Bars fill 100% faster in your Maps,4,60.0,1,10
-compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,4,588.0,1,6
-compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,4,2.0,1,2
+compass,Your Maps contain an additional Abyss:Your Maps can contain Abysses,4,5.0,1,2
+compass,Your Maps contain a Blight Encounter,4,2.0,1,2
+compass,Slaying Enemies close together can attract monsters from Beyond this realm:25% increased Beyond Demon Pack Size in your Maps,4,30.0,1,1
+compass,Your Maps contain 100% increased number of Runic Monster Markers,4,20.0,1,3
+compass,Delirium Reward Bars fill 100% faster in your Maps,4,50.0,1,5
+compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,4,490.0,1,8
+compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,4,25.0,1,1
 compass,Area contains Metamorph Monsters,4,2.0,1,2
 compass,Your Maps contain The Sacred Grove,4,45.0,1,10
-compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,4,8.0,1,3
+compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,4,8.0,1,1
 compass,Area contains a Smuggler's Cache,16,50.0,1,1
-compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,16,20.0,1,2
-compass,Your Maps contain 3 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,16,245.0,1,2
+compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,16,50.0,1,1
 compass,Unique Monsters drop Corrupted Items,16,50.0,1,1
-compass,Maps found in your Maps are Corrupted with 8 Modifiers,16,735.0,1,2
-compass,Strongbox Monsters are Enraged:Strongbox Monsters have 600% increased Item Quantity:Your Maps contain an additional Strongbox,16,2450.0,1,1
+compass,Maps found in your Maps are Corrupted with 8 Modifiers,16,735.0,1,1
 compass,Create a copy of Beasts Captured in your Maps,16,245.0,1,1
 compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contain 8 additional packs of Monsters that Heal,16,1.0,1,2
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,245.0,1,1
@@ -6808,7 +6825,7 @@ unique,Solaris Lorica,clean,1.0,1,13
 unique,Solaris Lorica,corrupted,8.0,1,3
 unique,Greed's Embrace,clean,1.0,1,57
 unique,Greed's Embrace,clean 6-link,490.0,1,5
-unique,Greed's Embrace,corrupted,10.0,1,61
+unique,Greed's Embrace,corrupted,15.0,1,62
 unique,Greed's Embrace,corrupted 6-link,245.0,1,21
 unique,Craiceann's Carapace,clean,245.0,1,3
 unique,Craiceann's Carapace,clean 6-link,3675.0,1,1
@@ -6843,15 +6860,18 @@ unique,Briskwrap,corrupted,980.0,1,6
 unique,Briskwrap,corrupted 6-link,980.0,1,6
 unique,Bronn's Lithe,clean,1.0,1,16
 unique,Bronn's Lithe,corrupted,20.0,1,6
+unique,Bronn's Lithe,corrupted 6-link,245.0,1,1
 unique,The Rat Cage,clean,15.0,1,3
+unique,The Rat Cage,clean 6-link,4165.0,1,1
 unique,The Rat Cage,corrupted,20.0,1,2
-unique,Queen of the Forest,clean,4.0,1,24
+unique,Queen of the Forest,clean,4.0,1,35
 unique,Queen of the Forest,clean 6-link,735.0,1,5
 unique,Queen of the Forest,corrupted,1.0,1,14
 unique,Queen of the Forest,corrupted 6-link,1225.0,1,5
 unique,Kintsugi,clean,12.0,1,5
 unique,Kintsugi,corrupted,3675.0,1,2
 unique,Yriel's Fostering,clean,5.0,1,16
+unique,Yriel's Fostering,clean 6-link,490.0,1,1
 unique,Yriel's Fostering,corrupted,245.0,1,1
 unique,Hyrri's Ire,clean,100.0,1,24
 unique,Hyrri's Ire,clean 6-link,1960.0,1,5
@@ -6862,7 +6882,7 @@ unique,The Snowblind Grace,corrupted,200.0,1,1
 unique,The Perfect Form,clean,1470.0,1,1
 unique,Replica Perfect Form,corrupted,245.0,1,1
 unique,Cospri's Will,clean,24.0,1,4
-unique,Cospri's Will,corrupted,735.0,1,4
+unique,Cospri's Will,corrupted,10.0,1,8
 unique,Cospri's Will,corrupted 6-link,490.0,1,6
 unique,Thousand Ribbons,clean,2.0,1,14
 unique,Skin of the Loyal,clean 6-link,50.0,1,9
@@ -6883,16 +6903,16 @@ unique,The Covenant,clean,180.0,1,9
 unique,The Covenant,clean 6-link,1225.0,1,5
 unique,The Covenant,corrupted,80.0,1,15
 unique,The Covenant,corrupted 6-link,1225.0,1,7
-unique,Soul Mantle,clean,1.0,1,35
+unique,Soul Mantle,clean,1.0,1,29
 unique,Soul Mantle,corrupted,40.0,1,12
 unique,Soul Mantle,corrupted 6-link,490.0,1,6
 unique,The Coming Calamity,clean,1.0,1,8
 unique,The Coming Calamity,clean 6-link,245.0,1,1
 unique,The Coming Calamity,corrupted,10.0,1,8
-unique,The Coming Calamity,corrupted 6-link,4900.0,1,2
+unique,The Coming Calamity,corrupted 6-link,4900.0,1,3
 unique,Cloak of Tawm'r Isley,clean,150.0,1,1
 unique,Garb of the Ephemeral,clean,200.0,1,15
-unique,Garb of the Ephemeral,clean 6-link,980.0,1,2
+unique,Garb of the Ephemeral,clean 6-link,980.0,1,1
 unique,Vis Mortis,clean,1.0,1,15
 unique,Vis Mortis,corrupted,50.0,1,4
 unique,Fleshcrafter,clean,50.0,1,3
@@ -6900,15 +6920,14 @@ unique,Fleshcrafter,corrupted,980.0,1,4
 unique,Fleshcrafter,corrupted 6-link,7350.0,1,2
 unique,Shavronne's Wrappings,clean,5.0,1,29
 unique,Shavronne's Wrappings,clean 6-link,735.0,1,5
-unique,Shavronne's Wrappings,corrupted,150.0,1,10
-unique,Shavronne's Wrappings,corrupted 6-link,245.0,1,7
+unique,Shavronne's Wrappings,corrupted,245.0,1,15
+unique,Shavronne's Wrappings,corrupted 6-link,245.0,1,10
 unique,Infernal Mantle,clean,5.0,1,3
 unique,Infernal Mantle,corrupted,7.0,1,6
 unique,Infernal Mantle,corrupted 6-link,12250.0,1,2
 unique,Doedre's Skin,clean,10.0,1,8
 unique,Doedre's Skin,clean 6-link,245.0,1,2
-unique,Doedre's Skin,corrupted,490.0,1,1
-unique,Fenumus' Shroud,clean,50.0,1,1
+unique,Fenumus' Shroud,clean,1.0,1,2
 unique,Fenumus' Shroud,corrupted,3675.0,1,1
 unique,The Beast Fur Shawl,clean,2.0,1,9
 unique,The Beast Fur Shawl,corrupted,90.0,1,5
@@ -6916,105 +6935,119 @@ unique,The Beast Fur Shawl,corrupted 6-link,1225.0,1,1
 unique,The Queen's Hunger,clean,10.0,1,7
 unique,The Queen's Hunger,corrupted,100.0,1,1
 unique,Gruthkul's Pelt,clean,245.0,1,9
+unique,Gruthkul's Pelt,corrupted 6-link,808.5,1,1
 unique,Belly of the Beast,clean,5.0,1,18
 unique,Belly of the Beast,clean 6-link,245.0,1,2
 unique,Belly of the Beast,corrupted,25.0,1,12
-unique,Lightning Coil,clean,5.0,1,32
+unique,Belly of the Beast,corrupted 6-link,245.0,1,1
+unique,Lightning Coil,clean,4.0,1,27
 unique,Lightning Coil,clean 6-link,490.0,1,1
 unique,Lightning Coil,corrupted,3.0,1,40
-unique,Lightning Coil,corrupted 6-link,735.0,1,14
-unique,Daresso's Defiance,clean,5.0,1,6
-unique,Daresso's Defiance,clean 6-link,735.0,1,1
-unique,Daresso's Defiance,corrupted,50.0,1,5
-unique,Cherrubim's Maleficence,clean,1.0,1,21
-unique,Cherrubim's Maleficence,clean 6-link,2450.0,1,1
-unique,Cherrubim's Maleficence,corrupted,10.0,1,13
-unique,Cherrubim's Maleficence,corrupted 6-link,735.0,1,2
-unique,Farrul's Fur,clean,245.0,1,6
-unique,Farrul's Fur,clean 6-link,3675.0,1,1
-unique,Farrul's Fur,corrupted,490.0,1,2
-unique,Farrul's Fur,corrupted 6-link,490.0,1,2
-unique,Replica Farrul's Fur,clean,8575.0,1,4
-unique,Replica Farrul's Fur,clean 6-link,11025.0,1,2
-unique,Replica Farrul's Fur,corrupted,11760.0,1,1
-unique,Voll's Protector,clean,5.0,1,7
+unique,Lightning Coil,corrupted 6-link,100.0,1,25
+unique,Daresso's Defiance,clean,5.0,1,10
+unique,Daresso's Defiance,corrupted,160.0,1,4
+unique,Daresso's Defiance,corrupted 6-link,490.0,1,1
+unique,Cherrubim's Maleficence,clean,1.0,1,19
+unique,Cherrubim's Maleficence,corrupted,10.0,1,11
+unique,Cherrubim's Maleficence,corrupted 6-link,735.0,1,1
+unique,Farrul's Fur,clean,245.0,1,10
+unique,Farrul's Fur,corrupted,1225.0,1,2
+unique,Farrul's Fur,corrupted 6-link,1225.0,1,2
+unique,Replica Farrul's Fur,clean,11025.0,1,1
+unique,Replica Farrul's Fur,corrupted,61250.0,1,1
+unique,Replica Farrul's Fur,corrupted 6-link,61250.0,1,1
+unique,Voll's Protector,clean,3.0,1,6
 unique,Voll's Protector,corrupted,245.0,1,1
-unique,Icetomb,clean,1.0,1,14
-unique,Icetomb,clean 6-link,245.0,1,1
-unique,Ambu's Charge,clean,1.0,1,7
-unique,Ambu's Charge,corrupted,149.0,1,3
-unique,Replica Ambu's Charge,clean,19.0,1,3
-unique,Lightbane Raiment,clean,1.0,1,10
-unique,Lightbane Raiment,corrupted,200.0,1,4
-unique,The Fourth Vow,clean,19.0,1,11
-unique,The Fourth Vow,corrupted,55.0,1,7
-unique,The Fourth Vow,corrupted 6-link,2450.0,1,4
-unique,Kingsguard,clean,1.0,1,7
-unique,Kingsguard,corrupted,220.0,1,2
-unique,Kingsguard,corrupted 6-link,245.0,1,1
-unique,Geofri's Sanctuary,clean,1.0,1,13
-unique,Geofri's Sanctuary,corrupted,53.0,1,6
+unique,Icetomb,clean,1.0,1,13
+unique,Icetomb,corrupted,30.0,1,4
+unique,Ambu's Charge,clean,2.0,1,5
+unique,Ambu's Charge,corrupted,50.0,1,3
+unique,Replica Ambu's Charge,clean,10.0,1,3
+unique,Lightbane Raiment,clean,1.0,1,7
+unique,Lightbane Raiment,corrupted,5.0,1,5
+unique,The Fourth Vow,clean,10.0,1,12
+unique,The Fourth Vow,clean 6-link,2450.0,1,2
+unique,The Fourth Vow,corrupted,55.0,1,13
+unique,The Fourth Vow,corrupted 6-link,1470.0,1,9
+unique,Kingsguard,clean,1.0,1,4
+unique,Kingsguard,clean 6-link,514.5,1,1
+unique,Kingsguard,corrupted,20.0,1,4
+unique,Kingsguard,corrupted 6-link,9310.0,1,1
+unique,Geofri's Sanctuary,clean,1.0,1,20
+unique,Geofri's Sanctuary,clean 6-link,245.0,1,1
+unique,Geofri's Sanctuary,corrupted,40.0,1,5
 unique,Geofri's Sanctuary,corrupted 6-link,1225.0,1,1
-unique,Loreweave,clean,20.0,1,14
-unique,Loreweave,corrupted,980.0,1,6
-unique,Loreweave,corrupted 6-link,1225.0,1,5
-unique,Sporeguard,clean,1960.0,1,1
-unique,Sporeguard,corrupted,1225.0,1,3
-unique,Sporeguard,corrupted 6-link,1225.0,1,2
-unique,The Ivory Tower,clean,5.0,1,18
-unique,The Ivory Tower,clean 6-link,245.0,1,2
-unique,The Ivory Tower,corrupted,35.0,1,9
-unique,The Ivory Tower,corrupted 6-link,490.0,1,5
-unique,Doryani's Prototype,clean,5.0,1,12
-unique,Doryani's Prototype,corrupted,200.0,1,4
-unique,Doryani's Prototype,corrupted 6-link,24500.0,1,1
-unique,Incandescent Heart,clean,10.0,1,13
-unique,Incandescent Heart,corrupted,98.0,1,18
-unique,Incandescent Heart,corrupted 6-link,1225.0,1,12
-unique,Chains of Command,clean,1.0,1,13
+unique,Loreweave,clean,10.0,1,17
+unique,Loreweave,clean 6-link,1225.0,1,4
+unique,Loreweave,corrupted,100.0,1,17
+unique,Loreweave,corrupted 6-link,808.5,1,10
+unique,Replica Loreweave,clean,490.0,1,1
+unique,Sporeguard,corrupted,980.0,1,3
+unique,Sporeguard,corrupted 6-link,980.0,1,3
+unique,The Ivory Tower,clean,5.0,1,19
+unique,The Ivory Tower,clean 6-link,245.0,1,3
+unique,The Ivory Tower,corrupted,35.0,1,6
+unique,The Ivory Tower,corrupted 6-link,490.0,1,3
+unique,Doryani's Prototype,clean,5.0,1,13
+unique,Doryani's Prototype,clean 6-link,563.5,1,1
+unique,Doryani's Prototype,corrupted,245.0,1,10
+unique,Doryani's Prototype,corrupted 6-link,735.0,1,5
+unique,Incandescent Heart,clean,10.0,1,9
+unique,Incandescent Heart,corrupted,150.0,1,17
+unique,Incandescent Heart,corrupted 6-link,1225.0,1,11
+unique,Chains of Command,clean,3.0,1,14
 unique,Chains of Command,clean 6-link,490.0,1,1
-unique,Chains of Command,corrupted,122.5,1,2
+unique,Chains of Command,corrupted,20.0,1,4
 unique,Bloodbond,clean,1.0,1,15
-unique,Bloodbond,corrupted,75.0,1,3
-unique,Cloak of Defiance,clean,245.0,1,4
+unique,Bloodbond,clean 6-link,245.0,1,3
+unique,Bloodbond,corrupted,20.0,1,7
+unique,Bloodbond,corrupted 6-link,2940.0,1,2
+unique,Cloak of Defiance,clean,15.0,1,8
 unique,Cloak of Defiance,clean 6-link,735.0,1,3
-unique,Cloak of Defiance,corrupted,209.0,1,2
-unique,Cloak of Defiance,corrupted 6-link,6125.0,1,1
-unique,Victario's Influence,clean,1.0,1,26
-unique,Victario's Influence,corrupted,10.0,1,22
-unique,Victario's Influence,corrupted 6-link,2450.0,1,3
-unique,Dendrobate,clean,1.0,1,27
-unique,Dendrobate,clean 6-link,735.0,1,2
-unique,Dendrobate,corrupted,10.0,1,14
-unique,Dendrobate,corrupted 6-link,735.0,1,8
-unique,Expedition's End,clean,1225.0,1,1
-unique,Expedition's End,corrupted,2450.0,1,1
-unique,Expedition's End,corrupted 6-link,2450.0,1,1
-unique,Carcass Jack,clean,1.0,1,26
-unique,Carcass Jack,clean 6-link,1960.0,1,1
-unique,Carcass Jack,corrupted,20.0,1,11
-unique,Carcass Jack,corrupted 6-link,490.0,1,6
-unique,The Admiral,clean,5.0,1,3
-unique,Saqawal's Nest,clean,70.0,1,7
-unique,Saqawal's Nest,corrupted,9800.0,1,1
-unique,Saqawal's Nest,corrupted 6-link,9800.0,1,1
+unique,Cloak of Defiance,corrupted,40.0,1,4
+unique,Victario's Influence,clean,1.0,1,32
+unique,Victario's Influence,clean 6-link,857.5,1,1
+unique,Victario's Influence,corrupted,10.0,1,27
+unique,Victario's Influence,corrupted 6-link,3675.0,1,4
+unique,Dendrobate,clean,1.0,1,32
+unique,Dendrobate,clean 6-link,2450.0,1,3
+unique,Dendrobate,corrupted,4.0,1,15
+unique,Dendrobate,corrupted 6-link,490.0,1,6
+unique,Expedition's End,clean,1960.0,1,4
+unique,Expedition's End,clean 6-link,1960.0,1,2
+unique,Expedition's End,corrupted,1960.0,1,1
+unique,Expedition's End,corrupted 6-link,1960.0,1,1
+unique,Carcass Jack,clean,10.0,1,33
+unique,Carcass Jack,clean 6-link,980.0,1,6
+unique,Carcass Jack,corrupted,10.0,1,9
+unique,Carcass Jack,corrupted 6-link,490.0,1,5
+unique,The Admiral,clean,15.0,1,2
+unique,Saqawal's Nest,clean,245.0,1,13
+unique,Saqawal's Nest,clean 6-link,980.0,1,6
+unique,Saqawal's Nest,corrupted,245.0,1,3
+unique,Saqawal's Nest,corrupted 6-link,245.0,1,2
 unique,The Eternity Shroud,clean,245.0,1,1
-unique,Replica Eternity Shroud,clean,20.0,1,2
+unique,The Eternity Shroud,corrupted,200.0,1,4
+unique,The Eternity Shroud,corrupted 6-link,2940.0,1,2
+unique,Replica Eternity Shroud,clean,245.0,1,1
 unique,Tinkerskin,clean,1.0,1,10
-unique,Tinkerskin,corrupted,80.0,1,5
-unique,Inpulsa's Broken Heart,clean,30.0,1,12
-unique,Inpulsa's Broken Heart,clean 6-link,490.0,1,1
-unique,Inpulsa's Broken Heart,corrupted,1960.0,1,1
-unique,Doppelgänger Guise,clean,490.0,1,3
-unique,Doppelgänger Guise,clean 6-link,1960.0,1,1
+unique,Tinkerskin,corrupted,70.0,1,8
+unique,Inpulsa's Broken Heart,clean,245.0,1,9
+unique,Inpulsa's Broken Heart,corrupted,490.0,1,2
+unique,Inpulsa's Broken Heart,corrupted 6-link,490.0,1,1
+unique,Doppelgänger Guise,clean,200.0,1,6
+unique,Doppelgänger Guise,clean 6-link,735.0,1,2
+unique,Doppelgänger Guise,corrupted,4410.0,1,1
+unique,Doppelgänger Guise,corrupted 6-link,4410.0,1,1
 unique,The Restless Ward,clean,1.0,1,19
-unique,The Restless Ward,corrupted,100.0,1,6
-unique,The Restless Ward,corrupted 6-link,7350.0,1,1
-unique,Shroud of the Lightless,clean,1225.0,1,5
+unique,The Restless Ward,corrupted,5.0,1,19
+unique,The Restless Ward,corrupted 6-link,367.5,1,4
+unique,Shroud of the Lightless,clean,200.0,1,12
 unique,Shroud of the Lightless,corrupted,9800.0,1,1
-unique,Shroud of the Lightless,clean,1225.0,1,5
+unique,Shroud of the Lightless,clean,200.0,1,12
 unique,Shroud of the Lightless,corrupted,9800.0,1,1
-unique,Replica Restless Ward,clean,100.0,1,6
+unique,Replica Restless Ward,clean,40.0,1,7
+unique,Replica Restless Ward,clean 6-link,735.0,1,1
 unique,Replica Restless Ward,corrupted,735.0,1,1
 unique,Stasis Prison,clean,21560.0,1,1
 unique,Stasis Prison,clean 6-link,21560.0,1,1
