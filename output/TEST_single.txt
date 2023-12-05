@@ -844,9 +844,10 @@ map,Maze of the Minotaur Map,T16,7.0,201,18
 map,Mineral Pools Map,T16,2.0,78,13
 map,Necropolis Map,T16,3.0,113,13
 map,Museum Map,T16,3.0,99,17
-map,Moon Temple Map,T16,10.0,35,10
+map,Moon Temple Map,T16,3.0,22,9
+map,Orchard Map,T16,3.0,103,13
 map,Overgrown Shrine Map,T16,4.0,148,13
-map,Pit Map,T16,4.0,203,14
+map,Pit Map,T16,3.5,88,11
 map,Pier Map,T16,2.0,105,14
 map,Phantasmagoria Map,T16,3.0,311,17
 map,Pit of the Chimera Map,T16,7.0,229,18
@@ -854,14 +855,15 @@ map,Plateau Map,T16,2.0,167,15
 map,Primordial Blocks Map,T16,6.0,55,10
 map,Precinct Map,T16,3.0,109,13
 map,Port Map,T16,3.0,114,15
-map,Primordial Pool Map,T16,2.0,180,15
+map,Primordial Pool Map,T16,2.0,93,13
 map,Promenade Map,T16,3.0,105,14
 map,Racecourse Map,T16,4.0,108,11
-map,Residence Map,T16,2.0,361,13
-map,Shore Map,T16,2.0,126,14
+map,Residence Map,T16,2.0,203,11
+map,Shore Map,T16,3.0,112,12
 map,Silo Map,T16,3.0,320,23
 map,Stagnation Map,T16,2.0,140,17
-map,Terrace Map,T16,4.0,53,11
+map,Siege Map,T16,3.5,126,13
+map,Terrace Map,T16,3.0,43,12
 map,Sulphur Vents Map,T16,3.0,445,16
 map,Strand Map,T16,3.0,1131,19
 map,Thicket Map,T16,3.0,115,16
@@ -873,7 +875,7 @@ map,Volcano Map,T16,2.0,80,12
 map,Wharf Map,T16,3.0,192,14
 map,Wasteland Map,T16,3.0,80,14
 map,Vaal Temple Map,T16,5.0,391,17
-map,Vaal Pyramid Map,T16,2.0,235,13
+map,Vaal Pyramid Map,T16,2.0,275,18
 map,Underground River Map,T16,3.0,148,16
 map,Blighted Bone Crypt Map,T1,5.0,2,2
 map,Blighted Strand Map,T3,5.0,1,1
@@ -885,6 +887,7 @@ map,Blighted Atoll Map,T16,15.0,4,2
 map,Blighted Caldera Map,T16,200.0,1,1
 map,Blighted Cemetery Map,T16,15.0,7,4
 map,Blighted Colonnade Map,T16,15.0,2,2
+map,Blighted City Square Map,T16,6.0,14,1
 map,Blighted Crimson Temple Map,T16,22.0,11,4
 map,Blighted Cursed Crypt Map,T16,30.0,3,1
 map,Blighted Dunes Map,T16,200.0,3,1
@@ -946,28 +949,24 @@ map,Vaults of Atziri,T4,4.0,30,8
 map,Vaults of Atziri,T16,4.0,67,11
 map,Whakawairua Tuahu,T3,3.0,25,9
 map,Whakawairua Tuahu,T16,3.0,139,13
-gem,Added Chaos Damage Support,corrupted 20/0,100.0,3,3
-gem,Added Chaos Damage Support,corrupted 20/20,100.0,2,2
-gem,Added Cold Damage Support,clean 20/0,3.0,4,4
+gem,Added Chaos Damage Support,corrupted 21/0,50.0,1,1
+gem,Added Cold Damage Support,clean 20/0,9.0,3,3
 gem,Added Cold Damage Support,corrupted 20/0,10.0,9,7
-gem,Added Cold Damage Support,corrupted 21/0,9.0,3,3
-gem,Added Cold Damage Support,clean 1/20,120.0,2,2
-gem,Added Cold Damage Support,clean 20/20,120.0,1,1
-gem,Added Cold Damage Support,corrupted 20/20,10.0,6,4
-gem,Added Cold Damage Support,corrupted 21/20,20.0,2,2
-gem,Added Fire Damage Support,clean 20/0,10.0,5,5
-gem,Added Fire Damage Support,corrupted 20/0,10.0,3,3
-gem,Added Fire Damage Support,corrupted 21/0,10.0,2,2
-gem,Added Fire Damage Support,clean 1/20,10.0,6,6
-gem,Added Fire Damage Support,clean 20/20,10.0,5,5
+gem,Added Cold Damage Support,corrupted 21/0,9.0,2,2
+gem,Added Cold Damage Support,clean 1/20,35.0,2,2
+gem,Added Cold Damage Support,clean 20/20,200.0,1,1
+gem,Added Cold Damage Support,corrupted 20/20,50.0,1,1
+gem,Added Cold Damage Support,corrupted 21/20,276.0,1,1
+gem,Added Fire Damage Support,corrupted 20/0,10.0,1,1
+gem,Added Fire Damage Support,corrupted 21/0,9.0,1,1
+gem,Added Fire Damage Support,clean 1/20,10.0,1,1
 gem,Added Fire Damage Support,corrupted 20/20,10.0,1,1
-gem,Added Fire Damage Support,corrupted 21/20,10.0,2,2
-gem,Added Lightning Damage Support,clean 20/0,5.0,2,2
-gem,Added Lightning Damage Support,corrupted 20/0,10.0,5,5
-gem,Added Lightning Damage Support,corrupted 21/0,1656.0,1,1
-gem,Added Lightning Damage Support,clean 1/20,10.0,2,2
-gem,Added Lightning Damage Support,corrupted 20/20,10.0,2,2
-gem,Added Lightning Damage Support,corrupted 21/20,1656.0,1,1
+gem,Added Fire Damage Support,corrupted 21/20,9.0,1,1
+gem,Added Lightning Damage Support,clean 20/0,29.0,2,2
+gem,Added Lightning Damage Support,corrupted 21/0,552.0,1,1
+gem,Added Lightning Damage Support,clean 1/20,29.0,2,2
+gem,Added Lightning Damage Support,clean 20/20,29.0,1,1
+gem,Added Lightning Damage Support,corrupted 21/20,552.0,1,1
 gem,Additional Accuracy Support,clean 20/0,18.0,3,3
 gem,Additional Accuracy Support,corrupted 20/0,276.0,4,3
 gem,Additional Accuracy Support,corrupted 21/0,80.0,2,2
@@ -3547,14 +3546,13 @@ gem,Awakened Empower Support,clean 4/20,33120.0,1,1
 gem,Awakened Empower Support,corrupted 4/20,5520.0,1,1
 gem,Awakened Enlighten Support,clean 1/0,35880.0,3,3
 gem,Awakened Enlighten Support,clean 4/0,35880.0,2,2
-gem,Awakened Enlighten Support,corrupted 4/0,13800.0,1,1
-gem,Awakened Enlighten Support,clean 1/20,35880.0,2,2
+gem,Awakened Enlighten Support,corrupted 4/0,22080.0,1,1
+gem,Awakened Enlighten Support,corrupted 5/0,129720.0,2,2
+gem,Awakened Enlighten Support,clean 1/20,35880.0,3,3
 gem,Awakened Enlighten Support,clean 4/20,35880.0,2,2
-gem,Awakened Enlighten Support,corrupted 4/20,13800.0,1,1
-gem,Awakened Enhance Support,clean 1/0,10488.0,1,1
+gem,Awakened Enlighten Support,corrupted 5/20,129720.0,2,2
 gem,Awakened Enhance Support,corrupted 4/0,3312.0,1,1
-gem,Awakened Enhance Support,corrupted 5/0,55200.0,2,2
-gem,Awakened Enhance Support,corrupted 5/20,55200.0,1,1
+gem,Awakened Enhance Support,corrupted 5/0,91052.4,1,1
 compass,Area contains a Smuggler's Cache,4,2.0,100,4
 compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,4,2.0,11,2
 compass,Unique Monsters drop Corrupted Items,4,40.0,4,2
@@ -3698,11 +3696,11 @@ beast,Craiceann First of the Deep,,50.0,6,3
 beast,Farrul First of the Plains,,552.0,1,1
 map,Enslaver's Map,T16,7.0,68,10
 map,Eradicator's Map,T16,7.0,67,10
-map,Constrictor's Map,T16,7.0,51,7
+map,Constrictor's Map,T16,7.0,66,8
 map,Purifier's Map,T16,7.0,69,10
 map,Baran's Citadel,T16,13.0,44,9
-map,Veritania's Citadel,T16,13.0,22,10
-map,Al-Hezmin's Citadel,T16,13.0,22,10
+map,Veritania's Citadel,T16,13.0,74,7
+map,Al-Hezmin's Citadel,T16,13.0,74,7
 map,Drox's Citadel,T16,13.0,22,10
 unique,Bramblejack,clean,1.0,10,10
 unique,Bramblejack,corrupted,30.0,2,2
@@ -5153,36 +5151,34 @@ unique,Razor of the Seventh Sun,clean,276.0,2,2
 unique,Razor of the Seventh Sun,corrupted,552.0,2,2
 unique,Craiceann's Chitin,clean,70.0,1,1
 unique,Craiceann's Chitin,corrupted,155.0,2,2
-unique,Rive,clean,1.0,10,9
-unique,Rive,corrupted,10.0,7,7
-unique,Bear's Girdle,clean,20.0,8,5
-unique,Winds of Change,clean,120.0,3,3
-unique,The Infinite Pursuit,clean,3.0,14,13
-unique,Maloney's Nightfall,clean,1.0,18,18
-unique,Maloney's Nightfall,corrupted,20.0,11,9
+unique,Rive,clean,1.0,7,5
+unique,Rive,corrupted,1.0,4,4
+unique,Bear's Girdle,clean,15.0,5,4
+unique,The Infinite Pursuit,clean,15.0,6,5
+unique,The Infinite Pursuit,corrupted,100.0,1,1
+unique,Maloney's Nightfall,clean,1.0,10,10
+unique,Maloney's Nightfall,corrupted,150.0,3,3
 unique,Circle of Anguish,clean,5.0,58,45
-unique,Circle of Anguish,corrupted,5.0,3,3
-unique,The Consuming Dark,clean,1.0,26,24
-unique,The Consuming Dark,corrupted,1.0,11,11
-unique,Malachai's Mark,clean,1.0,11,11
-unique,Malachai's Mark,corrupted,40.0,4,4
-unique,Glorious Vanity,clean,20.0,100,49
-unique,Glorious Vanity,corrupted,50.0,21,15
-unique,Shade of Solaris,clean,276.0,2,2
+unique,Circle of Anguish,corrupted,5.0,4,4
+unique,The Consuming Dark,clean,1.0,15,14
+unique,The Consuming Dark,corrupted,15.0,11,9
+unique,Malachai's Mark,clean,10.0,6,6
+unique,Malachai's Mark,corrupted,7.0,3,3
+unique,Glorious Vanity,clean,20.0,100,26
+unique,Glorious Vanity,corrupted,200.0,3,3
 unique,Slitherpinch,clean,1.0,22,22
-unique,Slitherpinch,corrupted,40.0,13,13
-unique,Gorgon's Gaze,clean,15.0,15,15
-unique,Gorgon's Gaze,corrupted,200.0,1,1
+unique,Slitherpinch,corrupted,2.0,4,4
+unique,Gorgon's Gaze,clean,10.0,13,11
+unique,Gorgon's Gaze,corrupted,1104.0,1,1
 unique,Sibyl's Lament,clean,1.0,45,38
-unique,Sibyl's Lament,corrupted,5.0,19,16
-unique,Astral Projector,clean,276.0,18,18
-unique,Astral Projector,corrupted,1104.0,1,1
-unique,Feastbind,clean,1.0,32,30
-unique,Feastbind,corrupted,5.0,10,8
-unique,Pyroshock Clasp,clean,1.0,32,30
-unique,Pyroshock Clasp,corrupted,14.0,11,9
-unique,Araku Tiki,clean,1.0,35,32
-unique,Araku Tiki,corrupted,10.0,8,7
+unique,Sibyl's Lament,corrupted,5.0,11,10
+unique,Astral Projector,clean,552.0,9,8
+unique,Feastbind,clean,1.0,22,18
+unique,Feastbind,corrupted,5.0,8,8
+unique,Pyroshock Clasp,clean,1.0,19,19
+unique,Pyroshock Clasp,corrupted,4.0,6,6
+unique,Araku Tiki,clean,1.0,17,14
+unique,Araku Tiki,corrupted,100.0,5,4
 unique,Painseeker,clean,1.0,15,15
 unique,Painseeker,corrupted,15.0,9,9
 unique,Storm Secret,clean,1.0,39,36
