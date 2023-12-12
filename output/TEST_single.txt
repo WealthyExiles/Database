@@ -377,7 +377,7 @@ essence,Deafening Essence of Fear,,2.6,1318,22
 essence,Screaming Essence of Suffering,,0.3,3336,25
 essence,Shrieking Essence of Suffering,,0.4444444444444444,4460,30
 essence,Deafening Essence of Suffering,,1.0,1145,8
-essence,Screaming Essence of Rage,,0.5555555555555556,2889,18
+essence,Screaming Essence of Rage,,0.5555555555555556,2862,16
 essence,Shrieking Essence of Rage,,1.0,4819,18
 essence,Deafening Essence of Rage,,2.0,794,12
 essence,Screaming Essence of Wrath,,1.0,894,6
@@ -410,7 +410,7 @@ essence,Deafening Essence of Scorn,,2.0,763,11
 essence,Shrieking Essence of Envy,,2.0,1978,23
 essence,Screaming Essence of Envy,,1.0,334,4
 essence,Deafening Essence of Envy,,4.0,950,17
-essence,Essence of Hysteria,,5.0,883,15
+essence,Essence of Hysteria,,5.0,626,15
 essence,Essence of Insanity,,2.0,553,10
 essence,Essence of Delirium,,5.0,455,16
 essence,Essence of Horror,,6.0,543,22
@@ -3484,17 +3484,17 @@ gem,Awakened Enlighten Support,clean 1/0,3874.0,4,4
 gem,Awakened Enlighten Support,clean 4/0,5850.0,2,2
 gem,Awakened Enhance Support,clean 1/0,1300.0,1,1
 gem,Awakened Enhance Support,corrupted 4/0,520.0,1,1
-compass,Area contains a Smuggler's Cache,4,6.842105263157895,45,37
-compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,4,5.0,22,19
-compass,Unique Monsters drop Corrupted Items,4,3.0,69,22
-compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,10.0,42,36
-compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,23.0,43,31
-compass,Maps found in your Maps are Corrupted with 8 Modifiers,4,195.0,37,33
-compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,4.0,100,57
-compass,Create a copy of Beasts Captured in your Maps,4,9.0,67,49
-compass,25% increased Magic Pack Size,4,4.0,100,32
-compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,3.0,45,14
-compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain an additional Essence,4,4.0,100,42
+compass,Area contains a Smuggler's Cache,4,6.842105263157895,38,26
+compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,4,4.0,22,17
+compass,Unique Monsters drop Corrupted Items,4,4.0,43,20
+compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,5.0,24,23
+compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,22.0,35,26
+compass,Maps found in your Maps are Corrupted with 8 Modifiers,4,130.0,51,40
+compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,4.0,84,53
+compass,Create a copy of Beasts Captured in your Maps,4,10.0,50,34
+compass,25% increased Magic Pack Size,4,4.0,100,17
+compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,3.0,70,13
+compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain an additional Essence,4,4.0,100,51
 compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,4,4.56140350877193,100,36
 compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,2.0,52,16
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,25.0,58,49
@@ -3680,14 +3680,14 @@ beast,Craiceann First of the Deep,,260.0,1,1
 beast,Farrul First of the Plains,,79.0,33,10
 beast,Fenumus First of the Night,,25.0,56,7
 beast,Saqawal First of the Sky,,20.0,7,7
-map,Enslaver's Map,T16,8.0,98,88
-map,Eradicator's Map,T16,8.0,98,88
-map,Constrictor's Map,T16,9.0,95,75
-map,Purifier's Map,T16,8.0,98,79
-map,Baran's Citadel,T16,19.0,98,76
-map,Veritania's Citadel,T16,20.0,98,77
-map,Al-Hezmin's Citadel,T16,20.0,98,77
-map,Drox's Citadel,T16,20.0,98,76
+map,Enslaver's Map,T16,9.0,100,74
+map,Eradicator's Map,T16,9.0,100,75
+map,Constrictor's Map,T16,9.0,100,75
+map,Purifier's Map,T16,9.0,100,75
+map,Baran's Citadel,T16,18.0,99,75
+map,Veritania's Citadel,T16,18.0,99,74
+map,Al-Hezmin's Citadel,T16,18.0,98,73
+map,Drox's Citadel,T16,18.0,98,73
 unique,Bramblejack,clean,1.0,49,49
 unique,Bramblejack,clean 6-link,30.0,1,1
 unique,Bramblejack,corrupted,1.0,42,41
@@ -4644,116 +4644,118 @@ unique,Shaper's Touch,corrupted,3.0,100,77
 unique,Anathema,clean,20.0,75,73
 unique,Anathema,corrupted,130.0,3,3
 unique,The Eternal Apple,clean,1.0,87,87
-unique,The Eternal Apple,corrupted,1.0,99,98
-unique,Volkuur's Guidance,clean,1.0,96,96
-unique,Volkuur's Guidance,corrupted,1.0,58,58
-unique,Replica Atziri's Acuity,clean,5.0,19,19
-unique,Voideye,clean,1.0,52,51
+unique,The Eternal Apple,corrupted,1.0,92,92
+unique,Volkuur's Guidance,clean,1.0,96,94
+unique,Volkuur's Guidance,corrupted,1.0,51,49
+unique,Replica Atziri's Acuity,clean,5.0,12,12
+unique,Voideye,clean,1.0,83,83
 unique,Voideye,corrupted,1.0,99,97
-unique,Hale Negator,clean,3.0,37,36
-unique,Andvarius,clean,1.0,98,98
-unique,Andvarius,corrupted,1.0,28,27
-unique,Tear of Purity,clean,1.0,21,21
-unique,Tear of Purity,corrupted,1.0,99,99
-unique,Manastorm,clean,1.0,98,98
-unique,Manastorm,corrupted,1.0,24,24
-unique,Forbidden Flame,corrupted,10.0,100,92
+unique,Hale Negator,clean,5.0,19,19
+unique,Andvarius,clean,1.0,96,96
+unique,Andvarius,corrupted,1.0,21,21
+unique,Tear of Purity,clean,1.0,51,51
+unique,Tear of Purity,corrupted,1.0,83,82
+unique,Manastorm,clean,1.0,96,96
+unique,Manastorm,corrupted,1.0,23,23
+unique,Forbidden Flame,corrupted,9.0,100,91
 unique,Fairgraves' Tricorne,clean,1.0,93,93
-unique,Fairgraves' Tricorne,corrupted,1.0,50,48
-unique,Repentance,clean,1.0,97,96
-unique,Repentance,corrupted,1.0,59,52
-unique,Ascent From Flesh,clean,1.0,74,74
-unique,Ascent From Flesh,corrupted,1.0,100,98
-unique,Al Dhih,clean,1.0,38,38
-unique,Al Dhih,corrupted,1.0,45,43
-unique,Goldrim,clean,2.0,100,100
+unique,Fairgraves' Tricorne,corrupted,1.0,40,39
+unique,Repentance,clean,1.0,96,96
+unique,Repentance,corrupted,1.0,42,41
+unique,Ascent From Flesh,clean,1.0,76,76
+unique,Ascent From Flesh,corrupted,1.0,87,85
+unique,Al Dhih,clean,1.0,69,69
+unique,Al Dhih,corrupted,1.0,34,34
+unique,Goldrim,clean,2.0,97,97
 unique,Goldrim,corrupted,2.0,100,98
-unique,Wreath of Phrecia,clean,1.0,9,8
-unique,Wreath of Phrecia,corrupted,1.0,99,98
-unique,Balefire,clean,1.0,47,46
-unique,Balefire,corrupted,1.0,70,67
-unique,Replica Siegebreaker,clean,10.0,76,74
-unique,Replica Siegebreaker,corrupted,13.0,3,3
-unique,The Poet's Pen,clean,108.0,100,98
-unique,The Poet's Pen,corrupted,95.0,14,14
-unique,Eye of Chayula,clean,1.0,100,100
-unique,Eye of Chayula,corrupted,1.0,76,74
-unique,Apex Mode,clean,4.0,66,64
-unique,Apex Mode,corrupted,3.0,7,7
-unique,Breathstealer,clean,3.0,100,98
-unique,Breathstealer,corrupted,5.0,8,8
-unique,Farrul's Chase,clean,4.0,28,28
-unique,Farrul's Chase,corrupted,130.0,1,1
-unique,Paradoxica,clean,195.0,78,73
-unique,Transcendent Mind,clean,143.0,10,10
-unique,The Vertex,clean,8.0,100,62
-unique,The Vertex,corrupted,5.0,21,19
-unique,Replica Alberon's Warpath,clean,377.0,46,46
-unique,Chain of Endurance,corrupted,1.0,99,95
-unique,Hateforge,clean,7670.0,2,2
-unique,Broken Faith,clean,1.0,46,46
-unique,Broken Faith,corrupted,3.0,3,3
-unique,Font of Thunder,clean,3.0,19,19
-unique,The Green Dream,clean,7.0,38,34
-unique,The Green Dream,corrupted,9.0,4,4
-unique,Mark of the Red Covenant,clean,1.0,76,76
-unique,Mark of the Red Covenant,corrupted,1.0,100,98
-unique,Valako's Sign,clean,1.0,76,76
-unique,Valako's Sign,corrupted,1.0,100,99
-unique,Aegis Aurora,clean,260.0,100,100
-unique,Aegis Aurora,corrupted,221.0,10,10
+unique,Wreath of Phrecia,clean,1.0,53,53
+unique,Wreath of Phrecia,corrupted,1.0,64,60
+unique,Balefire,clean,1.0,79,79
+unique,Balefire,corrupted,1.0,49,46
+unique,Replica Siegebreaker,clean,11.0,71,69
+unique,Replica Siegebreaker,corrupted,50.0,2,2
+unique,The Poet's Pen,clean,95.0,77,75
+unique,The Poet's Pen,corrupted,90.0,5,5
+unique,Eye of Chayula,clean,1.0,98,97
+unique,Eye of Chayula,corrupted,1.0,51,48
+unique,Apex Mode,clean,1.0,63,59
+unique,Apex Mode,corrupted,5.0,3,3
+unique,Breathstealer,clean,2.0,100,99
+unique,Breathstealer,corrupted,5.0,6,6
+unique,Farrul's Chase,clean,3.0,41,30
+unique,Farrul's Chase,corrupted,5.0,1,1
+unique,Paradoxica,clean,364.0,50,50
+unique,Transcendent Mind,clean,221.0,6,6
+unique,The Vertex,clean,9.0,100,71
+unique,The Vertex,corrupted,6.0,29,23
+unique,Replica Alberon's Warpath,clean,312.0,53,53
+unique,Chain of Endurance,clean,1.0,38,38
+unique,Chain of Endurance,corrupted,1.0,90,87
+unique,Hateforge,clean,6890.0,2,2
+unique,Broken Faith,clean,1.0,36,36
+unique,Broken Faith,corrupted,5.0,5,5
+unique,Font of Thunder,clean,2.0,17,17
+unique,The Green Dream,clean,10.0,30,25
+unique,The Green Dream,corrupted,15.0,1,1
+unique,Mark of the Red Covenant,clean,1.0,83,82
+unique,Mark of the Red Covenant,corrupted,1.0,63,63
+unique,Valako's Sign,clean,1.0,70,70
+unique,Valako's Sign,corrupted,1.0,100,96
+unique,The Immortal Will,clean,260.0,1,1
+unique,Aegis Aurora,clean,247.0,100,99
+unique,Aegis Aurora,corrupted,260.0,11,11
 unique,Echoes of Creation,clean,2.0,100,88
-unique,Echoes of Creation,corrupted,5.0,17,16
-unique,Ralakesh's Impatience,clean,637.0,60,60
-unique,Ralakesh's Impatience,corrupted,650.0,6,5
-unique,Sundance,clean,1.0,44,44
-unique,Sundance,corrupted,1.0,100,100
-unique,Relic of the Pact,clean,3120.0,8,8
-unique,Olesya's Delight,clean,3.0,100,87
-unique,Olesya's Delight,corrupted,3.0,41,30
-unique,Frostbreath,clean,1.0,87,87
-unique,Frostbreath,corrupted,1.0,70,70
-unique,Wake of Destruction,clean,1.0,80,80
-unique,Wake of Destruction,corrupted,1.0,99,97
-unique,Daresso's Salute,clean,1.0,46,46
-unique,Daresso's Salute,corrupted,1.0,100,95
-unique,Ahkeli's Valley,clean,5.0,8,8
-unique,Storm's Gift,clean,3.0,100,92
-unique,Storm's Gift,corrupted,5.0,55,22
-unique,Ylfeban's Trickery,clean,1.0,96,95
-unique,Ylfeban's Trickery,corrupted,1.0,35,33
-unique,Redblade Banner,clean,19.0,100,99
-unique,Redblade Banner,corrupted,15.0,100,99
-unique,Fenumus' Toxins,clean,14.0,18,18
-unique,Replica Three-step Assault,clean,2.0,52,51
-unique,The Interrogation,clean,286.0,13,13
-unique,Replica Stampede,clean,10.0,52,51
-unique,Replica Stampede,corrupted,10.0,4,4
-unique,The Ignomon,clean,1.0,50,50
-unique,The Ignomon,corrupted,1.0,99,97
-unique,Cowl of the Cryophile,clean,1.0,57,55
-unique,Bated Breath,clean,1.0,89,89
-unique,Bated Breath,corrupted,1.0,100,100
-unique,Nebulis,clean,1.0,100,97
-unique,Nebulis,corrupted,5.0,13,12
-unique,Giantsbane,clean,1.0,6,6
-unique,Giantsbane,corrupted,1.0,99,97
-unique,Deidbell,clean,1.0,90,90
-unique,Deidbell,corrupted,1.0,20,19
-unique,Three-step Assault,clean,1.0,98,98
-unique,Three-step Assault,corrupted,1.0,99,97
-unique,Sandstorm Visage,clean,260.0,11,10
-unique,The Goddess Scorned,clean,1.0,2,2
-unique,The Siege,clean,1.0,75,75
-unique,The Siege,corrupted,2.0,12,12
-unique,Ezomyte Peak,corrupted,1.0,72,70
+unique,Echoes of Creation,corrupted,10.0,17,17
+unique,Ralakesh's Impatience,clean,637.0,48,48
+unique,Ralakesh's Impatience,corrupted,780.0,4,4
+unique,Sundance,clean,1.0,67,67
+unique,Sundance,corrupted,1.0,80,79
+unique,Relic of the Pact,clean,2210.0,8,8
+unique,Olesya's Delight,clean,4.0,100,81
+unique,Olesya's Delight,corrupted,4.0,27,25
+unique,Frostbreath,clean,1.0,89,88
+unique,Frostbreath,corrupted,1.0,52,52
+unique,Wake of Destruction,clean,1.0,89,89
+unique,Wake of Destruction,corrupted,1.0,65,64
+unique,Daresso's Salute,clean,1.0,70,70
+unique,Daresso's Salute,corrupted,1.0,100,98
+unique,Ahkeli's Valley,clean,20.0,4,4
+unique,Storm's Gift,clean,5.0,100,98
+unique,Storm's Gift,corrupted,10.0,18,12
+unique,Ylfeban's Trickery,clean,1.0,100,100
+unique,Ylfeban's Trickery,corrupted,1.0,19,19
+unique,Redblade Banner,clean,18.0,89,89
+unique,Redblade Banner,corrupted,15.0,79,79
+unique,Fenumus' Toxins,clean,14.0,15,12
+unique,Replica Three-step Assault,clean,2.0,26,26
+unique,The Interrogation,clean,260.0,25,25
+unique,Replica Stampede,clean,9.0,45,43
+unique,Replica Stampede,corrupted,8.0,3,3
+unique,The Ignomon,clean,1.0,53,53
+unique,The Ignomon,corrupted,1.0,66,64
+unique,Cowl of the Cryophile,clean,1.0,44,44
+unique,Bated Breath,clean,1.0,86,86
+unique,Bated Breath,corrupted,1.0,100,96
+unique,Nebulis,clean,1.0,100,91
+unique,Nebulis,corrupted,5.0,5,5
+unique,Giantsbane,clean,1.0,41,41
+unique,Giantsbane,corrupted,1.0,94,91
+unique,Deidbell,clean,1.0,99,98
+unique,Deidbell,corrupted,1.0,11,10
+unique,Three-step Assault,clean,1.0,96,95
+unique,Three-step Assault,corrupted,1.0,100,97
+unique,Sandstorm Visage,clean,195.0,26,22
+unique,Sandstorm Visage,corrupted,156.0,1,1
+unique,The Siege,clean,1.0,67,65
+unique,The Siege,corrupted,2.0,7,7
+unique,Ezomyte Peak,clean,1.0,32,32
+unique,Ezomyte Peak,corrupted,1.0,50,50
 unique,Dream Fragments,clean,1.0,100,100
-unique,Dream Fragments,corrupted,1.0,60,59
-unique,Graven's Secret,clean,2.0,100,89
-unique,Graven's Secret,corrupted,3.0,41,34
-unique,The Red Nightmare,clean,442.0,3,3
-unique,Primordial Might,clean,364.0,8,8
-unique,Primordial Might,corrupted,364.0,1,1
+unique,Dream Fragments,corrupted,1.0,52,51
+unique,Graven's Secret,clean,3.0,100,85
+unique,Graven's Secret,corrupted,4.0,27,25
+unique,Primordial Might,clean,390.0,5,5
+unique,Primordial Might,corrupted,650.0,1,1
 unique,Darkness Enthroned,clean,18.0,100,98
 unique,Crown of the Tyrant,clean,520.0,3,3
 unique,Innsbury Edge,clean,1.0,71,71
