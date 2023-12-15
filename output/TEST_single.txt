@@ -117,8 +117,8 @@ fragment,Fragment of Purification,,14.0,606,24
 fragment,Fragment of Emptiness,,20.5,1322,32
 fragment,Fragment of Terror,,21.866666666666667,1237,24
 fragment,Fragment of Shape,,73.0,737,8
-fragment,Fragment of Knowledge,,72.0,758,12
-fragment,Al-Hezmin's Crest,,16.0,565,26
+fragment,Fragment of Knowledge,,65.60000000000001,738,13
+fragment,Al-Hezmin's Crest,,12.0,581,29
 fragment,Baran's Crest,,20.0,477,18
 fragment,Drox's Crest,,16.0,520,20
 fragment,Veritania's Crest,,20.0,518,24
@@ -128,7 +128,7 @@ fragment,Gift to the Goddess,,38.0,160,14
 fragment,Dedication to the Goddess,,4.0,60,17
 fragment,Xoph's Breachstone,,28.0,207,18
 fragment,Tul's Breachstone,,29.0,306,17
-fragment,Esh's Breachstone,,10.0,259,19
+fragment,Esh's Breachstone,,29.0,209,14
 fragment,Uul-Netol's Breachstone,,40.0,619,21
 fragment,Chayula's Breachstone,,44.72727272727273,1137,23
 fragment,Xoph's Flawless Breachstone,,229.6,10,4
@@ -176,12 +176,12 @@ memory-line,Einhar's Memory of Crystal Prisons,,246.0,102,6
 memory-line,Einhar's Memory of the Sacred Grove,,213.20000000000002,106,7
 memory-line,Kirac's Memory of the Pantheon,,1.0,117,7
 memory-line,Kirac's Memory of Survivor's Guilt,,19.0,106,11
-memory-line,Kirac's Memory of Phaaryl,,2.0,113,8
+memory-line,Kirac's Memory of Phaaryl,,2.0,114,8
 memory-line,Niko's Memory of Grasping Hands,,2.0,104,6
 memory-line,Niko's Memory of Demonic Onslaught,,5.0,105,12
 memory-line,Niko's Memory of Chasms,,3.0,103,6
-memory-line,Niko's Memory of Tormented Souls,,3.0,111,21
-scouting-report,Singular Scouting Report,,1.0,575,9
+memory-line,Niko's Memory of Tormented Souls,,3.0,108,22
+scouting-report,Singular Scouting Report,,1.0,687,14
 scouting-report,Otherworldly Scouting Report,,1.0,34,11
 scouting-report,Vaal Scouting Report,,0.5,1108,14
 scouting-report,Comprehensive Scouting Report,,5.0,229,14
@@ -1392,99 +1392,104 @@ gem,Bonechill Support,corrupted 21/20,90.0,4,4
 gem,Brutality Support,clean 20/0,2.0,99,95
 gem,Brutality Support,corrupted 20/0,3.0,100,98
 gem,Brutality Support,corrupted 21/0,5.0,66,66
-gem,Brutality Support,clean 1/20,5.0,99,92
-gem,Brutality Support,clean 20/20,9.0,66,59
-gem,Brutality Support,corrupted 20/20,9.0,49,49
-gem,Brutality Support,corrupted 21/20,34.0,12,12
-gem,Burning Arrow,clean 20/0,3.0,29,28
-gem,Burning Arrow,corrupted 20/0,164.0,1,1
-gem,Burning Arrow,corrupted 21/0,3.0,27,27
-gem,Burning Arrow,clean 1/20,3.0,48,43
-gem,Burning Arrow,corrupted 21/20,147.6,7,7
-gem,Burning Damage Support,clean 20/0,4.0,99,99
-gem,Burning Damage Support,corrupted 20/0,4.0,65,64
-gem,Burning Damage Support,corrupted 21/0,8.0,18,18
-gem,Burning Damage Support,clean 1/20,4.0,90,89
-gem,Burning Damage Support,clean 20/20,10.0,50,49
-gem,Burning Damage Support,corrupted 20/20,10.0,25,25
-gem,Burning Damage Support,corrupted 21/20,34.0,5,5
-gem,Cast On Critical Strike Support,clean 20/0,7.0,73,48
-gem,Cast On Critical Strike Support,corrupted 20/0,25.0,13,12
-gem,Cast On Critical Strike Support,corrupted 21/0,10.0,16,16
-gem,Cast On Critical Strike Support,clean 1/20,8.0,42,36
-gem,Cast On Critical Strike Support,clean 20/20,35.0,19,13
-gem,Cast On Critical Strike Support,corrupted 20/20,35.0,6,6
-gem,Cast On Critical Strike Support,corrupted 21/20,50.0,4,4
-gem,Cast on Death Support,clean 20/0,2.0,30,27
-gem,Cast on Death Support,corrupted 20/0,164.0,1,1
-gem,Cast on Death Support,corrupted 21/0,4.0,18,18
-gem,Cast on Death Support,clean 1/20,3.0,24,21
-gem,Cast on Death Support,clean 20/20,15.0,6,4
-gem,Cast on Death Support,corrupted 21/20,10.0,6,6
-gem,Cast on Melee Kill Support,clean 20/0,4.0,8,7
-gem,Cast on Melee Kill Support,corrupted 20/0,3.0,4,4
-gem,Cast on Melee Kill Support,corrupted 21/0,3.0,19,18
-gem,Cast on Melee Kill Support,clean 1/20,2.0,15,15
+gem,Brutality Support,clean 1/20,5.0,99,95
+gem,Brutality Support,clean 20/20,8.0,100,93
+gem,Brutality Support,corrupted 20/20,9.0,90,88
+gem,Brutality Support,corrupted 21/20,20.0,29,29
+gem,Burning Arrow,clean 20/0,2.0,33,32
+gem,Burning Arrow,corrupted 20/0,35.0,1,1
+gem,Burning Arrow,corrupted 21/0,3.0,48,48
+gem,Burning Arrow,clean 1/20,3.0,60,58
+gem,Burning Arrow,corrupted 20/20,35.0,1,1
+gem,Burning Arrow,corrupted 21/20,114.8,14,14
+gem,Burning Damage Support,clean 20/0,4.0,100,97
+gem,Burning Damage Support,corrupted 20/0,3.0,82,82
+gem,Burning Damage Support,corrupted 21/0,6.0,56,56
+gem,Burning Damage Support,clean 1/20,5.0,100,96
+gem,Burning Damage Support,clean 20/20,10.0,75,72
+gem,Burning Damage Support,corrupted 20/20,10.0,38,38
+gem,Burning Damage Support,corrupted 21/20,25.0,19,19
+gem,Cast On Critical Strike Support,clean 20/0,8.0,100,69
+gem,Cast On Critical Strike Support,corrupted 20/0,10.0,28,24
+gem,Cast On Critical Strike Support,corrupted 21/0,10.0,36,35
+gem,Cast On Critical Strike Support,clean 1/20,9.0,64,54
+gem,Cast On Critical Strike Support,clean 20/20,30.0,25,15
+gem,Cast On Critical Strike Support,corrupted 20/20,30.0,10,9
+gem,Cast On Critical Strike Support,corrupted 21/20,39.0,10,10
+gem,Cast on Death Support,clean 20/0,2.0,23,21
+gem,Cast on Death Support,corrupted 20/0,10.0,3,3
+gem,Cast on Death Support,corrupted 21/0,4.0,26,26
+gem,Cast on Death Support,clean 1/20,2.0,30,28
+gem,Cast on Death Support,clean 20/20,15.0,9,6
+gem,Cast on Death Support,corrupted 20/20,10.0,2,2
+gem,Cast on Death Support,corrupted 21/20,10.0,3,3
+gem,Cast on Melee Kill Support,clean 20/0,3.0,13,12
+gem,Cast on Melee Kill Support,corrupted 20/0,3.0,6,6
+gem,Cast on Melee Kill Support,corrupted 21/0,3.0,26,25
+gem,Cast on Melee Kill Support,clean 1/20,2.0,21,21
+gem,Cast on Melee Kill Support,clean 20/20,20.0,1,1
 gem,Cast on Melee Kill Support,corrupted 20/20,10.0,1,1
-gem,Cast on Melee Kill Support,corrupted 21/20,10.0,7,6
-gem,Cast when Damage Taken Support,clean 20/0,14.0,49,27
-gem,Cast when Damage Taken Support,corrupted 20/0,14.0,15,10
-gem,Cast when Damage Taken Support,corrupted 21/0,15.0,28,27
-gem,Cast when Damage Taken Support,clean 1/20,12.0,15,15
-gem,Cast when Damage Taken Support,clean 20/20,125.0,4,4
-gem,Cast when Damage Taken Support,corrupted 20/20,70.0,5,2
-gem,Cast when Damage Taken Support,corrupted 21/20,459.2,3,3
-gem,Cast when Stunned Support,clean 20/0,4.0,5,5
-gem,Cast when Stunned Support,corrupted 21/0,3.0,12,12
-gem,Cast when Stunned Support,clean 1/20,3.0,15,14
-gem,Cast when Stunned Support,corrupted 21/20,38.0,1,1
-gem,Cast while Channelling Support,clean 20/0,4.0,33,33
-gem,Cast while Channelling Support,corrupted 20/0,5.0,5,5
-gem,Cast while Channelling Support,corrupted 21/0,3.0,22,21
+gem,Cast on Melee Kill Support,corrupted 21/20,9.0,11,10
+gem,Cast when Damage Taken Support,clean 20/0,15.0,97,49
+gem,Cast when Damage Taken Support,corrupted 20/0,3.0,55,36
+gem,Cast when Damage Taken Support,corrupted 21/0,19.0,40,40
+gem,Cast when Damage Taken Support,clean 1/20,20.0,63,27
+gem,Cast when Damage Taken Support,clean 20/20,45.0,53,17
+gem,Cast when Damage Taken Support,corrupted 20/20,68.0,28,13
+gem,Cast when Damage Taken Support,corrupted 21/20,377.2,4,4
+gem,Cast when Stunned Support,clean 20/0,5.0,7,7
+gem,Cast when Stunned Support,corrupted 20/0,25.0,5,4
+gem,Cast when Stunned Support,corrupted 21/0,3.0,24,24
+gem,Cast when Stunned Support,clean 1/20,4.0,25,25
+gem,Cast when Stunned Support,corrupted 20/20,25.0,1,1
+gem,Cast when Stunned Support,corrupted 21/20,25.0,4,4
+gem,Cast while Channelling Support,clean 20/0,4.0,56,56
+gem,Cast while Channelling Support,corrupted 20/0,5.0,12,12
+gem,Cast while Channelling Support,corrupted 21/0,2.0,32,32
 gem,Cast while Channelling Support,clean 1/20,3.0,37,37
-gem,Cast while Channelling Support,clean 20/20,20.0,4,4
-gem,Cast while Channelling Support,corrupted 20/20,20.0,1,1
-gem,Cast while Channelling Support,corrupted 21/20,19.0,7,7
-gem,Caustic Arrow,clean 20/0,5.0,100,80
-gem,Caustic Arrow,corrupted 20/0,3.0,54,42
-gem,Caustic Arrow,corrupted 21/0,5.0,77,71
-gem,Caustic Arrow,clean 1/20,3.0,60,58
-gem,Caustic Arrow,clean 20/20,50.0,25,24
-gem,Caustic Arrow,corrupted 20/20,13.0,13,13
-gem,Caustic Arrow,corrupted 21/20,25.0,20,19
-gem,Chain Hook,clean 20/0,10.0,9,7
-gem,Chain Hook,corrupted 20/0,10.0,1,1
-gem,Chain Hook,corrupted 21/0,3.0,22,21
-gem,Chain Hook,clean 1/20,3.0,26,25
-gem,Chain Hook,corrupted 21/20,9.0,1,1
-gem,Chain Support,clean 20/0,5.0,42,38
-gem,Chain Support,corrupted 20/0,8.0,14,12
-gem,Chain Support,corrupted 21/0,10.0,16,16
-gem,Chain Support,clean 1/20,5.0,37,33
-gem,Chain Support,clean 20/20,26.0,18,14
-gem,Chain Support,corrupted 20/20,25.0,6,6
-gem,Chain Support,corrupted 21/20,70.0,6,6
-gem,Chance to Bleed Support,clean 20/0,2.0,22,22
-gem,Chance to Bleed Support,corrupted 20/0,5.0,2,2
-gem,Chance to Bleed Support,corrupted 21/0,2.0,20,20
-gem,Chance to Bleed Support,clean 1/20,3.0,25,25
-gem,Chance to Bleed Support,clean 20/20,20.0,5,5
-gem,Chance to Bleed Support,corrupted 20/20,10.0,1,1
-gem,Chance to Bleed Support,corrupted 21/20,14.0,5,5
-gem,Chance to Flee Support,clean 20/0,2.0,5,5
-gem,Chance to Flee Support,corrupted 20/0,29.0,1,1
-gem,Chance to Flee Support,corrupted 21/0,3.0,15,14
-gem,Chance to Flee Support,clean 1/20,2.0,12,12
-gem,Chance to Flee Support,corrupted 21/20,20.0,4,4
-gem,Charged Dash,clean 20/0,4.0,10,10
-gem,Charged Dash,corrupted 20/0,20.0,2,2
-gem,Charged Dash,corrupted 21/0,3.0,37,34
-gem,Charged Dash,clean 1/20,2.0,34,33
-gem,Charged Dash,clean 20/20,16.0,1,1
-gem,Charged Dash,corrupted 21/20,8.0,11,10
-gem,Charged Mines Support,clean 20/0,5.0,57,43
-gem,Charged Mines Support,corrupted 20/0,8.0,20,17
-gem,Charged Mines Support,corrupted 21/0,8.0,31,30
+gem,Cast while Channelling Support,clean 20/20,10.0,9,9
+gem,Cast while Channelling Support,corrupted 20/20,12.0,8,8
+gem,Cast while Channelling Support,corrupted 21/20,15.0,10,10
+gem,Caustic Arrow,clean 20/0,4.0,100,82
+gem,Caustic Arrow,corrupted 20/0,3.0,93,80
+gem,Caustic Arrow,corrupted 21/0,4.0,100,95
+gem,Caustic Arrow,clean 1/20,3.0,85,76
+gem,Caustic Arrow,clean 20/20,64.0,32,25
+gem,Caustic Arrow,corrupted 20/20,10.0,27,25
+gem,Caustic Arrow,corrupted 21/20,20.0,43,41
+gem,Chain Hook,clean 20/0,5.0,8,8
+gem,Chain Hook,corrupted 20/0,10.0,3,3
+gem,Chain Hook,corrupted 21/0,2.0,45,42
+gem,Chain Hook,clean 1/20,2.0,37,34
+gem,Chain Hook,clean 20/20,50.0,1,1
+gem,Chain Hook,corrupted 21/20,10.0,9,9
+gem,Chain Support,clean 20/0,9.0,81,68
+gem,Chain Support,corrupted 20/0,10.0,36,32
+gem,Chain Support,corrupted 21/0,10.0,36,36
+gem,Chain Support,clean 1/20,5.0,60,56
+gem,Chain Support,clean 20/20,24.0,29,25
+gem,Chain Support,corrupted 20/20,20.0,19,18
+gem,Chain Support,corrupted 21/20,69.0,12,12
+gem,Chance to Bleed Support,clean 20/0,2.0,30,29
+gem,Chance to Bleed Support,corrupted 20/0,9.0,3,3
+gem,Chance to Bleed Support,corrupted 21/0,4.0,22,21
+gem,Chance to Bleed Support,clean 1/20,3.0,24,24
+gem,Chance to Bleed Support,clean 20/20,20.0,6,6
+gem,Chance to Bleed Support,corrupted 20/20,9.0,3,3
+gem,Chance to Bleed Support,corrupted 21/20,15.0,8,8
+gem,Chance to Flee Support,clean 20/0,2.0,6,6
+gem,Chance to Flee Support,corrupted 20/0,15.0,6,6
+gem,Chance to Flee Support,corrupted 21/0,2.0,30,28
+gem,Chance to Flee Support,clean 1/20,1.0,16,16
+gem,Chance to Flee Support,corrupted 21/20,15.0,8,8
+gem,Charged Dash,clean 20/0,3.0,17,17
+gem,Charged Dash,corrupted 20/0,5.0,6,6
+gem,Charged Dash,corrupted 21/0,3.0,50,48
+gem,Charged Dash,clean 1/20,2.0,33,31
+gem,Charged Dash,corrupted 21/20,9.0,12,12
+gem,Charged Mines Support,clean 20/0,1.0,72,51
+gem,Charged Mines Support,corrupted 20/0,5.0,24,20
+gem,Charged Mines Support,corrupted 21/0,8.0,29,29
 gem,Charged Mines Support,clean 1/20,7.0,36,35
 gem,Charged Mines Support,clean 20/20,30.0,9,9
 gem,Charged Mines Support,corrupted 20/20,25.0,6,5
@@ -4183,7 +4188,7 @@ gem,Awakened Enhance Support,corrupted 5/0,4920.0,5,4
 gem,Awakened Enhance Support,clean 1/20,2460.0,1,1
 gem,Awakened Enhance Support,clean 4/20,2460.0,1,1
 gem,Awakened Enhance Support,corrupted 5/20,5740.0,1,1
-compass,Area contains a Smuggler's Cache,4,8.0,98,46
+compass,Area contains a Smuggler's Cache,4,7.0,99,45
 compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,4,2.9818181818181815,42,28
 compass,Unique Monsters drop Corrupted Items,4,2.9818181818181815,34,20
 compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,5.963636363636363,70,43
@@ -4326,30 +4331,30 @@ blueprint,Blueprint: Mansion,3 wings,1.0,99,94
 blueprint,Blueprint: Records Office,3 wings,1.0,100,99
 blueprint,Blueprint: Smuggler's Den,3 wings,1.0,100,98
 blueprint,Blueprint: Underbelly,3 wings,1.0,100,93
-blueprint,Blueprint: Repository,3 wings,1.0,100,99
-blueprint,Blueprint: Tunnels,3 wings,2.0,100,96
+blueprint,Blueprint: Repository,3 wings,1.0,100,98
+blueprint,Blueprint: Tunnels,3 wings,1.0,100,98
 blueprint,Blueprint: Laboratory,3 wings,2.0,100,94
 blueprint,Blueprint: Prohibited Library,3 wings,2.0,100,97
-incubator,Abyssal Incubator,ilvl 83,1.0,610,47
+incubator,Abyssal Incubator,ilvl 83,1.0,634,42
 incubator,Blighted Incubator,ilvl 83,1.0,432,61
-incubator,Cartographer's Incubator,ilvl 83,1.0,727,30
-incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,298,71
-incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,310,74
+incubator,Cartographer's Incubator,ilvl 83,1.0,589,50
+incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,276,72
+incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,303,68
 incubator,Celestial Jeweller's Incubator,ilvl 83,1.0,361,72
-incubator,Diviner's Incubator,ilvl 83,1.0,350,78
-incubator,Foreboding Incubator,ilvl 83,1.0,793,40
-incubator,Geomancer's Incubator,ilvl 83,1.0,674,49
-incubator,Infused Incubator,ilvl 83,1.0,814,24
-incubator,Kalguuran Incubator,ilvl 83,1.0,743,53
-incubator,Maddening Incubator,ilvl 83,1.0,638,43
+incubator,Diviner's Incubator,ilvl 83,2.0,405,74
+incubator,Foreboding Incubator,ilvl 83,1.0,897,47
+incubator,Geomancer's Incubator,ilvl 83,1.0,834,60
+incubator,Infused Incubator,ilvl 83,1.0,977,40
+incubator,Kalguuran Incubator,ilvl 83,1.0,919,70
+incubator,Maddening Incubator,ilvl 83,1.0,499,52
 incubator,Mysterious Incubator,ilvl 83,1.0,812,24
 incubator,Obscured Incubator,ilvl 83,1.0,510,56
 incubator,Ornate Incubator,ilvl 83,1.0,334,74
-incubator,Otherworldly Incubator,ilvl 83,1.0,550,50
-incubator,Primal Incubator,ilvl 83,1.0,268,65
+incubator,Otherworldly Incubator,ilvl 83,1.0,462,62
+incubator,Primal Incubator,ilvl 83,1.0,248,55
 incubator,Singular Incubator,ilvl 83,1.0,700,40
-incubator,Skittering Incubator,ilvl 83,1.0,1156,27
-incubator,Thaumaturge's Incubator,ilvl 83,1.0,581,59
+incubator,Skittering Incubator,ilvl 83,1.0,822,22
+incubator,Thaumaturge's Incubator,ilvl 83,1.0,466,61
 vial,Vial of Awakening,,9.0,45,12
 vial,Vial of Consequence,,164.0,49,17
 vial,Vial of Dominance,,19.0,30,12
@@ -4360,9 +4365,9 @@ vial,Vial of Transcendence,,49.0,20,10
 vial,Vial of Sacrifice,,55.0,17,9
 vial,Vial of the Ghost,,164.0,2,2
 logbook,Bruids of the Broken Circle Logbook,ilvl 83+,5.0,100,86
-logbook,Black Scythe Mercenaries Logbook,ilvl 83+,35.0,100,87
-logbook,Order of the Chalice Logbook,ilvl 83+,15.0,100,84
-logbook,Knights of the Sun Logbook,ilvl 83+,48.0,100,88
+logbook,Black Scythe Mercenaries Logbook,ilvl 83+,38.0,97,79
+logbook,Order of the Chalice Logbook,ilvl 83+,20.0,100,83
+logbook,Knights of the Sun Logbook,ilvl 83+,40.0,100,90
 beast,Craicic Chimeral,,164.0,94,40
 beast,Craicic Maw,,9.0,24,13
 beast,Craicic Vassal,,70.0,66,32
@@ -5858,53 +5863,53 @@ unique,The Torrent's Reclamation,corrupted,120.0,98,76
 unique,Nadir Mode,clean,1.0,86,80
 unique,Nadir Mode,corrupted,1.0,40,40
 unique,The Fledgling,clean,10.0,100,73
-unique,The Fledgling,corrupted,9.0,33,30
-unique,Corpsewalker,clean,10.0,100,100
-unique,Corpsewalker,corrupted,7.0,100,68
-unique,Kaom's Spirit,clean,1.0,99,99
-unique,Kaom's Spirit,corrupted,1.0,100,38
+unique,The Fledgling,corrupted,9.0,57,42
+unique,Corpsewalker,clean,10.0,97,96
+unique,Corpsewalker,corrupted,8.0,84,72
+unique,Kaom's Spirit,clean,3.0,97,96
+unique,Kaom's Spirit,corrupted,1.0,100,27
 unique,Dawnstrider,clean,1.0,97,97
-unique,Dawnstrider,corrupted,1.0,73,68
-unique,Might of the Meek,clean,4.0,66,65
-unique,Might of the Meek,corrupted,5.0,84,79
-unique,Inya's Epiphany,clean,1.0,96,96
-unique,Inya's Epiphany,corrupted,1.0,80,77
-unique,Ondar's Clasp,clean,1.0,83,83
-unique,Ondar's Clasp,corrupted,1.0,99,93
-unique,Bitterdream,clean,1.0,99,97
-unique,Bitterdream,corrupted,2.0,25,25
-unique,The Saviour,clean,574.0,21,21
-unique,The Saviour,corrupted,328.0,5,5
-unique,Brinerot Whalers,clean,1.0,100,97
-unique,Brinerot Whalers,corrupted,3.0,100,100
-unique,Flesh-Eater,clean,1.0,61,61
-unique,Flesh-Eater,corrupted,1.0,42,42
-unique,Clayshaper,clean,1.0,97,95
-unique,Clayshaper,corrupted,1.0,83,79
+unique,Dawnstrider,corrupted,1.0,92,88
+unique,Might of the Meek,clean,5.0,74,73
+unique,Might of the Meek,corrupted,5.0,99,92
+unique,Inya's Epiphany,clean,1.0,98,97
+unique,Inya's Epiphany,corrupted,2.0,95,91
+unique,Ondar's Clasp,clean,1.0,89,86
+unique,Ondar's Clasp,corrupted,1.0,100,99
+unique,Bitterdream,clean,2.0,100,100
+unique,Bitterdream,corrupted,2.0,40,38
+unique,The Saviour,clean,574.0,17,17
+unique,The Saviour,corrupted,311.59999999999997,14,14
+unique,Brinerot Whalers,clean,3.0,99,97
+unique,Brinerot Whalers,corrupted,1.0,100,100
+unique,Flesh-Eater,clean,1.0,53,53
+unique,Flesh-Eater,corrupted,1.0,68,66
+unique,Clayshaper,clean,1.0,97,97
+unique,Clayshaper,corrupted,1.0,98,94
 unique,Flamesight,clean,1.0,100,100
-unique,Flamesight,corrupted,2.0,34,33
-unique,The Scales of Justice,clean,1.0,32,32
-unique,Rain of Splinters,corrupted,984.0,26,26
-unique,Blackheart,clean,1.0,99,97
-unique,Blackheart,corrupted,1.0,99,98
-unique,Kitava's Thirst,clean,1.0,84,84
-unique,Kitava's Thirst,corrupted,1.0,99,96
-unique,Eye of Malice,clean,1.0,100,98
-unique,Eye of Malice,corrupted,1.0,100,92
-unique,Leper's Alms,clean,1.0,97,95
+unique,Flamesight,corrupted,1.0,56,56
+unique,The Scales of Justice,clean,1.0,40,40
+unique,Rain of Splinters,corrupted,1115.2,25,25
+unique,Blackheart,clean,1.0,99,99
+unique,Blackheart,corrupted,1.0,100,100
+unique,Kitava's Thirst,clean,1.0,79,79
+unique,Kitava's Thirst,corrupted,1.0,99,98
+unique,Eye of Malice,clean,1.0,100,100
+unique,Eye of Malice,corrupted,1.0,99,90
+unique,Leper's Alms,clean,1.0,98,97
 unique,Leper's Alms,corrupted,1.0,100,98
-unique,Soulthirst,clean,1.0,97,97
-unique,Soulthirst,corrupted,2.0,100,96
-unique,Crown of the Pale King,clean,1.0,77,76
-unique,Crown of the Pale King,corrupted,1.0,100,100
-unique,Calamitous Visions,clean,9.0,100,98
-unique,Calamitous Visions,corrupted,5.0,53,51
-unique,One With Nothing,clean,60.0,28,28
-unique,One With Nothing,corrupted,50.0,84,67
-unique,Replica Atziri's Foible,clean,10.0,100,95
-unique,Replica Atziri's Foible,corrupted,15.0,4,4
-unique,Thief's Torment,clean,1.0,96,94
-unique,Thief's Torment,corrupted,1.0,99,96
+unique,Soulthirst,clean,1.0,98,98
+unique,Soulthirst,corrupted,1.0,99,93
+unique,Crown of the Pale King,clean,1.0,73,71
+unique,Crown of the Pale King,corrupted,1.0,100,98
+unique,Calamitous Visions,clean,10.0,97,92
+unique,Calamitous Visions,corrupted,9.0,62,54
+unique,One With Nothing,clean,80.0,23,23
+unique,One With Nothing,corrupted,60.0,60,55
+unique,Replica Atziri's Foible,clean,9.0,100,95
+unique,Replica Atziri's Foible,corrupted,20.0,4,4
+unique,Thief's Torment,clean,1.0,98,97
+unique,Thief's Torment,corrupted,1.0,99,92
 unique,Widowmaker,clean,1.0,75,75
 unique,Widowmaker,corrupted,1.0,62,61
 unique,Varunastra,clean,2.0,100,100
