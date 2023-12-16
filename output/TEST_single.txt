@@ -785,6 +785,7 @@ map,City Square Map,T16,0.6,1661,24
 map,Chateau Map,T16,3.0,629,19
 map,Cemetery Map,T16,0.5,3223,15
 map,Colonnade Map,T16,4.95,277,18
+map,Colosseum Map,T16,0.42857142857142855,376,11
 map,Core Map,T16,5.0,154,19
 map,Conservatory Map,T16,5.0,143,19
 map,Courtyard Map,T16,4.0,191,26
@@ -792,6 +793,7 @@ map,Coves Map,T16,4.0,187,13
 map,Crater Map,T16,4.0,230,12
 map,Crimson Township Map,T16,0.5,473,26
 map,Crimson Temple Map,T16,0.42857142857142855,3481,19
+map,Crystal Ore Map,T16,3.0,113,20
 map,Cursed Crypt Map,T16,4.0,184,26
 map,Dunes Map,T16,0.3,5001,33
 map,Dry Sea Map,T16,4.0,154,20
@@ -810,6 +812,8 @@ map,Maze Map,T16,1.0,564,12
 map,Maze of the Minotaur Map,T16,1.5,360,17
 map,Mineral Pools Map,T16,4.0,218,11
 map,Necropolis Map,T16,3.0,220,12
+map,Museum Map,T16,3.0,205,19
+map,Moon Temple Map,T16,4.0,109,23
 map,Orchard Map,T16,4.0,274,7
 map,Overgrown Ruin Map,T16,4.0,232,27
 map,Overgrown Shrine Map,T16,0.5,478,18
@@ -824,20 +828,23 @@ map,Racecourse Map,T16,4.0,175,17
 map,Residence Map,T16,4.0,509,15
 map,Relic Chambers Map,T16,3.0,428,26
 map,Ramparts Map,T16,4.0,331,24
-map,Stagnation Map,T16,0.2777777777777778,1418,18
-map,Siege Map,T16,3.0,106,19
-map,Strand Map,T16,0.6818181818181819,1660,28
-map,Thicket Map,T16,4.0,83,18
-map,Temple Map,T16,3.0,822,8
-map,Tropical Island Map,T16,0.25,2029,16
-map,Vaal Temple Map,T16,3.75,197,16
-map,Vaal Pyramid Map,T16,4.0,155,20
-map,Waste Pool Map,T16,0.75,627,27
-map,Underground River Map,T16,4.0,201,16
-map,Blighted Bone Crypt Map,T1,4.0,74,7
-map,Blighted Overgrown Shrine Map,T3,5.0,43,7
-map,Blighted Strand Map,T3,5.0,36,4
-map,Blighted Cemetery Map,T4,5.0,28,3
+map,Stagnation Map,T16,0.4838709677419355,1260,14
+map,Siege Map,T16,4.0,114,20
+map,Strand Map,T16,0.7142857142857142,2039,23
+map,Thicket Map,T16,4.0,149,19
+map,Temple Map,T16,0.42857142857142855,1012,9
+map,Tropical Island Map,T16,0.4838709677419355,2024,16
+map,Underground Sea Map,T16,5.0,237,28
+map,Volcano Map,T16,4.0,212,9
+map,Wharf Map,T16,3.0,641,12
+map,Wasteland Map,T16,4.0,132,24
+map,Vaal Temple Map,T16,3.333333333333333,275,10
+map,Waste Pool Map,T16,0.7142857142857142,1144,21
+map,Underground River Map,T16,5.0,277,17
+map,Blighted Bone Crypt Map,T1,5.0,99,12
+map,Blighted Dunes Map,T2,5.0,44,6
+map,Blighted Overgrown Shrine Map,T3,5.0,32,6
+map,Blighted Strand Map,T3,5.0,43,6
 map,Blighted Colonnade Map,T4,5.0,33,6
 map,Blighted Moon Temple Map,T4,5.0,17,8
 map,Blighted Atoll Map,T5,5.0,6,4
@@ -1378,24 +1385,24 @@ gem,Chance to Bleed Support,clean 1/20,3.0,24,24
 gem,Chance to Bleed Support,clean 20/20,20.0,3,3
 gem,Chance to Bleed Support,corrupted 20/20,8.0,2,2
 gem,Chance to Bleed Support,corrupted 21/20,5.0,15,15
-gem,Chance to Flee Support,clean 20/0,2.0,6,6
+gem,Chance to Flee Support,clean 20/0,3.0,4,4
 gem,Chance to Flee Support,corrupted 20/0,15.0,3,3
-gem,Chance to Flee Support,corrupted 21/0,2.0,30,28
+gem,Chance to Flee Support,corrupted 21/0,2.0,33,30
 gem,Chance to Flee Support,clean 1/20,2.0,15,12
 gem,Chance to Flee Support,corrupted 21/20,15.0,8,8
 gem,Charged Dash,clean 20/0,4.0,11,11
-gem,Charged Dash,corrupted 20/0,5.0,6,6
+gem,Charged Dash,corrupted 20/0,5.0,7,7
 gem,Charged Dash,corrupted 21/0,2.0,53,51
 gem,Charged Dash,clean 1/20,2.0,33,32
 gem,Charged Dash,corrupted 21/20,5.0,14,13
 gem,Charged Mines Support,clean 20/0,1.0,72,51
-gem,Charged Mines Support,corrupted 20/0,5.0,24,20
-gem,Charged Mines Support,corrupted 21/0,8.0,29,29
+gem,Charged Mines Support,corrupted 20/0,5.0,27,24
+gem,Charged Mines Support,corrupted 21/0,6.0,34,33
 gem,Charged Mines Support,clean 1/20,7.0,65,53
 gem,Charged Mines Support,clean 20/20,25.0,10,8
 gem,Charged Mines Support,corrupted 20/20,15.0,10,8
 gem,Charged Mines Support,corrupted 21/20,15.0,12,12
-gem,Charged Traps Support,clean 20/0,5.0,20,20
+gem,Charged Traps Support,clean 20/0,5.0,35,33
 gem,Charged Traps Support,corrupted 20/0,9.0,9,8
 gem,Charged Traps Support,corrupted 21/0,4.0,27,27
 gem,Charged Traps Support,clean 1/20,4.0,44,40
@@ -1403,16 +1410,15 @@ gem,Charged Traps Support,clean 20/20,15.0,10,8
 gem,Charged Traps Support,corrupted 20/20,40.0,2,2
 gem,Charged Traps Support,corrupted 21/20,45.0,11,11
 gem,Clarity,clean 20/0,1.0,57,55
-gem,Clarity,corrupted 20/0,5.0,17,14
+gem,Clarity,corrupted 20/0,6.0,19,16
 gem,Clarity,corrupted 21/0,15.0,28,28
-gem,Clarity,clean 1/20,4.0,34,34
-gem,Clarity,clean 20/20,49.0,2,2
+gem,Clarity,clean 1/20,2.0,38,37
 gem,Clarity,corrupted 21/20,15.0,6,6
 gem,Cleave,clean 20/0,2.0,30,28
 gem,Cleave,corrupted 20/0,7.0,9,9
 gem,Cleave,corrupted 21/0,2.0,51,50
 gem,Cleave,clean 1/20,2.0,59,55
-gem,Cleave,clean 20/20,39.0,9,8
+gem,Cleave,clean 20/20,25.0,10,9
 gem,Cleave,corrupted 20/20,20.0,2,2
 gem,Cleave,corrupted 21/20,7.0,20,20
 gem,Close Combat Support,clean 20/0,3.0,49,47
@@ -1425,11 +1431,11 @@ gem,Close Combat Support,corrupted 21/20,15.0,14,14
 gem,Cluster Traps Support,clean 20/0,4.0,23,23
 gem,Cluster Traps Support,corrupted 20/0,4.0,7,7
 gem,Cluster Traps Support,corrupted 21/0,3.0,30,29
-gem,Cluster Traps Support,clean 1/20,2.0,25,25
-gem,Cluster Traps Support,clean 20/20,25.0,5,5
+gem,Cluster Traps Support,clean 1/20,2.0,41,41
+gem,Cluster Traps Support,clean 20/20,24.0,6,6
 gem,Cluster Traps Support,corrupted 21/20,33.0,8,7
 gem,Cobra Lash,clean 20/0,2.0,23,19
-gem,Cobra Lash,corrupted 20/0,3.0,32,30
+gem,Cobra Lash,corrupted 20/0,3.0,38,33
 gem,Cobra Lash,corrupted 21/0,2.0,72,72
 gem,Cobra Lash,clean 1/20,3.0,65,63
 gem,Cobra Lash,clean 20/20,20.0,3,3
@@ -4104,18 +4110,18 @@ compass,Create a copy of Beasts Captured in your Maps,4,0.03773584905660377,91,4
 compass,25% increased Magic Pack Size,4,5.0,97,31
 compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,3.0,70,17
 compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain an additional Essence,4,4.0,97,33
-compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,4,0.03773584905660377,100,19
-compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,3.0,77,18
+compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,4,5.0,95,31
+compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,0.20754716981132074,47,27
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,0.1509433962264151,80,54
-compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,0.018867924528301886,23,17
+compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,0.018867924528301886,26,16
 compass,20% increased Pack Size in your Unidentified Maps,4,0.018867924528301886,100,20
 compass,Players and Monsters take 12% increased Chaos Damage:Your Maps contain 6 additional packs of Monsters that deal Chaos Damage,4,0.018867924528301886,100,17
 compass,Strongbox Monsters are Enraged:Strongbox Monsters have 500% increased Item Quantity:Your Maps contain an additional Strongbox,4,0.7547169811320754,100,56
 compass,Your Maps contain Ritual Altars,4,3.0,99,30
 compass,Players and Monsters take 12% increased Lightning Damage:Your Maps contain 6 additional packs of Monsters that deal Lightning Damage,4,2.0,89,18
-compass,Your Magic Maps contain 4 additional packs of Magic Monsters:Your Normal Maps contain 4 additional packs of Normal Monsters:Your Rare Maps contain 4 additional Rare Monster packs,4,3.0,97,20
+compass,Your Magic Maps contain 4 additional packs of Magic Monsters:Your Normal Maps contain 4 additional packs of Normal Monsters:Your Rare Maps contain 4 additional Rare Monster packs,4,3.0,100,19
 compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 4 additional Packs with Mirrored Rare Monsters,4,3.0,100,12
-compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,4,0.018867924528301886,21,17
+compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,4,0.018867924528301886,29,18
 compass,Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,0.018867924528301886,97,17
 compass,The First 3 Possessed Monsters drop an additional Rusted Scarab:Your Maps contain an additional Tormented Betrayer,4,2.0,100,20
 compass,Your Maps contain 6 additional packs of Monsters that Convert when Killed,4,0.018867924528301886,71,31
@@ -4259,22 +4265,22 @@ incubator,Otherworldly Incubator,ilvl 83,1.0,551,48
 incubator,Primal Incubator,ilvl 83,1.0,333,61
 incubator,Singular Incubator,ilvl 83,1.0,690,41
 incubator,Skittering Incubator,ilvl 83,1.0,1199,26
-incubator,Thaumaturge's Incubator,ilvl 83,1.0,517,60
-vial,Vial of Awakening,,5.0,44,11
-vial,Vial of Consequence,,15.0,65,32
-vial,Vial of Dominance,,19.0,32,16
-vial,Vial of Fate,,1.0,38,21
+incubator,Thaumaturge's Incubator,ilvl 83,1.0,471,55
+vial,Vial of Awakening,,9.0,49,13
+vial,Vial of Consequence,,15.0,72,40
+vial,Vial of Dominance,,18.0,48,17
+vial,Vial of Fate,,1.0,26,18
 vial,Vial of Summoning,,50.0,71,29
 vial,Vial of the Ritual,,1.0,68,18
 vial,Vial of Transcendence,,15.0,59,39
-vial,Vial of Sacrifice,,55.0,11,3
+vial,Vial of Sacrifice,,50.0,12,4
 vial,Vial of the Ghost,,15.0,2,2
 logbook,Bruids of the Broken Circle Logbook,ilvl 83+,3.0,100,78
 logbook,Black Scythe Mercenaries Logbook,ilvl 83+,35.0,99,82
 logbook,Order of the Chalice Logbook,ilvl 83+,19.0,93,68
 logbook,Knights of the Sun Logbook,ilvl 83+,44.0,100,88
-beast,Craicic Chimeral,,15.0,100,62
-beast,Craicic Maw,,4.0,49,18
+beast,Craicic Chimeral,,15.0,100,64
+beast,Craicic Maw,,4.0,54,18
 beast,Craicic Vassal,,50.0,87,48
 beast,Farric Frost Hellion Alpha,,29.0,39,19
 beast,Farric Lynx Alpha,,5.0,100,54
@@ -4283,16 +4289,16 @@ beast,Fenumal Plagued Arachnid,,50.0,100,62
 beast,Craicic Spider Crab,,7.0,67,33
 beast,Farric Tiger Alpha,,15.0,66,39
 beast,Fenumal Hybrid Arachnid,,10.0,33,18
-beast,Saqawine Rhex,,5.0,28,18
+beast,Saqawine Rhex,,7.0,19,13
 beast,Primal Crushclaw,,4.0,22,12
 beast,Primal Cystcaller,,2.0,74,6
 beast,Primal Rhex Matriarch,,15.0,5,4
 beast,Vivid Abberarach,,7.0,100,12
 beast,Vivid Vulture,,95.0,100,24
-beast,Vivid Watcher,,98.0,53,20
+beast,Vivid Watcher,,10.5,85,18
 beast,Wild Brambleback,,20.0,100,23
 beast,Wild Bristle Matron,,178.0,100,20
-beast,Wild Hellion Alpha,,9.0,100,32
+beast,Wild Hellion Alpha,,7.5,100,35
 beast,Craiceann First of the Deep,,34.0,10,7
 beast,Farrul First of the Plains,,47.0,100,6
 beast,Fenumus First of the Night,,15.0,32,8
@@ -4471,16 +4477,16 @@ unique,Lightning Coil,clean 6-link,45.0,71,66
 unique,Lightning Coil,corrupted,1.0,100,84
 unique,Lightning Coil,corrupted 6-link,48.0,92,87
 unique,Daresso's Defiance,clean,1.0,98,98
-unique,Daresso's Defiance,clean 6-link,45.0,20,20
+unique,Daresso's Defiance,clean 6-link,43.5,19,19
 unique,Daresso's Defiance,corrupted,1.0,98,96
 unique,Daresso's Defiance,corrupted 6-link,45.0,17,17
 unique,Cherrubim's Maleficence,clean,1.0,83,81
-unique,Cherrubim's Maleficence,clean 6-link,15.0,19,19
+unique,Cherrubim's Maleficence,clean 6-link,12.0,22,22
 unique,Cherrubim's Maleficence,corrupted,1.0,100,96
-unique,Cherrubim's Maleficence,corrupted 6-link,15.0,19,18
+unique,Cherrubim's Maleficence,corrupted 6-link,15.0,23,20
 unique,Farrul's Fur,clean,13.5,98,96
-unique,Farrul's Fur,clean 6-link,75.0,12,12
-unique,Farrul's Fur,corrupted,15.0,14,13
+unique,Farrul's Fur,clean 6-link,75.0,18,18
+unique,Farrul's Fur,corrupted,15.0,28,26
 unique,Farrul's Fur,corrupted 6-link,60.0,5,5
 unique,Replica Farrul's Fur,clean,30.0,100,97
 unique,Replica Farrul's Fur,clean 6-link,82.5,19,17
