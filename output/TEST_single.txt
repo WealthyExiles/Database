@@ -758,15 +758,17 @@ card,Vanity,,1.0,119,5
 card,Wealth And Power,,163.0,116,19
 card,Winter's Embrace,,5.0,43,14
 map,Dunes Map,T2,1.0,206,9
-map,Overgrown Shrine Map,T3,1.0,279,4
-map,Strand Map,T3,1.0,286,16
-map,Cemetery Map,T4,1.0,205,9
-map,Colonnade Map,T4,1.0,261,5
-map,Moon Temple Map,T4,1.0,335,12
-map,Atoll Map,T5,1.0,219,5
-map,Courtyard Map,T5,1.0,247,5
-map,Dry Sea Map,T5,1.0,275,3
-map,Arachnid Nest Map,T16,4.0,125,23
+map,Overgrown Shrine Map,T3,0.6666666666666666,338,5
+map,Strand Map,T3,1.0,346,14
+map,Cemetery Map,T4,1.0,185,6
+map,Colonnade Map,T4,0.6666666666666666,226,5
+map,Moon Temple Map,T4,1.0,313,7
+map,Vaal Pyramid Map,T4,0.6666666666666666,239,4
+map,Atoll Map,T5,0.6666666666666666,194,7
+map,Courtyard Map,T5,1.0,255,6
+map,Dry Sea Map,T5,0.6666666666666666,248,4
+map,Dunes Map,T5,1.0,186,13
+map,Arachnid Nest Map,T16,4.0,143,24
 map,Arid Lake Map,T16,3.6,451,19
 map,Arcade Map,T16,4.0,112,20
 map,Atoll Map,T16,5.0,754,22
@@ -1569,15 +1571,15 @@ gem,Dash,corrupted 21/20,39.0,9,9
 gem,Deadly Ailments Support,clean 20/0,4.0,100,100
 gem,Deadly Ailments Support,corrupted 20/0,5.0,100,100
 gem,Deadly Ailments Support,corrupted 21/0,9.0,42,40
-gem,Deadly Ailments Support,clean 1/20,6.0,99,96
+gem,Deadly Ailments Support,clean 1/20,6.0,100,93
 gem,Deadly Ailments Support,clean 20/20,18.0,99,93
-gem,Deadly Ailments Support,corrupted 20/20,17.0,39,39
+gem,Deadly Ailments Support,corrupted 20/20,15.0,63,63
 gem,Deadly Ailments Support,corrupted 21/20,40.0,14,12
 gem,Decay Support,clean 20/0,3.0,9,9
-gem,Decay Support,corrupted 20/0,2.0,1,1
-gem,Decay Support,corrupted 21/0,2.0,51,50
+gem,Decay Support,corrupted 20/0,35.0,1,1
+gem,Decay Support,corrupted 21/0,2.0,50,49
 gem,Decay Support,clean 1/20,2.0,25,25
-gem,Decay Support,corrupted 21/20,12.0,12,12
+gem,Decay Support,corrupted 21/20,12.0,14,14
 gem,Decoy Totem,clean 20/0,7.0,19,19
 gem,Decoy Totem,corrupted 20/0,8.0,5,5
 gem,Decoy Totem,corrupted 21/0,5.0,45,45
@@ -4153,16 +4155,16 @@ compass,Slaying Enemies close together can attract monsters from Beyond this rea
 compass,Area contains a Smuggler's Cache,16,49.0,35,19
 compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,16,10.0,12,8
 compass,Your Maps contain 3 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,16,163.0,58,30
-compass,Unique Monsters drop Corrupted Items,16,9.0,10,9
-compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,16,65.0,6,5
+compass,Unique Monsters drop Corrupted Items,16,10.0,40,7
+compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,16,30.0,10,10
 compass,Maps found in your Maps are Corrupted with 8 Modifiers,16,554.1999999999999,13,8
-compass,Strongbox Monsters are Enraged:Strongbox Monsters have 600% increased Item Quantity:Your Maps contain an additional Strongbox,16,211.9,21,7
-compass,Create a copy of Beasts Captured in your Maps,16,70.0,2,2
+compass,Strongbox Monsters are Enraged:Strongbox Monsters have 600% increased Item Quantity:Your Maps contain an additional Strongbox,16,1222.5,30,14
+compass,Create a copy of Beasts Captured in your Maps,16,89.0,6,4
 compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contain 8 additional packs of Monsters that Heal,16,6.0,53,8
-compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,163.0,28,17
-compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,16,9.0,12,6
+compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,163.0,30,19
+compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,16,9.0,14,6
 compass,Your Magic Maps contain 5 additional packs of Magic Monsters:Your Normal Maps contain 5 additional packs of Normal Monsters:Your Rare Maps contain 5 additional Rare Monster packs,16,9.0,64,16
-compass,Your Maps contain 8 additional packs of Corrupted Vaal Monsters:Items dropped by Corrupted Vaal Monsters in your Maps have 30% chance to be Corrupted,16,9.0,23,9
+compass,Your Maps contain 8 additional packs of Corrupted Vaal Monsters:Items dropped by Corrupted Vaal Monsters in your Maps have 30% chance to be Corrupted,16,8.0,47,14
 compass,Players and Monsters take 14% increased Chaos Damage:Your Maps contain 8 additional packs of Monsters that deal Chaos Damage,16,8.0,69,12
 compass,Your Maps contain Ritual Altars,16,48.0,16,11
 compass,Map Bosses of your Corrupted Maps drop 3 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,16,7.0,56,20
@@ -4243,7 +4245,7 @@ incubator,Maddening Incubator,ilvl 83,1.0,557,48
 incubator,Mysterious Incubator,ilvl 83,1.0,1229,22
 incubator,Obscured Incubator,ilvl 83,1.0,445,58
 incubator,Ornate Incubator,ilvl 83,1.0,383,66
-incubator,Otherworldly Incubator,ilvl 83,1.0,426,62
+incubator,Otherworldly Incubator,ilvl 83,1.0,551,48
 incubator,Primal Incubator,ilvl 83,1.0,255,47
 incubator,Singular Incubator,ilvl 83,1.0,599,43
 incubator,Skittering Incubator,ilvl 83,1.0,903,25
@@ -4267,8 +4269,8 @@ beast,Craicic Vassal,,55.0,100,35
 beast,Farric Frost Hellion Alpha,,24.0,58,29
 beast,Farric Lynx Alpha,,4.0,100,28
 beast,Farric Wolf Alpha,,15.0,99,52
-beast,Fenumal Plagued Arachnid,,49.0,100,53
-beast,Craicic Spider Crab,,7.0,42,18
+beast,Fenumal Plagued Arachnid,,50.0,100,74
+beast,Craicic Spider Crab,,7.0,47,28
 beast,Farric Tiger Alpha,,50.0,47,31
 beast,Fenumal Hybrid Arachnid,,10.0,61,24
 beast,Saqawine Rhex,,5.0,16,13
@@ -4277,7 +4279,7 @@ beast,Primal Cystcaller,,2.0,55,6
 beast,Primal Rhex Matriarch,,13.0,86,16
 beast,Vivid Abberarach,,9.0,100,8
 beast,Vivid Vulture,,105.0,99,13
-beast,Vivid Watcher,,98.0,98,22
+beast,Vivid Watcher,,97.8,100,22
 beast,Wild Brambleback,,21.0,100,23
 beast,Wild Bristle Matron,,179.0,99,15
 beast,Wild Hellion Alpha,,83.0,100,12
@@ -4286,7 +4288,7 @@ beast,Farrul First of the Plains,,49.0,37,15
 beast,Fenumus First of the Night,,24.0,82,22
 beast,Saqawal First of the Sky,,10.0,37,19
 map,Enslaver's Map,T16,10.0,97,70
-map,Eradicator's Map,T16,10.0,93,70
+map,Eradicator's Map,T16,10.0,97,77
 map,Constrictor's Map,T16,10.0,99,77
 map,Purifier's Map,T16,10.0,97,69
 map,Baran's Citadel,T16,35.0,90,77
@@ -5800,13 +5802,13 @@ unique,Crown of the Pale King,corrupted,1.0,100,98
 unique,Calamitous Visions,clean,10.0,97,92
 unique,Calamitous Visions,corrupted,10.0,67,65
 unique,One With Nothing,clean,80.0,23,23
-unique,One With Nothing,corrupted,60.0,60,55
+unique,One With Nothing,corrupted,130.0,77,69
 unique,Replica Atziri's Foible,clean,9.0,100,95
-unique,Replica Atziri's Foible,corrupted,20.0,4,4
+unique,Replica Atziri's Foible,corrupted,8.0,6,6
 unique,Thief's Torment,clean,1.0,98,97
 unique,Thief's Torment,corrupted,1.0,99,92
 unique,Widowmaker,clean,1.0,74,71
-unique,Widowmaker,corrupted,1.0,71,68
+unique,Widowmaker,corrupted,1.0,83,78
 unique,Varunastra,clean,2.0,100,100
 unique,Varunastra,corrupted,5.0,22,22
 unique,Moonbender's Wing,clean,1.0,73,73
