@@ -822,22 +822,22 @@ map,Blight Ravaged Necropolis Map,T16,150.0,2,1
 map,Blight Ravaged Orchard Map,T16,38.0,4,4
 map,Blight Ravaged Plaza Map,T16,40.0,3,3
 map,Blight Ravaged Plateau Map,T16,40.0,2,2
-map,Blight Ravaged Promenade Map,T16,40.0,1,1
-map,Blight Ravaged Strand Map,T16,38.0,3,3
-map,Blight Ravaged Siege Map,T16,40.0,2,1
-map,Blight Ravaged Stagnation Map,T16,40.0,27,3
-map,Blight Ravaged Thicket Map,T16,40.0,2,1
-map,Blight Ravaged Waste Pool Map,T16,50.0,6,3
-map,Blight Ravaged Wharf Map,T16,45.0,1,1
-map,Blight Ravaged Volcano Map,T16,40.0,2,1
-map,Blight Ravaged Temple Map,T16,38.0,1,1
-map,Blight Ravaged Tropical Island Map,T16,40.0,2,2
-map,Acton's Nightmare,T3,3.0,111,10
-map,Caer Blaidd,T16,4.0,474,10
-map,Death And Taxes,T16,5.0,258,9
-map,Hall of Grandmaster's,T16,3.0,65,15
-map,Hallowed Ground,T4,4.0,125,9
-map,Hallowed Ground,T16,3.0,362,6
+map,Blight Ravaged Promenade Map,T16,50.0,1,1
+map,Blight Ravaged Ramparts Map,T16,40.0,1,1
+map,Blight Ravaged Racecourse Map,T16,40.0,6,2
+map,Blight Ravaged Strand Map,T16,60.0,4,3
+map,Blight Ravaged Waste Pool Map,T16,80.0,4,2
+map,Blight Ravaged Wasteland Map,T16,40.0,2,1
+map,Blight Ravaged Underground River Map,T16,35.0,8,7
+map,Blight Ravaged Volcano Map,T16,50.0,3,2
+map,Blight Ravaged Underground Sea Map,T16,45.0,7,4
+map,Blight Ravaged Temple Map,T16,40.0,1,1
+map,Blight Ravaged Tropical Island Map,T16,45.0,6,2
+map,Acton's Nightmare,T3,2.0,109,5
+map,Caer Blaidd,T16,3.8461538461538463,835,13
+map,Death And Taxes,T16,5.0,820,11
+map,Doryanis Machinarium,T16,270.0,55,6
+map,Hallowed Ground,T4,3.0,109,4
 map,Maelstrom of Chaos,T5,3.0,114,4
 map,Maelstrom of Chaos,T16,3.0,186,4
 map,Olmec's Sanctum,T4,2.0,48,10
@@ -1245,14 +1245,13 @@ gem,Cast when Damage Taken Support,clean 1/20,20.0,63,27
 gem,Cast when Damage Taken Support,clean 20/20,33.0,74,19
 gem,Cast when Damage Taken Support,corrupted 20/20,30.0,44,22
 gem,Cast when Damage Taken Support,corrupted 21/20,135.0,38,34
-gem,Cast when Stunned Support,clean 20/0,5.0,7,7
-gem,Cast when Stunned Support,corrupted 20/0,5.0,3,3
+gem,Cast when Stunned Support,clean 20/0,5.0,11,11
+gem,Cast when Stunned Support,corrupted 20/0,5.0,5,5
 gem,Cast when Stunned Support,corrupted 21/0,4.0,19,19
 gem,Cast when Stunned Support,clean 1/20,3.0,38,38
 gem,Cast when Stunned Support,clean 20/20,35.0,1,1
-gem,Cast when Stunned Support,corrupted 21/20,10.0,5,5
 gem,Cast while Channelling Support,clean 20/0,4.0,57,57
-gem,Cast while Channelling Support,corrupted 20/0,5.0,11,11
+gem,Cast while Channelling Support,corrupted 20/0,3.0,15,15
 gem,Cast while Channelling Support,corrupted 21/0,3.0,26,26
 gem,Cast while Channelling Support,clean 1/20,3.0,49,48
 gem,Cast while Channelling Support,clean 20/20,15.0,11,11
@@ -4191,7 +4190,7 @@ incubator,Thaumaturge's Incubator,ilvl 83,1.0,432,53
 vial,Vial of Awakening,,9.0,7,7
 vial,Vial of Consequence,,85.0,46,23
 vial,Vial of Dominance,,16.0,54,17
-vial,Vial of Fate,,1.0,41,23
+vial,Vial of Fate,,1.0,38,18
 vial,Vial of Summoning,,15.0,119,49
 vial,Vial of the Ritual,,1.0,17,15
 vial,Vial of Transcendence,,78.0,74,47
@@ -4201,7 +4200,7 @@ logbook,Black Scythe Mercenaries Logbook,ilvl 83+,34.0,100,83
 logbook,Order of the Chalice Logbook,ilvl 83+,10.0,100,78
 logbook,Knights of the Sun Logbook,ilvl 83+,37.0,100,81
 beast,Craicic Chimeral,,180.0,100,53
-beast,Craicic Maw,,7.0,26,9
+beast,Craicic Maw,,8.0,7,4
 beast,Craicic Vassal,,40.0,100,44
 beast,Farric Frost Hellion Alpha,,28.0,30,22
 beast,Farric Lynx Alpha,,5.0,100,36
@@ -4221,7 +4220,7 @@ beast,Wild Brambleback,,28.0,100,34
 beast,Wild Bristle Matron,,180.0,100,27
 beast,Wild Hellion Alpha,,90.0,100,22
 beast,Craiceann First of the Deep,,18.0,33,19
-beast,Farrul First of the Plains,,35.0,58,17
+beast,Farrul First of the Plains,,30.0,26,14
 beast,Fenumus First of the Night,,21.0,35,7
 beast,Saqawal First of the Sky,,8.0,25,13
 map,Enslaver's Map,T16,10.0,99,74
@@ -4557,18 +4556,17 @@ unique,Quill Rain,clean 6-link,255.0,38,38
 unique,Quill Rain,corrupted,2.0,100,99
 unique,Quill Rain,corrupted 6-link,180.0,17,13
 unique,Replica Quill Rain,clean,1.0,75,71
-unique,Replica Quill Rain,clean 6-link,1500.0,1,1
-unique,Replica Quill Rain,corrupted,50.0,1,1
+unique,Replica Quill Rain,corrupted,120.0,2,2
 unique,Storm Cloud,clean,1.0,97,97
-unique,Storm Cloud,clean 6-link,80.0,17,17
+unique,Storm Cloud,clean 6-link,40.0,29,27
 unique,Storm Cloud,corrupted,1.0,99,93
-unique,Storm Cloud,corrupted 6-link,50.0,2,2
+unique,Storm Cloud,corrupted 6-link,150.0,2,2
 unique,Roth's Reach,clean,1.0,88,87
 unique,Roth's Reach,clean 6-link,23.0,28,27
 unique,Roth's Reach,corrupted,1.0,100,100
-unique,Roth's Reach,corrupted 6-link,30.0,3,2
+unique,Roth's Reach,corrupted 6-link,32.0,1,1
 unique,Doomfletch,clean,1.0,100,100
-unique,Doomfletch,clean 6-link,420.0,21,21
+unique,Doomfletch,clean 6-link,300.0,22,22
 unique,Doomfletch,corrupted,1.0,100,93
 unique,Doomfletch,corrupted 6-link,375.0,16,16
 unique,Death's Harp,clean,1.0,99,99
