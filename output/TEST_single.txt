@@ -700,21 +700,20 @@ card,Vanity,,1.0,198,6
 card,Wealth And Power,,180.0,73,18
 card,Winter's Embrace,,2.0,40,18
 map,Overgrown Shrine Map,T3,0.6666666666666666,314,4
-map,Cemetery Map,T4,1.0,314,11
-map,Bone Crypt Map,T4,1.0,95,12
-map,Colonnade Map,T4,1.0,304,6
-map,Vaal Pyramid Map,T4,1.0,271,5
-map,Atoll Map,T5,1.0,241,7
-map,Courtyard Map,T5,1.0,327,7
-map,Dunes Map,T5,2.0,115,10
-map,Arachnid Nest Map,T16,4.0,118,24
-map,Arid Lake Map,T16,3.75,520,20
-map,Arcade Map,T16,4.0,149,25
-map,Caldera Map,T16,3.0,103,23
-map,Bone Crypt Map,T16,4.0,224,23
-map,Canyon Map,T16,4.0,257,20
-map,Castle Ruins Map,T16,3.0,1111,26
-map,City Square Map,T16,4.0,2263,24
+map,Cemetery Map,T4,1.0,306,8
+map,Bone Crypt Map,T4,1.0,107,21
+map,Colonnade Map,T4,1.0,281,4
+map,Moon Temple Map,T4,1.0,422,9
+map,Atoll Map,T5,1.0,170,5
+map,Courtyard Map,T5,1.0,304,4
+map,Dry Sea Map,T5,0.6666666666666666,280,4
+map,Dunes Map,T5,3.0,401,15
+map,Arachnid Nest Map,T16,4.0,220,28
+map,Arid Lake Map,T16,3.571428571428571,629,16
+map,Arcade Map,T16,4.0,193,26
+map,Caldera Map,T16,3.0,193,27
+map,Bone Crypt Map,T16,4.0,353,19
+map,Canyon Map,T16,4.0,214,15
 map,Chateau Map,T16,2.7,580,22
 map,Colonnade Map,T16,4.0,401,24
 map,Colosseum Map,T16,3.0,670,12
@@ -1157,14 +1156,13 @@ gem,Blazing Salvo,corrupted 20/0,11.0,5,5
 gem,Blazing Salvo,corrupted 21/0,4.0,66,64
 gem,Blazing Salvo,clean 1/20,3.0,59,57
 gem,Blazing Salvo,clean 20/20,29.0,3,3
-gem,Blazing Salvo,corrupted 20/20,15.0,3,3
-gem,Blazing Salvo,corrupted 21/20,20.0,16,16
+gem,Blazing Salvo,corrupted 20/20,15.0,5,5
+gem,Blazing Salvo,corrupted 21/20,39.0,25,25
 gem,Blight,clean 20/0,3.0,43,39
 gem,Blight,corrupted 20/0,2.0,13,9
 gem,Blight,corrupted 21/0,2.0,58,55
 gem,Blight,clean 1/20,2.0,61,58
 gem,Blight,clean 20/20,35.0,6,6
-gem,Blight,corrupted 20/20,30.0,2,2
 gem,Blight,corrupted 21/20,5.0,10,10
 gem,Blind Support,clean 20/0,3.0,26,26
 gem,Blind Support,corrupted 20/0,15.0,6,6
@@ -4124,8 +4122,8 @@ compass,Unique Monsters drop Corrupted Items,16,9.0,24,8
 compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,16,60.0,11,9
 compass,Maps found in your Maps are Corrupted with 8 Modifiers,16,210.0,27,21
 compass,Strongbox Monsters are Enraged:Strongbox Monsters have 600% increased Item Quantity:Your Maps contain an additional Strongbox,16,1110.0,17,8
-compass,Create a copy of Beasts Captured in your Maps,16,135.0,13,10
-compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contain 8 additional packs of Monsters that Heal,16,5.0,36,13
+compass,Create a copy of Beasts Captured in your Maps,16,150.0,10,7
+compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contain 8 additional packs of Monsters that Heal,16,7.0,35,15
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,120.0,33,16
 compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,16,6.0,17,8
 compass,Your Magic Maps contain 5 additional packs of Magic Monsters:Your Normal Maps contain 5 additional packs of Normal Monsters:Your Rare Maps contain 5 additional Rare Monster packs,16,10.0,54,16
@@ -4219,12 +4217,12 @@ vial,Vial of Awakening,,9.0,7,7
 vial,Vial of Consequence,,85.0,46,23
 vial,Vial of Dominance,,16.0,54,17
 vial,Vial of Fate,,1.0,41,23
-vial,Vial of Summoning,,17.0,99,44
+vial,Vial of Summoning,,15.0,119,49
 vial,Vial of the Ritual,,1.0,17,15
-vial,Vial of Transcendence,,85.0,63,39
+vial,Vial of Transcendence,,78.0,74,47
 vial,Vial of Sacrifice,,20.0,22,5
 logbook,Bruids of the Broken Circle Logbook,ilvl 83+,5.0,100,80
-logbook,Black Scythe Mercenaries Logbook,ilvl 83+,38.0,93,81
+logbook,Black Scythe Mercenaries Logbook,ilvl 83+,34.0,100,83
 logbook,Order of the Chalice Logbook,ilvl 83+,10.0,100,78
 logbook,Knights of the Sun Logbook,ilvl 83+,37.0,100,81
 beast,Craicic Chimeral,,180.0,100,53
@@ -4234,7 +4232,7 @@ beast,Farric Frost Hellion Alpha,,29.0,18,10
 beast,Farric Lynx Alpha,,5.0,100,36
 beast,Farric Wolf Alpha,,14.0,100,52
 beast,Fenumal Plagued Arachnid,,44.0,100,64
-beast,Craicic Spider Crab,,5.0,25,18
+beast,Craicic Spider Crab,,5.0,27,19
 beast,Farric Tiger Alpha,,35.0,57,37
 beast,Fenumal Hybrid Arachnid,,10.0,16,10
 beast,Saqawine Rhex,,5.0,20,14
@@ -4479,6 +4477,7 @@ unique,Replica Loreweave,corrupted,9.0,5,5
 unique,Sporeguard,clean,99.0,50,49
 unique,Sporeguard,clean 6-link,600.0,4,4
 unique,Sporeguard,corrupted,18.0,57,3
+unique,Sporeguard,corrupted 6-link,1350.0,1,1
 unique,The Ivory Tower,clean,3.0,100,100
 unique,The Ivory Tower,clean 6-link,615.0,92,83
 unique,The Ivory Tower,corrupted,2.0,100,97
