@@ -146,6 +146,7 @@ fragment,Archive Reliquary Key,,150.0,16,2
 memory-line,Alva's Memory of Reverse Incursion,,15.0,123,11
 memory-line,Einhar's Memory of Harvest Beasts,,180.0,131,7
 memory-line,Einhar's Memory of Crystal Prisons,,180.0,115,24
+memory-line,Einhar's Memory of the Sacred Grove,,180.0,121,4
 memory-line,Kirac's Memory of the Pantheon,,1.0,122,11
 memory-line,Kirac's Memory of Survivor's Guilt,,50.0,120,15
 memory-line,Kirac's Memory of Phaaryl,,4.0,128,11
@@ -160,35 +161,34 @@ scouting-report,Operative's Scouting Report,,3.0,347,13
 scouting-report,Blighted Scouting Report,,1.0,202,14
 scouting-report,Explorer's Scouting Report,,0.8333333333333334,5520,23
 scouting-report,Influenced Scouting Report,,1.0,897,17
+scouting-report,Delirious Scouting Report,,1.0,214,13
 incubator,Singular Incubator,,0.2962962962962963,3478,21
 incubator,Cartographer's Incubator,,0.6,2346,9
 incubator,Otherworldly Incubator,,0.6,1576,12
+incubator,Abyssal Incubator,,0.4,2457,11
 incubator,Fragmented Incubator,,0.05025125628140704,13487,33
 incubator,Infused Incubator,,0.23972602739726026,9090,27
 incubator,Fossilised Incubator,,0.4,8221,25
 incubator,Skittering Incubator,,0.5,14433,28
+incubator,Foreboding Incubator,,0.4,3521,23
 incubator,Obscured Incubator,,0.42857142857142855,1222,10
-incubator,Celestial Jeweller's Incubator,,0.5,622,15
-incubator,Celestial Armoursmith's Incubator,,0.5,563,15
-incubator,Celestial Blacksmith's Incubator,,1.0,551,12
-incubator,Kalguuran Incubator,,1.0,2436,14
-incubator,Diviner's Incubator,,1.0,1851,14
-incubator,Primal Incubator,,0.8,601,11
-incubator,Geomancer's Incubator,,0.3,1700,20
-incubator,Ornate Incubator,,1.0,2192,10
-incubator,Maddening Incubator,,0.3,1713,13
-incubator,Mysteriou's Incubator,,0.3,9229,20
-incubator,Thaumaturge's Incubator,,0.3,1028,15
-incubator,Blighted Incubator,,0.5,1271,14
-artifact,Astragali,,0.0026246719160104987,32133,42
-artifact,Exotic Coinage,,5.0,10021,15
-artifact,Scrap Metal,,1.0,7148,28
-delirium-orb,Fragmented Delirium Orb,,5.0,298,18
-delirium-orb,Whispering Delirium Orb,,2.0,479,16
-delirium-orb,Obscured Delirium Orb,,3.0,186,25
-delirium-orb,Foreboding Delirium Orb,,1.0,469,18
-delirium-orb,Abyssal Delirium Orb,,8.0,362,25
-delirium-orb,Jeweller's Delirium Orb,,2.0,1013,19
+incubator,Celestial Jeweller's Incubator,,0.5,626,9
+incubator,Celestial Armoursmith's Incubator,,0.5,574,8
+incubator,Celestial Blacksmith's Incubator,,0.5,544,8
+incubator,Kalguuran Incubator,,1.0,4369,27
+incubator,Diviner's Incubator,,1.0,3160,15
+incubator,Primal Incubator,,1.0,564,4
+incubator,Geomancer's Incubator,,0.6666666666666666,1636,15
+incubator,Ornate Incubator,,1.0,4140,11
+incubator,Thaumaturge's Incubator,,0.5,1205,8
+incubator,Blighted Incubator,,0.5,1402,9
+artifact,Exotic Coinage,,5.0,6847,13
+artifact,Burial Medallion,,6.0,3530,18
+delirium-orb,Fragmented Delirium Orb,,7.0,381,14
+delirium-orb,Whispering Delirium Orb,,8.0,490,6
+delirium-orb,Obscured Delirium Orb,,8.0,165,11
+delirium-orb,Foreboding Delirium Orb,,4.0,515,12
+delirium-orb,Abyssal Delirium Orb,,5.0,306,14
 delirium-orb,Cartographer's Delirium Orb,,8.0,234,15
 delirium-orb,Blacksmith's Delirium Orb,,3.0,1011,15
 delirium-orb,Thaumaturge's Delirium Orb,,8.0,337,15
@@ -928,8 +928,8 @@ gem,Anger,clean 20/0,5.0,55,50
 gem,Anger,corrupted 20/0,5.0,98,50
 gem,Anger,corrupted 21/0,58.0,34,31
 gem,Anger,clean 1/20,8.0,33,32
-gem,Anger,clean 20/20,60.0,6,6
-gem,Anger,corrupted 20/20,49.0,22,7
+gem,Anger,clean 20/20,50.0,3,3
+gem,Anger,corrupted 20/20,49.0,9,8
 gem,Anger,corrupted 21/20,390.0,1,1
 gem,Animate Guardian,clean 20/0,9.0,100,74
 gem,Animate Guardian,corrupted 20/0,5.0,100,60
@@ -942,9 +942,9 @@ gem,Animate Weapon,clean 20/0,2.0,72,67
 gem,Animate Weapon,corrupted 20/0,2.0,30,28
 gem,Animate Weapon,corrupted 21/0,3.0,71,70
 gem,Animate Weapon,clean 1/20,2.0,98,91
-gem,Animate Weapon,clean 20/20,20.0,9,9
+gem,Animate Weapon,clean 20/20,16.0,13,13
 gem,Animate Weapon,corrupted 20/20,10.0,19,17
-gem,Animate Weapon,corrupted 21/20,22.0,33,33
+gem,Animate Weapon,corrupted 21/20,15.0,28,28
 gem,Arc,clean 20/0,4.0,100,84
 gem,Arc,corrupted 20/0,2.0,38,29
 gem,Arc,corrupted 21/0,1.0,58,56
@@ -4148,7 +4148,7 @@ compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 add
 compass,25% increased Pack Size in your Unidentified Maps,16,29.0,28,9
 compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,20.0,25,14
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,69.0,19,15
-contract,Lockpicking Contract,ilvl 83+,1.0,98,80
+contract,Lockpicking Contract,ilvl 83+,1.0,99,81
 contract,Brute Force Contract,ilvl 83+,1.0,100,51
 contract,Perception Contract,ilvl 83+,1.0,96,34
 contract,Demolition Contract,ilvl 83+,1.0,99,76
@@ -4221,7 +4221,7 @@ beast,Wild Hellion Alpha,,90.0,100,22
 beast,Craiceann First of the Deep,,19.0,28,15
 beast,Farrul First of the Plains,,29.0,71,18
 beast,Fenumus First of the Night,,21.0,35,7
-beast,Saqawal First of the Sky,,9.0,15,12
+beast,Saqawal First of the Sky,,10.0,24,14
 map,Enslaver's Map,T16,10.0,99,74
 map,Eradicator's Map,T16,10.0,100,73
 map,Constrictor's Map,T16,10.0,99,77
@@ -4271,7 +4271,7 @@ unique,Perfidy,clean,1.0,99,99
 unique,Perfidy,clean 6-link,150.0,2,2
 unique,Perfidy,corrupted,5.0,45,45
 unique,Replica Kaom's Heart,clean,10.0,53,51
-unique,Replica Kaom's Heart,corrupted,15.0,13,12
+unique,Replica Kaom's Heart,corrupted,10.0,14,14
 unique,Ashrend,clean,1.0,77,75
 unique,Ashrend,clean 6-link,100.0,39,39
 unique,Ashrend,corrupted,1.0,100,93
