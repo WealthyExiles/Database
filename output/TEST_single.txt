@@ -52,19 +52,17 @@ currency,Eldritch Chaos Orb,,24.59016393442623,2034,3
 currency,Eldritch Exalted Orb,,9.375,4617,10
 currency,Eldritch Orb of Annulment,,13.125,3629,8
 currency,Greater Eldritch Ember,,0.6666666666666666,14218,15
-currency,Exceptional Eldritch Ember,,10.0,366,13
-currency,Lesser Eldritch Ichor,,0.4838709677419355,56350,25
-currency,Greater Eldritch Ichor,,1.0714285714285714,25399,15
-currency,Sacred Crystallised Lifeforce,,75.0,895,18
-currency,Primal Crystallised Lifeforce,,0.02142857142857143,951013,17
-currency,Vivid Crystallised Lifeforce,,0.022388059701492536,2751064,17
-currency,Wild Crystallised Lifeforce,,0.022058823529411763,949623,17
-currency,Tainted Divine Teardrop,,120.0,72,9
-currency,Tainted Blacksmith's Whetstone,,0.29411764705882354,10981,34
-currency,Tainted Mythic Orb,,8.0,1374,17
-currency,Tainted Exalted Orb,,11.0,84,9
-currency,Tainted Chaos Orb,,8.0,108,13
-currency,Tainted Jeweller's Orb,,2.142857142857143,9868,28
+currency,Grand Eldritch Ember,,2.0,6100,18
+currency,Exceptional Eldritch Ember,,20.0,710,21
+currency,Lesser Eldritch Ichor,,0.4658385093167702,57818,18
+currency,Greater Eldritch Ichor,,1.056338028169014,27830,19
+currency,Grand Eldritch Ichor,,3.488372093023256,9397,5
+currency,Vivid Crystallised Lifeforce,,0.022388059701492536,1753878,11
+currency,Tainted Divine Teardrop,,105.0,193,18
+currency,Tainted Blacksmith's Whetstone,,0.25,11046,34
+currency,Tainted Armourer's Scrap,,0.967741935483871,8379,19
+currency,Tainted Mythic Orb,,0.08333333333333333,1724,18
+currency,Tainted Chaos Orb,,7.0,160,12
 currency,Tainted Orb of Fusing,,45.0,381,4
 currency,Tainted Chromatic Orb,,6.818181818181818,5470,6
 currency,Exceptional Eldritch Ichor,,11.0,622,20
@@ -916,12 +914,12 @@ gem,Added Fire Damage Support,corrupted 21/0,3.0,23,23
 gem,Added Fire Damage Support,clean 1/20,2.0,32,32
 gem,Added Fire Damage Support,clean 20/20,10.0,5,5
 gem,Added Fire Damage Support,corrupted 20/20,8.0,3,3
-gem,Added Fire Damage Support,corrupted 21/20,10.0,10,10
+gem,Added Fire Damage Support,corrupted 21/20,10.0,8,8
 gem,Added Lightning Damage Support,clean 20/0,2.0,56,53
-gem,Added Lightning Damage Support,corrupted 20/0,4.0,9,9
+gem,Added Lightning Damage Support,corrupted 20/0,3.0,13,13
 gem,Added Lightning Damage Support,corrupted 21/0,3.0,31,31
-gem,Added Lightning Damage Support,clean 1/20,4.0,41,38
-gem,Added Lightning Damage Support,clean 20/20,12.0,14,14
+gem,Added Lightning Damage Support,clean 1/20,3.0,46,45
+gem,Added Lightning Damage Support,clean 20/20,14.0,10,10
 gem,Added Lightning Damage Support,corrupted 20/20,11.0,9,8
 gem,Added Lightning Damage Support,corrupted 21/20,15.0,13,13
 gem,Additional Accuracy Support,clean 20/0,5.0,14,14
@@ -4071,11 +4069,11 @@ compass,25% increased Magic Pack Size,4,4.0,100,24
 compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,3.0,100,7
 compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain an additional Essence,4,4.0,98,23
 compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,4,6.0,84,51
-compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,2.0,91,22
+compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,2.0,100,16
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,14.516129032258064,100,44
 compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,3.0,31,16
 compass,20% increased Pack Size in your Unidentified Maps,4,2.4193548387096775,57,28
-compass,Players and Monsters take 12% increased Chaos Damage:Your Maps contain 6 additional packs of Monsters that deal Chaos Damage,4,2.4193548387096775,100,17
+compass,Players and Monsters take 12% increased Chaos Damage:Your Maps contain 6 additional packs of Monsters that deal Chaos Damage,4,3.0,81,11
 compass,Strongbox Monsters are Enraged:Strongbox Monsters have 500% increased Item Quantity:Your Maps contain an additional Strongbox,4,96.7741935483871,100,56
 compass,Your Maps contain Ritual Altars,4,3.0,100,50
 compass,Players and Monsters take 12% increased Lightning Damage:Your Maps contain 6 additional packs of Monsters that deal Lightning Damage,4,3.0,100,3
@@ -4264,7 +4262,7 @@ beast,Farrul First of the Plains,,40.0,44,7
 beast,Fenumus First of the Night,,20.0,29,13
 beast,Saqawal First of the Sky,,10.0,23,12
 map,Enslaver's Map,T16,10.0,96,68
-map,Eradicator's Map,T16,10.0,100,66
+map,Eradicator's Map,T16,10.0,99,67
 map,Constrictor's Map,T16,10.0,99,64
 map,Purifier's Map,T16,10.0,100,72
 map,Baran's Citadel,T16,32.0,99,79
@@ -4285,9 +4283,9 @@ unique,Greed's Embrace,corrupted 6-link,160.0,100,91
 unique,Craiceann's Carapace,clean,5.0,45,42
 unique,Craiceann's Carapace,corrupted,14.0,3,2
 unique,Lioneye's Vision,clean,1.0,87,86
-unique,Lioneye's Vision,clean 6-link,420.0,16,16
-unique,Lioneye's Vision,corrupted,1.0,100,100
-unique,Lioneye's Vision,corrupted 6-link,285.0,19,19
+unique,Lioneye's Vision,clean 6-link,405.0,26,23
+unique,Lioneye's Vision,corrupted,1.0,100,95
+unique,Lioneye's Vision,corrupted 6-link,270.0,30,30
 unique,The Iron Fortress,clean,5.0,100,97
 unique,The Iron Fortress,clean 6-link,600.0,18,17
 unique,The Iron Fortress,corrupted,2.0,48,45
