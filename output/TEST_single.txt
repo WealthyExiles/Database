@@ -58,39 +58,49 @@ currency,Tainted Mythic Orb,,9.0,1953,18
 currency,Tainted Exalted Orb,,11.0,115,21
 currency,Tainted Chaos Orb,,7.0,167,19
 currency,Tainted Orb of Fusing,,45.0,178,1
-currency,Exalted Shard,,1.0,411,17
-currency,Annulment Shard,,1.0,698,21
-currency,Ancient Shard,,0.8333333333333334,623,23
-currency,Mirror Shard,,2220.0,229,14
+currency,Exalted Shard,,0.9,468,24
+currency,Annulment Shard,,0.8571428571428571,695,25
+currency,Ancient Shard,,0.8333333333333334,640,28
+currency,Fracturing Shard,,60.0,648,4
+currency,Mirror Shard,,2115.0,196,20
 fragment,Splinter of Xoph,,0.25,2155,14
 fragment,Splinter of Tul,,0.3125,2616,18
+fragment,Splinter of Esh,,0.3225806451612903,3037,19
 fragment,Splinter of Uul-Netol,,0.5,2358,18
 fragment,Splinter of Chayula,,0.45454545454545453,1429,13
 fragment,Timeless Karui Splinter,,0.16666666666666666,3987,30
 fragment,Timeless Eternal Empire Splinter,,0.16666666666666666,3734,25
+fragment,Timeless Vaal Splinter,,0.125,3968,24
 fragment,Timeless Templar Splinter,,0.2,3074,26
+fragment,Simulacrum Splinter,,0.125,13819,37
 fragment,Ritual Splinter,,0.058823529411764705,3465,25
 fragment,Timeless Maraketh Splinter,,0.2,2722,19
 fragment,Divine Vessel,,1.0,3993,29
 fragment,Sacrifice at Dusk,,0.3333333333333333,21962,35
 fragment,Sacrifice at Midnight,,0.8333333333333334,7468,27
+fragment,Sacrifice at Dawn,,0.4,18330,30
 fragment,Sacrifice at Noon,,0.5,15624,30
 fragment,Mortal Grief,,6.0,625,17
 fragment,Mortal Rage,,10.0,735,20
 fragment,Mortal Hope,,7.0,1366,24
 fragment,Mortal Ignorance,,16.0,309,10
 fragment,Fragment of the Hydra,,10.0,1300,25
+fragment,Fragment of the Phoenix,,8.823529411764707,1744,24
 fragment,Fragment of the Minotaur,,8.823529411764707,1786,22
 fragment,Fragment of the Chimera,,10.0,807,30
 fragment,Fragment of Enslavement,,6.0,759,19
 fragment,Fragment of Eradication,,6.0,684,17
+fragment,Fragment of Constriction,,6.0,566,27
 fragment,Fragment of Purification,,14.0,905,25
 fragment,Fragment of Emptiness,,25.0,2058,27
 fragment,Fragment of Terror,,25.0,1888,30
+fragment,Fragment of Shape,,75.0,674,1
 fragment,Fragment of Knowledge,,60.0,616,3
 fragment,Al-Hezmin's Crest,,15.0,661,22
 fragment,Baran's Crest,,5.0,670,24
+fragment,Drox's Crest,,11.538461538461538,647,21
 fragment,Veritania's Crest,,19.0,652,13
+fragment,Offering to the Goddess,,2.0,5052,45
 fragment,Tribute to the Goddess,,6.0,103,6
 fragment,Gift to the Goddess,,55.0,220,19
 fragment,Dedication to the Goddess,,9.0,103,7
@@ -98,15 +108,18 @@ fragment,Xoph's Breachstone,,37.5,459,19
 fragment,Tul's Breachstone,,37.5,435,11
 fragment,Esh's Breachstone,,37.5,495,13
 fragment,Uul-Netol's Breachstone,,37.5,781,23
+fragment,Chayula's Breachstone,,0.3333333333333333,1740,5
 fragment,Xoph's Flawless Breachstone,,210.0,5,3
 fragment,Tul's Flawless Breachstone,,225.0,6,3
 fragment,Esh's Flawless Breachstone,,210.0,4,2
 fragment,Uul-Netol's Flawless Breachstone,,225.0,2,2
 fragment,Chayula's Flawless Breachstone,,330.0,96,6
+fragment,Timeless Karui Emblem,,1.9,6230,37
 fragment,Timeless Vaal Emblem,,3.0,4146,32
 fragment,Timeless Templar Emblem,,9.375,2778,9
 fragment,Timeless Maraketh Emblem,,8.823529411764707,2734,9
 fragment,Unrelenting Timeless Eternal Emblem,,21.0,163,21
+fragment,Unrelenting Timeless Karui Emblem,,15.0,299,19
 fragment,Unrelenting Timeless Templar Emblem,,24.0,376,25
 fragment,Unrelenting Timeless Vaal Emblem,,10.0,216,18
 fragment,Unrelenting Timeless Maraketh Emblem,,27.0,307,20
@@ -117,6 +130,7 @@ invitation,Maven's Invitation: The Formed,,80.0,153,15
 invitation,Maven's Invitation: The Twisted,,65.0,130,14
 invitation,Maven's Invitation: The Forgotten,,10.0,154,7
 invitation,Maven's Invitation: The Hidden,,8.0,227,10
+invitation,Maven's Invitation: The Feared,,5.0,527,16
 invitation,Maven's Invitation: The Elderslayers,,105.0,135,3
 invitation,The Maven's Writ,,150.0,296,3
 invitation,Writhing Invitation,,2.0,307,13
@@ -901,7 +915,7 @@ gem,Ancestral Protector,corrupted 20/0,5.0,17,16
 gem,Ancestral Protector,corrupted 21/0,2.0,40,39
 gem,Ancestral Protector,clean 1/20,4.0,55,52
 gem,Ancestral Protector,clean 20/20,55.0,24,16
-gem,Ancestral Protector,corrupted 20/20,90.0,1,1
+gem,Ancestral Protector,corrupted 20/20,50.0,3,3
 gem,Ancestral Protector,corrupted 21/20,80.0,12,12
 gem,Ancestral Warchief,clean 20/0,2.0,68,66
 gem,Ancestral Warchief,corrupted 20/0,2.0,12,12
@@ -4191,10 +4205,10 @@ beast,Farric Frost Hellion Alpha,,28.0,30,22
 beast,Farric Lynx Alpha,,5.0,100,52
 beast,Farric Wolf Alpha,,14.0,100,52
 beast,Fenumal Plagued Arachnid,,44.0,100,64
-beast,Craicic Spider Crab,,5.0,19,15
+beast,Craicic Spider Crab,,1.0,12,9
 beast,Farric Tiger Alpha,,35.0,57,37
-beast,Fenumal Hybrid Arachnid,,10.0,9,8
-beast,Saqawine Rhex,,8.0,26,8
+beast,Fenumal Hybrid Arachnid,,14.0,5,4
+beast,Saqawine Rhex,,8.0,9,5
 beast,Primal Crushclaw,,4.0,56,13
 beast,Primal Cystcaller,,4.0,48,9
 beast,Primal Rhex Matriarch,,17.0,50,17
@@ -4248,7 +4262,7 @@ unique,Blunderbore,clean 6-link,225.0,15,14
 unique,Blunderbore,corrupted,1.0,100,95
 unique,Blunderbore,corrupted 6-link,450.0,20,20
 unique,The Brass Dome,clean,8.0,100,97
-unique,The Brass Dome,clean 6-link,450.0,39,39
+unique,The Brass Dome,clean 6-link,450.0,45,45
 unique,The Brass Dome,corrupted,5.0,100,96
 unique,The Brass Dome,corrupted 6-link,600.0,28,26
 unique,Kaom's Heart,clean,5.0,100,100
