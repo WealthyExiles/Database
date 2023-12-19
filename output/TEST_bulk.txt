@@ -459,15 +459,15 @@ currency,Exalted Shard,,0.6666666666666666,1,22
 currency,Exalted Shard,,0.8888888888888888,9,13
 currency,Exalted Shard,,18.0,18,3
 currency,Exalted Shard,,150.0,30,1
-currency,Annulment Shard,,1.0,1,26
+currency,Annulment Shard,,1.0,1,23
 currency,Annulment Shard,,1.0,9,17
 currency,Annulment Shard,,1.0,18,8
 currency,Annulment Shard,,1.0,30,1
 currency,Ancient Shard,,1.0,1,28
 currency,Ancient Shard,,1.0,9,17
 currency,Ancient Shard,,1.0,18,6
-currency,Fracturing Shard,,50.0,1,2
-currency,Fracturing Shard,,75.0,9,1
+currency,Fracturing Shard,,68.18181818181817,1,2
+currency,Fracturing Shard,,68.18181818181817,9,2
 currency,Mirror Shard,,2820.0,1,13
 currency,Mirror Shard,,2850.0,9,4
 currency,Mirror Shard,,2850.0,18,1
@@ -7525,80 +7525,90 @@ gem,Galvanic Field,clean 1/20,3.0,1,72
 gem,Galvanic Field,clean 20/20,40.0,1,11
 gem,Galvanic Field,corrupted 21/20,70.0,1,12
 gem,Lightning Conduit,clean 20/0,3.0,1,56
-gem,Lightning Conduit,corrupted 20/0,2.0,1,19
-gem,Lightning Conduit,corrupted 21/0,3.0,1,82
-gem,Lightning Conduit,clean 1/20,3.0,1,63
-gem,Lightning Conduit,clean 20/20,20.0,1,5
-gem,Lightning Conduit,corrupted 20/20,10.0,1,13
-gem,Lightning Conduit,corrupted 21/20,20.0,1,44
-gem,Overcharge Support,clean 20/0,5.0,1,17
-gem,Overcharge Support,corrupted 20/0,10.0,1,9
-gem,Overcharge Support,corrupted 21/0,5.0,1,25
-gem,Overcharge Support,clean 1/20,1.0,1,27
-gem,Overcharge Support,clean 20/20,90.0,1,1
-gem,Overcharge Support,corrupted 20/20,40.0,1,1
-gem,Overcharge Support,corrupted 21/20,20.0,1,8
-gem,Alchemist's Mark,clean 20/0,2.0,1,12
-gem,Alchemist's Mark,corrupted 20/0,5.0,1,5
-gem,Alchemist's Mark,corrupted 21/0,3.0,1,58
-gem,Alchemist's Mark,clean 1/20,1.0,1,46
-gem,Alchemist's Mark,corrupted 20/20,5.0,1,1
-gem,Alchemist's Mark,corrupted 21/20,9.0,1,9
-gem,Cursed Ground Support,clean 20/0,5.0,1,5
-gem,Cursed Ground Support,corrupted 20/0,11.0,1,1
-gem,Cursed Ground Support,corrupted 21/0,3.0,1,22
-gem,Cursed Ground Support,clean 1/20,3.0,1,23
-gem,Cursed Ground Support,corrupted 21/20,10.0,1,3
-gem,Hex Bloom Support,clean 20/0,3.0,1,18
-gem,Hex Bloom Support,corrupted 21/0,5.0,1,12
-gem,Hex Bloom Support,clean 1/20,2.0,1,30
-gem,Hex Bloom Support,clean 20/20,50.0,1,1
-gem,Hex Bloom Support,corrupted 21/20,40.0,1,5
-gem,Volcanic Fissure,clean 20/0,3.0,1,16
-gem,Volcanic Fissure,corrupted 20/0,5.0,1,3
-gem,Volcanic Fissure,corrupted 21/0,3.0,1,43
-gem,Volcanic Fissure,clean 1/20,1.0,1,36
-gem,Volcanic Fissure,clean 20/20,20.0,1,2
-gem,Volcanic Fissure,corrupted 21/20,9.0,1,14
-gem,Frozen Legion,clean 20/0,3.0,1,19
-gem,Frozen Legion,corrupted 20/0,5.0,1,4
-gem,Frozen Legion,corrupted 21/0,2.0,1,38
-gem,Frozen Legion,clean 1/20,2.0,1,40
-gem,Frozen Legion,clean 20/20,48.0,1,4
-gem,Frozen Legion,corrupted 21/20,10.0,1,9
-gem,Manaforged Arrows Support,clean 20/0,4.0,1,80
-gem,Manaforged Arrows Support,corrupted 20/0,7.0,1,39
-gem,Manaforged Arrows Support,corrupted 21/0,9.0,1,29
-gem,Manaforged Arrows Support,clean 1/20,9.0,1,55
-gem,Manaforged Arrows Support,clean 20/20,32.0,1,20
-gem,Manaforged Arrows Support,corrupted 20/20,20.0,1,21
-gem,Manaforged Arrows Support,corrupted 21/20,72.0,1,16
-gem,Momentum Support,clean 20/0,2.0,1,55
-gem,Momentum Support,corrupted 20/0,3.0,1,8
-gem,Momentum Support,corrupted 21/0,4.0,1,13
-gem,Momentum Support,clean 1/20,5.0,1,31
-gem,Momentum Support,clean 20/20,40.0,1,8
-gem,Momentum Support,corrupted 20/20,40.0,1,1
-gem,Momentum Support,corrupted 21/20,65.0,1,5
-gem,Prismatic Burst Support,clean 20/0,5.0,1,9
-gem,Prismatic Burst Support,corrupted 20/0,4.0,1,5
-gem,Prismatic Burst Support,corrupted 21/0,3.0,1,18
-gem,Prismatic Burst Support,clean 1/20,4.0,1,28
-gem,Prismatic Burst Support,clean 20/20,69.0,1,1
-gem,Prismatic Burst Support,corrupted 21/20,5.0,1,8
-gem,Blood and Sand,clean 1/0,1.0,1,86
-gem,Blood and Sand,clean 6/0,15.0,1,6
-gem,Blood and Sand,corrupted 6/0,5.0,1,10
-gem,Blood and Sand,corrupted 7/0,95.0,1,6
-gem,Blood and Sand,clean 1/20,3.0,1,53
-gem,Brand Recall,clean 1/0,1.0,1,88
-gem,Brand Recall,clean 6/0,1.0,1,8
-gem,Brand Recall,corrupted 6/0,2.0,1,5
+gem,Lightning Conduit,corrupted 20/0,8.0,1,31
+gem,Lightning Conduit,corrupted 21/0,2.0,1,80
+gem,Lightning Conduit,clean 1/20,2.0,1,71
+gem,Lightning Conduit,clean 20/20,25.0,1,8
+gem,Lightning Conduit,corrupted 20/20,8.0,1,13
+gem,Lightning Conduit,corrupted 21/20,20.0,1,30
+gem,Overcharge Support,clean 20/0,5.0,1,28
+gem,Overcharge Support,corrupted 20/0,5.0,1,8
+gem,Overcharge Support,corrupted 21/0,6.0,1,48
+gem,Overcharge Support,clean 1/20,2.0,1,37
+gem,Overcharge Support,clean 20/20,36.0,1,5
+gem,Overcharge Support,corrupted 20/20,20.0,1,1
+gem,Overcharge Support,corrupted 21/20,41.0,1,12
+gem,Alchemist's Mark,clean 20/0,3.0,1,30
+gem,Alchemist's Mark,corrupted 20/0,3.0,1,11
+gem,Alchemist's Mark,corrupted 21/0,3.0,1,64
+gem,Alchemist's Mark,clean 1/20,2.0,1,49
+gem,Alchemist's Mark,clean 20/20,15.0,1,8
+gem,Alchemist's Mark,corrupted 20/20,5.0,1,2
+gem,Alchemist's Mark,corrupted 21/20,8.0,1,13
+gem,Cursed Ground Support,clean 20/0,6.0,1,15
+gem,Cursed Ground Support,corrupted 20/0,5.0,1,3
+gem,Cursed Ground Support,corrupted 21/0,3.0,1,30
+gem,Cursed Ground Support,clean 1/20,2.0,1,24
+gem,Cursed Ground Support,clean 20/20,80.0,1,6
+gem,Cursed Ground Support,corrupted 21/20,95.0,1,9
+gem,Hex Bloom Support,clean 20/0,4.0,1,20
+gem,Hex Bloom Support,corrupted 20/0,7.0,1,13
+gem,Hex Bloom Support,corrupted 21/0,5.0,1,33
+gem,Hex Bloom Support,clean 1/20,3.0,1,37
+gem,Hex Bloom Support,clean 20/20,30.0,1,6
+gem,Hex Bloom Support,corrupted 20/20,25.0,1,8
+gem,Hex Bloom Support,corrupted 21/20,30.0,1,12
+gem,Volcanic Fissure,clean 20/0,3.0,1,33
+gem,Volcanic Fissure,corrupted 20/0,10.0,1,11
+gem,Volcanic Fissure,corrupted 21/0,2.0,1,56
+gem,Volcanic Fissure,clean 1/20,2.0,1,57
+gem,Volcanic Fissure,clean 20/20,20.0,1,10
+gem,Volcanic Fissure,corrupted 20/20,60.0,1,4
+gem,Volcanic Fissure,corrupted 21/20,8.0,1,18
+gem,Frozen Legion,clean 20/0,2.0,1,27
+gem,Frozen Legion,corrupted 20/0,10.0,1,3
+gem,Frozen Legion,corrupted 21/0,2.0,1,56
+gem,Frozen Legion,clean 1/20,2.0,1,51
+gem,Frozen Legion,clean 20/20,20.0,1,9
+gem,Frozen Legion,corrupted 20/20,10.0,1,2
+gem,Frozen Legion,corrupted 21/20,9.0,1,11
+gem,Manaforged Arrows Support,clean 20/0,5.0,1,93
+gem,Manaforged Arrows Support,corrupted 20/0,5.0,1,74
+gem,Manaforged Arrows Support,corrupted 21/0,7.0,1,54
+gem,Manaforged Arrows Support,clean 1/20,14.0,1,87
+gem,Manaforged Arrows Support,clean 20/20,30.0,1,38
+gem,Manaforged Arrows Support,corrupted 20/20,30.0,1,25
+gem,Manaforged Arrows Support,corrupted 21/20,80.0,1,27
+gem,Momentum Support,clean 20/0,3.0,1,56
+gem,Momentum Support,corrupted 20/0,5.0,1,22
+gem,Momentum Support,corrupted 21/0,3.0,1,25
+gem,Momentum Support,clean 1/20,5.0,1,36
+gem,Momentum Support,clean 20/20,40.0,1,13
+gem,Momentum Support,corrupted 20/20,45.0,1,6
+gem,Momentum Support,corrupted 21/20,150.0,1,9
+gem,Prismatic Burst Support,clean 20/0,2.0,1,9
+gem,Prismatic Burst Support,corrupted 20/0,2.0,1,8
+gem,Prismatic Burst Support,corrupted 21/0,2.0,1,35
+gem,Prismatic Burst Support,clean 1/20,3.0,1,33
+gem,Prismatic Burst Support,clean 20/20,60.0,1,2
+gem,Prismatic Burst Support,corrupted 21/20,10.0,1,7
+gem,Blood and Sand,clean 1/0,1.0,1,80
+gem,Blood and Sand,clean 6/0,10.0,1,6
+gem,Blood and Sand,corrupted 6/0,8.0,1,28
+gem,Blood and Sand,corrupted 7/0,120.0,1,6
+gem,Blood and Sand,clean 1/20,2.0,1,57
+gem,Blood and Sand,corrupted 6/20,100.0,1,3
+gem,Brand Recall,clean 1/0,1.0,1,81
+gem,Brand Recall,clean 6/0,10.0,1,12
+gem,Brand Recall,corrupted 6/0,10.0,1,9
+gem,Brand Recall,corrupted 7/0,40.0,1,7
 gem,Brand Recall,clean 1/20,3.0,1,43
-gem,Brand Recall,corrupted 6/20,29.0,1,1
-gem,Empower Support,clean 1/20,100.0,1,21
-gem,Enlighten Support,clean 1/20,555.0,1,9
-gem,Enhance Support,clean 1/20,70.0,1,5
+gem,Brand Recall,clean 6/20,50.0,1,2
+gem,Brand Recall,corrupted 6/20,150.0,1,1
+gem,Brand Recall,corrupted 7/20,150.0,1,2
+gem,Empower Support,clean 1/20,110.0,1,15
+gem,Enlighten Support,clean 1/20,525.0,1,30
+gem,Enhance Support,clean 1/20,80.0,1,6
 gem,Portal,clean 1/20,14.0,1,49
 gem,Detonate Mines,clean 1/20,16.0,1,17
 gem,Awakened Minion Damage Support,clean 1/0,150.0,1,79
@@ -8152,12 +8162,12 @@ vial,Vial of Fate,,2.0,9,3
 vial,Vial of Summoning,,18.0,1,40
 vial,Vial of the Ritual,,1.0,1,21
 vial,Vial of the Ritual,,2.0,9,1
-vial,Vial of Transcendence,,80.0,1,38
-vial,Vial of Transcendence,,80.0,9,6
+vial,Vial of Transcendence,,78.0,1,27
+vial,Vial of Transcendence,,80.0,9,3
 vial,Vial of Sacrifice,,12.0,1,4
 vial,Vial of Sacrifice,,60.0,9,1
 vial,Vial of the Ghost,,150.0,1,1
-logbook,Bruids of the Broken Circle Logbook,ilvl 83+,5.0,1,83
+logbook,Bruids of the Broken Circle Logbook,ilvl 83+,8.0,1,83
 logbook,Black Scythe Mercenaries Logbook,ilvl 83+,34.0,1,88
 logbook,Order of the Chalice Logbook,ilvl 83+,10.0,1,90
 logbook,Knights of the Sun Logbook,ilvl 83+,40.0,1,86
@@ -9939,46 +9949,47 @@ unique,Replica Bloodplay,clean,2.0,1,41
 unique,Replica Bloodplay,corrupted,150.0,1,1
 unique,Dyadus,clean,1.0,1,83
 unique,Dyadus,corrupted,1.0,1,96
-unique,Mon'tregul's Grasp,clean,1.0,1,97
-unique,Mon'tregul's Grasp,corrupted,1.0,1,51
-unique,Victario's Charity,clean,1.0,1,87
-unique,Victario's Charity,corrupted,1.0,1,97
-unique,Seven-League Step,clean,42.0,1,80
-unique,Seven-League Step,corrupted,40.0,1,41
-unique,Ungil's Gauche,clean,1.0,1,71
-unique,Ungil's Gauche,corrupted,1.0,1,73
-unique,The Deep One's Hide,clean,1.0,1,65
+unique,Mon'tregul's Grasp,clean,1.0,1,98
+unique,Mon'tregul's Grasp,corrupted,2.0,1,89
+unique,Victario's Charity,clean,1.0,1,91
+unique,Victario's Charity,corrupted,1.0,1,98
+unique,Seven-League Step,clean,35.0,1,90
+unique,Seven-League Step,corrupted,30.0,1,92
+unique,Ungil's Gauche,clean,1.0,1,67
+unique,Ungil's Gauche,corrupted,1.0,1,84
+unique,The Deep One's Hide,clean,1.0,1,78
 unique,The Deep One's Hide,corrupted,1.0,1,99
-unique,The Anvil,clean,1.0,1,66
+unique,The Anvil,clean,1.0,1,64
 unique,The Anvil,corrupted,1.0,1,95
-unique,Death Rush,clean,14.0,1,96
-unique,Death Rush,corrupted,15.0,1,87
-unique,The Hour of Divinity,clean,150.0,1,80
-unique,Impossible Escape,corrupted,10.0,1,79
-unique,Replica Doedre's Damning,clean,1.0,1,97
-unique,Replica Doedre's Damning,corrupted,4.0,1,7
-unique,Advancing Fortress,clean,1.0,1,66
+unique,Death Rush,clean,9.0,1,99
+unique,Death Rush,corrupted,10.0,1,99
+unique,The Hour of Divinity,clean,150.0,1,85
+unique,Impossible Escape,corrupted,10.0,1,70
+unique,Replica Doedre's Damning,clean,1.0,1,89
+unique,Replica Doedre's Damning,corrupted,4.0,1,10
+unique,Advancing Fortress,clean,1.0,1,78
 unique,Advancing Fortress,corrupted,1.0,1,99
-unique,Bisco's Leash,clean,4.0,1,98
-unique,Bisco's Leash,corrupted,3.0,1,97
-unique,Watcher's Eye,clean,15.0,1,66
-unique,Watcher's Eye,corrupted,7.0,1,88
-unique,Tulfall,clean,165.0,1,14
-unique,Elevore,clean,1.0,1,86
-unique,Elevore,corrupted,1.0,1,99
-unique,Replica Red Trail,clean,4.0,1,38
-unique,Hyrri's Truth,clean,2.0,1,100
-unique,Hyrri's Truth,corrupted,2.0,1,85
-unique,The Baron,clean,1.0,1,87
-unique,The Baron,corrupted,1.0,1,76
-unique,Skullhead,clean,1.0,1,79
-unique,Skullhead,corrupted,1.0,1,97
-unique,The Black Cane,clean,1.0,1,92
-unique,The Black Cane,corrupted,1.0,1,41
-unique,Heretic's Veil,clean,1.0,1,79
-unique,Heretic's Veil,corrupted,3.0,1,23
-unique,Willowgift,clean,1.0,1,82
-unique,Willowgift,corrupted,1.0,1,95
+unique,Bisco's Leash,clean,3.0,1,96
+unique,Bisco's Leash,corrupted,4.0,1,75
+unique,Watcher's Eye,clean,18.0,1,85
+unique,Watcher's Eye,corrupted,4.0,1,94
+unique,Tulfall,clean,150.0,1,14
+unique,Elevore,clean,1.0,1,84
+unique,Elevore,corrupted,1.0,1,97
+unique,Replica Red Trail,clean,4.0,1,52
+unique,Replica Red Trail,corrupted,150.0,1,3
+unique,Hyrri's Truth,clean,2.0,1,92
+unique,Hyrri's Truth,corrupted,2.0,1,90
+unique,The Baron,clean,1.0,1,80
+unique,The Baron,corrupted,1.0,1,98
+unique,Skullhead,clean,1.0,1,86
+unique,Skullhead,corrupted,1.0,1,99
+unique,The Black Cane,clean,1.0,1,95
+unique,The Black Cane,corrupted,1.0,1,59
+unique,Heretic's Veil,clean,2.0,1,66
+unique,Heretic's Veil,corrupted,2.0,1,35
+unique,Willowgift,clean,1.0,1,75
+unique,Willowgift,corrupted,1.0,1,98
 unique,Auxium,clean,1.0,1,95
 unique,Auxium,corrupted,1.0,1,96
 unique,Oskarm,clean,1.0,1,97
