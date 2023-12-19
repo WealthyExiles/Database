@@ -80,9 +80,9 @@ currency,Tainted Chromatic Orb,,4.3478260869565215,4842,3
 currency,Orb of Conflict,,23.076923076923077,1600,4
 currency,Exceptional Eldritch Ichor,,5.0,1773,29
 currency,Exalted Shard,,0.6666666666666666,566,23
-currency,Annulment Shard,,0.875,729,22
+currency,Annulment Shard,,1.0,775,26
 currency,Ancient Shard,,1.0,538,22
-currency,Fracturing Shard,,40.0,349,2
+currency,Fracturing Shard,,33.33333333333333,373,2
 currency,Mirror Shard,,1850.0,248,12
 fragment,Splinter of Xoph,,0.25,2701,18
 fragment,Splinter of Tul,,0.25,2523,18
@@ -153,19 +153,19 @@ invitation,Maven's Invitation: The Atlas,,4.0,556,13
 invitation,Maven's Invitation: The Formed,,70.0,147,15
 invitation,Maven's Invitation: The Twisted,,50.0,166,18
 invitation,Maven's Invitation: The Forgotten,,14.0,193,11
-invitation,Maven's Invitation: The Hidden,,9.0,261,11
-invitation,Maven's Invitation: The Feared,,5.0,735,18
-invitation,Maven's Invitation: The Elderslayers,,70.0,127,3
-invitation,The Maven's Writ,,100.0,120,3
-invitation,Writhing Invitation,,2.0,440,20
-invitation,Screaming Invitation,,60.0,103,2
+invitation,Maven's Invitation: The Hidden,,8.0,266,10
+invitation,Maven's Invitation: The Feared,,1.0,815,18
+invitation,Maven's Invitation: The Elderslayers,,70.0,158,4
+invitation,The Maven's Writ,,1.0,143,5
+invitation,Writhing Invitation,,2.0,323,13
+invitation,Screaming Invitation,,70.0,784,7
 invitation,Polaric Invitation,,5.0,313,18
-invitation,Incandescent Invitation,,60.0,241,5
-fragment,Forgotten Reliquary Key,,100.0,7,2
+invitation,Incandescent Invitation,,70.0,189,4
+fragment,Forgotten Reliquary Key,,100.0,8,3
 fragment,Visceral Reliquary Key,,130.0,39,5
-fragment,Shiny Reliquary Key,,150.0,41,6
-fragment,Oubliette Reliquary Key,,100.0,21,2
-fragment,Cosmic Reliquary Key,,120.0,27,6
+fragment,Shiny Reliquary Key,,170.0,34,5
+fragment,Oubliette Reliquary Key,,100.0,18,2
+fragment,Cosmic Reliquary Key,,100.0,25,7
 fragment,Voidborn Reliquary Key,,60.0,109,2
 fragment,Decaying Reliquary Key,,150.0,8,2
 fragment,Archive Reliquary Key,,150.0,22,2
@@ -3415,65 +3415,66 @@ gem,Trap Support,corrupted 20/20,29.0,2,2
 gem,Trap Support,corrupted 21/20,30.0,14,14
 gem,Trinity Support,clean 20/0,4.0,100,98
 gem,Trinity Support,corrupted 20/0,4.0,100,82
-gem,Trinity Support,corrupted 21/0,3.0,22,22
-gem,Trinity Support,clean 1/20,8.0,70,69
-gem,Trinity Support,clean 20/20,16.0,39,38
-gem,Trinity Support,corrupted 20/20,14.0,68,45
-gem,Trinity Support,corrupted 21/20,90.0,5,5
-gem,Unbound Ailments Support,clean 20/0,4.0,100,95
-gem,Unbound Ailments Support,corrupted 20/0,5.0,100,98
-gem,Unbound Ailments Support,corrupted 21/0,10.0,48,46
-gem,Unbound Ailments Support,clean 1/20,10.0,100,99
-gem,Unbound Ailments Support,clean 20/20,19.0,82,74
-gem,Unbound Ailments Support,corrupted 20/20,20.0,69,67
-gem,Unbound Ailments Support,corrupted 21/20,38.0,18,18
-gem,Unearth,clean 20/0,3.0,19,19
-gem,Unearth,corrupted 20/0,8.0,4,4
-gem,Unearth,corrupted 21/0,3.0,52,49
-gem,Unearth,clean 1/20,2.0,55,54
-gem,Unearth,clean 20/20,19.0,4,4
-gem,Unearth,corrupted 20/20,8.0,3,3
-gem,Unearth,corrupted 21/20,10.0,8,8
-gem,Unleash Support,clean 20/0,4.0,100,99
-gem,Unleash Support,corrupted 20/0,4.0,51,48
-gem,Unleash Support,corrupted 21/0,5.0,26,25
-gem,Unleash Support,clean 1/20,6.0,68,67
-gem,Unleash Support,clean 20/20,30.0,28,28
-gem,Unleash Support,corrupted 20/20,30.0,14,14
-gem,Unleash Support,corrupted 21/20,70.0,9,8
-gem,Urgent Orders Support,clean 20/0,20.0,19,7
-gem,Urgent Orders Support,corrupted 20/0,100.0,1,1
-gem,Urgent Orders Support,corrupted 21/0,15.0,17,17
-gem,Urgent Orders Support,clean 1/20,5.0,18,18
-gem,Urgent Orders Support,clean 20/20,80.0,1,1
-gem,Vengeance,clean 20/0,2.0,14,14
-gem,Vengeance,corrupted 20/0,15.0,3,3
-gem,Vengeance,corrupted 21/0,2.0,51,47
-gem,Vengeance,clean 1/20,2.0,39,36
-gem,Vengeance,corrupted 20/20,20.0,1,1
-gem,Vengeance,corrupted 21/20,10.0,10,9
-gem,Venom Gyre,clean 20/0,3.0,25,22
-gem,Venom Gyre,corrupted 20/0,2.0,28,18
-gem,Venom Gyre,corrupted 21/0,2.0,63,61
-gem,Venom Gyre,clean 1/20,5.0,68,64
-gem,Venom Gyre,clean 20/20,29.0,11,9
-gem,Venom Gyre,corrupted 20/20,8.0,11,8
-gem,Venom Gyre,corrupted 21/20,7.0,16,16
-gem,Vicious Projectiles Support,clean 20/0,3.0,100,96
-gem,Vicious Projectiles Support,corrupted 20/0,3.0,70,68
-gem,Vicious Projectiles Support,corrupted 21/0,5.0,58,55
-gem,Vicious Projectiles Support,clean 1/20,7.0,100,96
-gem,Vicious Projectiles Support,clean 20/20,10.0,65,63
-gem,Vicious Projectiles Support,corrupted 20/20,10.0,32,32
-gem,Vicious Projectiles Support,corrupted 21/20,19.0,21,21
-gem,Vigilant Strike,clean 20/0,3.0,15,14
-gem,Vigilant Strike,corrupted 20/0,10.0,1,1
-gem,Vigilant Strike,corrupted 21/0,2.0,46,44
-gem,Vigilant Strike,clean 1/20,2.0,45,40
-gem,Vigilant Strike,corrupted 21/20,8.0,10,10
-gem,Vile Toxins Support,clean 20/0,8.0,25,22
-gem,Vile Toxins Support,corrupted 20/0,10.0,4,4
-gem,Vile Toxins Support,corrupted 21/0,8.0,16,16
+gem,Trinity Support,corrupted 21/0,5.0,54,53
+gem,Trinity Support,clean 1/20,9.0,100,90
+gem,Trinity Support,clean 20/20,20.0,42,37
+gem,Trinity Support,corrupted 20/20,15.0,100,69
+gem,Trinity Support,corrupted 21/20,150.0,27,26
+gem,Unbound Ailments Support,clean 20/0,5.0,98,97
+gem,Unbound Ailments Support,corrupted 20/0,5.0,100,94
+gem,Unbound Ailments Support,corrupted 21/0,9.0,72,72
+gem,Unbound Ailments Support,clean 1/20,9.0,100,99
+gem,Unbound Ailments Support,clean 20/20,14.0,100,98
+gem,Unbound Ailments Support,corrupted 20/20,10.0,93,87
+gem,Unbound Ailments Support,corrupted 21/20,30.0,32,32
+gem,Unearth,clean 20/0,3.0,24,24
+gem,Unearth,corrupted 20/0,20.0,10,9
+gem,Unearth,corrupted 21/0,3.0,60,57
+gem,Unearth,clean 1/20,2.0,56,52
+gem,Unearth,clean 20/20,29.0,4,4
+gem,Unearth,corrupted 20/20,20.0,5,5
+gem,Unearth,corrupted 21/20,75.0,20,20
+gem,Unleash Support,clean 20/0,4.0,98,98
+gem,Unleash Support,corrupted 20/0,5.0,74,62
+gem,Unleash Support,corrupted 21/0,3.0,42,42
+gem,Unleash Support,clean 1/20,7.0,85,79
+gem,Unleash Support,clean 20/20,30.0,39,34
+gem,Unleash Support,corrupted 20/20,28.0,34,26
+gem,Unleash Support,corrupted 21/20,90.0,14,14
+gem,Urgent Orders Support,clean 20/0,10.0,40,18
+gem,Urgent Orders Support,corrupted 20/0,5.0,15,13
+gem,Urgent Orders Support,corrupted 21/0,8.0,45,44
+gem,Urgent Orders Support,clean 1/20,5.0,54,37
+gem,Urgent Orders Support,clean 20/20,34.0,25,8
+gem,Urgent Orders Support,corrupted 21/20,100.0,11,11
+gem,Vengeance,clean 20/0,3.0,22,22
+gem,Vengeance,corrupted 20/0,15.0,8,7
+gem,Vengeance,corrupted 21/0,2.0,52,50
+gem,Vengeance,clean 1/20,3.0,71,64
+gem,Vengeance,clean 20/20,20.0,2,2
+gem,Vengeance,corrupted 21/20,15.0,6,6
+gem,Venom Gyre,clean 20/0,3.0,44,38
+gem,Venom Gyre,corrupted 20/0,1.0,36,27
+gem,Venom Gyre,corrupted 21/0,3.0,74,71
+gem,Venom Gyre,clean 1/20,3.0,51,48
+gem,Venom Gyre,clean 20/20,25.0,6,6
+gem,Venom Gyre,corrupted 20/20,7.0,14,9
+gem,Venom Gyre,corrupted 21/20,8.0,21,20
+gem,Vicious Projectiles Support,clean 20/0,2.0,99,94
+gem,Vicious Projectiles Support,corrupted 20/0,3.0,99,95
+gem,Vicious Projectiles Support,corrupted 21/0,5.0,61,59
+gem,Vicious Projectiles Support,clean 1/20,4.0,99,95
+gem,Vicious Projectiles Support,clean 20/20,10.0,67,65
+gem,Vicious Projectiles Support,corrupted 20/20,8.0,52,50
+gem,Vicious Projectiles Support,corrupted 21/20,15.0,32,32
+gem,Vigilant Strike,clean 20/0,2.0,19,19
+gem,Vigilant Strike,corrupted 21/0,3.0,57,50
+gem,Vigilant Strike,clean 1/20,2.0,39,37
+gem,Vigilant Strike,clean 20/20,20.0,1,1
+gem,Vigilant Strike,corrupted 21/20,5.0,14,13
+gem,Vile Toxins Support,clean 20/0,5.0,23,22
+gem,Vile Toxins Support,corrupted 20/0,8.0,15,14
+gem,Vile Toxins Support,corrupted 21/0,4.0,43,41
 gem,Vile Toxins Support,clean 1/20,4.0,41,37
 gem,Vile Toxins Support,clean 20/20,35.0,11,8
 gem,Vile Toxins Support,corrupted 21/20,55.0,2,2
@@ -4436,17 +4437,17 @@ logbook,Bruids of the Broken Circle Logbook,ilvl 83+,5.0,98,83
 logbook,Black Scythe Mercenaries Logbook,ilvl 83+,34.0,99,88
 logbook,Order of the Chalice Logbook,ilvl 83+,10.0,100,90
 logbook,Knights of the Sun Logbook,ilvl 83+,40.0,99,86
-beast,Craicic Chimeral,,170.0,100,68
-beast,Craicic Maw,,7.0,22,12
-beast,Craicic Vassal,,30.0,100,35
-beast,Farric Frost Hellion Alpha,,24.0,21,15
-beast,Farric Lynx Alpha,,5.0,100,58
-beast,Farric Wolf Alpha,,13.0,99,45
-beast,Fenumal Plagued Arachnid,,40.0,100,62
+beast,Craicic Chimeral,,160.0,100,78
+beast,Craicic Maw,,8.0,19,10
+beast,Craicic Vassal,,28.0,100,30
+beast,Farric Frost Hellion Alpha,,29.0,15,13
+beast,Farric Lynx Alpha,,5.0,100,42
+beast,Farric Wolf Alpha,,13.0,100,53
+beast,Fenumal Plagued Arachnid,,40.0,100,69
 beast,Craicic Spider Crab,,7.0,30,13
-beast,Farric Tiger Alpha,,15.0,100,34
-beast,Fenumal Hybrid Arachnid,,10.0,21,12
-beast,Saqawine Rhex,,5.0,4,4
+beast,Farric Tiger Alpha,,23.0,85,35
+beast,Fenumal Hybrid Arachnid,,9.0,31,14
+beast,Saqawine Rhex,,5.0,12,9
 beast,Primal Crushclaw,,4.0,12,7
 beast,Primal Cystcaller,,4.0,14,8
 beast,Primal Rhex Matriarch,,20.0,36,9
@@ -4460,7 +4461,7 @@ beast,Craiceann First of the Deep,,17.0,46,24
 beast,Farrul First of the Plains,,35.0,70,18
 beast,Fenumus First of the Night,,34.0,8,6
 beast,Saqawal First of the Sky,,9.0,21,16
-map,Enslaver's Map,T16,10.0,99,72
+map,Enslaver's Map,T16,10.0,100,75
 map,Eradicator's Map,T16,10.0,99,79
 map,Constrictor's Map,T16,10.0,99,76
 map,Purifier's Map,T16,10.0,99,78
@@ -5966,46 +5967,47 @@ unique,Fidelitas' Spike,clean,1.0,70,70
 unique,Fidelitas' Spike,corrupted,1.0,100,96
 unique,Perseverance,clean,1.0,97,97
 unique,Perseverance,corrupted,1.0,100,98
-unique,Ventor's Gamble,clean,1.0,98,96
-unique,Ventor's Gamble,corrupted,2.0,99,98
-unique,Scold's Bridle,clean,1.0,97,97
-unique,Scold's Bridle,corrupted,1.0,66,62
-unique,Replica Midnight Bargain,clean,14.0,100,98
-unique,Replica Midnight Bargain,corrupted,25.0,6,6
-unique,Replica Soul Tether,clean,10.0,100,96
-unique,Replica Soul Tether,corrupted,5.0,39,39
-unique,Steppan Eard,clean,1.0,99,99
-unique,Steppan Eard,corrupted,1.0,62,62
-unique,Atziri's Foible,clean,14.0,97,95
-unique,Atziri's Foible,corrupted,10.0,100,99
-unique,Wondertrap,clean,1.0,79,76
-unique,Wondertrap,corrupted,1.0,100,95
-unique,Replica Hyrri's Truth,clean,5.0,100,97
-unique,Replica Hyrri's Truth,corrupted,10.0,11,11
-unique,Chitus' Apex,clean,5.0,95,95
-unique,Chitus' Apex,corrupted,5.0,87,84
-unique,Karui Ward,clean,1.0,96,93
-unique,Karui Ward,corrupted,1.0,97,97
-unique,Survivor's Guilt,clean,1.0,100,100
-unique,Survivor's Guilt,corrupted,15.0,3,3
-unique,Soul Taker,clean,790.0,30,29
-unique,Soul Taker,corrupted,400.0,4,4
-unique,Replica Tukohama's Fortress,clean,3.0,21,21
-unique,Saemus' Gift,clean,1.0,63,62
-unique,Saemus' Gift,corrupted,1.0,100,97
-unique,Malachai's Artifice,clean,1.0,71,71
-unique,Malachai's Artifice,corrupted,1.0,97,91
-unique,The Torrent's Reclamation,clean,150.0,3,3
-unique,The Torrent's Reclamation,corrupted,100.0,85,77
-unique,Nadir Mode,clean,1.0,86,80
-unique,Nadir Mode,corrupted,1.0,45,44
-unique,The Fledgling,clean,5.0,100,86
-unique,The Fledgling,corrupted,10.0,64,54
-unique,Corpsewalker,clean,10.0,97,96
-unique,Corpsewalker,corrupted,6.0,100,71
-unique,Kaom's Spirit,clean,3.0,97,96
-unique,Kaom's Spirit,corrupted,1.0,100,27
-unique,Dawnstrider,clean,1.0,97,97
+unique,Ventor's Gamble,clean,2.0,96,90
+unique,Ventor's Gamble,corrupted,1.0,100,95
+unique,Scold's Bridle,clean,1.0,98,97
+unique,Scold's Bridle,corrupted,2.0,100,95
+unique,Replica Midnight Bargain,clean,7.0,100,94
+unique,Replica Midnight Bargain,corrupted,20.0,5,5
+unique,Replica Soul Tether,clean,10.0,100,99
+unique,Replica Soul Tether,corrupted,10.0,48,45
+unique,Steppan Eard,clean,1.0,92,92
+unique,Steppan Eard,corrupted,2.0,82,81
+unique,Atziri's Foible,clean,10.0,100,97
+unique,Atziri's Foible,corrupted,10.0,100,100
+unique,Wondertrap,clean,1.0,74,74
+unique,Wondertrap,corrupted,1.0,100,98
+unique,Replica Hyrri's Truth,clean,5.0,100,100
+unique,Replica Hyrri's Truth,corrupted,5.0,23,22
+unique,Chitus' Apex,clean,5.0,99,98
+unique,Chitus' Apex,corrupted,5.0,100,97
+unique,Karui Ward,clean,2.0,93,93
+unique,Karui Ward,corrupted,1.0,98,97
+unique,Survivor's Guilt,clean,1.0,72,72
+unique,Survivor's Guilt,corrupted,3.0,6,6
+unique,Soul Taker,clean,850.0,31,30
+unique,Soul Taker,corrupted,400.0,9,9
+unique,Replica Tukohama's Fortress,clean,5.0,12,12
+unique,Replica Tukohama's Fortress,corrupted,30.0,3,3
+unique,Saemus' Gift,clean,1.0,69,67
+unique,Saemus' Gift,corrupted,1.0,98,96
+unique,Malachai's Artifice,clean,1.0,68,67
+unique,Malachai's Artifice,corrupted,1.0,100,97
+unique,The Torrent's Reclamation,clean,100.0,14,14
+unique,The Torrent's Reclamation,corrupted,100.0,100,86
+unique,Nadir Mode,clean,1.0,81,75
+unique,Nadir Mode,corrupted,2.0,33,32
+unique,The Fledgling,clean,6.0,100,91
+unique,The Fledgling,corrupted,5.0,100,56
+unique,Corpsewalker,clean,8.0,100,96
+unique,Corpsewalker,corrupted,7.0,100,87
+unique,Kaom's Spirit,clean,3.0,100,100
+unique,Kaom's Spirit,corrupted,1.0,100,81
+unique,Dawnstrider,clean,1.0,100,100
 unique,Dawnstrider,corrupted,1.0,92,88
 unique,Might of the Meek,clean,5.0,74,73
 unique,Might of the Meek,corrupted,4.0,99,95
