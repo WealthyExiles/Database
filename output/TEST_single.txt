@@ -190,28 +190,28 @@ scouting-report,Blighted Scouting Report,,2.0,189,15
 scouting-report,Explorer's Scouting Report,,0.6666666666666666,8468,30
 scouting-report,Influenced Scouting Report,,1.0,1732,19
 scouting-report,Delirious Scouting Report,,1.0,178,14
-incubator,Singular Incubator,,0.10526315789473684,4684,20
-incubator,Cartographer's Incubator,,0.5,1650,9
-incubator,Otherworldly Incubator,,0.4,1738,13
-incubator,Abyssal Incubator,,0.25,2341,12
+incubator,Singular Incubator,,0.011111111111111112,5436,22
+incubator,Cartographer's Incubator,,0.5,3759,11
+incubator,Otherworldly Incubator,,0.5,1251,11
+incubator,Abyssal Incubator,,0.25,2902,11
 incubator,Fragmented Incubator,,0.1,12890,35
-incubator,Infused Incubator,,0.013333333333333334,10074,28
-incubator,Fossilised Incubator,,0.4,9383,25
-incubator,Skittering Incubator,,0.5,13744,28
-incubator,Foreboding Incubator,,0.4,3367,23
-incubator,Obscured Incubator,,0.4,960,8
+incubator,Infused Incubator,,0.4,9837,23
+incubator,Fossilised Incubator,,0.4,12498,23
+incubator,Skittering Incubator,,0.6666666666666666,11528,24
+incubator,Foreboding Incubator,,0.4,4449,21
+incubator,Obscured Incubator,,0.5,1125,11
 incubator,Celestial Jeweller's Incubator,,0.5,713,9
-incubator,Celestial Armoursmith's Incubator,,0.5,557,6
-incubator,Celestial Blacksmith's Incubator,,0.5,662,8
+incubator,Celestial Armoursmith's Incubator,,0.8,582,8
+incubator,Celestial Blacksmith's Incubator,,0.8,649,8
 incubator,Kalguuran Incubator,,0.4,3713,23
-incubator,Diviner's Incubator,,1.0,2898,14
+incubator,Diviner's Incubator,,1.0,2311,12
 incubator,Primal Incubator,,0.3333333333333333,664,7
-incubator,Geomancer's Incubator,,0.5,3171,21
-incubator,Ornate Incubator,,1.0,2152,13
+incubator,Geomancer's Incubator,,0.5,2270,18
+incubator,Ornate Incubator,,5.357142857142857,2973,11
 incubator,Maddening Incubator,,0.3157894736842105,2087,18
-incubator,Mysteriou's Incubator,,0.25,13361,26
-incubator,Thaumaturge's Incubator,,0.5,960,8
-incubator,Blighted Incubator,,0.5,1590,10
+incubator,Mysteriou's Incubator,,0.1,13351,29
+incubator,Thaumaturge's Incubator,,1.0,946,8
+incubator,Blighted Incubator,,0.3333333333333333,1453,9
 artifact,Astragali,,0.16666666666666666,16296,40
 artifact,Exotic Coinage,,5.555555555555555,7937,14
 artifact,Scrap Metal,,0.6666666666666666,7911,22
@@ -482,7 +482,7 @@ card,Dark Dreams,,4.0,211,23
 card,Dementophobia,,2.0,169,12
 card,Destined To Crumble,,1.0,4617,11
 card,Doedre's Madness,,0.5,1785,3
-card,Disdain,,1.0,196,9
+card,Disdain,,1.0,177,10
 card,Draped In Dreams,,4.0,107,27
 card,Dialla's Subjugation,,1.0,188,11
 card,Divine Beauty,,90.0,152,22
@@ -538,7 +538,7 @@ card,Lucky Connections,,1.0,294,10
 card,Man With Bear,,1.0,142,11
 card,Magnum Opus,,10.0,155,24
 card,Loyalty,,1.0,443,7
-card,Lysah's Respite,,1.0,566,9
+card,Lysah's Respite,,0.8333333333333334,595,12
 card,Luminou's Trove,,5.0,86,20
 card,Matryoshka,,20.0,28,12
 card,Lucky Deck,,1.0,141,12
@@ -830,12 +830,12 @@ card,Unchained,,2.0,494,16
 card,Underground Forest,,1.0,154,14
 card,Void of the Elements,,5.0,77,18
 card,Vinia's Token,,1.0,328,10
-card,Vile Power,,0.2,860,11
-card,Unrequited Love,,3975.0,60,11
-card,Volatile Power,,1.0,229,2
-card,Vanity,,1.0,221,6
-card,Wealth And Power,,180.0,87,19
-card,Winter's Embrace,,2.0,106,23
+card,Vile Power,,0.95,864,11
+card,Unrequited Love,,4050.0,43,8
+card,Volatile Power,,1.0,256,2
+card,Vanity,,1.0,717,9
+card,Wealth And Power,,180.0,115,28
+card,Winter's Embrace,,8.0,107,26
 map,Bone Crypt Map,T1,0.6666666666666666,381,3
 map,Dunes Map,T2,1.0,257,11
 map,Overgrown Shrine Map,T3,0.6666666666666666,295,5
@@ -1005,54 +1005,55 @@ map,Blight Ravaged Jungle Valley Map,T16,40.0,24,7
 map,Blight Ravaged Mineral Pools Map,T16,45.0,1,1
 map,Blight Ravaged Museum Map,T16,50.0,4,2
 map,Blight Ravaged Overgrown Shrine Map,T16,40.0,1,1
-map,Blight Ravaged Necropolis Map,T16,55.0,7,5
-map,Blight Ravaged Orchard Map,T16,45.0,2,2
-map,Blight Ravaged Plaza Map,T16,50.0,3,3
-map,Blight Ravaged Plateau Map,T16,50.0,2,2
-map,Blight Ravaged Ramparts Map,T16,40.0,4,4
-map,Blight Ravaged Racecourse Map,T16,40.0,2,2
+map,Blight Ravaged Necropolis Map,T16,70.0,6,5
+map,Blight Ravaged Orchard Map,T16,40.0,5,4
+map,Blight Ravaged Plaza Map,T16,40.0,4,4
+map,Blight Ravaged Plateau Map,T16,45.0,3,3
+map,Blight Ravaged Port Map,T16,70.0,1,1
+map,Blight Ravaged Promenade Map,T16,50.0,1,1
+map,Blight Ravaged Ramparts Map,T16,40.0,2,2
 map,Blight Ravaged Shore Map,T16,40.0,1,1
-map,Blight Ravaged Strand Map,T16,55.0,4,2
-map,Blight Ravaged Siege Map,T16,50.0,2,2
-map,Blight Ravaged Stagnation Map,T16,35.0,22,8
-map,Blight Ravaged Waste Pool Map,T16,40.0,3,2
-map,Blight Ravaged Wharf Map,T16,40.0,4,3
-map,Blight Ravaged Underground River Map,T16,79.0,4,3
-map,Blight Ravaged Volcano Map,T16,40.0,7,5
-map,Blight Ravaged Underground Sea Map,T16,43.0,4,3
-map,Blight Ravaged Temple Map,T16,45.0,4,2
-map,Blight Ravaged Tropical Island Map,T16,45.0,3,2
-map,Acton's Nightmare,T3,3.0,116,3
-map,Acton's Nightmare,T16,2.2222222222222223,215,5
-map,Caer Blaidd,T16,2.3333333333333335,854,11
-map,Death And Taxes,T16,2.1666666666666665,1224,18
-map,Doryanis Machinarium,T16,435.0,59,3
-map,Hall of Grandmaster's,T16,2.0,143,21
-map,Hallowed Ground,T4,3.0,105,5
-map,Hallowed Ground,T16,1.8518518518518519,475,8
-map,Maelstrom of Chaos,T5,3.0,121,3
-map,Maelstrom of Chaos,T16,2.6666666666666665,334,5
-map,Olmec's Sanctum,T4,2.0,105,10
-map,Oba's Cursed Trove,T16,2.1666666666666665,816,14
-map,Mao Kun,T16,4.166666666666666,2423,15
-map,Olmec's Sanctum,T1,2.0,123,3
-map,Olmec's Sanctum,T16,2.0,243,4
-map,Pillar's of Arun,T2,3.0,104,3
-map,Pillar's of Arun,T5,4.0,117,9
-map,Pillar's of Arun,T16,1.875,282,7
-map,Poorjoy's Asylum,T16,3.8,1962,10
-map,Replica Pillar's of Arun,T2,4.0,23,11
-map,The Beachhead,T5,30.0,21,7
-map,The Coward's Trial,T16,15.0,1031,17
-map,The Putrid Cloister,T16,10.0,925,17
-map,The Twilight Temple,T4,20.0,94,14
-map,The Vinktar Square,T5,18.0,150,10
-map,The Twilight Temple,T16,7.5,1386,15
-map,The Vinktar Square,T16,20.0,39,6
-map,Vaults of Atziri,T4,3.0,122,3
-map,Vaults of Atziri,T16,3.0,645,10
-map,Whakawairua Tuahu,T3,3.0,121,4
-map,Whakawairua Tuahu,T16,1.8181818181818181,274,6
+map,Blight Ravaged Relic Chambers Map,T16,45.0,1,1
+map,Blight Ravaged Strand Map,T16,50.0,7,5
+map,Blight Ravaged Siege Map,T16,40.0,2,2
+map,Blight Ravaged Stagnation Map,T16,35.0,8,6
+map,Blight Ravaged Waste Pool Map,T16,40.0,14,5
+map,Blight Ravaged Wharf Map,T16,42.0,4,3
+map,Blight Ravaged Volcano Map,T16,45.0,4,2
+map,Blight Ravaged Underground Sea Map,T16,50.0,5,2
+map,Blight Ravaged Temple Map,T16,45.0,6,4
+map,Blight Ravaged Tropical Island Map,T16,45.0,2,1
+map,Acton's Nightmare,T3,3.0,113,4
+map,Acton's Nightmare,T16,3.0,218,5
+map,Caer Blaidd,T16,3.85,795,10
+map,Death And Taxes,T16,3.3,1131,14
+map,Doryanis Machinarium,T16,435.0,51,4
+map,Hall of Grandmaster's,T16,2.0,97,17
+map,Hallowed Ground,T4,4.0,106,4
+map,Hallowed Ground,T16,4.0,490,6
+map,Maelstrom of Chaos,T5,3.0,109,2
+map,Maelstrom of Chaos,T16,2.6666666666666665,325,6
+map,Olmec's Sanctum,T4,2.0,72,13
+map,Oba's Cursed Trove,T16,3.75,761,12
+map,Mao Kun,T16,5.0,2513,12
+map,Olmec's Sanctum,T1,2.0,121,4
+map,Olmec's Sanctum,T16,2.0,260,3
+map,Pillar's of Arun,T2,4.0,106,2
+map,Pillar's of Arun,T5,4.0,55,11
+map,Pillar's of Arun,T16,1.875,302,8
+map,Poorjoy's Asylum,T16,3.8,1844,12
+map,Replica Pillar's of Arun,T2,4.0,12,7
+map,The Beachhead,T5,35.0,7,4
+map,The Coward's Trial,T16,5.0,967,16
+map,The Putrid Cloister,T16,10.0,1287,17
+map,The Twilight Temple,T4,20.0,60,14
+map,The Vinktar Square,T5,17.0,62,10
+map,The Twilight Temple,T16,7.5,1241,15
+map,The Vinktar Square,T16,19.0,43,9
+map,Vaults of Atziri,T4,3.0,130,3
+map,Vaults of Atziri,T16,3.0,433,7
+map,Whakawairua Tuahu,T3,3.0,184,5
+map,Whakawairua Tuahu,T16,1.8181818181818181,351,7
 catalyst,Tainted Catalyst,,28.57142857142857,1044,15
 gem,Added Chaos Damage Support,clean 20/0,3.0,44,43
 gem,Added Chaos Damage Support,corrupted 20/0,2.0,14,14
@@ -1795,11 +1796,11 @@ gem,Dual Strike,clean 1/20,2.0,59,55
 gem,Dual Strike,clean 20/20,35.0,6,6
 gem,Dual Strike,corrupted 20/20,5.0,2,2
 gem,Dual Strike,corrupted 21/20,8.0,16,15
-gem,Earthquake,clean 20/0,2.0,16,16
-gem,Earthquake,corrupted 20/0,8.0,4,4
+gem,Earthquake,clean 20/0,2.0,23,23
+gem,Earthquake,corrupted 20/0,6.0,7,7
 gem,Earthquake,corrupted 21/0,1.0,53,51
 gem,Earthquake,clean 1/20,2.0,53,51
-gem,Earthquake,clean 20/20,20.0,3,3
+gem,Earthquake,clean 20/20,20.0,6,6
 gem,Earthquake,corrupted 21/20,6.0,10,10
 gem,Earthshatter,clean 20/0,3.0,26,25
 gem,Earthshatter,corrupted 20/0,10.0,3,3
@@ -4407,73 +4408,73 @@ gem,Awakened Enhance Support,corrupted 3/0,495.0,4,3
 gem,Awakened Enhance Support,corrupted 4/0,600.0,11,8
 gem,Awakened Enhance Support,corrupted 5/0,10800.0,6,6
 gem,Awakened Enhance Support,corrupted 4/20,3300.0,1,1
-compass,Area contains a Smuggler's Cache,4,2.7419354838709675,100,40
-compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,4,2.7419354838709675,100,43
-compass,Unique Monsters drop Corrupted Items,4,2.7419354838709675,100,37
-compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,5.0,100,63
-compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,13.709677419354838,99,74
+compass,Area contains a Smuggler's Cache,4,4.0,98,39
+compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,4,2.4193548387096775,100,43
+compass,Unique Monsters drop Corrupted Items,4,2.4193548387096775,100,37
+compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,4.838709677419355,100,63
+compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,12.096774193548388,99,74
 compass,Maps found in your Maps are Corrupted with 8 Modifiers,4,30.0,100,82
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,7.0,100,24
-compass,Create a copy of Beasts Captured in your Maps,4,8.225806451612902,100,76
+compass,Create a copy of Beasts Captured in your Maps,4,7.258064516129032,100,76
 compass,25% increased Magic Pack Size,4,5.0,100,22
-compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,2.7419354838709675,100,9
-compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain an additional Essence,4,2.7419354838709675,100,28
+compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,2.4193548387096775,100,9
+compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain an additional Essence,4,2.4193548387096775,100,28
 compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,4,6.0,96,45
 compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,2.0,85,34
-compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,13.709677419354838,99,71
-compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,2.7419354838709675,39,22
+compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,10.0,100,72
+compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,2.4193548387096775,39,22
 compass,20% increased Pack Size in your Unidentified Maps,4,4.0,100,32
 compass,Players and Monsters take 12% increased Chaos Damage:Your Maps contain 6 additional packs of Monsters that deal Chaos Damage,4,3.0,100,7
-compass,Strongbox Monsters are Enraged:Strongbox Monsters have 500% increased Item Quantity:Your Maps contain an additional Strongbox,4,87.74193548387096,98,77
-compass,Your Maps contain Ritual Altars,4,2.7419354838709675,100,39
-compass,Players and Monsters take 12% increased Lightning Damage:Your Maps contain 6 additional packs of Monsters that deal Lightning Damage,4,2.7419354838709675,100,13
+compass,Strongbox Monsters are Enraged:Strongbox Monsters have 500% increased Item Quantity:Your Maps contain an additional Strongbox,4,77.41935483870968,98,77
+compass,Your Maps contain Ritual Altars,4,2.4193548387096775,100,39
+compass,Players and Monsters take 12% increased Lightning Damage:Your Maps contain 6 additional packs of Monsters that deal Lightning Damage,4,2.4193548387096775,100,13
 compass,Your Magic Maps contain 4 additional packs of Magic Monsters:Your Normal Maps contain 4 additional packs of Normal Monsters:Your Rare Maps contain 4 additional Rare Monster packs,4,3.0,100,7
 compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 4 additional Packs with Mirrored Rare Monsters,4,3.0,100,10
 compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,4,3.0,36,27
 compass,Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,3.0,99,11
 compass,The First 3 Possessed Monsters drop an additional Rusted Scarab:Your Maps contain an additional Tormented Betrayer,4,3.0,99,11
 compass,Your Maps contain 6 additional packs of Monsters that Convert when Killed,4,3.0,100,5
-compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Items dropped by Corrupted Vaal Monsters in your Maps have 25% chance to be Corrupted,4,2.7419354838709675,62,24
-compass,Final Map Boss in each Map drops an additional Shaper Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,16.451612903225804,100,67
-compass,Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,2.7419354838709675,100,22
+compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Items dropped by Corrupted Vaal Monsters in your Maps have 25% chance to be Corrupted,4,2.4193548387096775,62,24
+compass,Final Map Boss in each Map drops an additional Shaper Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,14.516129032258064,100,67
+compass,Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,3.0,99,21
 compass,Your Maps contain hunted traitors,4,4.0,100,18
 compass,Breaches in your Maps belong to Chayula:Breaches in your Maps contain 3 additional Clasped Hands,4,6.0,100,34
-compass,Oils found in your Maps are 1 tier higher:Cost of Building and Upgrading Blight Towers in your Maps is doubled,4,10.0,100,68
+compass,Oils found in your Maps are 1 tier higher:Cost of Building and Upgrading Blight Towers in your Maps is doubled,4,9.67741935483871,100,68
 compass,Your Maps contain Jun,4,6.0,98,28
 compass,Map Bosses have 20% increased Life:Quality bonus of your Maps also applies to Rarity of Items found,4,3.0,99,11
-compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Your Maps have a 50% chance to contain Gifts of the Sacrificed per Sacrifice Fragment used:Your Maps have a 50% chance to contain Gifts of the Red Queen per Mortal Fragment used,4,2.7419354838709675,76,35
-compass,Players and Monsters take 12% increased Physical Damage:Your Maps contain 6 additional packs of Monsters that deal Physical Damage,4,2.7419354838709675,100,19
+compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Your Maps have a 50% chance to contain Gifts of the Sacrificed per Sacrifice Fragment used:Your Maps have a 50% chance to contain Gifts of the Red Queen per Mortal Fragment used,4,2.4193548387096775,76,35
+compass,Players and Monsters take 12% increased Physical Damage:Your Maps contain 6 additional packs of Monsters that deal Physical Damage,4,2.4193548387096775,100,19
 compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contain 6 additional packs of Monsters that Heal,4,3.0,99,5
 compass,Rogue Exiles deal 20% increased Damage:Rogue Exiles drop 2 additional Jewels:Rogue Exiles in your Maps have 20% increased Life:Your Maps are inhabited by 2 additional Rogue Exiles,4,3.0,100,13
-compass,The First 3 Possessed Monsters drop an additional Polished Scarab:Your Maps contain an additional Tormented Betrayer,4,2.7419354838709675,100,25
+compass,The First 3 Possessed Monsters drop an additional Polished Scarab:Your Maps contain an additional Tormented Betrayer,4,2.4193548387096775,100,25
 compass,Your Maps contain Einhar,4,2.0,100,38
-compass,Map Bosses deal 20% increased Damage:Your Maps have 20% Quality,4,2.7419354838709675,100,22
-compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Purple Plants,4,21.93548387096774,100,79
-compass,The First 3 Possessed Monsters drop an additional Unique Item:Your Maps contain an additional Tormented Graverobber,4,2.7419354838709675,77,34
-compass,Your Maps contain a Mirror of Delirium,4,52.096774193548384,98,60
-compass,Your Maps contain Alva,4,5.0,100,45
+compass,Map Bosses deal 20% increased Damage:Your Maps have 20% Quality,4,2.4193548387096775,100,22
+compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Purple Plants,4,19.35483870967742,100,79
+compass,The First 3 Possessed Monsters drop an additional Unique Item:Your Maps contain an additional Tormented Graverobber,4,2.4193548387096775,77,34
+compass,Your Maps contain a Mirror of Delirium,4,45.96774193548387,98,60
+compass,Your Maps contain Alva,4,4.838709677419355,100,45
 compass,100% increased Intelligence gained from Immortal Syndicate targets encountered in your Maps,4,5.0,85,35
 compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,50.0,100,91
-compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Blue Plants,4,19.193548387096772,100,84
-compass,Map Bosses drop 1 additional Unique Item,4,2.7419354838709675,100,11
+compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Blue Plants,4,16.935483870967744,100,84
+compass,Map Bosses drop 1 additional Unique Item,4,2.4193548387096775,100,11
 compass,Your Maps can contain Breaches:Your Maps contain an additional Breach,4,3.0,100,35
-compass,Map Bosses are accompanied by Bodyguards:An additional Map drops on Completing your Maps,4,2.7419354838709675,100,31
-compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,2.7419354838709675,77,25
-compass,Your Maps contain Niko,4,2.7419354838709675,100,50
+compass,Map Bosses are accompanied by Bodyguards:An additional Map drops on Completing your Maps,4,3.0,97,29
+compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,2.4193548387096775,77,25
+compass,Your Maps contain Niko,4,4.0,99,49
 compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,4,4.0,100,45
-compass,Your Maps contain an additional Legion Encounter,4,16.451612903225804,100,53
+compass,Your Maps contain an additional Legion Encounter,4,14.516129032258064,100,53
 compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,3.0,76,14
-compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,2.7419354838709675,89,23
-compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,2.7419354838709675,82,35
-compass,Your Maps contain an additional Abyss:Your Maps can contain Abysses,4,24.677419354838708,100,38
-compass,Your Maps contain a Blight Encounter,4,2.7419354838709675,100,35
-compass,Slaying Enemies close together can attract monsters from Beyond this realm:25% increased Beyond Demon Pack Size in your Maps,4,54.83870967741935,100,58
-compass,Your Maps contain 100% increased number of Runic Monster Markers,4,10.96774193548387,99,74
-compass,Delirium Reward Bars fill 100% faster in your Maps,4,10.96774193548387,100,78
-compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,4,35.64516129032258,100,68
+compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,2.4193548387096775,89,23
+compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,2.4193548387096775,82,35
+compass,Your Maps contain an additional Abyss:Your Maps can contain Abysses,4,21.774193548387096,100,38
+compass,Your Maps contain a Blight Encounter,4,2.4193548387096775,100,35
+compass,Slaying Enemies close together can attract monsters from Beyond this realm:25% increased Beyond Demon Pack Size in your Maps,4,48.38709677419355,100,58
+compass,Your Maps contain 100% increased number of Runic Monster Markers,4,4.0,100,75
+compass,Delirium Reward Bars fill 100% faster in your Maps,4,9.67741935483871,100,78
+compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,4,31.451612903225808,100,68
 compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,4,2.0,23,18
-compass,Your Maps contain The Sacred Grove,4,21.93548387096774,100,70
-compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,4,2.7419354838709675,100,53
+compass,Your Maps contain The Sacred Grove,4,19.35483870967742,100,70
+compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,4,2.4193548387096775,100,53
 compass,Players and Monsters take 12% increased Cold Damage:Your Maps contain 6 additional packs of Monsters that deal Cold Damage,4,3.0,100,4
 compass,Slaying Enemies close together can attract monsters from Beyond this realm:35% increased Beyond Demon Pack Size in your Maps,16,1050.0,37,12
 compass,Area contains a Smuggler's Cache,16,30.0,94,28
@@ -4500,7 +4501,7 @@ compass,30% increased Magic Pack Size,16,60.0,93,14
 compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain 8 additional packs of Corrupted Vaal Monsters,16,20.0,98,12
 compass,Your Maps contain 35 additional Clusters of Mysterious Barrels,16,9.0,22,4
 compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 5 additional Packs with Mirrored Rare Monsters,16,3.0,100,15
-compass,Final Map Boss in each Map drops an additional Shaper Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,95.96774193548386,12,12
+compass,Final Map Boss in each Map drops an additional Shaper Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,84.67741935483872,12,12
 compass,Your Maps contain hunted traitors,16,28.0,85,23
 compass,Breaches in your Maps belong to Chayula:Breaches in your Maps contain 3 additional Clasped Hands,16,95.0,14,6
 compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 8 additional packs of Corrupted Vaal Monsters,16,9.0,35,11
@@ -4530,12 +4531,12 @@ compass,Your Maps contain a Blight Encounter,16,9.0,29,14
 compass,Your Maps contain an additional Shrine:Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,16,30.0,51,16
 compass,Your Maps contain 8 additional packs of Corrupted Vaal Monsters:Your Maps have a 50% chance to contain Gifts of the Sacrificed per Sacrifice Fragment used:Your Maps have a 50% chance to contain Gifts of the Red Queen per Mortal Fragment used,16,8.0,28,10
 compass,Your Maps contain 100% increased number of Runic Monster Markers,16,135.0,35,14
-compass,Delirium Reward Bars fill 100% faster in your Maps,16,150.0,34,20
+compass,Delirium Reward Bars fill 100% faster in your Maps,16,150.0,33,19
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,16,300.0,18,11
 compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,16,8.0,12,6
 compass,25% increased Pack Size in your Unidentified Maps,16,25.0,100,16
 compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,23.0,26,11
-compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,95.0,74,26
+compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,84.67741935483872,74,26
 contract,Lockpicking Contract,ilvl 83+,1.0,100,72
 contract,Brute Force Contract,ilvl 83+,1.0,99,34
 contract,Perception Contract,ilvl 83+,1.0,100,48
@@ -4577,7 +4578,7 @@ incubator,Thaumaturge's Incubator,ilvl 83,1.0,473,54
 vial,Vial of Awakening,,8.0,5,4
 vial,Vial of Consequence,,70.0,46,37
 vial,Vial of Dominance,,17.0,69,25
-vial,Vial of Fate,,1.0,49,20
+vial,Vial of Fate,,1.0,48,20
 vial,Vial of Summoning,,15.0,86,35
 vial,Vial of the Ritual,,1.0,37,15
 vial,Vial of Transcendence,,77.0,40,26
@@ -5300,53 +5301,53 @@ unique,Soul Catcher,clean,1.0,98,95
 unique,Soul Ripper,clean,140.0,33,27
 unique,Starlight Chalice,clean,115.0,40,39
 unique,Taste of Hate,clean,23.0,97,90
-unique,The Overflowing Chalice,clean,1.0,93,93
-unique,The Sorrow of the Divine,clean,1.0,90,85
-unique,The Wise Oak,clean,1.0,97,96
-unique,The Writhing Jar,clean,1.0,100,99
-unique,Vorana's Preparation,clean,1.0,100,87
-unique,Witchfire Brew,clean,1.0,99,96
-unique,Zerphi's Last Breath,clean,1.0,44,44
-unique,Lavianga's Spirit,clean,1.0,94,92
-unique,Vessel of Vinktar,clean,5.0,96,96
-unique,Rumi's Concoction,clean,3.0,100,100
-unique,Reefbane,clean,15.0,27,27
-unique,Reefbane,corrupted,150.0,3,3
-unique,Law of the Wilds,clean,2.0,100,66
-unique,Law of the Wilds,corrupted,6.0,16,15
-unique,Sunblast,clean,1.0,79,79
-unique,Sunblast,corrupted,5.0,34,34
-unique,Legacy of Fury,clean,10.0,100,41
-unique,Legacy of Fury,corrupted,14.0,100,79
-unique,Natural Hierarchy,corrupted,1.0,84,80
-unique,Brinerot Flag,clean,1.0,42,41
-unique,Brinerot Flag,corrupted,2.0,72,71
-unique,Elegant Hubris,clean,9.0,100,19
-unique,Elegant Hubris,corrupted,25.0,100,87
-unique,The Blood Dance,clean,1.0,98,97
-unique,The Blood Dance,corrupted,2.0,72,70
-unique,Leash of Oblation,clean,1.0,100,99
-unique,Leash of Oblation,corrupted,2.0,100,98
-unique,Blasphemer's Grasp,clean,1.0,100,80
-unique,Blasphemer's Grasp,corrupted,2.0,100,81
-unique,Maligaro's Lens,clean,1.0,83,79
-unique,Maligaro's Lens,corrupted,1.0,97,97
-unique,Wildslash,clean,1.0,75,73
-unique,Wildslash,corrupted,1.0,80,74
-unique,Circle of Regret,clean,1.0,100,97
-unique,Circle of Regret,corrupted,4.0,61,61
-unique,Memory Vault,clean,1.0,100,100
-unique,Memory Vault,corrupted,2.0,99,90
-unique,Unending Hunger,clean,10.0,94,89
-unique,Unending Hunger,corrupted,10.0,100,95
-unique,Doon Cuebiyari,clean,1.0,96,95
-unique,Doon Cuebiyari,corrupted,2.0,71,71
-unique,Black Sun Crest,clean,1.0,85,81
+unique,The Overflowing Chalice,clean,1.0,92,92
+unique,The Sorrow of the Divine,clean,1.0,88,82
+unique,The Wise Oak,clean,1.0,98,96
+unique,The Writhing Jar,clean,1.0,99,97
+unique,Vorana's Preparation,clean,1.0,70,67
+unique,Witchfire Brew,clean,1.0,99,97
+unique,Zerphi's Last Breath,clean,1.0,32,32
+unique,Lavianga's Spirit,clean,1.0,97,96
+unique,Vessel of Vinktar,clean,5.0,100,100
+unique,Rumi's Concoction,clean,3.0,100,98
+unique,Reefbane,clean,10.0,30,29
+unique,Reefbane,corrupted,150.0,4,4
+unique,Law of the Wilds,clean,3.0,100,57
+unique,Law of the Wilds,corrupted,6.0,10,9
+unique,Sunblast,clean,2.0,99,98
+unique,Sunblast,corrupted,4.0,38,38
+unique,Legacy of Fury,clean,15.0,98,70
+unique,Legacy of Fury,corrupted,15.0,100,66
+unique,Natural Hierarchy,corrupted,1.0,90,86
+unique,Brinerot Flag,clean,1.0,31,31
+unique,Brinerot Flag,corrupted,2.0,56,55
+unique,Elegant Hubris,clean,8.0,99,77
+unique,Elegant Hubris,corrupted,10.0,100,79
+unique,The Blood Dance,clean,1.0,98,96
+unique,The Blood Dance,corrupted,1.0,62,59
+unique,Leash of Oblation,clean,1.0,99,98
+unique,Leash of Oblation,corrupted,2.0,100,93
+unique,Blasphemer's Grasp,clean,1.0,100,94
+unique,Blasphemer's Grasp,corrupted,1.0,100,88
+unique,Maligaro's Lens,clean,1.0,93,89
+unique,Maligaro's Lens,corrupted,1.0,100,97
+unique,Wildslash,clean,1.0,85,78
+unique,Wildslash,corrupted,1.0,66,64
+unique,Circle of Regret,clean,1.0,100,98
+unique,Circle of Regret,corrupted,2.0,60,60
+unique,Memory Vault,clean,1.0,98,96
+unique,Memory Vault,corrupted,2.0,100,93
+unique,Unending Hunger,clean,10.0,96,85
+unique,Unending Hunger,corrupted,10.0,100,98
+unique,Doon Cuebiyari,clean,1.0,97,96
+unique,Doon Cuebiyari,corrupted,2.0,72,70
+unique,Black Sun Crest,clean,1.0,79,77
 unique,Black Sun Crest,corrupted,1.0,100,85
-unique,Brutal Restraint,clean,20.0,100,26
-unique,Brutal Restraint,corrupted,50.0,48,48
-unique,The Dark Seer,clean,1.0,98,97
-unique,The Dark Seer,corrupted,1.0,34,33
+unique,Brutal Restraint,clean,23.0,100,7
+unique,Brutal Restraint,corrupted,50.0,62,58
+unique,The Dark Seer,clean,1.0,98,98
+unique,The Dark Seer,corrupted,1.0,26,26
 unique,Inspired Learning,clean,85.0,99,91
 unique,Inspired Learning,corrupted,90.0,100,89
 unique,Blood Price,clean,1.0,97,96
