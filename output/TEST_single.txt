@@ -102,7 +102,7 @@ fragment,Sacrifice at Dusk,,0.4,28360,36
 fragment,Sacrifice at Midnight,,0.8333333333333334,3629,18
 fragment,Sacrifice at Dawn,,0.5,22160,40
 fragment,Sacrifice at Noon,,0.4,17361,30
-fragment,Mortal Grief,,3.0,597,26
+fragment,Mortal Grief,,6.0,649,27
 fragment,Mortal Rage,,10.0,540,29
 fragment,Mortal Hope,,11.0,635,27
 fragment,Mortal Ignorance,,25.0,261,25
@@ -121,8 +121,8 @@ fragment,Fragment of Knowledge,,100.0,1073,11
 fragment,Al-Hezmin's Crest,,3.0,1159,22
 fragment,Baran's Crest,,12.0,1053,36
 fragment,Drox's Crest,,17.0,1021,27
-fragment,Veritania's Crest,,30.0,821,23
-fragment,Offering to the Goddess,,4.444444444444445,4777,20
+fragment,Veritania's Crest,,35.0,981,25
+fragment,Offering to the Goddess,,2.4,4219,24
 fragment,Tribute to the Goddess,,7.0,86,18
 fragment,Gift to the Goddess,,100.0,319,7
 fragment,Dedication to the Goddess,,35.0,126,21
@@ -152,7 +152,7 @@ fragment,Ritual Vessel,,1.0,4708,22
 invitation,Maven's Invitation: The Atlas,,1.0,829,21
 invitation,Maven's Invitation: The Formed,,140.0,126,2
 invitation,Maven's Invitation: The Twisted,,120.0,285,7
-invitation,Maven's Invitation: The Forgotten,,8.0,243,21
+invitation,Maven's Invitation: The Forgotten,,15.0,282,26
 invitation,Maven's Invitation: The Hidden,,3.0,348,23
 invitation,Maven's Invitation: The Feared,,10.0,1170,21
 invitation,Maven's Invitation: The Elderslayers,,160.0,107,2
@@ -163,19 +163,19 @@ invitation,Polaric Invitation,,3.0,664,23
 invitation,Incandescent Invitation,,200.0,102,3
 fragment,Forgotten Reliquary Key,,400.0,10,3
 fragment,Visceral Reliquary Key,,400.0,78,4
-fragment,Shiny Reliquary Key,,440.00000000000006,112,9
+fragment,Shiny Reliquary Key,,400.0,128,9
 fragment,Oubliette Reliquary Key,,200.0,32,5
 fragment,Cosmic Reliquary Key,,200.0,21,6
 fragment,Voidborn Reliquary Key,,120.0,114,2
 fragment,Decaying Reliquary Key,,700.0,8,2
-fragment,Archive Reliquary Key,,300.0,64,3
+fragment,Archive Reliquary Key,,300.0,80,3
 memory-line,Alva's Memory of Cascading Fortunes,,60.0,140,5
 memory-line,Alva's Memory of Reverse Incursion,,60.0,132,4
 memory-line,Einhar's Memory of Harvest Beasts,,440.00000000000006,103,6
 memory-line,Einhar's Memory of Crystal Prisons,,400.0,101,3
 memory-line,Einhar's Memory of the Sacred Grove,,300.0,104,4
 memory-line,Kirac's Memory of the Pantheon,,1.0,117,2
-memory-line,Kirac's Memory of Survivor's Guilt,,180.0,152,2
+memory-line,Kirac's Memory of Survivor's Guilt,,180.0,156,2
 memory-line,Kirac's Memory of Phaaryl,,120.0,153,3
 memory-line,Niko's Memory of Grasping Hands,,20.0,125,2
 memory-line,Niko's Memory of Demonic Onslaught,,100.0,124,8
@@ -1793,21 +1793,21 @@ gem,Dual Strike,clean 1/20,2.0,50,41
 gem,Dual Strike,clean 20/20,20.0,2,2
 gem,Dual Strike,corrupted 20/20,2.0,2,2
 gem,Dual Strike,corrupted 21/20,10.0,4,4
-gem,Earthquake,clean 20/0,2.0,22,21
+gem,Earthquake,clean 20/0,2.0,33,31
 gem,Earthquake,corrupted 20/0,5.0,14,13
-gem,Earthquake,corrupted 21/0,1.0,39,38
+gem,Earthquake,corrupted 21/0,2.0,48,48
 gem,Earthquake,clean 1/20,3.0,62,57
 gem,Earthquake,clean 20/20,18.0,8,8
 gem,Earthquake,corrupted 20/20,15.0,2,2
 gem,Earthquake,corrupted 21/20,9.0,5,5
 gem,Earthshatter,clean 20/0,2.0,40,36
-gem,Earthshatter,corrupted 20/0,10.0,4,3
+gem,Earthshatter,corrupted 20/0,10.0,12,11
 gem,Earthshatter,corrupted 21/0,3.0,24,23
 gem,Earthshatter,clean 1/20,3.0,45,43
 gem,Earthshatter,clean 20/20,19.0,7,7
 gem,Earthshatter,corrupted 20/20,20.0,5,4
 gem,Earthshatter,corrupted 21/20,9.0,10,10
-gem,Efficacy Support,clean 20/0,10.0,57,53
+gem,Efficacy Support,clean 20/0,10.0,100,96
 gem,Efficacy Support,corrupted 20/0,10.0,100,14
 gem,Efficacy Support,corrupted 21/0,200.0,21,18
 gem,Efficacy Support,clean 1/20,14.0,69,66
@@ -1820,9 +1820,9 @@ gem,Elemental Army Support,corrupted 21/0,9.0,34,33
 gem,Elemental Army Support,clean 1/20,7.0,78,63
 gem,Elemental Army Support,clean 20/20,29.0,20,20
 gem,Elemental Army Support,corrupted 20/20,30.0,29,21
-gem,Elemental Army Support,corrupted 21/20,360.0,7,7
+gem,Elemental Army Support,corrupted 21/20,300.0,10,10
 gem,Elemental Damage with Attacks Support,clean 20/0,1.0,100,98
-gem,Elemental Damage with Attacks Support,corrupted 20/0,3.0,100,97
+gem,Elemental Damage with Attacks Support,corrupted 20/0,3.0,100,99
 gem,Elemental Damage with Attacks Support,corrupted 21/0,10.0,51,51
 gem,Elemental Damage with Attacks Support,clean 1/20,19.0,99,94
 gem,Elemental Damage with Attacks Support,clean 20/20,24.0,100,93
@@ -1927,14 +1927,14 @@ gem,Explosive Trap,corrupted 20/20,5.0,26,20
 gem,Explosive Trap,corrupted 21/20,60.0,39,39
 gem,Exsanguinate,clean 20/0,3.0,59,56
 gem,Exsanguinate,corrupted 20/0,3.0,46,40
-gem,Exsanguinate,corrupted 21/0,10.0,61,59
+gem,Exsanguinate,corrupted 21/0,10.0,92,88
 gem,Exsanguinate,clean 1/20,2.0,83,81
 gem,Exsanguinate,clean 20/20,20.0,19,19
 gem,Exsanguinate,corrupted 20/20,14.0,23,19
 gem,Exsanguinate,corrupted 21/20,190.0,39,37
 gem,Faster Attacks Support,clean 20/0,2.0,100,98
 gem,Faster Attacks Support,corrupted 20/0,10.0,47,46
-gem,Faster Attacks Support,corrupted 21/0,5.0,37,36
+gem,Faster Attacks Support,corrupted 21/0,6.0,55,55
 gem,Faster Attacks Support,clean 1/20,5.0,73,70
 gem,Faster Attacks Support,clean 20/20,30.0,32,29
 gem,Faster Attacks Support,corrupted 20/20,28.0,23,23
@@ -1954,13 +1954,13 @@ gem,Faster Projectiles Support,clean 20/20,20.0,4,4
 gem,Faster Projectiles Support,corrupted 20/20,29.0,5,5
 gem,Faster Projectiles Support,corrupted 21/20,70.0,10,10
 gem,Feeding Frenzy Support,clean 20/0,4.0,100,97
-gem,Feeding Frenzy Support,corrupted 20/0,4.0,50,35
+gem,Feeding Frenzy Support,corrupted 20/0,4.0,52,47
 gem,Feeding Frenzy Support,corrupted 21/0,5.0,30,30
 gem,Feeding Frenzy Support,clean 1/20,7.0,49,46
 gem,Feeding Frenzy Support,clean 20/20,30.0,24,23
 gem,Feeding Frenzy Support,corrupted 20/20,25.0,24,13
 gem,Feeding Frenzy Support,corrupted 21/20,95.0,12,12
-gem,Fire Penetration Support,clean 20/0,13.0,13,13
+gem,Fire Penetration Support,clean 20/0,10.0,42,38
 gem,Fire Penetration Support,corrupted 20/0,5.0,9,9
 gem,Fire Penetration Support,corrupted 21/0,5.0,28,28
 gem,Fire Penetration Support,clean 1/20,4.0,39,39
@@ -1997,7 +1997,7 @@ gem,Fist of War Support,corrupted 20/20,15.0,1,1
 gem,Fist of War Support,corrupted 21/20,200.0,1,1
 gem,Flame Dash,clean 20/0,5.0,99,95
 gem,Flame Dash,corrupted 20/0,7.0,36,33
-gem,Flame Dash,corrupted 21/0,5.0,24,24
+gem,Flame Dash,corrupted 21/0,5.0,49,49
 gem,Flame Dash,clean 1/20,10.0,38,36
 gem,Flame Dash,clean 20/20,64.0,18,16
 gem,Flame Dash,corrupted 20/20,78.0,8,7
@@ -2011,7 +2011,7 @@ gem,Flame Surge,corrupted 20/20,15.0,8,8
 gem,Flame Surge,corrupted 21/20,20.0,16,16
 gem,Flame Wall,clean 20/0,3.0,21,20
 gem,Flame Wall,corrupted 20/0,13.0,11,11
-gem,Flame Wall,corrupted 21/0,3.0,33,33
+gem,Flame Wall,corrupted 21/0,3.0,51,46
 gem,Flame Wall,clean 1/20,3.0,43,43
 gem,Flame Wall,clean 20/20,32.0,5,5
 gem,Flame Wall,corrupted 21/20,12.0,8,8
@@ -4569,7 +4569,7 @@ compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest
 compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,16,10.0,1,1
 compass,25% increased Pack Size in your Unidentified Maps,16,25.0,41,16
 compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,20.0,11,8
-compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,120.0,60,34
+compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,127.0,82,31
 contract,Lockpicking Contract,ilvl 83+,1.0,89,58
 contract,Brute Force Contract,ilvl 83+,1.0,98,55
 contract,Perception Contract,ilvl 83+,1.0,99,33
@@ -4580,7 +4580,7 @@ contract,Agility Contract,ilvl 83+,1.0,98,69
 contract,Deception Contract,ilvl 83+,1.0,100,56
 contract,Engineering Contract,ilvl 83+,1.0,97,44
 blueprint,Blueprint: Bunker,3 wings,1.0,100,95
-blueprint,Blueprint: Mansion,3 wings,1.0,97,91
+blueprint,Blueprint: Mansion,3 wings,2.0,99,86
 blueprint,Blueprint: Records Office,3 wings,2.0,100,90
 blueprint,Blueprint: Smuggler's Den,3 wings,2.0,98,93
 blueprint,Blueprint: Underbelly,3 wings,1.0,100,94
@@ -4601,10 +4601,10 @@ incubator,Infused Incubator,ilvl 83,1.0,729,32
 incubator,Kalguuran Incubator,ilvl 83,1.0,574,63
 incubator,Maddening Incubator,ilvl 83,1.0,376,62
 incubator,Mysterious Incubator,ilvl 83,1.0,874,21
-incubator,Obscured Incubator,ilvl 83,1.0,358,60
+incubator,Obscured Incubator,ilvl 83,1.0,318,65
 incubator,Ornate Incubator,ilvl 83,2.0,274,83
 incubator,Otherworldly Incubator,ilvl 83,1.0,343,65
-incubator,Primal Incubator,ilvl 83,1.0,231,34
+incubator,Primal Incubator,ilvl 83,1.0,302,32
 incubator,Singular Incubator,ilvl 83,1.0,519,51
 incubator,Skittering Incubator,ilvl 83,1.0,946,45
 incubator,Thaumaturge's Incubator,ilvl 83,1.0,283,75
@@ -4643,7 +4643,7 @@ beast,Wild Hellion Alpha,,200.0,97,35
 beast,Craiceann First of the Deep,,30.0,15,7
 beast,Farrul First of the Plains,,90.0,40,21
 beast,Fenumus First of the Night,,58.0,43,19
-beast,Saqawal First of the Sky,,30.0,24,11
+beast,Saqawal First of the Sky,,30.0,18,10
 map,Enslaver's Map,T16,13.0,96,58
 map,Eradicator's Map,T16,12.0,98,55
 map,Constrictor's Map,T16,13.0,98,65
@@ -6318,51 +6318,52 @@ unique,Crest of Desire,clean,15.0,100,97
 unique,Crest of Desire,corrupted,100.0,16,16
 unique,Death's Door,clean,32.0,100,99
 unique,Death's Door,corrupted,20.0,59,18
-unique,Lethal Pride,clean,40.0,100,11
-unique,Lethal Pride,corrupted,50.0,100,83
-unique,Mercenary's Lot,clean,1.0,90,82
+unique,Lethal Pride,clean,30.0,99,39
+unique,Lethal Pride,corrupted,40.0,100,93
+unique,Mercenary's Lot,clean,1.0,88,83
 unique,Mercenary's Lot,corrupted,1.0,100,98
-unique,Wheel of the Stormsail,clean,1.0,83,78
-unique,Wheel of the Stormsail,corrupted,2.0,99,96
-unique,Dreamfeather,clean,1.0,99,99
-unique,Dreamfeather,corrupted,2.0,100,97
-unique,Replica Victario's Charity,clean,4.0,45,45
-unique,Replica Victario's Charity,corrupted,15.0,3,3
-unique,Vorana's March,clean,1.0,99,75
-unique,Vorana's March,corrupted,15.0,11,10
-unique,Abberath's Horn,clean,1.0,98,93
-unique,Abberath's Horn,corrupted,1.0,63,58
-unique,Cowl of the Ceraunophile,clean,20.0,24,24
-unique,Cowl of the Ceraunophile,corrupted,30.0,2,2
-unique,Voidfletcher,clean,7.0,100,96
-unique,Voidfletcher,corrupted,5.0,82,75
-unique,Doryani's Catalyst,clean,4.0,18,18
-unique,The Green Nightmare,clean,640.0,25,23
-unique,Ceinture of Benevolence,clean,1.0,97,96
-unique,Ceinture of Benevolence,corrupted,1.0,100,97
-unique,Black Zenith,clean,2.0,58,58
-unique,Black Zenith,corrupted,2.0,38,26
-unique,Rathpith Globe,clean,15.0,96,88
-unique,Rathpith Globe,corrupted,8.0,100,92
-unique,Shimmeron,clean,2.0,99,94
-unique,Shimmeron,corrupted,9.0,33,31
-unique,The Flow Untethered,clean,5.0,22,21
-unique,The Flow Untethered,corrupted,100.0,1,1
-unique,Void Battery,clean,20.0,99,88
-unique,Void Battery,corrupted,15.0,100,95
-unique,Ahn's Might,clean,1.0,88,88
-unique,Ahn's Might,corrupted,3.0,85,83
-unique,The Pandemonius,clean,200.0,78,68
-unique,The Pandemonius,corrupted,400.0,3,3
-unique,Fevered Mind,corrupted,1.0,99,90
-unique,Glimpse of Chaos,corrupted,40.0,100,95
-unique,Lavianga's Wisdom,clean,1.0,94,90
-unique,Lavianga's Wisdom,corrupted,1.0,53,50
-unique,Tombfist,clean,1.0,99,92
-unique,Tombfist,corrupted,1.0,99,94
-unique,Rebuke of the Vaal,clean,3.0,98,96
-unique,Rebuke of the Vaal,corrupted,1.0,90,84
-unique,Venopuncture,clean,1.0,78,76
+unique,Wheel of the Stormsail,clean,1.0,80,76
+unique,Wheel of the Stormsail,corrupted,1.0,99,95
+unique,Dreamfeather,clean,1.0,100,98
+unique,Dreamfeather,corrupted,2.0,100,99
+unique,Replica Victario's Charity,clean,4.0,64,62
+unique,Replica Victario's Charity,corrupted,7.0,14,14
+unique,Vorana's March,clean,1.0,100,78
+unique,Vorana's March,corrupted,12.0,9,9
+unique,Abberath's Horn,clean,1.0,97,91
+unique,Abberath's Horn,corrupted,1.0,91,84
+unique,Cowl of the Ceraunophile,clean,15.0,48,48
+unique,Cowl of the Ceraunophile,corrupted,9.0,9,8
+unique,Voidfletcher,clean,5.0,99,99
+unique,Voidfletcher,corrupted,7.0,100,94
+unique,Doryani's Catalyst,clean,3.0,42,41
+unique,Doryani's Catalyst,corrupted,5.0,7,7
+unique,The Green Nightmare,clean,680.0,29,28
+unique,Ceinture of Benevolence,clean,1.0,93,92
+unique,Ceinture of Benevolence,corrupted,1.0,100,96
+unique,Black Zenith,clean,2.0,54,54
+unique,Black Zenith,corrupted,2.0,61,50
+unique,Rathpith Globe,clean,13.0,97,91
+unique,Rathpith Globe,corrupted,7.0,99,91
+unique,Shimmeron,clean,2.0,99,82
+unique,Shimmeron,corrupted,4.0,49,49
+unique,The Flow Untethered,clean,10.0,28,27
+unique,The Flow Untethered,corrupted,200.0,1,1
+unique,Void Battery,clean,20.0,99,96
+unique,Void Battery,corrupted,14.0,100,93
+unique,Ahn's Might,clean,1.0,87,83
+unique,Ahn's Might,corrupted,1.0,99,95
+unique,The Pandemonius,clean,160.0,90,86
+unique,The Pandemonius,corrupted,200.0,6,5
+unique,Fevered Mind,corrupted,1.0,97,92
+unique,Glimpse of Chaos,corrupted,10.0,100,99
+unique,Lavianga's Wisdom,clean,1.0,87,85
+unique,Lavianga's Wisdom,corrupted,1.0,77,71
+unique,Tombfist,clean,1.0,99,86
+unique,Tombfist,corrupted,3.0,100,95
+unique,Rebuke of the Vaal,clean,3.0,97,95
+unique,Rebuke of the Vaal,corrupted,1.0,100,93
+unique,Venopuncture,clean,1.0,87,82
 unique,Venopuncture,corrupted,1.0,100,99
 unique,Brutus' Lead Sprinkler,clean,1.0,98,98
 unique,Brutus' Lead Sprinkler,corrupted,5.0,27,27
