@@ -12,22 +12,22 @@ currency,Awakened Sextant,,4.285714285714286,30,7
 currency,Awakened Sextant,,4.285714285714286,50,7
 currency,Awakened Sextant,,4.285714285714286,100,6
 currency,Awakened Sextant,,4.285714285714286,500,4
-currency,Orb of Alteration,,0.0003355704697986577,1,16
-currency,Orb of Alteration,,0.0003355704697986577,9,16
-currency,Orb of Alteration,,0.0003355704697986577,18,16
-currency,Orb of Alteration,,0.0003355704697986577,30,16
-currency,Orb of Alteration,,0.0003355704697986577,50,16
-currency,Orb of Alteration,,0.0003355704697986577,100,16
-currency,Orb of Alteration,,0.0003355704697986577,500,16
-currency,Orb of Alteration,,0.06999999999999999,10000,7
-currency,Orb of Fusing,,0.1826086956521739,1,12
-currency,Orb of Fusing,,0.1826086956521739,9,12
-currency,Orb of Fusing,,0.1826086956521739,18,12
-currency,Orb of Fusing,,0.1826086956521739,30,12
-currency,Orb of Fusing,,0.1826086956521739,50,12
-currency,Orb of Fusing,,0.1826086956521739,100,12
-currency,Orb of Fusing,,0.1826086956521739,500,12
-currency,Orb of Fusing,,0.1875,10000,2
+currency,Orb of Alteration,,0.06999999999999999,1,19
+currency,Orb of Alteration,,0.06999999999999999,9,19
+currency,Orb of Alteration,,0.06999999999999999,18,19
+currency,Orb of Alteration,,0.06999999999999999,30,19
+currency,Orb of Alteration,,0.06999999999999999,50,19
+currency,Orb of Alteration,,0.06999999999999999,100,19
+currency,Orb of Alteration,,0.06999999999999999,500,19
+currency,Orb of Alteration,,0.07191780821917808,10000,5
+currency,Orb of Fusing,,0.18901890189018902,1,11
+currency,Orb of Fusing,,0.18901890189018902,9,11
+currency,Orb of Fusing,,0.18901890189018902,18,11
+currency,Orb of Fusing,,0.18901890189018902,30,11
+currency,Orb of Fusing,,0.18901890189018902,50,11
+currency,Orb of Fusing,,0.18901890189018902,100,11
+currency,Orb of Fusing,,0.18901890189018902,500,11
+currency,Orb of Fusing,,0.18901890189018902,10000,2
 currency,Orb of Alchemy,,0.08415147265077139,1,33
 currency,Orb of Alchemy,,0.08415147265077139,9,33
 currency,Orb of Alchemy,,0.08415147265077139,18,33
@@ -1763,12 +1763,13 @@ fossil,Perfect Fossil,,28.636363636363633,18,7
 fossil,Perfect Fossil,,28.636363636363633,30,5
 fossil,Perfect Fossil,,28.636363636363633,50,4
 fossil,Perfect Fossil,,28.636363636363633,100,4
-fossil,Bound Fossil,,1.0,1,19
-fossil,Bound Fossil,,10.5,9,10
-fossil,Bound Fossil,,10.5,18,10
-fossil,Bound Fossil,,11.052631578947368,30,6
-fossil,Bound Fossil,,11.666666666666666,50,5
-fossil,Bound Fossil,,12.0,100,3
+fossil,Bound Fossil,,1.0,1,18
+fossil,Bound Fossil,,10.5,9,12
+fossil,Bound Fossil,,10.5,18,12
+fossil,Bound Fossil,,11.052631578947368,30,9
+fossil,Bound Fossil,,11.052631578947368,50,7
+fossil,Bound Fossil,,11.200000000000001,100,3
+fossil,Bound Fossil,,13.125,500,1
 fossil,Deft Fossil,,1.0,1,15
 fossil,Deft Fossil,,8.4,9,12
 fossil,Deft Fossil,,8.4,18,11
@@ -4644,14 +4645,16 @@ map,Vaults of Atziri,T16,4.0,18,4
 map,Vaults of Atziri,T16,7.0,30,2
 map,Vaults of Atziri,T16,7.0,50,2
 map,Vaults of Atziri,T16,420.0,100,1
-map,Whakawairua Tuahu,T3,3.0,1,5
-map,Whakawairua Tuahu,T16,3.6363636363636362,1,7
-map,Whakawairua Tuahu,T16,3.6363636363636362,9,4
-map,Whakawairua Tuahu,T16,3.6363636363636362,18,2
-catalyst,Tainted Catalyst,,70.0,1,3
-catalyst,Tainted Catalyst,,70.0,9,3
-catalyst,Tainted Catalyst,,84.0,18,1
-catalyst,Tainted Catalyst,,84.0,30,1
+map,Whakawairua Tuahu,T3,2.0,1,7
+map,Whakawairua Tuahu,T16,3.0,1,11
+map,Whakawairua Tuahu,T16,3.6363636363636362,9,6
+map,Whakawairua Tuahu,T16,3.6363636363636362,18,4
+map,Whakawairua Tuahu,T16,11.666666666666666,30,1
+catalyst,Tainted Catalyst,,35.0,1,7
+catalyst,Tainted Catalyst,,70.0,9,5
+catalyst,Tainted Catalyst,,70.0,18,4
+catalyst,Tainted Catalyst,,84.0,30,3
+catalyst,Tainted Catalyst,,84.0,50,1
 gem,Added Chaos Damage Support,clean 20/0,3.0,1,27
 gem,Added Chaos Damage Support,corrupted 20/0,10.0,1,18
 gem,Added Chaos Damage Support,corrupted 21/0,5.0,1,22
@@ -5146,85 +5149,84 @@ gem,Cobra Lash,corrupted 20/20,10.0,1,1
 gem,Cobra Lash,corrupted 21/20,10.0,1,16
 gem,Cold Penetration Support,clean 20/0,9.0,1,28
 gem,Cold Penetration Support,corrupted 20/0,10.0,1,14
-gem,Cold Penetration Support,corrupted 21/0,4.0,1,30
-gem,Cold Penetration Support,clean 1/20,5.0,1,36
-gem,Cold Penetration Support,clean 20/20,20.0,1,17
-gem,Cold Penetration Support,corrupted 20/20,14.0,1,15
-gem,Cold Penetration Support,corrupted 21/20,19.0,1,12
-gem,Cold Snap,clean 20/0,3.0,1,41
-gem,Cold Snap,corrupted 20/0,5.0,1,35
-gem,Cold Snap,corrupted 21/0,1.0,1,64
-gem,Cold Snap,clean 1/20,4.0,1,56
-gem,Cold Snap,clean 20/20,30.0,1,19
-gem,Cold Snap,corrupted 20/20,20.0,1,15
-gem,Cold Snap,corrupted 21/20,147.0,1,26
-gem,Cold to Fire Support,clean 20/0,5.0,1,33
-gem,Cold to Fire Support,corrupted 20/0,6.0,1,41
-gem,Cold to Fire Support,corrupted 21/0,5.0,1,30
-gem,Cold to Fire Support,clean 1/20,4.0,1,49
-gem,Cold to Fire Support,clean 20/20,25.0,1,22
-gem,Cold to Fire Support,corrupted 20/20,20.0,1,20
-gem,Cold to Fire Support,corrupted 21/20,210.0,1,3
-gem,Combustion Support,clean 20/0,1.0,1,81
-gem,Combustion Support,corrupted 20/0,5.0,1,32
-gem,Combustion Support,corrupted 21/0,5.0,1,25
-gem,Combustion Support,clean 1/20,5.0,1,49
-gem,Combustion Support,clean 20/20,22.0,1,18
-gem,Combustion Support,corrupted 20/20,19.0,1,13
-gem,Combustion Support,corrupted 21/20,210.0,1,4
-gem,Concentrated Effect Support,clean 20/0,8.0,1,74
-gem,Concentrated Effect Support,corrupted 20/0,10.0,1,76
-gem,Concentrated Effect Support,corrupted 21/0,15.0,1,40
-gem,Concentrated Effect Support,clean 1/20,8.0,1,58
-gem,Concentrated Effect Support,clean 20/20,8.0,1,23
-gem,Concentrated Effect Support,corrupted 20/20,19.0,1,59
-gem,Concentrated Effect Support,corrupted 21/20,420.0,1,8
-gem,Conductivity,clean 20/0,5.0,1,35
-gem,Conductivity,corrupted 20/0,5.0,1,20
-gem,Conductivity,corrupted 21/0,13.0,1,58
-gem,Conductivity,clean 1/20,5.0,1,51
-gem,Conductivity,clean 20/20,44.0,1,11
-gem,Conductivity,corrupted 20/20,45.0,1,3
-gem,Conductivity,corrupted 21/20,90.0,1,17
-gem,Consecrated Path,clean 20/0,3.0,1,34
-gem,Consecrated Path,corrupted 20/0,5.0,1,26
-gem,Consecrated Path,corrupted 21/0,1.0,1,40
-gem,Consecrated Path,clean 1/20,3.0,1,62
-gem,Consecrated Path,clean 20/20,18.0,1,16
-gem,Consecrated Path,corrupted 20/20,10.0,1,13
-gem,Consecrated Path,corrupted 21/20,10.0,1,9
-gem,Contagion,clean 20/0,3.0,1,34
-gem,Contagion,corrupted 20/0,5.0,1,17
-gem,Contagion,corrupted 21/0,2.0,1,51
-gem,Contagion,clean 1/20,2.0,1,48
-gem,Contagion,clean 20/20,35.0,1,7
-gem,Contagion,corrupted 20/20,8.0,1,7
-gem,Contagion,corrupted 21/20,19.0,1,9
-gem,Controlled Destruction Support,clean 20/0,2.0,1,58
-gem,Controlled Destruction Support,corrupted 20/0,2.0,1,32
-gem,Controlled Destruction Support,corrupted 21/0,4.0,1,39
-gem,Controlled Destruction Support,clean 1/20,3.0,1,62
-gem,Controlled Destruction Support,clean 20/20,10.0,1,17
-gem,Controlled Destruction Support,corrupted 20/20,10.0,1,13
-gem,Controlled Destruction Support,corrupted 21/20,15.0,1,19
-gem,Conversion Trap,clean 20/0,3.0,1,17
-gem,Conversion Trap,corrupted 20/0,8.0,1,6
-gem,Conversion Trap,corrupted 21/0,3.0,1,59
-gem,Conversion Trap,clean 1/20,3.0,1,44
-gem,Conversion Trap,clean 20/20,30.0,1,3
-gem,Conversion Trap,corrupted 21/20,20.0,1,16
-gem,Convocation,clean 20/0,3.0,1,96
-gem,Convocation,corrupted 20/0,3.0,1,36
-gem,Convocation,corrupted 21/0,4.0,1,52
-gem,Convocation,clean 1/20,5.0,1,88
-gem,Convocation,clean 20/20,55.0,1,33
-gem,Convocation,corrupted 20/20,50.0,1,11
-gem,Convocation,corrupted 21/20,90.0,1,17
-gem,Corrupting Fever,clean 20/0,3.0,1,47
-gem,Corrupting Fever,corrupted 20/0,2.0,1,47
-gem,Corrupting Fever,corrupted 21/0,28.0,1,84
-gem,Corrupting Fever,clean 1/20,4.0,1,50
-gem,Corrupting Fever,clean 20/20,40.0,1,8
+gem,Cold Penetration Support,corrupted 21/0,7.0,1,13
+gem,Cold Penetration Support,clean 1/20,3.0,1,34
+gem,Cold Penetration Support,clean 20/20,17.0,1,17
+gem,Cold Penetration Support,corrupted 20/20,19.0,1,7
+gem,Cold Penetration Support,corrupted 21/20,20.0,1,4
+gem,Cold Snap,clean 20/0,3.0,1,37
+gem,Cold Snap,corrupted 20/0,5.0,1,33
+gem,Cold Snap,corrupted 21/0,3.0,1,43
+gem,Cold Snap,clean 1/20,4.0,1,55
+gem,Cold Snap,clean 20/20,25.0,1,15
+gem,Cold Snap,corrupted 20/20,20.0,1,16
+gem,Cold Snap,corrupted 21/20,190.0,1,20
+gem,Cold to Fire Support,clean 20/0,3.0,1,23
+gem,Cold to Fire Support,corrupted 20/0,8.0,1,33
+gem,Cold to Fire Support,corrupted 21/0,5.0,1,26
+gem,Cold to Fire Support,clean 1/20,5.0,1,35
+gem,Cold to Fire Support,clean 20/20,29.0,1,13
+gem,Cold to Fire Support,corrupted 20/20,25.0,1,15
+gem,Cold to Fire Support,corrupted 21/20,180.0,1,7
+gem,Combustion Support,clean 20/0,2.0,1,54
+gem,Combustion Support,corrupted 20/0,5.0,1,25
+gem,Combustion Support,corrupted 21/0,5.0,1,19
+gem,Combustion Support,clean 1/20,6.0,1,29
+gem,Combustion Support,clean 20/20,25.0,1,13
+gem,Combustion Support,corrupted 20/20,25.0,1,9
+gem,Combustion Support,corrupted 21/20,210.0,1,3
+gem,Concentrated Effect Support,clean 20/0,9.0,1,57
+gem,Concentrated Effect Support,corrupted 20/0,6.0,1,74
+gem,Concentrated Effect Support,corrupted 21/0,19.0,1,24
+gem,Concentrated Effect Support,clean 1/20,10.0,1,50
+gem,Concentrated Effect Support,clean 20/20,25.0,1,25
+gem,Concentrated Effect Support,corrupted 20/20,15.0,1,60
+gem,Concentrated Effect Support,corrupted 21/20,504.0,1,5
+gem,Conductivity,clean 20/0,5.0,1,33
+gem,Conductivity,corrupted 20/0,5.0,1,13
+gem,Conductivity,corrupted 21/0,18.0,1,47
+gem,Conductivity,clean 1/20,3.0,1,32
+gem,Conductivity,clean 20/20,48.0,1,4
+gem,Conductivity,corrupted 21/20,98.0,1,10
+gem,Consecrated Path,clean 20/0,3.0,1,31
+gem,Consecrated Path,corrupted 20/0,10.0,1,12
+gem,Consecrated Path,corrupted 21/0,5.0,1,24
+gem,Consecrated Path,clean 1/20,3.0,1,53
+gem,Consecrated Path,clean 20/20,18.0,1,15
+gem,Consecrated Path,corrupted 20/20,10.0,1,7
+gem,Consecrated Path,corrupted 21/20,15.0,1,3
+gem,Contagion,clean 20/0,3.0,1,23
+gem,Contagion,corrupted 20/0,5.0,1,11
+gem,Contagion,corrupted 21/0,3.0,1,41
+gem,Contagion,clean 1/20,4.0,1,45
+gem,Contagion,clean 20/20,29.0,1,6
+gem,Contagion,corrupted 20/20,8.0,1,5
+gem,Contagion,corrupted 21/20,20.0,1,5
+gem,Controlled Destruction Support,clean 20/0,3.0,1,37
+gem,Controlled Destruction Support,corrupted 20/0,3.0,1,24
+gem,Controlled Destruction Support,corrupted 21/0,3.0,1,28
+gem,Controlled Destruction Support,clean 1/20,5.0,1,30
+gem,Controlled Destruction Support,clean 20/20,10.0,1,10
+gem,Controlled Destruction Support,corrupted 20/20,7.0,1,12
+gem,Controlled Destruction Support,corrupted 21/20,15.0,1,16
+gem,Conversion Trap,clean 20/0,4.0,1,17
+gem,Conversion Trap,corrupted 20/0,8.0,1,4
+gem,Conversion Trap,corrupted 21/0,3.0,1,44
+gem,Conversion Trap,clean 1/20,5.0,1,34
+gem,Conversion Trap,clean 20/20,30.0,1,2
+gem,Conversion Trap,corrupted 21/20,19.0,1,16
+gem,Convocation,clean 20/0,3.0,1,92
+gem,Convocation,corrupted 20/0,5.0,1,19
+gem,Convocation,corrupted 21/0,4.0,1,38
+gem,Convocation,clean 1/20,8.0,1,79
+gem,Convocation,clean 20/20,60.0,1,24
+gem,Convocation,corrupted 20/20,59.0,1,7
+gem,Convocation,corrupted 21/20,168.0,1,10
+gem,Corrupting Fever,clean 20/0,3.0,1,28
+gem,Corrupting Fever,corrupted 20/0,2.0,1,27
+gem,Corrupting Fever,corrupted 21/0,30.0,1,47
+gem,Corrupting Fever,clean 1/20,7.0,1,31
+gem,Corrupting Fever,clean 20/20,45.0,1,6
 gem,Corrupting Fever,corrupted 20/20,5.0,1,15
 gem,Corrupting Fever,corrupted 21/20,609.0,1,14
 gem,Crackling Lance,clean 20/0,2.0,1,63
@@ -8196,8 +8198,8 @@ compass,Your Maps contain 100% increased number of Runic Monster Markers,16,95.0
 compass,Delirium Reward Bars fill 100% faster in your Maps,16,114.0,1,12
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,16,630.0,1,8
 compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,16,10.0,1,4
-compass,25% increased Pack Size in your Unidentified Maps,16,160.0,1,12
-compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,25.0,1,7
+compass,25% increased Pack Size in your Unidentified Maps,16,133.0,1,16
+compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,30.0,1,9
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,115.0,1,17
 contract,Lockpicking Contract,ilvl 83+,1.0,1,55
 contract,Brute Force Contract,ilvl 83+,1.0,1,65
@@ -8217,7 +8219,7 @@ blueprint,Blueprint: Repository,3 wings,1.0,1,93
 blueprint,Blueprint: Tunnels,3 wings,2.0,1,87
 blueprint,Blueprint: Laboratory,3 wings,1.0,1,89
 blueprint,Blueprint: Prohibited Library,3 wings,2.0,1,91
-incubator,Abyssal Incubator,ilvl 83,1.0,1,54
+incubator,Abyssal Incubator,ilvl 83,1.0,1,48
 incubator,Abyssal Incubator,ilvl 83,1.0,9,10
 incubator,Blighted Incubator,ilvl 83,1.0,1,53
 incubator,Blighted Incubator,ilvl 83,1.0,9,6
@@ -8227,8 +8229,8 @@ incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,1,32
 incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,9,3
 incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,1,45
 incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,9,3
-incubator,Celestial Jeweller's Incubator,ilvl 83,1.0,1,42
-incubator,Celestial Jeweller's Incubator,ilvl 83,50.0,9,4
+incubator,Celestial Jeweller's Incubator,ilvl 83,1.0,1,40
+incubator,Celestial Jeweller's Incubator,ilvl 83,1.0,9,4
 incubator,Diviner's Incubator,ilvl 83,2.0,1,75
 incubator,Diviner's Incubator,ilvl 83,8.0,9,6
 incubator,Diviner's Incubator,ilvl 83,10.0,18,1
@@ -8273,12 +8275,12 @@ incubator,Primal Incubator,ilvl 83,1.0,1,38
 incubator,Primal Incubator,ilvl 83,2.0,9,3
 incubator,Singular Incubator,ilvl 83,1.0,1,49
 incubator,Singular Incubator,ilvl 83,1.0,9,11
-incubator,Skittering Incubator,ilvl 83,1.0,1,54
-incubator,Skittering Incubator,ilvl 83,2.0,9,19
+incubator,Skittering Incubator,ilvl 83,1.0,1,46
+incubator,Skittering Incubator,ilvl 83,2.0,9,14
 incubator,Skittering Incubator,ilvl 83,3.0,18,4
 incubator,Skittering Incubator,ilvl 83,3.0,30,4
-incubator,Skittering Incubator,ilvl 83,3.0,50,3
-incubator,Skittering Incubator,ilvl 83,4.0,100,2
+incubator,Skittering Incubator,ilvl 83,4.0,50,3
+incubator,Skittering Incubator,ilvl 83,4.0,100,3
 incubator,Thaumaturge's Incubator,ilvl 83,1.0,1,65
 incubator,Thaumaturge's Incubator,ilvl 83,2.0,9,5
 vial,Vial of Awakening,,16.0,1,5
@@ -8299,22 +8301,22 @@ beast,Craicic Chimeral,,504.0,1,68
 beast,Craicic Maw,,15.0,1,5
 beast,Craicic Vassal,,40.0,1,22
 beast,Farric Frost Hellion Alpha,,30.0,1,15
-beast,Farric Lynx Alpha,,7.0,1,31
+beast,Farric Lynx Alpha,,7.0,1,29
 beast,Farric Wolf Alpha,,20.0,1,51
 beast,Fenumal Plagued Arachnid,,30.0,1,63
 beast,Craicic Spider Crab,,40.0,1,15
 beast,Farric Tiger Alpha,,49.0,1,35
-beast,Fenumal Hybrid Arachnid,,45.0,1,11
+beast,Fenumal Hybrid Arachnid,,35.0,1,9
 beast,Saqawine Rhex,,34.0,1,21
 beast,Primal Crushclaw,,3.0,1,5
 beast,Primal Cystcaller,,20.0,1,4
-beast,Primal Rhex Matriarch,,40.0,1,22
+beast,Primal Rhex Matriarch,,35.0,1,17
 beast,Vivid Abberarach,,10.0,1,8
 beast,Vivid Vulture,,399.0,1,16
 beast,Vivid Watcher,,294.0,1,11
 beast,Wild Brambleback,,40.0,1,12
 beast,Wild Bristle Matron,,315.0,1,25
-beast,Wild Hellion Alpha,,420.0,1,6
+beast,Wild Hellion Alpha,,399.0,1,8
 beast,Craiceann First of the Deep,,30.0,1,7
 beast,Farrul First of the Plains,,80.0,1,12
 beast,Fenumus First of the Night,,150.0,1,7
@@ -8325,7 +8327,7 @@ map,Constrictor's Map,T16,15.0,1,45
 map,Purifier's Map,T16,14.0,1,45
 map,Baran's Citadel,T16,59.0,1,68
 map,Veritania's Citadel,T16,60.0,1,67
-map,Al-Hezmin's Citadel,T16,59.0,1,69
+map,Al-Hezmin's Citadel,T16,60.0,1,63
 map,Drox's Citadel,T16,60.0,1,70
 unique,Bramblejack,clean,1.0,1,81
 unique,Bramblejack,clean 6-link,18.0,1,74
@@ -9515,44 +9517,43 @@ unique,Hyperboreus,corrupted,5.0,1,2
 unique,Gang's Momentum,clean,1.0,1,86
 unique,Gang's Momentum,corrupted,1.0,1,96
 unique,Hand of Thought and Motion,clean,2.0,1,89
-unique,Hand of Thought and Motion,corrupted,5.0,1,51
+unique,Hand of Thought and Motion,corrupted,5.0,1,25
 unique,Hrimnor's Resolve,clean,1.0,1,87
-unique,Hrimnor's Resolve,corrupted,1.0,1,97
-unique,Mageblood,clean,37590.0,1,83
-unique,Mageblood,corrupted,23100.0,1,52
-unique,Shadows and Dust,clean,1.0,1,96
-unique,Shadows and Dust,corrupted,2.0,1,91
-unique,Lochtonial Caress,clean,3.0,1,92
-unique,Lochtonial Caress,corrupted,4.0,1,96
+unique,Hrimnor's Resolve,corrupted,1.0,1,98
+unique,Mageblood,clean,37170.0,1,93
+unique,Mageblood,corrupted,25200.0,1,35
+unique,Shadows and Dust,clean,1.0,1,100
+unique,Shadows and Dust,corrupted,2.0,1,86
+unique,Lochtonial Caress,clean,3.0,1,84
+unique,Lochtonial Caress,corrupted,2.0,1,97
 unique,Usurper's Penance,clean,1.0,1,97
-unique,Usurper's Penance,corrupted,1.0,1,99
-unique,Thread of Hope,clean,70.0,1,95
-unique,Thread of Hope,corrupted,50.0,1,71
-unique,Replica Ungil's Gauche,clean,2.0,1,7
-unique,Replica Ungil's Gauche,corrupted,10.0,1,1
-unique,Abhorrent Interrogation,clean,5.0,1,72
-unique,Abhorrent Interrogation,corrupted,9.0,1,63
-unique,Mistwall,clean,1.0,1,95
-unique,Mistwall,corrupted,1.0,1,97
-unique,Bloodnotch,clean,9.0,1,97
-unique,Bloodnotch,corrupted,7.0,1,96
-unique,Axiom Perpetuum,clean,5.0,1,86
-unique,Axiom Perpetuum,corrupted,5.0,1,99
-unique,Shaper's Touch,clean,3.0,1,88
-unique,Shaper's Touch,corrupted,2.0,1,70
-unique,Anathema,clean,15.0,1,94
-unique,Anathema,corrupted,12.0,1,80
-unique,The Eternal Apple,clean,1.0,1,75
+unique,Usurper's Penance,corrupted,3.0,1,96
+unique,Thread of Hope,clean,60.0,1,67
+unique,Thread of Hope,corrupted,50.0,1,74
+unique,Replica Ungil's Gauche,clean,20.0,1,5
+unique,Abhorrent Interrogation,clean,9.0,1,53
+unique,Abhorrent Interrogation,corrupted,15.0,1,28
+unique,Mistwall,clean,1.0,1,91
+unique,Mistwall,corrupted,3.0,1,82
+unique,Bloodnotch,clean,9.0,1,96
+unique,Bloodnotch,corrupted,7.0,1,98
+unique,Axiom Perpetuum,clean,5.0,1,80
+unique,Axiom Perpetuum,corrupted,3.0,1,94
+unique,Shaper's Touch,clean,5.0,1,77
+unique,Shaper's Touch,corrupted,2.0,1,55
+unique,Anathema,clean,6.0,1,98
+unique,Anathema,corrupted,20.0,1,85
+unique,The Eternal Apple,clean,1.0,1,84
 unique,The Eternal Apple,corrupted,1.0,1,98
-unique,Volkuur's Guidance,clean,1.0,1,91
-unique,Volkuur's Guidance,corrupted,1.0,1,97
-unique,Replica Atziri's Acuity,clean,9.0,1,35
-unique,Replica Atziri's Acuity,corrupted,210.0,1,5
-unique,Voideye,clean,1.0,1,84
-unique,Voideye,corrupted,1.0,1,97
-unique,Hale Negator,clean,3.0,1,97
-unique,Hale Negator,corrupted,9.0,1,21
-unique,Andvarius,clean,1.0,1,92
+unique,Volkuur's Guidance,clean,1.0,1,95
+unique,Volkuur's Guidance,corrupted,1.0,1,95
+unique,Replica Atziri's Acuity,clean,10.0,1,26
+unique,Replica Atziri's Acuity,corrupted,30.0,1,2
+unique,Voideye,clean,1.0,1,87
+unique,Voideye,corrupted,1.0,1,95
+unique,Hale Negator,clean,2.0,1,81
+unique,Hale Negator,corrupted,8.0,1,12
+unique,Andvarius,clean,1.0,1,97
 unique,Andvarius,corrupted,3.0,1,100
 unique,Tear of Purity,clean,1.0,1,79
 unique,Tear of Purity,corrupted,1.0,1,98
