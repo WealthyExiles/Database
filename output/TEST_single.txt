@@ -281,6 +281,7 @@ scarab,Gilded Sulphite Scarab,,9.130434782608695,8299,5
 scarab,Polished Sulphite Scarab,,1.0,7147,29
 scarab,Winged Ambush Scarab,,70.0,1650,8
 scarab,Rusted Ultimatum Scarab,,1.0,17488,22
+scarab,Polished Ultimatum Scarab,,1.0,8474,32
 scarab,Rusted Harbinger Scarab,,1.0,17121,32
 scarab,Winged Sulphite Scarab,,40.0,647,16
 scarab,Polished Cartography Scarab,,1.0,9948,30
@@ -308,6 +309,7 @@ scarab,Rusted Shaper Scarab,,1.0,10787,22
 scarab,Polished Shaper Scarab,,1.0,7139,28
 scarab,Gilded Shaper Scarab,,8.75,8740,6
 scarab,Polished Reliquary Scarab,,1.0,13999,32
+scarab,Rusted Reliquary Scarab,,1.0,15325,25
 scarab,Winged Cartography Scarab,,32.0,1087,22
 scarab,Polished Divination Scarab,,9.130434782608695,15088,14
 scarab,Gilded Reliquary Scarab,,24.705882352941178,15097,18
@@ -363,6 +365,7 @@ essence,Screaming Essence of Sorrow,,1.0,2777,16
 essence,Shrieking Essence of Sorrow,,1.0,5759,29
 essence,Deafening Essence of Sorrow,,11.538461538461538,8853,6
 essence,Shrieking Essence of Anger,,1.0,9772,24
+essence,Deafening Essence of Anger,,14.0,8349,7
 essence,Screaming Essence of Anger,,1.0,2686,20
 essence,Screaming Essence of Torment,,0.5,2402,16
 essence,Shrieking Essence of Torment,,1.0,13884,21
@@ -756,7 +759,7 @@ card,The Samurais Eye,,189.0,111,4
 card,The Seeker,,2.0,192,24
 card,The Sephirot,,168.0,133,2
 card,The Shepherd's Sandals,,10.0,367,27
-card,The Shieldbearer,,34.0,117,24
+card,The Shieldbearer,,35.0,118,26
 card,The Shortcut,,10.0,97,18
 card,The Spark And the Flame,,2.0,186,11
 card,The Soul,,65.0,121,21
@@ -3706,7 +3709,7 @@ gem,Ambush,corrupted 21/0,2.0,40,38
 gem,Ambush,clean 1/20,3.0,39,35
 gem,Ambush,clean 20/20,20.0,7,7
 gem,Ambush,corrupted 20/20,10.0,3,3
-gem,Ambush,corrupted 21/20,30.0,5,5
+gem,Ambush,corrupted 21/20,10.0,10,10
 gem,Battlemage's Cry,clean 20/0,3.0,24,24
 gem,Battlemage's Cry,corrupted 20/0,6.0,16,15
 gem,Battlemage's Cry,corrupted 21/0,4.0,44,41
@@ -3714,7 +3717,7 @@ gem,Battlemage's Cry,clean 1/20,4.0,40,35
 gem,Battlemage's Cry,clean 20/20,80.0,6,6
 gem,Battlemage's Cry,corrupted 20/20,100.0,5,5
 gem,Battlemage's Cry,corrupted 21/20,100.0,9,8
-gem,Behead Support,clean 20/0,5.0,9,9
+gem,Behead Support,clean 20/0,9.0,11,11
 gem,Behead Support,corrupted 20/0,10.0,9,9
 gem,Behead Support,corrupted 21/0,5.0,17,17
 gem,Behead Support,clean 1/20,3.0,14,14
@@ -3725,7 +3728,7 @@ gem,Blade Trap,clean 20/0,3.0,30,29
 gem,Blade Trap,corrupted 20/0,10.0,19,18
 gem,Blade Trap,corrupted 21/0,4.0,47,40
 gem,Blade Trap,clean 1/20,3.0,60,57
-gem,Blade Trap,clean 20/20,20.0,26,23
+gem,Blade Trap,clean 20/20,20.0,24,21
 gem,Blade Trap,corrupted 20/20,15.0,11,11
 gem,Blade Trap,corrupted 21/20,89.0,21,19
 gem,Boneshatter,clean 20/0,1.0,69,63
@@ -4446,7 +4449,7 @@ gem,Awakened Enhance Support,corrupted 5/20,43050.0,1,1
 compass,Area contains a Smuggler's Cache,4,4.117647058823529,100,22
 compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,4,4.117647058823529,58,35
 compass,Unique Monsters drop Corrupted Items,4,4.117647058823529,100,42
-compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,8.0,95,53
+compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,8.0,95,67
 compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,12.352941176470587,100,54
 compass,Maps found in your Maps are Corrupted with 8 Modifiers,4,78.23529411764704,100,88
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,8.235294117647058,100,53
@@ -4473,7 +4476,7 @@ compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Items dr
 compass,Final Map Boss in each Map drops an additional Shaper Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,4.117647058823529,100,79
 compass,Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,4.117647058823529,100,12
 compass,Your Maps contain hunted traitors,4,4.117647058823529,100,31
-compass,Breaches in your Maps belong to Chayula:Breaches in your Maps contain 3 additional Clasped Hands,4,8.235294117647058,100,74
+compass,Breaches in your Maps belong to Chayula:Breaches in your Maps contain 3 additional Clasped Hands,4,6.0,100,63
 compass,Oils found in your Maps are 1 tier higher:Cost of Building and Upgrading Blight Towers in your Maps is doubled,4,7.0,100,72
 compass,Your Maps contain Jun,4,8.235294117647058,100,51
 compass,Map Bosses have 20% increased Life:Quality bonus of your Maps also applies to Rarity of Items found,4,3.0,100,21
@@ -4482,34 +4485,34 @@ compass,Players and Monsters take 12% increased Physical Damage:Your Maps contai
 compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contain 6 additional packs of Monsters that Heal,4,4.0,99,19
 compass,Rogue Exiles deal 20% increased Damage:Rogue Exiles drop 2 additional Jewels:Rogue Exiles in your Maps have 20% increased Life:Your Maps are inhabited by 2 additional Rogue Exiles,4,3.0,100,31
 compass,The First 3 Possessed Monsters drop an additional Polished Scarab:Your Maps contain an additional Tormented Betrayer,4,3.0,100,47
-compass,Your Maps contain Einhar,4,4.117647058823529,100,29
+compass,Your Maps contain Einhar,4,4.117647058823529,94,26
 compass,Map Bosses deal 20% increased Damage:Your Maps have 20% Quality,4,8.235294117647058,98,35
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Purple Plants,4,32.94117647058823,100,89
 compass,The First 3 Possessed Monsters drop an additional Unique Item:Your Maps contain an additional Tormented Graverobber,4,3.0,100,20
 compass,Your Maps contain a Mirror of Delirium,4,82.35294117647058,100,88
 compass,Your Maps contain Alva,4,8.235294117647058,100,63
 compass,100% increased Intelligence gained from Immortal Syndicate targets encountered in your Maps,4,4.0,100,36
-compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,107.05882352941175,100,55
-compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Blue Plants,4,32.94117647058823,97,63
-compass,Map Bosses drop 1 additional Unique Item,4,4.0,85,16
+compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,119.41176470588235,100,71
+compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Blue Plants,4,28.823529411764703,100,86
+compass,Map Bosses drop 1 additional Unique Item,4,3.0,100,15
 compass,Your Maps can contain Breaches:Your Maps contain an additional Breach,4,4.117647058823529,100,48
 compass,Map Bosses are accompanied by Bodyguards:An additional Map drops on Completing your Maps,4,4.117647058823529,100,28
 compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,4.117647058823529,100,28
 compass,Your Maps contain Niko,4,4.0,100,30
-compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,4,4.117647058823529,100,63
+compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,4,6.0,99,62
 compass,Your Maps contain an additional Legion Encounter,4,12.352941176470587,88,55
 compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,3.0,58,26
 compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,3.0,100,26
 compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,3.0,100,22
-compass,Your Maps contain an additional Abyss:Your Maps can contain Abysses,4,61.764705882352935,98,55
+compass,Your Maps contain an additional Abyss:Your Maps can contain Abysses,4,61.764705882352935,98,52
 compass,Your Maps contain a Blight Encounter,4,2.0,100,33
-compass,Slaying Enemies close together can attract monsters from Beyond this realm:25% increased Beyond Demon Pack Size in your Maps,4,164.70588235294116,99,61
+compass,Slaying Enemies close together can attract monsters from Beyond this realm:25% increased Beyond Demon Pack Size in your Maps,4,160.58823529411762,100,72
 compass,Your Maps contain 100% increased number of Runic Monster Markers,4,8.235294117647058,95,53
 compass,Delirium Reward Bars fill 100% faster in your Maps,4,8.235294117647058,96,64
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,4,32.94117647058823,100,72
 compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,4,2.0,67,33
 compass,Your Maps contain The Sacred Grove,4,20.588235294117645,100,74
-compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,4,4.0,100,28
+compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,4,4.0,92,53
 compass,Players and Monsters take 12% increased Cold Damage:Your Maps contain 6 additional packs of Monsters that deal Cold Damage,4,3.0,100,13
 compass,Slaying Enemies close together can attract monsters from Beyond this realm:35% increased Beyond Demon Pack Size in your Maps,16,2625.0,41,33
 compass,Area contains a Smuggler's Cache,16,39.0,29,18
@@ -4539,7 +4542,7 @@ compass,Players and their Minions cannot take Reflected Damage:Your Maps contain
 compass,Final Map Boss in each Map drops an additional Shaper Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,504.0,20,19
 compass,Your Maps contain hunted traitors,16,50.0,33,22
 compass,Breaches in your Maps belong to Chayula:Breaches in your Maps contain 3 additional Clasped Hands,16,168.0,14,14
-compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 8 additional packs of Corrupted Vaal Monsters,16,10.0,90,15
+compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 8 additional packs of Corrupted Vaal Monsters,16,6.0,82,13
 compass,Oils found in your Maps are 1 tier higher:Cost of Building and Upgrading Blight Towers in your Maps is doubled,16,98.0,27,24
 compass,Players and Monsters take 14% increased Lightning Damage:Your Maps contain 8 additional packs of Monsters that deal Lightning Damage,16,10.0,100,9
 compass,Your Maps contain Jun,16,58.0,26,20
@@ -4547,30 +4550,30 @@ compass,Players and Monsters take 14% increased Physical Damage:Your Maps contai
 compass,Players and Monsters take 14% increased Fire Damage:Your Maps contain 8 additional packs of Monsters that deal Fire Damage,16,10.0,99,9
 compass,Your Maps contain The Sacred Grove,16,210.0,37,28
 compass,Your Maps can contain Breaches:Your Maps contain 2 additional Breaches,16,105.0,100,60
-compass,Your Maps contain Einhar,16,10.0,45,13
+compass,Your Maps contain Einhar,16,10.0,44,13
 compass,Map Bosses are accompanied by Bodyguards:2 additional Maps drop on Completing your Maps,16,29.0,42,21
 compass,Your Maps contain 8 additional packs of Monsters that Convert when Killed,16,8.0,100,7
-compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,1029.0,6,6
+compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,16,1050.0,13,12
 compass,Your Maps contain a Mirror of Delirium,16,882.0,36,23
 compass,100% increased Intelligence gained from Immortal Syndicate targets encountered in your Maps,16,72.0,15,15
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Purple Plants,16,399.0,24,21
-compass,Your Maps contain Alva,16,90.0,22,16
+compass,Your Maps contain Alva,16,100.0,22,15
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Blue Plants,16,420.0,18,14
-compass,Your Maps contain Niko,16,8.235294117647058,19,6
+compass,Your Maps contain Niko,16,8.235294117647058,20,7
 compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,16,70.0,24,21
 compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain 2 additional Essences,16,105.0,92,57
-compass,Your Maps contain an additional Legion Encounter,16,294.0,40,25
+compass,Your Maps contain an additional Legion Encounter,16,273.0,42,27
 compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,16,8.0,66,11
 compass,Your Maps contain an additional Shrine:Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,16,20.0,99,14
-compass,Your Maps contain a Blight Encounter,16,14.0,73,17
+compass,Your Maps contain a Blight Encounter,16,14.0,68,14
 compass,Your Maps contain an additional Shrine:Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,16,25.0,42,18
-compass,Your Maps contain 8 additional packs of Corrupted Vaal Monsters:Your Maps have a 50% chance to contain Gifts of the Sacrificed per Sacrifice Fragment used:Your Maps have a 50% chance to contain Gifts of the Red Queen per Mortal Fragment used,16,9.0,55,13
-compass,Your Maps contain 100% increased number of Runic Monster Markers,16,69.0,34,24
-compass,Delirium Reward Bars fill 100% faster in your Maps,16,100.0,29,19
+compass,Your Maps contain 8 additional packs of Corrupted Vaal Monsters:Your Maps have a 50% chance to contain Gifts of the Sacrificed per Sacrifice Fragment used:Your Maps have a 50% chance to contain Gifts of the Red Queen per Mortal Fragment used,16,9.0,50,10
+compass,Your Maps contain 100% increased number of Runic Monster Markers,16,63.0,42,33
+compass,Delirium Reward Bars fill 100% faster in your Maps,16,139.0,31,21
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,16,482.99999999999994,33,25
 compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,16,9.0,9,6
 compass,25% increased Pack Size in your Unidentified Maps,16,70.0,58,36
-compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,24.0,11,7
+compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,24.0,19,12
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,120.0,71,47
 contract,Lockpicking Contract,ilvl 83+,1.0,100,67
 contract,Brute Force Contract,ilvl 83+,1.0,96,54
@@ -4582,14 +4585,14 @@ contract,Agility Contract,ilvl 83+,1.0,99,65
 contract,Deception Contract,ilvl 83+,2.0,100,53
 contract,Engineering Contract,ilvl 83+,1.0,98,59
 blueprint,Blueprint: Bunker,3 wings,2.0,99,90
-blueprint,Blueprint: Mansion,3 wings,2.0,100,90
+blueprint,Blueprint: Mansion,3 wings,2.0,97,92
 blueprint,Blueprint: Records Office,3 wings,3.0,99,88
 blueprint,Blueprint: Smuggler's Den,3 wings,1.0,100,90
 blueprint,Blueprint: Underbelly,3 wings,1.0,98,88
-blueprint,Blueprint: Repository,3 wings,1.0,100,84
+blueprint,Blueprint: Repository,3 wings,1.0,99,88
 blueprint,Blueprint: Tunnels,3 wings,3.0,98,88
 blueprint,Blueprint: Laboratory,3 wings,1.0,100,82
-blueprint,Blueprint: Prohibited Library,3 wings,3.0,100,86
+blueprint,Blueprint: Prohibited Library,3 wings,2.0,100,93
 incubator,Abyssal Incubator,ilvl 83,1.0,395,51
 incubator,Blighted Incubator,ilvl 83,1.0,151,31
 incubator,Cartographer's Incubator,ilvl 83,1.0,564,38
@@ -4635,7 +4638,7 @@ beast,Saqawine Rhex,,32.0,6,5
 beast,Primal Crushclaw,,4.0,99,14
 beast,Primal Cystcaller,,2.0,100,10
 beast,Primal Rhex Matriarch,,50.0,62,21
-beast,Vivid Abberarach,,10.0,17,8
+beast,Vivid Abberarach,,10.0,26,10
 beast,Vivid Vulture,,546.0,100,26
 beast,Vivid Watcher,,315.0,62,32
 beast,Wild Brambleback,,40.0,100,29
