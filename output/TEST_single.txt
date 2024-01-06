@@ -375,8 +375,8 @@ essence,Deafening Essence of Torment,,11.11111111111111,10234,9
 essence,Screaming Essence of Fear,,1.0,8429,24
 essence,Shrieking Essence of Fear,,2.0,8247,27
 essence,Deafening Essence of Fear,,6.451612903225806,5323,4
-essence,Screaming Essence of Suffering,,0.7,6386,26
-essence,Shrieking Essence of Suffering,,1.0,9634,23
+essence,Screaming Essence of Suffering,,0.3333333333333333,6765,26
+essence,Shrieking Essence of Suffering,,1.0,12016,23
 essence,Deafening Essence of Suffering,,0.045454545454545456,3043,5
 essence,Screaming Essence of Rage,,1.0,4156,20
 essence,Shrieking Essence of Rage,,5.194805194805195,15454,10
@@ -1418,14 +1418,14 @@ gem,Brutality Support,corrupted 21/20,15.0,25,24
 gem,Burning Arrow,clean 20/0,3.0,50,50
 gem,Burning Arrow,corrupted 20/0,10.0,40,38
 gem,Burning Arrow,corrupted 21/0,3.0,75,71
-gem,Burning Arrow,clean 1/20,4.0,65,58
+gem,Burning Arrow,clean 1/20,3.0,81,73
 gem,Burning Arrow,clean 20/20,28.0,18,18
 gem,Burning Arrow,corrupted 20/20,25.0,15,14
 gem,Burning Arrow,corrupted 21/20,10.0,28,28
 gem,Burning Damage Support,clean 20/0,3.0,61,58
 gem,Burning Damage Support,corrupted 20/0,2.0,44,43
-gem,Burning Damage Support,corrupted 21/0,3.0,21,21
-gem,Burning Damage Support,clean 1/20,7.0,40,38
+gem,Burning Damage Support,corrupted 21/0,3.0,33,33
+gem,Burning Damage Support,clean 1/20,5.0,57,53
 gem,Burning Damage Support,clean 20/20,10.0,24,22
 gem,Burning Damage Support,corrupted 20/20,9.0,15,14
 gem,Burning Damage Support,corrupted 21/20,20.0,18,18
@@ -1439,7 +1439,7 @@ gem,Cast On Critical Strike Support,corrupted 21/20,60.0,25,25
 gem,Cast on Death Support,clean 20/0,3.0,42,42
 gem,Cast on Death Support,corrupted 20/0,10.0,6,6
 gem,Cast on Death Support,corrupted 21/0,5.0,20,19
-gem,Cast on Death Support,clean 1/20,2.0,16,15
+gem,Cast on Death Support,clean 1/20,4.0,24,23
 gem,Cast on Death Support,clean 20/20,15.0,9,8
 gem,Cast on Death Support,corrupted 20/20,15.0,3,3
 gem,Cast on Death Support,corrupted 21/20,19.0,5,5
@@ -1464,12 +1464,12 @@ gem,Cast when Stunned Support,clean 1/20,39.0,100,40
 gem,Cast when Stunned Support,clean 20/20,49.0,98,41
 gem,Cast when Stunned Support,corrupted 20/20,49.0,100,48
 gem,Cast when Stunned Support,corrupted 21/20,280.0,42,30
-gem,Cast while Channelling Support,clean 20/0,5.0,29,26
+gem,Cast while Channelling Support,clean 20/0,5.0,36,35
 gem,Cast while Channelling Support,corrupted 20/0,19.0,16,16
-gem,Cast while Channelling Support,corrupted 21/0,4.0,17,17
+gem,Cast while Channelling Support,corrupted 21/0,4.0,26,25
 gem,Cast while Channelling Support,clean 1/20,4.0,27,26
 gem,Cast while Channelling Support,clean 20/20,18.0,5,5
-gem,Cast while Channelling Support,corrupted 20/20,15.0,8,8
+gem,Cast while Channelling Support,corrupted 20/20,2.0,6,6
 gem,Cast while Channelling Support,corrupted 21/20,20.0,12,12
 gem,Caustic Arrow,clean 20/0,8.0,99,64
 gem,Caustic Arrow,corrupted 20/0,4.0,98,78
@@ -1480,8 +1480,8 @@ gem,Caustic Arrow,corrupted 20/20,13.0,76,66
 gem,Caustic Arrow,corrupted 21/20,170.0,70,57
 gem,Chain Hook,clean 20/0,3.0,21,18
 gem,Chain Hook,corrupted 20/0,3.0,6,5
-gem,Chain Hook,corrupted 21/0,3.0,24,23
-gem,Chain Hook,clean 1/20,3.0,27,23
+gem,Chain Hook,corrupted 21/0,3.0,40,39
+gem,Chain Hook,clean 1/20,3.0,44,40
 gem,Chain Hook,clean 20/20,14.0,6,6
 gem,Chain Hook,corrupted 21/20,18.0,8,8
 gem,Chain Support,clean 20/0,7.0,35,24
@@ -1496,7 +1496,7 @@ gem,Chance to Bleed Support,corrupted 20/0,14.0,5,5
 gem,Chance to Bleed Support,corrupted 21/0,2.0,27,27
 gem,Chance to Bleed Support,clean 1/20,3.0,28,27
 gem,Chance to Bleed Support,clean 20/20,8.0,3,3
-gem,Chance to Bleed Support,corrupted 21/20,30.0,6,6
+gem,Chance to Bleed Support,corrupted 21/20,80.0,9,9
 gem,Chance to Flee Support,clean 20/0,5.0,9,8
 gem,Chance to Flee Support,corrupted 20/0,12.0,3,3
 gem,Chance to Flee Support,corrupted 21/0,5.0,21,21
@@ -1506,7 +1506,7 @@ gem,Chance to Flee Support,corrupted 21/20,10.0,6,6
 gem,Charged Dash,clean 20/0,3.0,25,25
 gem,Charged Dash,corrupted 20/0,9.0,8,8
 gem,Charged Dash,corrupted 21/0,2.0,57,55
-gem,Charged Dash,clean 1/20,3.0,34,31
+gem,Charged Dash,clean 1/20,3.0,44,42
 gem,Charged Dash,clean 20/20,19.0,5,5
 gem,Charged Dash,corrupted 20/20,80.0,1,1
 gem,Charged Dash,corrupted 21/20,15.0,12,12
@@ -1518,13 +1518,13 @@ gem,Charged Mines Support,clean 20/20,70.0,20,20
 gem,Charged Mines Support,corrupted 20/20,34.0,12,10
 gem,Charged Mines Support,corrupted 21/20,200.0,21,21
 gem,Charged Traps Support,clean 20/0,5.0,70,38
-gem,Charged Traps Support,corrupted 20/0,5.0,14,14
+gem,Charged Traps Support,corrupted 20/0,5.0,30,25
 gem,Charged Traps Support,corrupted 21/0,7.0,26,25
 gem,Charged Traps Support,clean 1/20,5.0,70,36
 gem,Charged Traps Support,clean 20/20,48.0,49,18
 gem,Charged Traps Support,corrupted 20/20,44.0,18,11
 gem,Charged Traps Support,corrupted 21/20,180.0,11,11
-gem,Clarity,clean 20/0,15.0,47,44
+gem,Clarity,clean 20/0,14.0,67,64
 gem,Clarity,corrupted 20/0,15.0,34,24
 gem,Clarity,corrupted 21/0,40.0,60,59
 gem,Clarity,clean 1/20,5.0,35,35
@@ -1534,10 +1534,10 @@ gem,Clarity,corrupted 21/20,150.0,14,14
 gem,Cleave,clean 20/0,5.0,43,43
 gem,Cleave,corrupted 20/0,4.0,21,20
 gem,Cleave,corrupted 21/0,2.0,36,31
-gem,Cleave,clean 1/20,3.0,31,29
+gem,Cleave,clean 1/20,4.0,52,52
 gem,Cleave,clean 20/20,18.0,24,24
 gem,Cleave,corrupted 20/20,10.0,8,8
-gem,Cleave,corrupted 21/20,8.0,10,10
+gem,Cleave,corrupted 21/20,9.0,12,12
 gem,Close Combat Support,clean 20/0,5.0,20,17
 gem,Close Combat Support,corrupted 20/0,9.0,86,71
 gem,Close Combat Support,corrupted 21/0,7.0,28,28
@@ -1553,7 +1553,7 @@ gem,Cluster Traps Support,clean 20/20,25.0,10,10
 gem,Cluster Traps Support,corrupted 20/20,29.0,2,2
 gem,Cluster Traps Support,corrupted 21/20,25.0,13,13
 gem,Cobra Lash,clean 20/0,3.0,22,21
-gem,Cobra Lash,corrupted 20/0,10.0,7,7
+gem,Cobra Lash,corrupted 20/0,5.0,15,14
 gem,Cobra Lash,corrupted 21/0,3.0,57,55
 gem,Cobra Lash,clean 1/20,4.0,28,24
 gem,Cobra Lash,clean 20/20,19.0,7,7
@@ -1562,73 +1562,73 @@ gem,Cobra Lash,corrupted 21/20,15.0,10,10
 gem,Cold Penetration Support,clean 20/0,10.0,15,13
 gem,Cold Penetration Support,corrupted 20/0,20.0,18,18
 gem,Cold Penetration Support,corrupted 21/0,7.0,41,37
-gem,Cold Penetration Support,clean 1/20,4.0,23,22
+gem,Cold Penetration Support,clean 1/20,4.0,37,37
 gem,Cold Penetration Support,clean 20/20,19.0,13,13
 gem,Cold Penetration Support,corrupted 20/20,20.0,10,10
 gem,Cold Penetration Support,corrupted 21/20,20.0,16,14
 gem,Cold Snap,clean 20/0,3.0,65,63
 gem,Cold Snap,corrupted 20/0,10.0,56,43
-gem,Cold Snap,corrupted 21/0,2.0,45,45
+gem,Cold Snap,corrupted 21/0,2.0,58,58
 gem,Cold Snap,clean 1/20,5.0,65,63
-gem,Cold Snap,clean 20/20,100.0,13,13
+gem,Cold Snap,clean 20/20,30.0,24,23
 gem,Cold Snap,corrupted 20/20,30.0,24,18
-gem,Cold Snap,corrupted 21/20,50.0,23,23
+gem,Cold Snap,corrupted 21/20,48.0,29,29
 gem,Cold to Fire Support,clean 20/0,7.0,16,16
 gem,Cold to Fire Support,corrupted 20/0,20.0,23,18
 gem,Cold to Fire Support,corrupted 21/0,5.0,27,26
 gem,Cold to Fire Support,clean 1/20,3.0,19,19
-gem,Cold to Fire Support,clean 20/20,35.0,7,7
+gem,Cold to Fire Support,clean 20/20,33.0,10,10
 gem,Cold to Fire Support,corrupted 20/20,30.0,9,9
-gem,Cold to Fire Support,corrupted 21/20,320.0,15,14
+gem,Cold to Fire Support,corrupted 21/20,280.0,33,29
 gem,Combustion Support,clean 20/0,2.0,50,49
 gem,Combustion Support,corrupted 20/0,3.0,33,28
 gem,Combustion Support,corrupted 21/0,9.0,31,31
 gem,Combustion Support,clean 1/20,9.0,40,38
-gem,Combustion Support,clean 20/20,39.0,13,13
-gem,Combustion Support,corrupted 20/20,25.0,10,9
+gem,Combustion Support,clean 20/20,80.0,18,18
+gem,Combustion Support,corrupted 20/20,50.0,16,16
 gem,Combustion Support,corrupted 21/20,400.0,10,10
 gem,Concentrated Effect Support,clean 20/0,10.0,55,43
 gem,Concentrated Effect Support,corrupted 20/0,8.0,100,54
 gem,Concentrated Effect Support,corrupted 21/0,18.0,55,50
 gem,Concentrated Effect Support,clean 1/20,15.0,64,60
-gem,Concentrated Effect Support,clean 20/20,40.0,42,29
+gem,Concentrated Effect Support,clean 20/20,40.0,38,35
 gem,Concentrated Effect Support,corrupted 20/20,19.0,99,50
-gem,Concentrated Effect Support,corrupted 21/20,400.0,17,17
+gem,Concentrated Effect Support,corrupted 21/20,400.0,28,23
 gem,Conductivity,clean 20/0,10.0,34,34
-gem,Conductivity,corrupted 20/0,5.0,17,15
+gem,Conductivity,corrupted 20/0,5.0,24,23
 gem,Conductivity,corrupted 21/0,15.0,53,50
 gem,Conductivity,clean 1/20,9.0,29,27
-gem,Conductivity,clean 20/20,59.0,4,4
+gem,Conductivity,clean 20/20,53.0,7,7
 gem,Conductivity,corrupted 20/20,55.0,4,4
 gem,Conductivity,corrupted 21/20,200.0,2,2
 gem,Consecrated Path,clean 20/0,4.0,31,29
 gem,Consecrated Path,corrupted 20/0,4.0,31,26
-gem,Consecrated Path,corrupted 21/0,2.0,29,29
-gem,Consecrated Path,clean 1/20,3.0,46,41
+gem,Consecrated Path,corrupted 21/0,3.0,54,52
+gem,Consecrated Path,clean 1/20,3.0,61,56
 gem,Consecrated Path,clean 20/20,14.0,15,10
 gem,Consecrated Path,corrupted 20/20,8.0,15,13
-gem,Consecrated Path,corrupted 21/20,40.0,11,11
+gem,Consecrated Path,corrupted 21/20,8.0,20,19
 gem,Contagion,clean 20/0,3.0,25,25
 gem,Contagion,corrupted 20/0,6.0,23,23
-gem,Contagion,corrupted 21/0,2.0,35,34
-gem,Contagion,clean 1/20,5.0,28,27
+gem,Contagion,corrupted 21/0,3.0,67,66
+gem,Contagion,clean 1/20,5.0,39,39
 gem,Contagion,clean 20/20,28.0,4,4
 gem,Contagion,corrupted 20/20,10.0,9,9
 gem,Contagion,corrupted 21/20,20.0,6,6
 gem,Controlled Destruction Support,clean 20/0,2.0,30,28
 gem,Controlled Destruction Support,corrupted 20/0,5.0,31,28
-gem,Controlled Destruction Support,corrupted 21/0,3.0,18,17
-gem,Controlled Destruction Support,clean 1/20,5.0,26,26
+gem,Controlled Destruction Support,corrupted 21/0,1.0,38,35
+gem,Controlled Destruction Support,clean 1/20,5.0,47,45
 gem,Controlled Destruction Support,clean 20/20,5.0,25,23
 gem,Controlled Destruction Support,corrupted 20/20,10.0,14,12
 gem,Controlled Destruction Support,corrupted 21/20,10.0,21,19
 gem,Conversion Trap,clean 20/0,5.0,20,18
 gem,Conversion Trap,corrupted 20/0,8.0,6,6
 gem,Conversion Trap,corrupted 21/0,1.0,69,66
-gem,Conversion Trap,clean 1/20,3.0,22,20
+gem,Conversion Trap,clean 1/20,3.0,25,20
 gem,Conversion Trap,clean 20/20,60.0,1,1
-gem,Conversion Trap,corrupted 21/20,20.0,7,7
-gem,Convocation,clean 20/0,3.0,53,50
+gem,Conversion Trap,corrupted 21/20,15.0,23,22
+gem,Convocation,clean 20/0,3.0,81,74
 gem,Convocation,corrupted 20/0,3.0,19,19
 gem,Convocation,corrupted 21/0,3.0,81,79
 gem,Convocation,clean 1/20,7.0,53,44
@@ -1637,12 +1637,12 @@ gem,Convocation,corrupted 20/20,50.0,3,3
 gem,Convocation,corrupted 21/20,200.0,37,37
 gem,Corrupting Fever,clean 20/0,3.0,49,43
 gem,Corrupting Fever,corrupted 20/0,2.0,59,49
-gem,Corrupting Fever,corrupted 21/0,20.0,83,80
+gem,Corrupting Fever,corrupted 21/0,19.0,96,93
 gem,Corrupting Fever,clean 1/20,5.0,50,49
 gem,Corrupting Fever,clean 20/20,36.0,14,14
-gem,Corrupting Fever,corrupted 20/20,6.0,8,8
+gem,Corrupting Fever,corrupted 20/20,6.0,20,18
 gem,Corrupting Fever,corrupted 21/20,400.0,13,13
-gem,Crackling Lance,clean 20/0,3.0,38,37
+gem,Crackling Lance,clean 20/0,3.0,64,63
 gem,Crackling Lance,corrupted 20/0,8.0,47,42
 gem,Crackling Lance,corrupted 21/0,3.0,72,68
 gem,Crackling Lance,clean 1/20,4.0,70,66
@@ -1651,16 +1651,16 @@ gem,Crackling Lance,corrupted 20/20,10.0,24,19
 gem,Crackling Lance,corrupted 21/20,29.0,29,28
 gem,Creeping Frost,clean 20/0,15.0,39,36
 gem,Creeping Frost,corrupted 20/0,65.0,6,6
-gem,Creeping Frost,corrupted 21/0,5.0,44,44
+gem,Creeping Frost,corrupted 21/0,5.0,45,45
 gem,Creeping Frost,clean 1/20,7.0,30,25
 gem,Creeping Frost,clean 20/20,66.0,10,7
 gem,Creeping Frost,corrupted 20/20,65.0,3,3
-gem,Creeping Frost,corrupted 21/20,65.0,14,14
+gem,Creeping Frost,corrupted 21/20,65.0,12,12
 gem,Cremation,clean 20/0,3.0,47,46
-gem,Cremation,corrupted 20/0,7.0,24,22
-gem,Cremation,corrupted 21/0,3.0,37,36
+gem,Cremation,corrupted 20/0,2.0,74,53
+gem,Cremation,corrupted 21/0,2.0,67,64
 gem,Cremation,clean 1/20,3.0,37,35
-gem,Cremation,clean 20/20,17.0,7,7
+gem,Cremation,clean 20/20,20.0,9,8
 gem,Cremation,corrupted 20/20,9.0,50,30
 gem,Cremation,corrupted 21/20,50.0,23,22
 gem,Cruelty Support,clean 20/0,3.0,46,44
@@ -1671,7 +1671,7 @@ gem,Cruelty Support,clean 20/20,34.0,29,24
 gem,Cruelty Support,corrupted 20/20,20.0,28,26
 gem,Cruelty Support,corrupted 21/20,280.0,18,17
 gem,Culling Strike Support,clean 20/0,1.0,75,67
-gem,Culling Strike Support,corrupted 20/0,10.0,45,44
+gem,Culling Strike Support,corrupted 20/0,10.0,77,67
 gem,Culling Strike Support,corrupted 21/0,12.0,25,22
 gem,Culling Strike Support,clean 1/20,10.0,42,40
 gem,Culling Strike Support,clean 20/20,30.0,20,20
@@ -1687,30 +1687,30 @@ gem,Cyclone,corrupted 21/20,260.0,23,22
 gem,Damage on Full Life Support,clean 20/0,3.0,33,32
 gem,Damage on Full Life Support,corrupted 20/0,20.0,43,39
 gem,Damage on Full Life Support,corrupted 21/0,5.0,28,25
-gem,Damage on Full Life Support,clean 1/20,10.0,19,17
+gem,Damage on Full Life Support,clean 1/20,9.0,34,32
 gem,Damage on Full Life Support,clean 20/20,200.0,15,14
 gem,Damage on Full Life Support,corrupted 20/20,90.0,20,17
-gem,Damage on Full Life Support,corrupted 21/20,780.0,4,4
-gem,Dark Pact,clean 20/0,5.0,20,20
+gem,Damage on Full Life Support,corrupted 21/20,700.0,9,7
+gem,Dark Pact,clean 20/0,5.0,24,22
 gem,Dark Pact,corrupted 20/0,10.0,16,16
 gem,Dark Pact,corrupted 21/0,5.0,70,69
-gem,Dark Pact,clean 1/20,4.0,53,46
+gem,Dark Pact,clean 1/20,4.0,61,55
 gem,Dark Pact,clean 20/20,30.0,9,8
 gem,Dark Pact,corrupted 20/20,10.0,7,7
-gem,Dark Pact,corrupted 21/20,150.0,31,31
+gem,Dark Pact,corrupted 21/20,100.0,43,42
 gem,Dash,clean 20/0,2.0,55,54
-gem,Dash,corrupted 20/0,39.0,7,6
+gem,Dash,corrupted 20/0,3.0,15,15
 gem,Dash,corrupted 21/0,3.0,37,35
 gem,Dash,clean 1/20,5.0,48,44
 gem,Dash,clean 20/20,50.0,8,8
 gem,Dash,corrupted 20/20,40.0,4,4
-gem,Dash,corrupted 21/20,110.0,7,7
+gem,Dash,corrupted 21/20,90.0,10,10
 gem,Deadly Ailments Support,clean 20/0,3.0,51,50
-gem,Deadly Ailments Support,corrupted 20/0,5.0,26,26
+gem,Deadly Ailments Support,corrupted 20/0,4.0,63,63
 gem,Deadly Ailments Support,corrupted 21/0,7.0,55,54
 gem,Deadly Ailments Support,clean 1/20,7.0,40,39
 gem,Deadly Ailments Support,clean 20/20,15.0,20,20
-gem,Deadly Ailments Support,corrupted 20/20,10.0,16,16
+gem,Deadly Ailments Support,corrupted 20/20,10.0,32,32
 gem,Deadly Ailments Support,corrupted 21/20,35.0,33,32
 gem,Decay Support,clean 20/0,3.0,13,12
 gem,Decay Support,corrupted 20/0,10.0,5,5
@@ -4484,38 +4484,38 @@ compass,Unique Monsters drop Corrupted Items,4,3.0,100,24
 compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,9.30232558139535,96,66
 compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,9.30232558139535,100,35
 compass,Maps found in your Maps are Corrupted with 8 Modifiers,4,65.11627906976744,100,78
-compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,9.30232558139535,100,40
+compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,9.30232558139535,100,38
 compass,Create a copy of Beasts Captured in your Maps,4,9.30232558139535,99,56
 compass,25% increased Magic Pack Size,4,9.30232558139535,99,41
-compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,3.0,100,16
+compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,4.651162790697675,97,26
 compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain an additional Essence,4,4.651162790697675,100,14
 compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,4,9.30232558139535,99,22
 compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,3.0,100,32
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,9.30232558139535,100,47
-compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,3.0,88,51
-compass,20% increased Pack Size in your Unidentified Maps,4,3.0,100,30
+compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,3.0,67,43
+compass,20% increased Pack Size in your Unidentified Maps,4,3.0,100,29
 compass,Players and Monsters take 12% increased Chaos Damage:Your Maps contain 6 additional packs of Monsters that deal Chaos Damage,4,3.0,100,20
 compass,Strongbox Monsters are Enraged:Strongbox Monsters have 500% increased Item Quantity:Your Maps contain an additional Strongbox,4,79.06976744186046,100,62
 compass,Your Maps contain Ritual Altars,4,9.30232558139535,100,50
 compass,Players and Monsters take 12% increased Lightning Damage:Your Maps contain 6 additional packs of Monsters that deal Lightning Damage,4,4.651162790697675,100,8
-compass,Your Magic Maps contain 4 additional packs of Magic Monsters:Your Normal Maps contain 4 additional packs of Normal Monsters:Your Rare Maps contain 4 additional Rare Monster packs,4,4.651162790697675,100,29
+compass,Your Magic Maps contain 4 additional packs of Magic Monsters:Your Normal Maps contain 4 additional packs of Normal Monsters:Your Rare Maps contain 4 additional Rare Monster packs,4,4.651162790697675,100,17
 compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 4 additional Packs with Mirrored Rare Monsters,4,4.651162790697675,100,13
 compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,4,3.0,93,53
 compass,Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,4.651162790697675,100,15
-compass,The First 3 Possessed Monsters drop an additional Rusted Scarab:Your Maps contain an additional Tormented Betrayer,4,4.651162790697675,100,17
+compass,The First 3 Possessed Monsters drop an additional Rusted Scarab:Your Maps contain an additional Tormented Betrayer,4,3.0,99,34
 compass,Your Maps contain 6 additional packs of Monsters that Convert when Killed,4,4.651162790697675,100,15
 compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Items dropped by Corrupted Vaal Monsters in your Maps have 25% chance to be Corrupted,4,2.0,83,36
 compass,Final Map Boss in each Map drops an additional Shaper Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,46.51162790697675,100,77
 compass,Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,3.0,100,37
 compass,Your Maps contain hunted traitors,4,4.651162790697675,100,5
 compass,Breaches in your Maps belong to Chayula:Breaches in your Maps contain 3 additional Clasped Hands,4,6.0,100,67
-compass,Oils found in your Maps are 1 tier higher:Cost of Building and Upgrading Blight Towers in your Maps is doubled,4,4.651162790697675,100,57
+compass,Oils found in your Maps are 1 tier higher:Cost of Building and Upgrading Blight Towers in your Maps is doubled,4,9.0,100,48
 compass,Your Maps contain Jun,4,9.30232558139535,96,43
-compass,Map Bosses have 20% increased Life:Quality bonus of your Maps also applies to Rarity of Items found,4,4.651162790697675,52,27
+compass,Map Bosses have 20% increased Life:Quality bonus of your Maps also applies to Rarity of Items found,4,4.651162790697675,100,18
 compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Your Maps have a 50% chance to contain Gifts of the Sacrificed per Sacrifice Fragment used:Your Maps have a 50% chance to contain Gifts of the Red Queen per Mortal Fragment used,4,3.0,100,37
 compass,Players and Monsters take 12% increased Physical Damage:Your Maps contain 6 additional packs of Monsters that deal Physical Damage,4,4.651162790697675,100,12
 compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contain 6 additional packs of Monsters that Heal,4,4.651162790697675,82,11
-compass,Rogue Exiles deal 20% increased Damage:Rogue Exiles drop 2 additional Jewels:Rogue Exiles in your Maps have 20% increased Life:Your Maps are inhabited by 2 additional Rogue Exiles,4,4.651162790697675,100,36
+compass,Rogue Exiles deal 20% increased Damage:Rogue Exiles drop 2 additional Jewels:Rogue Exiles in your Maps have 20% increased Life:Your Maps are inhabited by 2 additional Rogue Exiles,4,4.651162790697675,95,46
 compass,The First 3 Possessed Monsters drop an additional Polished Scarab:Your Maps contain an additional Tormented Betrayer,4,3.0,100,35
 compass,Your Maps contain Einhar,4,4.651162790697675,100,35
 compass,Map Bosses deal 20% increased Damage:Your Maps have 20% Quality,4,9.30232558139535,99,44
@@ -4529,20 +4529,20 @@ compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest
 compass,Map Bosses drop 1 additional Unique Item,4,4.651162790697675,80,12
 compass,Your Maps can contain Breaches:Your Maps contain an additional Breach,4,4.651162790697675,100,48
 compass,Map Bosses are accompanied by Bodyguards:An additional Map drops on Completing your Maps,4,4.651162790697675,100,36
-compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,4.651162790697675,100,31
+compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,3.0,100,36
 compass,Your Maps contain Niko,4,4.651162790697675,100,40
 compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,4,7.0,96,68
 compass,Your Maps contain an additional Legion Encounter,4,13.953488372093023,98,34
 compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,4.0,86,31
 compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,4.0,100,22
-compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,4.651162790697675,94,21
+compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,3.0,100,33
 compass,Your Maps contain an additional Abyss:Your Maps can contain Abysses,4,55.81395348837209,93,53
 compass,Your Maps contain a Blight Encounter,4,4.651162790697675,100,32
-compass,Slaying Enemies close together can attract monsters from Beyond this realm:25% increased Beyond Demon Pack Size in your Maps,4,190.69767441860466,100,52
+compass,Slaying Enemies close together can attract monsters from Beyond this realm:25% increased Beyond Demon Pack Size in your Maps,4,186.046511627907,100,37
 compass,Your Maps contain 100% increased number of Runic Monster Markers,4,4.651162790697675,100,59
 compass,Delirium Reward Bars fill 100% faster in your Maps,4,9.30232558139535,98,57
-compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,4,41.86046511627907,100,75
-compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,4,3.0,86,49
+compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,4,46.51162790697675,100,79
+compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,4,3.0,67,45
 compass,Your Maps contain The Sacred Grove,4,32.55813953488372,98,86
 compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,4,3.0,100,47
 compass,Players and Monsters take 12% increased Cold Damage:Your Maps contain 6 additional packs of Monsters that deal Cold Damage,4,4.651162790697675,100,15
@@ -4564,7 +4564,7 @@ compass,Players and Monsters take 14% increased Chaos Damage:Your Maps contain 8
 compass,Your Maps contain Ritual Altars,16,70.0,15,13
 compass,Map Bosses of your Corrupted Maps drop 3 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,16,5.0,100,8
 compass,The First 3 Possessed Monsters drop an additional Winged Scarab:Your Maps contain an additional Tormented Betrayer,16,3000.0,6,6
-compass,Players and Monsters take 14% increased Cold Damage:Your Maps contain 8 additional packs of Monsters that deal Cold Damage,16,10.0,43,14
+compass,Players and Monsters take 14% increased Cold Damage:Your Maps contain 8 additional packs of Monsters that deal Cold Damage,16,10.0,58,14
 compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,16,10.0,5,5
 compass,Your Maps contain 2 additional Abysses:Your Maps can contain Abysses,16,3700.0,52,31
 compass,30% increased Magic Pack Size,16,140.0,100,47
@@ -4578,10 +4578,10 @@ compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 8 additio
 compass,Oils found in your Maps are 1 tier higher:Cost of Building and Upgrading Blight Towers in your Maps is doubled,16,100.0,10,9
 compass,Players and Monsters take 14% increased Lightning Damage:Your Maps contain 8 additional packs of Monsters that deal Lightning Damage,16,8.0,100,7
 compass,Your Maps contain Jun,16,60.0,32,19
-compass,Players and Monsters take 14% increased Physical Damage:Your Maps contain 8 additional packs of Monsters that deal Physical Damage,16,7.0,100,1
+compass,Players and Monsters take 14% increased Physical Damage:Your Maps contain 8 additional packs of Monsters that deal Physical Damage,16,7.0,100,2
 compass,Players and Monsters take 14% increased Fire Damage:Your Maps contain 8 additional packs of Monsters that deal Fire Damage,16,10.0,80,15
 compass,Your Maps contain The Sacred Grove,16,400.0,22,18
-compass,Your Maps can contain Breaches:Your Maps contain 2 additional Breaches,16,140.0,63,40
+compass,Your Maps can contain Breaches:Your Maps contain 2 additional Breaches,16,140.0,78,43
 compass,Your Maps contain Einhar,16,10.0,27,8
 compass,Map Bosses are accompanied by Bodyguards:2 additional Maps drop on Completing your Maps,16,35.0,36,21
 compass,Your Maps contain 8 additional packs of Monsters that Convert when Killed,16,5.0,100,3
@@ -4623,7 +4623,7 @@ blueprint,Blueprint: Smuggler's Den,3 wings,2.0,95,88
 blueprint,Blueprint: Underbelly,3 wings,1.0,100,83
 blueprint,Blueprint: Repository,3 wings,3.0,94,86
 blueprint,Blueprint: Tunnels,3 wings,2.0,97,88
-blueprint,Blueprint: Laboratory,3 wings,1.0,98,90
+blueprint,Blueprint: Laboratory,3 wings,3.0,96,86
 blueprint,Blueprint: Prohibited Library,3 wings,2.0,99,93
 incubator,Abyssal Incubator,ilvl 83,1.0,422,65
 incubator,Blighted Incubator,ilvl 83,1.0,258,45
@@ -4634,7 +4634,7 @@ incubator,Celestial Jeweller's Incubator,ilvl 83,1.0,78,23
 incubator,Diviner's Incubator,ilvl 83,2.0,283,74
 incubator,Foreboding Incubator,ilvl 83,1.0,464,57
 incubator,Geomancer's Incubator,ilvl 83,1.0,436,64
-incubator,Infused Incubator,ilvl 83,1.0,532,47
+incubator,Infused Incubator,ilvl 83,1.0,705,31
 incubator,Kalguuran Incubator,ilvl 83,1.0,492,52
 incubator,Maddening Incubator,ilvl 83,1.0,415,63
 incubator,Mysterious Incubator,ilvl 83,1.0,720,40
@@ -4666,9 +4666,9 @@ beast,Farric Lynx Alpha,,5.0,100,50
 beast,Farric Wolf Alpha,,20.0,99,55
 beast,Fenumal Plagued Arachnid,,25.0,100,60
 beast,Craicic Spider Crab,,49.0,34,20
-beast,Farric Tiger Alpha,,55.0,37,20
+beast,Farric Tiger Alpha,,58.0,39,26
 beast,Fenumal Hybrid Arachnid,,65.0,74,50
-beast,Saqawine Rhex,,45.0,25,15
+beast,Saqawine Rhex,,40.0,11,8
 beast,Primal Crushclaw,,3.0,69,10
 beast,Primal Cystcaller,,2.0,39,7
 beast,Primal Rhex Matriarch,,80.0,15,10
@@ -4678,7 +4678,7 @@ beast,Vivid Watcher,,320.0,100,28
 beast,Wild Brambleback,,40.0,76,22
 beast,Wild Bristle Matron,,280.0,97,24
 beast,Wild Hellion Alpha,,500.0,87,16
-beast,Craiceann First of the Deep,,20.0,29,16
+beast,Craiceann First of the Deep,,24.0,64,12
 beast,Farrul First of the Plains,,90.0,18,5
 beast,Fenumus First of the Night,,89.0,61,19
 beast,Saqawal First of the Sky,,18.0,15,14
@@ -4920,43 +4920,43 @@ unique,Geofri's Sanctuary,corrupted 6-link,20.0,40,40
 unique,Loreweave,clean,2.0,97,88
 unique,Loreweave,clean 6-link,190.0,100,96
 unique,Loreweave,corrupted,10.0,100,89
-unique,Loreweave,corrupted 6-link,120.0,54,51
-unique,Replica Loreweave,clean,5.0,92,87
-unique,Replica Loreweave,clean 6-link,400.0,14,14
-unique,Replica Loreweave,corrupted,30.0,14,14
-unique,Replica Loreweave,corrupted 6-link,200.0,3,3
-unique,Sporeguard,clean,1140.0,23,20
-unique,Sporeguard,clean 6-link,1600.0,7,7
-unique,Sporeguard,corrupted,200.0,29,8
-unique,Sporeguard,corrupted 6-link,600.0,3,3
-unique,The Ivory Tower,clean,1.0,99,96
-unique,The Ivory Tower,clean 6-link,340.0,100,97
-unique,The Ivory Tower,corrupted,1.0,96,81
-unique,The Ivory Tower,corrupted 6-link,240.0,100,99
-unique,Doryani's Prototype,clean,4.0,99,96
-unique,Doryani's Prototype,clean 6-link,300.0,73,73
-unique,Doryani's Prototype,corrupted,4.0,100,94
-unique,Doryani's Prototype,corrupted 6-link,200.0,100,90
-unique,Incandescent Heart,clean,3.0,100,99
-unique,Incandescent Heart,clean 6-link,400.0,66,65
-unique,Incandescent Heart,corrupted,1.0,99,96
-unique,Incandescent Heart,corrupted 6-link,400.0,100,83
-unique,Chains of Command,clean,1.0,95,94
-unique,Chains of Command,clean 6-link,40.0,26,26
-unique,Chains of Command,corrupted,3.0,98,95
-unique,Chains of Command,corrupted 6-link,60.0,11,9
-unique,Bloodbond,clean,1.0,94,91
-unique,Bloodbond,clean 6-link,20.0,57,57
-unique,Bloodbond,corrupted,1.0,98,96
-unique,Bloodbond,corrupted 6-link,30.0,25,25
-unique,Cloak of Defiance,clean,4.0,99,99
-unique,Cloak of Defiance,clean 6-link,360.0,61,60
-unique,Cloak of Defiance,corrupted,5.0,76,75
-unique,Cloak of Defiance,corrupted 6-link,200.0,21,21
-unique,Victario's Influence,clean,1.0,93,87
-unique,Victario's Influence,clean 6-link,20.0,82,80
-unique,Victario's Influence,corrupted,1.0,97,94
-unique,Victario's Influence,corrupted 6-link,30.0,100,100
+unique,Loreweave,corrupted 6-link,100.0,61,59
+unique,Replica Loreweave,clean,4.0,99,97
+unique,Replica Loreweave,clean 6-link,200.0,13,13
+unique,Replica Loreweave,corrupted,15.0,14,14
+unique,Replica Loreweave,corrupted 6-link,2000.0,1,1
+unique,Sporeguard,clean,1000.0,16,15
+unique,Sporeguard,clean 6-link,1400.0,6,6
+unique,Sporeguard,corrupted,120.0,85,21
+unique,Sporeguard,corrupted 6-link,600.0,10,10
+unique,The Ivory Tower,clean,1.0,100,95
+unique,The Ivory Tower,clean 6-link,340.0,100,99
+unique,The Ivory Tower,corrupted,2.0,98,88
+unique,The Ivory Tower,corrupted 6-link,200.0,100,100
+unique,Doryani's Prototype,clean,1.0,99,94
+unique,Doryani's Prototype,clean 6-link,300.0,100,99
+unique,Doryani's Prototype,corrupted,3.0,100,97
+unique,Doryani's Prototype,corrupted 6-link,200.0,100,93
+unique,Incandescent Heart,clean,1.0,99,97
+unique,Incandescent Heart,clean 6-link,400.0,100,97
+unique,Incandescent Heart,corrupted,2.0,100,96
+unique,Incandescent Heart,corrupted 6-link,400.0,100,93
+unique,Chains of Command,clean,1.0,95,95
+unique,Chains of Command,clean 6-link,45.0,60,59
+unique,Chains of Command,corrupted,2.0,97,97
+unique,Chains of Command,corrupted 6-link,100.0,18,16
+unique,Bloodbond,clean,1.0,95,91
+unique,Bloodbond,clean 6-link,10.0,100,100
+unique,Bloodbond,corrupted,4.0,100,96
+unique,Bloodbond,corrupted 6-link,40.0,36,36
+unique,Cloak of Defiance,clean,4.0,99,96
+unique,Cloak of Defiance,clean 6-link,360.0,76,76
+unique,Cloak of Defiance,corrupted,7.0,100,97
+unique,Cloak of Defiance,corrupted 6-link,400.0,28,28
+unique,Victario's Influence,clean,1.0,92,88
+unique,Victario's Influence,clean 6-link,28.0,100,99
+unique,Victario's Influence,corrupted,1.0,100,99
+unique,Victario's Influence,corrupted 6-link,10.0,100,98
 unique,Dendrobate,clean,1.0,95,90
 unique,Dendrobate,clean 6-link,80.0,99,96
 unique,Dendrobate,corrupted,1.0,98,89
