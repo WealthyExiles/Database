@@ -4598,7 +4598,7 @@ compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop add
 contract,Lockpicking Contract,ilvl 83+,1.0,99,34
 contract,Brute Force Contract,ilvl 83+,1.0,99,32
 contract,Perception Contract,ilvl 83+,1.0,98,43
-contract,Demolition Contract,ilvl 83+,1.0,95,38
+contract,Demolition Contract,ilvl 83+,1.0,94,50
 contract,Counter-Thaumaturgy Contract,ilvl 83+,2.0,98,42
 contract,Trap Disarmament Contract,ilvl 83+,1.0,97,66
 contract,Agility Contract,ilvl 83+,2.0,99,66
@@ -4608,19 +4608,19 @@ blueprint,Blueprint: Bunker,3 wings,3.0,97,83
 blueprint,Blueprint: Mansion,3 wings,1.0,99,78
 blueprint,Blueprint: Records Office,3 wings,2.0,100,89
 blueprint,Blueprint: Smuggler's Den,3 wings,2.0,98,88
-blueprint,Blueprint: Underbelly,3 wings,2.0,98,81
+blueprint,Blueprint: Underbelly,3 wings,2.0,96,86
 blueprint,Blueprint: Repository,3 wings,3.0,99,86
 blueprint,Blueprint: Tunnels,3 wings,2.0,99,87
 blueprint,Blueprint: Laboratory,3 wings,1.0,99,86
 blueprint,Blueprint: Prohibited Library,3 wings,1.0,100,94
-incubator,Abyssal Incubator,ilvl 83,1.0,546,53
+incubator,Abyssal Incubator,ilvl 83,1.0,566,49
 incubator,Blighted Incubator,ilvl 83,1.0,311,41
 incubator,Cartographer's Incubator,ilvl 83,1.0,498,53
-incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,55,17
+incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,65,25
 incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,68,23
 incubator,Celestial Jeweller's Incubator,ilvl 83,3.0,43,14
-incubator,Diviner's Incubator,ilvl 83,1.0,286,70
-incubator,Foreboding Incubator,ilvl 83,1.0,502,61
+incubator,Diviner's Incubator,ilvl 83,1.0,353,63
+incubator,Foreboding Incubator,ilvl 83,1.0,421,72
 incubator,Geomancer's Incubator,ilvl 83,1.0,379,64
 incubator,Infused Incubator,ilvl 83,1.0,400,61
 incubator,Kalguuran Incubator,ilvl 83,1.0,394,63
@@ -4672,12 +4672,12 @@ beast,Fenumus First of the Night,,68.0,57,31
 beast,Saqawal First of the Sky,,15.0,36,19
 map,Enslaver's Map,T16,20.0,94,67
 map,Eradicator's Map,T16,20.0,89,61
-map,Constrictor's Map,T16,20.0,88,60
+map,Constrictor's Map,T16,20.0,97,60
 map,Purifier's Map,T16,20.0,97,58
 map,Baran's Citadel,T16,70.0,88,65
 map,Veritania's Citadel,T16,70.0,94,74
 map,Al-Hezmin's Citadel,T16,70.0,89,63
-map,Drox's Citadel,T16,65.0,91,74
+map,Drox's Citadel,T16,70.0,94,75
 unique,Bramblejack,clean,1.0,90,87
 unique,Bramblejack,clean 6-link,15.0,30,30
 unique,Bramblejack,corrupted,1.0,53,53
@@ -6188,37 +6188,38 @@ unique,Icefang Orbit,corrupted,1.0,100,100
 unique,Grelwood Shank,clean,1.0,99,96
 unique,Grelwood Shank,corrupted,4.0,100,98
 unique,Redblade Band,clean,1.0,39,39
-unique,Redblade Band,corrupted,3.0,44,44
-unique,Snakepit,clean,1.0,97,95
-unique,Snakepit,corrupted,1.0,100,95
-unique,Null and Void,clean,1.0,90,88
-unique,Null and Void,corrupted,1.0,99,96
-unique,Reverberation Rod,clean,1.0,44,44
-unique,Reverberation Rod,corrupted,3.0,15,15
-unique,Replica Soul Strike,clean,5.0,12,12
-unique,Replica Soul Strike,corrupted,10.0,1,1
-unique,Stormcharger,clean,1.0,87,83
-unique,Stormcharger,corrupted,2.0,98,94
-unique,Crown of the Inward Eye,clean,10.0,98,86
-unique,Crown of the Inward Eye,corrupted,4.0,100,61
-unique,Rime Gaze,clean,1.0,67,65
-unique,Rime Gaze,corrupted,5.0,79,78
-unique,Death's Hand,clean,1.0,91,85
-unique,Death's Hand,corrupted,1.0,99,97
-unique,Lioneye's Paws,clean,1.0,96,92
-unique,Lioneye's Paws,corrupted,1.0,95,93
-unique,Blightwell,corrupted,1.0,82,79
-unique,Original Sin,clean,115000.0,3,3
-unique,Emperor's Cunning,clean,200.0,13,13
+unique,Redblade Band,corrupted,1.0,57,57
+unique,Snakepit,clean,1.0,98,94
+unique,Snakepit,corrupted,1.0,98,95
+unique,Null and Void,clean,1.0,93,89
+unique,Null and Void,corrupted,1.0,98,94
+unique,Reverberation Rod,clean,1.0,60,60
+unique,Reverberation Rod,corrupted,3.0,23,22
+unique,Replica Soul Strike,clean,2.0,20,20
+unique,Replica Soul Strike,corrupted,10.0,4,4
+unique,Stormcharger,clean,1.0,84,78
+unique,Stormcharger,corrupted,1.0,100,99
+unique,Crown of the Inward Eye,clean,10.0,98,80
+unique,Crown of the Inward Eye,corrupted,4.0,100,63
+unique,Rime Gaze,clean,1.0,70,70
+unique,Rime Gaze,corrupted,3.0,98,97
+unique,Death's Hand,clean,1.0,93,90
+unique,Death's Hand,corrupted,1.0,98,96
+unique,Lioneye's Paws,clean,1.0,95,88
+unique,Lioneye's Paws,corrupted,1.0,99,99
+unique,Blightwell,corrupted,1.0,81,78
+unique,Original Sin,clean,126000.0,3,3
+unique,Original Sin,corrupted,120000.0,1,1
+unique,Emperor's Cunning,clean,260.0,18,18
 unique,Emperor's Cunning,corrupted,800.0,1,1
-unique,The Gull,clean,3.0,99,98
-unique,The Gull,corrupted,4.0,98,93
-unique,Prismatic Eclipse,clean,1.0,97,91
-unique,Prismatic Eclipse,corrupted,1.0,100,97
+unique,The Gull,clean,3.0,97,94
+unique,The Gull,corrupted,4.0,99,87
+unique,Prismatic Eclipse,clean,1.0,99,92
+unique,Prismatic Eclipse,corrupted,1.0,100,99
 unique,Rearguard,clean,1.0,94,85
-unique,Rearguard,corrupted,1.0,98,94
-unique,Replica Advancing Fortress,clean,1.0,23,23
-unique,Replica Advancing Fortress,corrupted,40.0,2,2
+unique,Rearguard,corrupted,1.0,98,95
+unique,Replica Advancing Fortress,clean,8.0,27,26
+unique,Replica Advancing Fortress,corrupted,10.0,5,5
 unique,Unnatural Instinct,clean,67.0,97,91
 unique,Unnatural Instinct,corrupted,70.0,95,90
 unique,Omeyocan,clean,5.0,24,24
