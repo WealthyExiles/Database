@@ -5222,21 +5222,21 @@ gem,Bane,clean 20/0,3.0,1,14
 gem,Bane,corrupted 20/0,5.0,1,31
 gem,Bane,corrupted 21/0,4.0,1,44
 gem,Bane,clean 1/20,5.0,1,17
-gem,Bane,clean 20/20,60.0,1,6
-gem,Bane,corrupted 20/20,20.0,1,5
-gem,Bane,corrupted 21/20,30.0,1,16
-gem,Barrage,clean 20/0,5.0,1,17
-gem,Barrage,corrupted 20/0,20.0,1,8
+gem,Bane,clean 20/20,40.0,1,3
+gem,Bane,corrupted 20/20,15.0,1,10
+gem,Bane,corrupted 21/20,25.0,1,17
+gem,Barrage,clean 20/0,8.0,1,26
+gem,Barrage,corrupted 20/0,4.0,1,13
 gem,Barrage,corrupted 21/0,3.0,1,32
-gem,Barrage,clean 1/20,3.0,1,20
-gem,Barrage,clean 20/20,20.0,1,5
-gem,Barrage,corrupted 20/20,20.0,1,2
+gem,Barrage,clean 1/20,3.0,1,29
+gem,Barrage,clean 20/20,20.0,1,6
+gem,Barrage,corrupted 20/20,20.0,1,3
 gem,Barrage,corrupted 21/20,35.0,1,18
-gem,Barrage Support,clean 20/0,8.0,1,13
-gem,Barrage Support,corrupted 20/0,4.0,1,15
-gem,Barrage Support,corrupted 21/0,2.0,1,17
-gem,Barrage Support,clean 1/20,20.0,1,11
-gem,Barrage Support,clean 20/20,50.0,1,1
+gem,Barrage Support,clean 20/0,5.0,1,25
+gem,Barrage Support,corrupted 20/0,8.0,1,11
+gem,Barrage Support,corrupted 21/0,2.0,1,23
+gem,Barrage Support,clean 1/20,10.0,1,24
+gem,Barrage Support,clean 20/20,30.0,1,11
 gem,Barrage Support,corrupted 20/20,20.0,1,5
 gem,Barrage Support,corrupted 21/20,125.0,1,6
 gem,Bear Trap,clean 20/0,6.0,1,11
@@ -8442,13 +8442,13 @@ compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are 
 compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,1.0,1,23
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,5.1287671232876715,1,63
 compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,2.5643835616438357,1,23
-compass,20% increased Pack Size in your Unidentified Maps,4,5.1287671232876715,1,24
+compass,20% increased Pack Size in your Unidentified Maps,4,5.0,1,41
 compass,Players and Monsters take 12% increased Chaos Damage:Your Maps contain 6 additional packs of Monsters that deal Chaos Damage,4,2.5643835616438357,1,15
 compass,Strongbox Monsters are Enraged:Strongbox Monsters have 500% increased Item Quantity:Your Maps contain an additional Strongbox,4,28.208219178082192,1,69
 compass,Your Maps contain Ritual Altars,4,5.1287671232876715,1,31
 compass,Players and Monsters take 12% increased Lightning Damage:Your Maps contain 6 additional packs of Monsters that deal Lightning Damage,4,2.5643835616438357,1,18
 compass,Your Magic Maps contain 4 additional packs of Magic Monsters:Your Normal Maps contain 4 additional packs of Normal Monsters:Your Rare Maps contain 4 additional Rare Monster packs,4,2.5643835616438357,1,7
-compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 4 additional Packs with Mirrored Rare Monsters,4,2.5643835616438357,1,9
+compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 4 additional Packs with Mirrored Rare Monsters,4,2.5643835616438357,1,7
 compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,4,2.5643835616438357,1,28
 compass,Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,2.5643835616438357,1,20
 compass,The First 3 Possessed Monsters drop an additional Rusted Scarab:Your Maps contain an additional Tormented Betrayer,4,2.5643835616438357,1,23
@@ -8574,8 +8574,9 @@ blueprint,Blueprint: Repository,3 wings,3.0,1,67
 blueprint,Blueprint: Tunnels,3 wings,5.0,1,77
 blueprint,Blueprint: Laboratory,3 wings,3.0,1,80
 blueprint,Blueprint: Prohibited Library,3 wings,1.0,1,82
-incubator,Abyssal Incubator,ilvl 83,1.0,1,37
-incubator,Abyssal Incubator,ilvl 83,1.0,9,5
+incubator,Abyssal Incubator,ilvl 83,1.0,1,41
+incubator,Abyssal Incubator,ilvl 83,1.0,9,7
+incubator,Abyssal Incubator,ilvl 83,1.0,18,1
 incubator,Blighted Incubator,ilvl 83,1.0,1,33
 incubator,Blighted Incubator,ilvl 83,1.0,9,5
 incubator,Cartographer's Incubator,ilvl 83,1.0,1,30
@@ -8645,7 +8646,7 @@ beast,Craicic Spider Crab,,40.0,1,20
 beast,Farric Tiger Alpha,,59.0,1,24
 beast,Fenumal Hybrid Arachnid,,59.0,1,12
 beast,Saqawine Rhex,,50.0,1,18
-beast,Primal Crushclaw,,25.0,1,2
+beast,Primal Crushclaw,,4.0,1,3
 beast,Primal Cystcaller,,10.0,1,2
 beast,Primal Rhex Matriarch,,60.0,1,12
 beast,Vivid Abberarach,,9.0,1,9
@@ -8661,7 +8662,7 @@ beast,Saqawal First of the Sky,,25.0,1,12
 map,Enslaver's Map,T16,19.0,1,46
 map,Eradicator's Map,T16,20.0,1,46
 map,Constrictor's Map,T16,18.0,1,50
-map,Purifier's Map,T16,19.0,1,42
+map,Purifier's Map,T16,18.0,1,53
 map,Baran's Citadel,T16,60.0,1,49
 map,Veritania's Citadel,T16,59.0,1,56
 map,Al-Hezmin's Citadel,T16,60.0,1,54
