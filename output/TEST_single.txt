@@ -2087,25 +2087,25 @@ gem,Frenzy,clean 20/0,7.0,76,74
 gem,Frenzy,corrupted 20/0,15.0,57,54
 gem,Frenzy,corrupted 21/0,10.0,25,24
 gem,Frenzy,clean 1/20,35.0,55,51
-gem,Frenzy,clean 20/20,40.0,24,24
-gem,Frenzy,corrupted 20/20,95.0,10,10
+gem,Frenzy,clean 20/20,89.0,29,28
+gem,Frenzy,corrupted 20/20,89.0,22,20
 gem,Frenzy,corrupted 21/20,208.0,10,10
-gem,Frost Blades,clean 20/0,20.0,17,17
-gem,Frost Blades,corrupted 20/0,5.0,35,25
+gem,Frost Blades,clean 20/0,5.0,16,16
+gem,Frost Blades,corrupted 20/0,20.0,14,10
 gem,Frost Blades,corrupted 21/0,9.0,27,23
-gem,Frost Blades,clean 1/20,6.0,20,19
+gem,Frost Blades,clean 1/20,5.0,22,19
 gem,Frost Blades,clean 20/20,35.0,4,4
-gem,Frost Blades,corrupted 20/20,19.0,16,14
-gem,Frost Blades,corrupted 21/20,478.4,10,10
-gem,Frost Bomb,clean 20/0,10.0,42,39
-gem,Frost Bomb,corrupted 20/0,10.0,19,19
-gem,Frost Bomb,corrupted 21/0,4.0,36,35
-gem,Frost Bomb,clean 1/20,10.0,46,43
-gem,Frost Bomb,clean 20/20,100.0,20,17
-gem,Frost Bomb,corrupted 20/20,50.0,8,8
-gem,Frost Bomb,corrupted 21/20,200.0,23,22
+gem,Frost Blades,corrupted 20/20,20.0,9,6
+gem,Frost Blades,corrupted 21/20,478.4,10,9
+gem,Frost Bomb,clean 20/0,10.0,30,29
+gem,Frost Bomb,corrupted 20/0,20.0,18,18
+gem,Frost Bomb,corrupted 21/0,10.0,34,32
+gem,Frost Bomb,clean 1/20,20.0,35,33
+gem,Frost Bomb,clean 20/20,120.0,11,11
+gem,Frost Bomb,corrupted 20/20,100.0,4,4
+gem,Frost Bomb,corrupted 21/20,200.0,13,13
 gem,Frost Shield,clean 20/0,19.0,16,16
-gem,Frost Shield,corrupted 20/0,90.0,5,5
+gem,Frost Shield,corrupted 20/0,20.0,7,7
 gem,Frost Shield,corrupted 21/0,20.0,32,32
 gem,Frost Shield,clean 1/20,5.0,15,15
 gem,Frost Shield,clean 20/20,208.0,2,2
@@ -4486,7 +4486,7 @@ compass,Your Maps contain Jun,4,5.0,100,9
 compass,Map Bosses have 20% increased Life:Quality bonus of your Maps also applies to Rarity of Items found,4,2.5643835616438357,100,15
 compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Your Maps have a 50% chance to contain Gifts of the Sacrificed per Sacrifice Fragment used:Your Maps have a 50% chance to contain Gifts of the Red Queen per Mortal Fragment used,4,2.5643835616438357,47,20
 compass,Players and Monsters take 12% increased Physical Damage:Your Maps contain 6 additional packs of Monsters that deal Physical Damage,4,2.5643835616438357,100,14
-compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contain 6 additional packs of Monsters that Heal,4,2.5643835616438357,100,18
+compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contain 6 additional packs of Monsters that Heal,4,2.5643835616438357,99,14
 compass,Rogue Exiles deal 20% increased Damage:Rogue Exiles drop 2 additional Jewels:Rogue Exiles in your Maps have 20% increased Life:Your Maps are inhabited by 2 additional Rogue Exiles,4,2.5643835616438357,100,19
 compass,The First 3 Possessed Monsters drop an additional Polished Scarab:Your Maps contain an additional Tormented Betrayer,4,2.5643835616438357,100,28
 compass,Your Maps contain Einhar,4,2.5643835616438357,100,23
@@ -4583,7 +4583,7 @@ contract,Lockpicking Contract,ilvl 83+,4.0,100,8
 contract,Brute Force Contract,ilvl 83+,1.0,100,40
 contract,Perception Contract,ilvl 83+,1.0,100,50
 contract,Demolition Contract,ilvl 83+,1.0,98,45
-contract,Counter-Thaumaturgy Contract,ilvl 83+,2.0,84,57
+contract,Counter-Thaumaturgy Contract,ilvl 83+,1.0,55,33
 contract,Trap Disarmament Contract,ilvl 83+,1.0,84,51
 contract,Agility Contract,ilvl 83+,1.0,79,40
 contract,Deception Contract,ilvl 83+,2.0,100,35
@@ -4595,7 +4595,7 @@ blueprint,Blueprint: Smuggler's Den,3 wings,3.0,99,74
 blueprint,Blueprint: Underbelly,3 wings,3.0,99,62
 blueprint,Blueprint: Repository,3 wings,1.0,100,62
 blueprint,Blueprint: Tunnels,3 wings,1.0,100,69
-blueprint,Blueprint: Laboratory,3 wings,3.0,100,81
+blueprint,Blueprint: Laboratory,3 wings,5.0,100,67
 blueprint,Blueprint: Prohibited Library,3 wings,4.0,99,64
 incubator,Abyssal Incubator,ilvl 83,1.0,239,28
 incubator,Blighted Incubator,ilvl 83,1.0,109,13
@@ -4622,7 +4622,7 @@ vial,Vial of Consequence,,20.0,14,13
 vial,Vial of Dominance,,7.0,14,13
 vial,Vial of Fate,,3.0,35,16
 vial,Vial of Summoning,,40.0,67,46
-vial,Vial of the Ritual,,4.0,28,19
+vial,Vial of the Ritual,,3.0,25,18
 vial,Vial of Transcendence,,45.0,51,37
 vial,Vial of Sacrifice,,50.0,10,1
 vial,Vial of the Ghost,,1248.0,3,3
@@ -4633,7 +4633,7 @@ logbook,Knights of the Sun Logbook,ilvl 83+,79.0,27,21
 beast,Craicic Chimeral,,769.6,100,53
 beast,Craicic Maw,,15.0,12,6
 beast,Craicic Vassal,,20.0,20,9
-beast,Farric Frost Hellion Alpha,,38.0,7,5
+beast,Farric Frost Hellion Alpha,,50.0,14,9
 beast,Farric Lynx Alpha,,7.0,100,17
 beast,Farric Wolf Alpha,,14.0,96,38
 beast,Fenumal Plagued Arachnid,,25.0,60,26
@@ -4653,12 +4653,12 @@ beast,Wild Hellion Alpha,,832.0,100,17
 beast,Craiceann First of the Deep,,30.0,14,6
 beast,Farrul First of the Plains,,75.0,10,6
 beast,Fenumus First of the Night,,55.0,15,7
-beast,Saqawal First of the Sky,,25.0,15,6
+beast,Saqawal First of the Sky,,20.0,22,8
 map,Enslaver's Map,T16,20.0,93,34
 map,Eradicator's Map,T16,20.0,100,40
 map,Constrictor's Map,T16,20.0,92,40
 map,Purifier's Map,T16,20.0,94,38
-map,Baran's Citadel,T16,60.0,99,44
+map,Baran's Citadel,T16,60.0,93,43
 map,Veritania's Citadel,T16,60.0,89,42
 map,Al-Hezmin's Citadel,T16,60.0,86,41
 map,Drox's Citadel,T16,60.0,85,43
