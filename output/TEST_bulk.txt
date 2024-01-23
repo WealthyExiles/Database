@@ -5228,22 +5228,22 @@ gem,Barrage,clean 20/0,8.0,1,26
 gem,Barrage,corrupted 20/0,4.0,1,13
 gem,Barrage,corrupted 21/0,3.0,1,32
 gem,Barrage,clean 1/20,3.0,1,29
-gem,Barrage,clean 20/20,20.0,1,6
+gem,Barrage,clean 20/20,20.0,1,2
 gem,Barrage,corrupted 20/20,20.0,1,3
-gem,Barrage,corrupted 21/20,35.0,1,18
-gem,Barrage Support,clean 20/0,5.0,1,25
+gem,Barrage,corrupted 21/20,50.0,1,14
+gem,Barrage Support,clean 20/0,1.0,1,20
 gem,Barrage Support,corrupted 20/0,8.0,1,11
 gem,Barrage Support,corrupted 21/0,2.0,1,23
-gem,Barrage Support,clean 1/20,10.0,1,24
-gem,Barrage Support,clean 20/20,30.0,1,11
+gem,Barrage Support,clean 1/20,5.0,1,10
+gem,Barrage Support,clean 20/20,60.0,1,5
 gem,Barrage Support,corrupted 20/20,20.0,1,5
-gem,Barrage Support,corrupted 21/20,99.0,1,14
-gem,Bear Trap,clean 20/0,5.0,1,12
+gem,Barrage Support,corrupted 21/20,120.0,1,5
+gem,Bear Trap,clean 20/0,3.0,1,7
 gem,Bear Trap,corrupted 20/0,20.0,1,17
-gem,Bear Trap,corrupted 21/0,4.0,1,28
-gem,Bear Trap,clean 1/20,8.0,1,24
+gem,Bear Trap,corrupted 21/0,5.0,1,21
+gem,Bear Trap,clean 1/20,8.0,1,16
 gem,Bear Trap,clean 20/20,40.0,1,2
-gem,Bear Trap,corrupted 20/20,45.0,1,4
+gem,Bear Trap,corrupted 20/20,40.0,1,3
 gem,Bear Trap,corrupted 21/20,35.0,1,14
 gem,Berserk,clean 20/0,3.0,1,66
 gem,Berserk,corrupted 20/0,15.0,1,55
@@ -8453,7 +8453,7 @@ compass,Map Bosses are accompanied by Bodyguards:An additional Map drops on Comp
 compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,2.5643835616438357,1,16
 compass,Your Maps contain Niko,4,2.5643835616438357,1,20
 compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,4,5.1287671232876715,1,46
-compass,Your Maps contain an additional Legion Encounter,4,10.257534246575343,1,36
+compass,Your Maps contain an additional Legion Encounter,4,4.0,1,19
 compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,2.5643835616438357,1,11
 compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,2.5643835616438357,1,23
 compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,2.5643835616438357,1,36
@@ -8528,7 +8528,7 @@ compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 add
 compass,25% increased Pack Size in your Unidentified Maps,16,2267.2000000000003,1,21
 compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,40.0,1,9
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,416.0,1,23
-contract,Lockpicking Contract,ilvl 83+,1.0,1,42
+contract,Lockpicking Contract,ilvl 83+,3.0,1,6
 contract,Brute Force Contract,ilvl 83+,2.0,1,38
 contract,Perception Contract,ilvl 83+,1.0,1,47
 contract,Demolition Contract,ilvl 83+,1.0,1,40
@@ -8550,8 +8550,8 @@ incubator,Abyssal Incubator,ilvl 83,1.0,1,16
 incubator,Abyssal Incubator,ilvl 83,1.0,9,4
 incubator,Blighted Incubator,ilvl 83,1.0,1,9
 incubator,Blighted Incubator,ilvl 83,39.0,9,2
-incubator,Cartographer's Incubator,ilvl 83,1.0,1,14
-incubator,Cartographer's Incubator,ilvl 83,2.0,9,3
+incubator,Cartographer's Incubator,ilvl 83,2.0,1,7
+incubator,Cartographer's Incubator,ilvl 83,2.0,9,1
 incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,1,6
 incubator,Celestial Armoursmith's Incubator,ilvl 83,2.0,9,1
 incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,1,12
@@ -8601,7 +8601,7 @@ vial,Vial of Transcendence,,40.0,1,37
 vial,Vial of Transcendence,,100.0,9,1
 vial,Vial of Sacrifice,,208.0,1,1
 vial,Vial of the Ghost,,1248.0,1,1
-logbook,Bruids of the Broken Circle Logbook,ilvl 83+,85.0,1,37
+logbook,Bruids of the Broken Circle Logbook,ilvl 83+,80.0,1,47
 logbook,Black Scythe Mercenaries Logbook,ilvl 83+,70.0,1,39
 logbook,Order of the Chalice Logbook,ilvl 83+,80.0,1,39
 logbook,Knights of the Sun Logbook,ilvl 83+,90.0,1,12
@@ -8618,8 +8618,8 @@ beast,Fenumal Hybrid Arachnid,,58.0,1,10
 beast,Saqawine Rhex,,50.0,1,18
 beast,Primal Crushclaw,,3.0,1,4
 beast,Primal Cystcaller,,6.0,1,4
-beast,Primal Rhex Matriarch,,119.0,1,19
-beast,Vivid Abberarach,,10.0,1,4
+beast,Primal Rhex Matriarch,,97.0,1,24
+beast,Vivid Abberarach,,10.0,1,6
 beast,Vivid Vulture,,1560.0,1,29
 beast,Vivid Watcher,,270.40000000000003,1,13
 beast,Wild Brambleback,,59.0,1,4
@@ -8628,11 +8628,11 @@ beast,Wild Hellion Alpha,,852.8,1,14
 beast,Craiceann First of the Deep,,30.0,1,11
 beast,Farrul First of the Plains,,75.0,1,12
 beast,Fenumus First of the Night,,60.0,1,11
-beast,Saqawal First of the Sky,,20.0,1,7
+beast,Saqawal First of the Sky,,20.0,1,8
 map,Enslaver's Map,T16,19.0,1,37
 map,Eradicator's Map,T16,20.0,1,42
 map,Constrictor's Map,T16,20.0,1,48
-map,Purifier's Map,T16,20.0,1,47
+map,Purifier's Map,T16,19.0,1,43
 map,Baran's Citadel,T16,58.0,1,66
 map,Veritania's Citadel,T16,60.0,1,68
 map,Al-Hezmin's Citadel,T16,60.0,1,64
