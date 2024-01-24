@@ -5906,21 +5906,21 @@ gem,Explosive Trap,clean 20/20,25.0,1,14
 gem,Explosive Trap,corrupted 20/20,10.0,1,6
 gem,Explosive Trap,corrupted 21/20,30.0,1,6
 gem,Exsanguinate,clean 20/0,4.0,1,12
-gem,Exsanguinate,corrupted 20/0,5.0,1,10
-gem,Exsanguinate,corrupted 21/0,10.0,1,27
-gem,Exsanguinate,clean 1/20,9.0,1,8
-gem,Exsanguinate,clean 20/20,39.0,1,2
-gem,Exsanguinate,corrupted 20/20,10.0,1,4
-gem,Exsanguinate,corrupted 21/20,96.0,1,6
+gem,Exsanguinate,corrupted 20/0,10.0,1,17
+gem,Exsanguinate,corrupted 21/0,5.0,1,24
+gem,Exsanguinate,clean 1/20,3.0,1,14
+gem,Exsanguinate,clean 20/20,18.0,1,6
+gem,Exsanguinate,corrupted 20/20,10.0,1,7
+gem,Exsanguinate,corrupted 21/20,90.0,1,9
 gem,Faster Attacks Support,clean 20/0,4.0,1,61
-gem,Faster Attacks Support,corrupted 20/0,3.0,1,34
+gem,Faster Attacks Support,corrupted 20/0,5.0,1,57
 gem,Faster Attacks Support,corrupted 21/0,10.0,1,16
-gem,Faster Attacks Support,clean 1/20,25.0,1,26
-gem,Faster Attacks Support,clean 20/20,60.0,1,19
-gem,Faster Attacks Support,corrupted 20/20,66.0,1,11
-gem,Faster Attacks Support,corrupted 21/20,936.0,1,8
+gem,Faster Attacks Support,clean 1/20,35.0,1,43
+gem,Faster Attacks Support,clean 20/20,54.0,1,27
+gem,Faster Attacks Support,corrupted 20/20,49.0,1,27
+gem,Faster Attacks Support,corrupted 21/20,624.0,1,18
 gem,Faster Casting Support,clean 20/0,7.0,1,27
-gem,Faster Casting Support,corrupted 20/0,18.0,1,42
+gem,Faster Casting Support,corrupted 20/0,9.0,1,52
 gem,Faster Casting Support,corrupted 21/0,20.0,1,16
 gem,Faster Casting Support,clean 1/20,24.0,1,20
 gem,Faster Casting Support,clean 20/20,55.0,1,8
@@ -8412,7 +8412,7 @@ compass,The First 3 Possessed Monsters drop an additional Unique Item:Your Maps 
 compass,Your Maps contain a Mirror of Delirium,4,46.158904109589045,1,26
 compass,Your Maps contain Alva,4,7.693150684931507,1,27
 compass,100% increased Intelligence gained from Immortal Syndicate targets encountered in your Maps,4,3.0,1,34
-compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,38.465753424657535,1,68
+compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,117.96164383561644,1,48
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Blue Plants,4,17.95068493150685,1,39
 compass,Map Bosses drop 1 additional Unique Item,4,4.0,1,16
 compass,Your Maps can contain Breaches:Your Maps contain an additional Breach,4,2.0,1,5
@@ -8421,8 +8421,8 @@ compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain
 compass,Your Maps contain Niko,4,2.5643835616438357,1,14
 compass,Legion Monsters in your Maps have 100% more Life:Splinters and Emblems dropped by Legion Monsters in your Maps are duplicated,4,7.693150684931507,1,48
 compass,Your Maps contain an additional Legion Encounter,4,7.693150684931507,1,13
-compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,2.5643835616438357,1,10
-compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,2.5643835616438357,1,14
+compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,2.5643835616438357,1,8
+compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,2.5643835616438357,1,19
 compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,2.5643835616438357,1,16
 compass,Your Maps contain an additional Abyss:Your Maps can contain Abysses,4,28.208219178082192,1,4
 compass,Your Maps contain a Blight Encounter,4,2.5643835616438357,1,16
@@ -8511,10 +8511,10 @@ blueprint,Blueprint: Smuggler's Den,3 wings,5.0,1,57
 blueprint,Blueprint: Underbelly,3 wings,5.0,1,51
 blueprint,Blueprint: Repository,3 wings,2.0,1,56
 blueprint,Blueprint: Tunnels,3 wings,2.0,1,63
-blueprint,Blueprint: Laboratory,3 wings,3.0,1,57
+blueprint,Blueprint: Laboratory,3 wings,3.0,1,54
 blueprint,Blueprint: Prohibited Library,3 wings,3.0,1,52
-incubator,Abyssal Incubator,ilvl 83,1.0,1,18
-incubator,Abyssal Incubator,ilvl 83,1.0,9,5
+incubator,Abyssal Incubator,ilvl 83,1.0,1,23
+incubator,Abyssal Incubator,ilvl 83,10.0,9,3
 incubator,Blighted Incubator,ilvl 83,1.0,1,11
 incubator,Blighted Incubator,ilvl 83,1.0,9,4
 incubator,Cartographer's Incubator,ilvl 83,2.0,1,22
@@ -8539,8 +8539,9 @@ incubator,Mysterious Incubator,ilvl 83,1.0,1,38
 incubator,Mysterious Incubator,ilvl 83,1.0,9,9
 incubator,Obscured Incubator,ilvl 83,3.0,1,26
 incubator,Obscured Incubator,ilvl 83,39.0,9,2
-incubator,Ornate Incubator,ilvl 83,10.0,1,51
-incubator,Ornate Incubator,ilvl 83,10.0,9,13
+incubator,Ornate Incubator,ilvl 83,9.0,1,55
+incubator,Ornate Incubator,ilvl 83,10.0,9,12
+incubator,Ornate Incubator,ilvl 83,10.0,18,1
 incubator,Otherworldly Incubator,ilvl 83,2.0,1,27
 incubator,Otherworldly Incubator,ilvl 83,2.0,9,8
 incubator,Otherworldly Incubator,ilvl 83,2.0,18,1
@@ -8573,11 +8574,11 @@ logbook,Order of the Chalice Logbook,ilvl 83+,85.0,1,37
 logbook,Knights of the Sun Logbook,ilvl 83+,85.0,1,25
 beast,Craicic Chimeral,,873.6,1,27
 beast,Craicic Maw,,15.0,1,2
-beast,Craicic Vassal,,20.0,1,7
-beast,Farric Frost Hellion Alpha,,50.0,1,13
+beast,Craicic Vassal,,20.0,1,6
+beast,Farric Frost Hellion Alpha,,55.0,1,5
 beast,Farric Lynx Alpha,,7.0,1,10
 beast,Farric Wolf Alpha,,14.0,1,16
-beast,Fenumal Plagued Arachnid,,30.0,1,12
+beast,Fenumal Plagued Arachnid,,30.0,1,15
 beast,Craicic Spider Crab,,48.0,1,13
 beast,Farric Tiger Alpha,,60.0,1,12
 beast,Fenumal Hybrid Arachnid,,60.0,1,11
