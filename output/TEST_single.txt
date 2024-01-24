@@ -2127,21 +2127,21 @@ gem,Galvanic Arrow,corrupted 21/0,15.0,23,19
 gem,Galvanic Arrow,clean 1/20,5.0,14,12
 gem,Galvanic Arrow,clean 20/20,40.0,6,6
 gem,Galvanic Arrow,corrupted 20/20,10.0,6,6
-gem,Galvanic Arrow,corrupted 21/20,19.0,6,6
-gem,General's Cry,clean 20/0,20.0,10,10
-gem,General's Cry,corrupted 20/0,11.0,27,27
-gem,General's Cry,corrupted 21/0,4.0,31,30
+gem,Galvanic Arrow,corrupted 21/20,15.0,9,9
+gem,General's Cry,clean 20/0,19.0,23,23
+gem,General's Cry,corrupted 20/0,10.0,30,30
+gem,General's Cry,corrupted 21/0,10.0,34,33
 gem,General's Cry,clean 1/20,4.0,20,20
-gem,General's Cry,clean 20/20,100.0,11,11
-gem,General's Cry,corrupted 20/20,100.0,6,6
+gem,General's Cry,clean 20/20,80.0,14,14
+gem,General's Cry,corrupted 20/20,70.0,11,11
 gem,General's Cry,corrupted 21/20,190.0,14,14
 gem,Generosity Support,clean 20/0,10.0,29,25
-gem,Generosity Support,corrupted 20/0,10.0,20,18
-gem,Generosity Support,corrupted 21/0,9.0,20,20
-gem,Generosity Support,clean 1/20,10.0,14,14
-gem,Generosity Support,clean 20/20,39.0,8,8
-gem,Generosity Support,corrupted 20/20,39.0,8,7
-gem,Generosity Support,corrupted 21/20,90.0,10,10
+gem,Generosity Support,corrupted 20/0,10.0,30,25
+gem,Generosity Support,corrupted 21/0,8.0,24,22
+gem,Generosity Support,clean 1/20,9.0,20,20
+gem,Generosity Support,clean 20/20,40.0,10,10
+gem,Generosity Support,corrupted 20/20,40.0,10,7
+gem,Generosity Support,corrupted 21/20,90.0,14,13
 gem,Glacial Cascade,clean 20/0,10.0,14,12
 gem,Glacial Cascade,corrupted 20/0,15.0,9,9
 gem,Glacial Cascade,corrupted 21/0,5.0,22,21
@@ -4421,15 +4421,15 @@ compass,Rogue Exiles deal 20% increased Damage:Rogue Exiles drop 2 additional Je
 compass,The First 3 Possessed Monsters drop an additional Polished Scarab:Your Maps contain an additional Tormented Betrayer,4,2.5643835616438357,81,22
 compass,Your Maps contain Einhar,4,2.5643835616438357,100,25
 compass,Map Bosses deal 20% increased Damage:Your Maps have 20% Quality,4,5.1287671232876715,100,12
-compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Purple Plants,4,20.515068493150686,100,30
+compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Purple Plants,4,20.515068493150686,100,23
 compass,The First 3 Possessed Monsters drop an additional Unique Item:Your Maps contain an additional Tormented Graverobber,4,2.5643835616438357,52,16
 compass,Your Maps contain a Mirror of Delirium,4,46.158904109589045,100,26
-compass,Your Maps contain Alva,4,7.693150684931507,100,27
+compass,Your Maps contain Alva,4,7.693150684931507,100,33
 compass,100% increased Intelligence gained from Immortal Syndicate targets encountered in your Maps,4,3.0,100,36
 compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,117.96164383561644,100,48
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Blue Plants,4,17.95068493150685,100,39
 compass,Map Bosses drop 1 additional Unique Item,4,3.0,48,20
-compass,Your Maps can contain Breaches:Your Maps contain an additional Breach,4,2.0,100,5
+compass,Your Maps can contain Breaches:Your Maps contain an additional Breach,4,2.0,100,3
 compass,Map Bosses are accompanied by Bodyguards:An additional Map drops on Completing your Maps,4,5.0,98,21
 compass,Players' Vaal Skills do not apply Soul Gain Prevention:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,2.5643835616438357,21,11
 compass,Your Maps contain Niko,4,2.5643835616438357,41,14
@@ -4545,7 +4545,7 @@ incubator,Ornate Incubator,ilvl 83,9.0,537,55
 incubator,Otherworldly Incubator,ilvl 83,2.0,172,27
 incubator,Primal Incubator,ilvl 83,1.0,81,13
 incubator,Singular Incubator,ilvl 83,1.0,175,24
-incubator,Skittering Incubator,ilvl 83,2.0,649,42
+incubator,Skittering Incubator,ilvl 83,2.0,686,38
 incubator,Thaumaturge's Incubator,ilvl 83,6.0,178,34
 vial,Vial of Awakening,,20.0,14,5
 vial,Vial of Consequence,,19.0,39,19
@@ -4553,7 +4553,7 @@ vial,Vial of Dominance,,5.0,18,9
 vial,Vial of Fate,,4.0,11,10
 vial,Vial of Summoning,,39.0,20,19
 vial,Vial of the Ritual,,1.0,18,14
-vial,Vial of Transcendence,,44.0,52,27
+vial,Vial of Transcendence,,40.0,74,41
 vial,Vial of the Ghost,,1456.0,1,1
 logbook,Bruids of the Broken Circle Logbook,ilvl 83+,85.0,100,41
 logbook,Black Scythe Mercenaries Logbook,ilvl 83+,87.0,100,45
@@ -4568,19 +4568,19 @@ beast,Farric Wolf Alpha,,13.0,100,14
 beast,Fenumal Plagued Arachnid,,30.0,28,15
 beast,Craicic Spider Crab,,50.0,100,17
 beast,Farric Tiger Alpha,,60.0,31,12
-beast,Fenumal Hybrid Arachnid,,60.0,59,11
+beast,Fenumal Hybrid Arachnid,,58.0,75,21
 beast,Saqawine Rhex,,49.0,77,23
 beast,Primal Crushclaw,,3.0,72,5
 beast,Primal Cystcaller,,3.0,40,4
 beast,Primal Rhex Matriarch,,104.0,100,2
 beast,Vivid Abberarach,,10.0,88,7
-beast,Vivid Vulture,,1456.0,100,29
+beast,Vivid Vulture,,1539.2,100,24
 beast,Vivid Watcher,,312.0,52,11
 beast,Wild Brambleback,,62.4,100,5
 beast,Wild Bristle Matron,,249.6,100,9
 beast,Wild Hellion Alpha,,832.0,100,9
-beast,Craiceann First of the Deep,,30.0,2,2
-beast,Farrul First of the Plains,,58.0,48,9
+beast,Craiceann First of the Deep,,30.0,62,7
+beast,Farrul First of the Plains,,80.0,11,5
 beast,Fenumus First of the Night,,60.0,36,4
 beast,Saqawal First of the Sky,,20.0,21,7
 map,Enslaver's Map,T16,19.0,82,32
