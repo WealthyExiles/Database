@@ -1557,21 +1557,21 @@ gem,Cold Snap,corrupted 21/20,50.0,13,13
 gem,Cold to Fire Support,clean 20/0,100.0,11,7
 gem,Cold to Fire Support,corrupted 20/0,100.0,7,7
 gem,Cold to Fire Support,corrupted 21/0,5.0,23,21
-gem,Cold to Fire Support,clean 1/20,10.0,11,9
+gem,Cold to Fire Support,clean 1/20,10.0,16,13
 gem,Cold to Fire Support,clean 20/20,100.0,3,2
-gem,Cold to Fire Support,corrupted 20/20,140.0,5,5
-gem,Cold to Fire Support,corrupted 21/20,478.4,3,3
-gem,Combustion Support,clean 20/0,10.0,31,25
-gem,Combustion Support,corrupted 20/0,5.0,30,25
-gem,Combustion Support,corrupted 21/0,9.0,22,22
-gem,Combustion Support,clean 1/20,19.0,28,22
+gem,Cold to Fire Support,corrupted 20/20,100.0,2,2
+gem,Cold to Fire Support,corrupted 21/20,624.0,2,2
+gem,Combustion Support,clean 20/0,5.0,29,24
+gem,Combustion Support,corrupted 20/0,9.0,23,19
+gem,Combustion Support,corrupted 21/0,9.0,18,16
+gem,Combustion Support,clean 1/20,18.0,18,13
 gem,Combustion Support,clean 20/20,49.0,8,8
-gem,Combustion Support,corrupted 20/20,45.0,10,7
-gem,Combustion Support,corrupted 21/20,520.0,7,7
-gem,Concentrated Effect Support,clean 20/0,15.0,36,19
+gem,Combustion Support,corrupted 20/20,50.0,10,7
+gem,Combustion Support,corrupted 21/20,603.1999999999999,8,8
+gem,Concentrated Effect Support,clean 20/0,15.0,24,16
 gem,Concentrated Effect Support,corrupted 20/0,9.0,87,45
-gem,Concentrated Effect Support,corrupted 21/0,20.0,21,19
-gem,Concentrated Effect Support,clean 1/20,20.0,15,14
+gem,Concentrated Effect Support,corrupted 21/0,20.0,15,15
+gem,Concentrated Effect Support,clean 1/20,20.0,23,18
 gem,Concentrated Effect Support,clean 20/20,50.0,18,8
 gem,Concentrated Effect Support,corrupted 20/20,20.0,77,23
 gem,Concentrated Effect Support,corrupted 21/20,769.6,12,10
@@ -4395,13 +4395,13 @@ compass,Unique Monsters drop Corrupted Items,4,2.5643835616438357,66,24
 compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,5.1287671232876715,60,18
 compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,7.693150684931507,100,34
 compass,Maps found in your Maps are Corrupted with 8 Modifiers,4,38.465753424657535,100,51
-compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,12.0,99,16
+compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,10.257534246575343,100,53
 compass,Create a copy of Beasts Captured in your Maps,4,5.1287671232876715,100,49
 compass,25% increased Magic Pack Size,4,5.1287671232876715,100,20
-compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,2.5643835616438357,54,13
+compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,4.0,88,13
 compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain an additional Essence,4,2.5643835616438357,100,1
 compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are Corrupted:Strongboxes in your Maps are at least Rare,4,5.0,100,12
-compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,2.5643835616438357,33,13
+compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,2.5643835616438357,53,16
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,12.82191780821918,87,55
 compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,2.5643835616438357,15,11
 compass,20% increased Pack Size in your Unidentified Maps,4,5.0,100,9
@@ -4411,7 +4411,7 @@ compass,Your Maps contain Ritual Altars,4,5.0,100,24
 compass,Players and Monsters take 12% increased Lightning Damage:Your Maps contain 6 additional packs of Monsters that deal Lightning Damage,4,2.5643835616438357,51,15
 compass,Your Magic Maps contain 4 additional packs of Magic Monsters:Your Normal Maps contain 4 additional packs of Normal Monsters:Your Rare Maps contain 4 additional Rare Monster packs,4,2.5643835616438357,100,2
 compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 4 additional Packs with Mirrored Rare Monsters,4,2.5643835616438357,100,17
-compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,4,2.5643835616438357,15,8
+compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,4,2.5643835616438357,22,13
 compass,Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,2.5643835616438357,57,15
 compass,The First 3 Possessed Monsters drop an additional Rusted Scarab:Your Maps contain an additional Tormented Betrayer,4,2.0,49,18
 compass,Your Maps contain 6 additional packs of Monsters that Convert when Killed,4,2.5643835616438357,100,20
@@ -4533,7 +4533,7 @@ blueprint,Blueprint: Underbelly,3 wings,2.0,100,43
 blueprint,Blueprint: Repository,3 wings,5.0,99,66
 blueprint,Blueprint: Tunnels,3 wings,9.0,99,38
 blueprint,Blueprint: Laboratory,3 wings,3.0,100,38
-blueprint,Blueprint: Prohibited Library,3 wings,3.0,100,73
+blueprint,Blueprint: Prohibited Library,3 wings,3.0,100,65
 incubator,Abyssal Incubator,ilvl 83,1.0,77,14
 incubator,Blighted Incubator,ilvl 83,2.0,46,8
 incubator,Cartographer's Incubator,ilvl 83,1.0,60,14
@@ -4541,9 +4541,9 @@ incubator,Celestial Armoursmith's Incubator,ilvl 83,2.0,18,3
 incubator,Celestial Blacksmith's Incubator,ilvl 83,2.0,28,6
 incubator,Celestial Jeweller's Incubator,ilvl 83,2.0,25,10
 incubator,Diviner's Incubator,ilvl 83,5.0,351,61
-incubator,Foreboding Incubator,ilvl 83,2.0,181,46
+incubator,Foreboding Incubator,ilvl 83,1.0,301,47
 incubator,Geomancer's Incubator,ilvl 83,1.0,169,34
-incubator,Infused Incubator,ilvl 83,2.0,293,51
+incubator,Infused Incubator,ilvl 83,1.0,460,55
 incubator,Kalguuran Incubator,ilvl 83,2.0,360,60
 incubator,Maddening Incubator,ilvl 83,2.0,97,27
 incubator,Mysterious Incubator,ilvl 83,1.0,388,31
@@ -4579,10 +4579,10 @@ beast,Fenumal Hybrid Arachnid,,60.0,16,5
 beast,Saqawine Rhex,,55.0,23,6
 beast,Primal Crushclaw,,5.0,28,4
 beast,Primal Cystcaller,,20.0,18,2
-beast,Primal Rhex Matriarch,,115.0,100,7
+beast,Primal Rhex Matriarch,,100.0,100,10
 beast,Vivid Abberarach,,5.0,72,9
 beast,Vivid Vulture,,1851.2,92,10
-beast,Vivid Watcher,,374.40000000000003,71,7
+beast,Vivid Watcher,,312.0,82,12
 beast,Wild Brambleback,,70.0,37,9
 beast,Wild Bristle Matron,,249.6,51,15
 beast,Wild Hellion Alpha,,832.0,100,9
@@ -4590,11 +4590,11 @@ beast,Craiceann First of the Deep,,40.0,3,3
 beast,Farrul First of the Plains,,75.0,4,4
 beast,Fenumus First of the Night,,60.0,28,5
 beast,Saqawal First of the Sky,,20.0,9,8
-map,Enslaver's Map,T16,15.0,99,36
-map,Eradicator's Map,T16,15.0,99,35
+map,Enslaver's Map,T16,15.0,99,24
+map,Eradicator's Map,T16,15.0,99,25
 map,Constrictor's Map,T16,18.0,98,21
 map,Purifier's Map,T16,18.0,98,22
-map,Baran's Citadel,T16,60.0,95,44
+map,Baran's Citadel,T16,58.0,97,39
 map,Veritania's Citadel,T16,58.0,96,29
 map,Al-Hezmin's Citadel,T16,58.0,98,39
 map,Drox's Citadel,T16,55.0,97,40
