@@ -4009,10 +4009,10 @@ gem,Awakened Brutality Support,clean 1/0,25.0,100,72
 gem,Awakened Brutality Support,clean 2/0,432.0,1,1
 gem,Awakened Brutality Support,clean 3/0,360.0,1,1
 gem,Awakened Brutality Support,clean 5/0,80.0,20,19
-gem,Awakened Brutality Support,corrupted 4/0,110.0,7,7
+gem,Awakened Brutality Support,corrupted 4/0,100.0,9,9
 gem,Awakened Brutality Support,corrupted 5/0,40.0,37,33
-gem,Awakened Brutality Support,corrupted 6/0,864.0,6,6
-gem,Awakened Brutality Support,clean 1/20,90.0,7,6
+gem,Awakened Brutality Support,corrupted 6/0,1584.0,6,6
+gem,Awakened Brutality Support,clean 1/20,190.0,7,7
 gem,Awakened Brutality Support,clean 5/20,90.0,7,6
 gem,Awakened Brutality Support,corrupted 4/20,110.0,7,7
 gem,Awakened Brutality Support,corrupted 5/20,144.0,13,12
@@ -4387,9 +4387,9 @@ compass,Your Maps contain 25 additional Clusters of Mysterious Barrels,4,0.0125,
 compass,Players gain an additional Vaal Soul on Kill:Your Maps contain 6 additional packs of Corrupted Vaal Monsters,4,0.0125,63,12
 compass,The First 3 Possessed Monsters drop an additional Map:Your Maps contain an additional Tormented Heretic,4,0.0125,12,8
 compass,Your Maps contain an additional Abyss:Your Maps can contain Abysses,4,40.0,99,10
-compass,Your Maps contain a Blight Encounter,4,0.0125,87,24
+compass,Your Maps contain a Blight Encounter,4,0.0125,87,21
 compass,Slaying Enemies close together can attract monsters from Beyond this realm:25% increased Beyond Demon Pack Size in your Maps,4,149.0,100,6
-compass,Your Maps contain 100% increased number of Runic Monster Markers,4,0.025,47,13
+compass,Your Maps contain 100% increased number of Runic Monster Markers,4,0.0125,46,14
 compass,Delirium Reward Bars fill 100% faster in your Maps,4,0.025,100,29
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,4,0.5,100,23
 compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,4,0.0125,23,9
@@ -4458,7 +4458,7 @@ compass,25% increased Pack Size in your Unidentified Maps,16,2289.6,49,23
 compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,16,10.0,3,2
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,288.0,24,17
 contract,Lockpicking Contract,ilvl 83+,1.0,47,22
-contract,Brute Force Contract,ilvl 83+,1.0,50,21
+contract,Brute Force Contract,ilvl 83+,2.0,78,19
 contract,Perception Contract,ilvl 83+,1.0,78,31
 contract,Demolition Contract,ilvl 83+,1.0,64,31
 contract,Counter-Thaumaturgy Contract,ilvl 83+,2.0,45,24
@@ -4488,7 +4488,7 @@ incubator,Infused Incubator,ilvl 83,1.0,612,37
 incubator,Kalguuran Incubator,ilvl 83,1.0,450,37
 incubator,Maddening Incubator,ilvl 83,1.0,178,28
 incubator,Mysterious Incubator,ilvl 83,1.0,513,19
-incubator,Obscured Incubator,ilvl 83,1.0,107,25
+incubator,Obscured Incubator,ilvl 83,2.0,135,23
 incubator,Ornate Incubator,ilvl 83,7.0,390,68
 incubator,Otherworldly Incubator,ilvl 83,1.0,142,20
 incubator,Primal Incubator,ilvl 83,1.0,16,6
@@ -4515,9 +4515,9 @@ beast,Farric Lynx Alpha,,3.0,100,14
 beast,Farric Wolf Alpha,,10.0,56,20
 beast,Fenumal Plagued Arachnid,,24.0,100,27
 beast,Craicic Spider Crab,,50.0,25,10
-beast,Farric Tiger Alpha,,70.0,2,2
+beast,Farric Tiger Alpha,,55.0,14,6
 beast,Fenumal Hybrid Arachnid,,10.0,28,12
-beast,Saqawine Rhex,,60.0,9,8
+beast,Saqawine Rhex,,60.0,10,8
 beast,Primal Cystcaller,,3.0,1,1
 beast,Primal Rhex Matriarch,,90.0,61,9
 beast,Vivid Abberarach,,10.0,100,1
@@ -4532,7 +4532,7 @@ beast,Fenumus First of the Night,,50.0,22,7
 beast,Saqawal First of the Sky,,29.0,9,2
 map,Enslaver's Map,T16,20.0,100,41
 map,Eradicator's Map,T16,20.0,100,30
-map,Constrictor's Map,T16,20.0,100,31
+map,Constrictor's Map,T16,20.0,97,29
 map,Purifier's Map,T16,20.0,100,28
 map,Baran's Citadel,T16,45.0,100,35
 map,Veritania's Citadel,T16,45.0,100,47
@@ -4691,93 +4691,95 @@ unique,Infernal Mantle,corrupted,15.0,68,67
 unique,Infernal Mantle,corrupted 6-link,80.0,9,9
 unique,Doedre's Skin,clean,3.0,45,45
 unique,Doedre's Skin,clean 6-link,144.0,8,8
-unique,Doedre's Skin,corrupted,15.0,45,45
-unique,Doedre's Skin,corrupted 6-link,288.0,6,6
-unique,Fenumus' Shroud,clean,15.0,16,16
-unique,Fenumus' Shroud,corrupted,60.0,5,5
-unique,Fenumus' Shroud,corrupted 6-link,144.0,2,2
-unique,The Beast Fur Shawl,clean,1.0,90,86
-unique,The Beast Fur Shawl,clean 6-link,20.0,28,28
-unique,The Beast Fur Shawl,corrupted,2.0,99,99
-unique,The Beast Fur Shawl,corrupted 6-link,35.0,21,21
-unique,The Queen's Hunger,clean,5.0,98,93
-unique,The Queen's Hunger,clean 6-link,144.0,6,6
-unique,The Queen's Hunger,corrupted,60.0,9,9
-unique,The Queen's Hunger,corrupted 6-link,288.0,3,3
-unique,Gruthkul's Pelt,clean,20.0,99,86
-unique,Gruthkul's Pelt,clean 6-link,80.0,12,12
-unique,Gruthkul's Pelt,corrupted,20.0,99,95
-unique,Gruthkul's Pelt,corrupted 6-link,100.0,14,14
-unique,Belly of the Beast,clean,2.0,99,98
-unique,Belly of the Beast,clean 6-link,140.0,37,36
-unique,Belly of the Beast,corrupted,5.0,98,97
-unique,Belly of the Beast,corrupted 6-link,129.6,27,26
-unique,Lightning Coil,clean,5.0,90,83
-unique,Lightning Coil,clean 6-link,144.0,100,96
-unique,Lightning Coil,corrupted,4.0,98,88
-unique,Lightning Coil,corrupted 6-link,75.0,100,90
-unique,Daresso's Defiance,clean,1.0,99,93
-unique,Daresso's Defiance,clean 6-link,80.0,24,24
-unique,Daresso's Defiance,corrupted,10.0,100,98
-unique,Daresso's Defiance,corrupted 6-link,29.0,20,20
-unique,Cherrubim's Maleficence,clean,1.0,97,91
-unique,Cherrubim's Maleficence,clean 6-link,20.0,45,43
-unique,Cherrubim's Maleficence,corrupted,3.0,98,95
-unique,Cherrubim's Maleficence,corrupted 6-link,30.0,38,37
-unique,Farrul's Fur,clean,39.0,100,94
-unique,Farrul's Fur,clean 6-link,432.0,40,39
-unique,Farrul's Fur,corrupted,40.0,72,70
-unique,Farrul's Fur,corrupted 6-link,360.0,33,32
-unique,Replica Farrul's Fur,clean,144.0,100,97
-unique,Replica Farrul's Fur,clean 6-link,504.0,35,35
-unique,Replica Farrul's Fur,corrupted,144.0,55,50
-unique,Replica Farrul's Fur,corrupted 6-link,576.0,24,24
-unique,Voll's Protector,clean,1.0,42,42
-unique,Voll's Protector,clean 6-link,30.0,9,9
-unique,Voll's Protector,corrupted,10.0,36,35
-unique,Voll's Protector,corrupted 6-link,50.0,9,9
-unique,Icetomb,clean,1.0,96,94
-unique,Icetomb,clean 6-link,20.0,45,45
-unique,Icetomb,corrupted,1.0,68,62
-unique,Icetomb,corrupted 6-link,40.0,13,13
-unique,Ambu's Charge,clean,1.0,98,95
-unique,Ambu's Charge,clean 6-link,20.0,28,27
-unique,Ambu's Charge,corrupted,3.0,81,81
-unique,Ambu's Charge,corrupted 6-link,35.0,19,19
-unique,Replica Ambu's Charge,clean,1.0,27,26
-unique,Replica Ambu's Charge,corrupted,5.0,4,3
-unique,Lightbane Raiment,clean,1.0,92,87
-unique,Lightbane Raiment,clean 6-link,16.0,23,21
-unique,Lightbane Raiment,corrupted,3.0,60,59
-unique,Lightbane Raiment,corrupted 6-link,12.0,9,8
-unique,The Fourth Vow,clean,5.0,99,97
-unique,The Fourth Vow,clean 6-link,360.0,38,37
-unique,The Fourth Vow,corrupted,10.0,99,90
-unique,The Fourth Vow,corrupted 6-link,144.0,81,80
-unique,Kingsguard,clean,1.0,95,93
-unique,Kingsguard,clean 6-link,14.0,24,24
-unique,Kingsguard,corrupted,4.0,99,95
-unique,Kingsguard,corrupted 6-link,20.0,20,19
-unique,Geofri's Sanctuary,clean,1.0,97,95
-unique,Geofri's Sanctuary,clean 6-link,15.0,49,46
-unique,Geofri's Sanctuary,corrupted,8.0,100,98
-unique,Geofri's Sanctuary,corrupted 6-link,20.0,31,31
-unique,Loreweave,clean,5.0,100,89
-unique,Loreweave,clean 6-link,144.0,46,46
-unique,Loreweave,corrupted,5.0,87,79
-unique,Loreweave,corrupted 6-link,144.0,37,37
-unique,Replica Loreweave,clean,10.0,48,45
-unique,Replica Loreweave,clean 6-link,288.0,5,5
-unique,Replica Loreweave,corrupted,25.0,7,7
+unique,Doedre's Skin,corrupted,15.0,39,38
+unique,Doedre's Skin,corrupted 6-link,288.0,3,3
+unique,Fenumus' Shroud,clean,20.0,15,15
+unique,Fenumus' Shroud,clean 6-link,720.0,2,2
+unique,Fenumus' Shroud,corrupted,60.0,4,4
+unique,Fenumus' Shroud,corrupted 6-link,1296.0,1,1
+unique,The Beast Fur Shawl,clean,1.0,94,90
+unique,The Beast Fur Shawl,clean 6-link,20.0,21,21
+unique,The Beast Fur Shawl,corrupted,1.0,100,97
+unique,The Beast Fur Shawl,corrupted 6-link,40.0,18,18
+unique,The Queen's Hunger,clean,5.0,94,87
+unique,The Queen's Hunger,clean 6-link,360.0,3,3
+unique,The Queen's Hunger,corrupted,144.0,7,7
+unique,The Queen's Hunger,corrupted 6-link,144.0,5,5
+unique,Gruthkul's Pelt,clean,10.0,100,92
+unique,Gruthkul's Pelt,clean 6-link,100.0,9,8
+unique,Gruthkul's Pelt,corrupted,14.0,100,98
+unique,Gruthkul's Pelt,corrupted 6-link,60.0,16,16
+unique,Belly of the Beast,clean,1.0,99,98
+unique,Belly of the Beast,clean 6-link,130.0,21,21
+unique,Belly of the Beast,corrupted,7.0,51,50
+unique,Belly of the Beast,corrupted 6-link,144.0,9,9
+unique,Lightning Coil,clean,3.0,99,76
+unique,Lightning Coil,clean 6-link,273.59999999999997,64,62
+unique,Lightning Coil,corrupted,5.0,99,90
+unique,Lightning Coil,corrupted 6-link,144.0,100,97
+unique,Daresso's Defiance,clean,2.0,65,63
+unique,Daresso's Defiance,clean 6-link,120.0,14,14
+unique,Daresso's Defiance,corrupted,10.0,50,48
+unique,Daresso's Defiance,corrupted 6-link,144.0,16,16
+unique,Cherrubim's Maleficence,clean,1.0,96,87
+unique,Cherrubim's Maleficence,clean 6-link,25.0,27,27
+unique,Cherrubim's Maleficence,corrupted,2.0,98,95
+unique,Cherrubim's Maleficence,corrupted 6-link,30.0,24,24
+unique,Farrul's Fur,clean,30.0,100,90
+unique,Farrul's Fur,clean 6-link,432.0,31,31
+unique,Farrul's Fur,corrupted,45.0,60,60
+unique,Farrul's Fur,corrupted 6-link,288.0,34,34
+unique,Replica Farrul's Fur,clean,144.0,62,60
+unique,Replica Farrul's Fur,clean 6-link,576.0,26,26
+unique,Replica Farrul's Fur,corrupted,100.0,51,48
+unique,Replica Farrul's Fur,corrupted 6-link,576.0,22,21
+unique,Voll's Protector,clean,1.0,23,22
+unique,Voll's Protector,clean 6-link,20.0,4,4
+unique,Voll's Protector,corrupted,10.0,26,25
+unique,Voll's Protector,corrupted 6-link,432.0,6,6
+unique,Icetomb,clean,1.0,92,89
+unique,Icetomb,clean 6-link,20.0,34,33
+unique,Icetomb,corrupted,1.0,60,60
+unique,Icetomb,corrupted 6-link,15.0,16,16
+unique,Ambu's Charge,clean,2.0,79,76
+unique,Ambu's Charge,clean 6-link,25.0,24,22
+unique,Ambu's Charge,corrupted,10.0,48,47
+unique,Ambu's Charge,corrupted 6-link,35.0,5,4
+unique,Replica Ambu's Charge,clean,5.0,13,13
+unique,Replica Ambu's Charge,clean 6-link,144.0,1,1
+unique,Replica Ambu's Charge,corrupted,70.0,5,5
+unique,Lightbane Raiment,clean,1.0,63,61
+unique,Lightbane Raiment,clean 6-link,10.0,17,16
+unique,Lightbane Raiment,corrupted,8.0,39,39
+unique,Lightbane Raiment,corrupted 6-link,20.0,3,3
+unique,The Fourth Vow,clean,5.0,99,91
+unique,The Fourth Vow,clean 6-link,432.0,26,26
+unique,The Fourth Vow,corrupted,3.0,99,90
+unique,The Fourth Vow,corrupted 6-link,432.0,69,68
+unique,Kingsguard,clean,1.0,88,85
+unique,Kingsguard,clean 6-link,20.0,21,20
+unique,Kingsguard,corrupted,5.0,67,65
+unique,Kingsguard,corrupted 6-link,60.0,11,10
+unique,Geofri's Sanctuary,clean,1.0,94,90
+unique,Geofri's Sanctuary,clean 6-link,20.0,36,31
+unique,Geofri's Sanctuary,corrupted,8.0,78,72
+unique,Geofri's Sanctuary,corrupted 6-link,20.0,20,19
+unique,Loreweave,clean,5.0,100,95
+unique,Loreweave,clean 6-link,216.0,38,37
+unique,Loreweave,corrupted,10.0,60,57
+unique,Loreweave,corrupted 6-link,144.0,23,23
+unique,Replica Loreweave,clean,20.0,51,47
+unique,Replica Loreweave,clean 6-link,216.0,4,4
+unique,Replica Loreweave,corrupted,25.0,9,9
 unique,Replica Loreweave,corrupted 6-link,288.0,1,1
-unique,Sporeguard,clean,3456.0,17,17
-unique,Sporeguard,clean 6-link,4320.0,8,8
-unique,Sporeguard,corrupted,144.0,35,8
-unique,Sporeguard,corrupted 6-link,576.0,9,9
-unique,The Ivory Tower,clean,1.0,99,94
-unique,The Ivory Tower,clean 6-link,216.0,100,99
-unique,The Ivory Tower,corrupted,1.0,100,93
-unique,The Ivory Tower,corrupted 6-link,100.0,100,100
+unique,Sporeguard,clean,3024.0,10,10
+unique,Sporeguard,clean 6-link,7200.0,3,3
+unique,Sporeguard,corrupted,90.0,30,16
+unique,Sporeguard,corrupted 6-link,2160.0,7,7
+unique,The Ivory Tower,clean,3.0,99,84
+unique,The Ivory Tower,clean 6-link,216.0,81,78
+unique,The Ivory Tower,corrupted,5.0,100,89
+unique,The Ivory Tower,corrupted 6-link,15.0,100,100
 unique,Doryani's Prototype,clean,2.0,99,93
 unique,Doryani's Prototype,clean 6-link,360.0,43,39
 unique,Doryani's Prototype,corrupted,12.0,100,97
