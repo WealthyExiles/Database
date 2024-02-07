@@ -384,15 +384,15 @@ essence,Screaming Essence of Wrath,,1.0,4452,36
 essence,Deafening Essence of Wrath,,5.0,5396,22
 essence,Shrieking Essence of Wrath,,2.0,7330,29
 essence,Deafening Essence of Doubt,,2.0,6871,21
-essence,Shrieking Essence of Doubt,,1.0,7411,30
-essence,Screaming Essence of Doubt,,1.0,4314,30
-essence,Deafening Essence of Anguish,,0.043478260869565216,5103,31
-essence,Shrieking Essence of Anguish,,0.8888888888888888,5409,31
-essence,Screaming Essence of Anguish,,1.0,3848,28
-essence,Deafening Essence of Loathing,,13.875,12700,14
-essence,Shrieking Essence of Loathing,,6.0,6763,20
-essence,Screaming Essence of Loathing,,1.0,3195,38
-essence,Deafening Essence of Spite,,7.0,7074,23
+essence,Shrieking Essence of Doubt,,1.0,4475,22
+essence,Screaming Essence of Doubt,,1.0,3529,28
+essence,Deafening Essence of Anguish,,2.0,5559,31
+essence,Shrieking Essence of Anguish,,0.8888888888888888,4211,31
+essence,Screaming Essence of Anguish,,1.0,3648,29
+essence,Deafening Essence of Loathing,,18.5,8417,20
+essence,Shrieking Essence of Loathing,,3.0,5185,23
+essence,Screaming Essence of Loathing,,1.0,2485,34
+essence,Deafening Essence of Spite,,7.0,4497,20
 essence,Shrieking Essence of Spite,,2.0,7894,30
 essence,Screaming Essence of Spite,,1.0,1733,34
 essence,Deafening Essence of Zeal,,0.07692307692307693,7086,19
@@ -834,6 +834,7 @@ card,Unrequited Love,,13542.0,27,9
 card,Volatile Power,,1.0,971,19
 card,Vanity,,1.0,473,26
 card,Wealth And Power,,632.7,97,12
+card,Winter's Embrace,,49.0,306,21
 map,Bone Crypt Map,T1,1.0,609,18
 map,Dunes Map,T2,4.0,296,33
 map,Overgrown Shrine Map,T3,1.0,585,30
@@ -3945,9 +3946,8 @@ gem,Detonate Mines,clean 1/20,30.0,11,11
 gem,Awakened Minion Damage Support,clean 1/0,20.0,100,71
 gem,Awakened Minion Damage Support,clean 2/0,50.0,2,2
 gem,Awakened Minion Damage Support,clean 3/0,30.0,1,1
-gem,Awakened Minion Damage Support,clean 5/0,95.0,15,14
-gem,Awakened Minion Damage Support,corrupted 3/0,120.0,1,1
-gem,Awakened Minion Damage Support,corrupted 4/0,95.0,5,5
+gem,Awakened Minion Damage Support,clean 5/0,98.0,19,17
+gem,Awakened Minion Damage Support,corrupted 4/0,100.0,4,4
 gem,Awakened Minion Damage Support,corrupted 5/0,50.0,77,67
 gem,Awakened Minion Damage Support,corrupted 6/0,1554.0,7,7
 gem,Awakened Minion Damage Support,clean 1/20,210.89999999999998,5,4
@@ -4520,7 +4520,7 @@ blueprint,Blueprint: Prohibited Library,3 wings,6.0,59,52
 incubator,Abyssal Incubator,ilvl 83,1.0,54,9
 incubator,Blighted Incubator,ilvl 83,4.0,128,8
 incubator,Cartographer's Incubator,ilvl 83,1.0,45,7
-incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,15,6
+incubator,Celestial Armoursmith's Incubator,ilvl 83,1.0,19,6
 incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,39,9
 incubator,Celestial Jeweller's Incubator,ilvl 83,1.0,41,6
 incubator,Diviner's Incubator,ilvl 83,5.0,460,56
@@ -4544,7 +4544,7 @@ vial,Vial of Summoning,,30.0,22,11
 vial,Vial of the Ritual,,20.0,5,5
 vial,Vial of Transcendence,,30.0,35,19
 vial,Vial of Sacrifice,,111.0,1,1
-logbook,Bruids of the Broken Circle Logbook,ilvl 83+,85.0,73,46
+logbook,Bruids of the Broken Circle Logbook,ilvl 83+,85.0,70,35
 logbook,Black Scythe Mercenaries Logbook,ilvl 83+,87.0,57,34
 logbook,Order of the Chalice Logbook,ilvl 83+,79.0,26,20
 logbook,Knights of the Sun Logbook,ilvl 83+,90.0,20,11
@@ -4555,7 +4555,7 @@ beast,Farric Frost Hellion Alpha,,50.0,8,6
 beast,Farric Lynx Alpha,,5.0,44,15
 beast,Farric Wolf Alpha,,10.0,15,12
 beast,Fenumal Plagued Arachnid,,20.0,41,17
-beast,Craicic Spider Crab,,75.0,32,9
+beast,Craicic Spider Crab,,79.0,37,10
 beast,Farric Tiger Alpha,,100.0,12,5
 beast,Fenumal Hybrid Arachnid,,80.0,20,9
 beast,Saqawine Rhex,,70.0,45,13
@@ -4568,15 +4568,15 @@ beast,Wild Brambleback,,30.0,100,2
 beast,Wild Bristle Matron,,105.0,100,2
 beast,Wild Hellion Alpha,,666.0,100,8
 beast,Craiceann First of the Deep,,40.0,4,3
-beast,Farrul First of the Plains,,69.0,6,3
+beast,Farrul First of the Plains,,70.0,1,1
 beast,Fenumus First of the Night,,50.0,7,4
 beast,Saqawal First of the Sky,,40.0,4,3
 map,Enslaver's Map,T16,19.0,100,33
-map,Eradicator's Map,T16,19.0,100,29
-map,Constrictor's Map,T16,19.0,100,29
+map,Eradicator's Map,T16,15.0,100,32
+map,Constrictor's Map,T16,15.0,100,32
 map,Purifier's Map,T16,19.0,100,33
 map,Baran's Citadel,T16,40.0,96,46
-map,Veritania's Citadel,T16,40.0,100,49
+map,Veritania's Citadel,T16,44.0,96,38
 map,Al-Hezmin's Citadel,T16,40.0,96,43
 map,Drox's Citadel,T16,40.0,96,42
 unique,Bramblejack,clean,1.0,84,79
@@ -5490,71 +5490,71 @@ unique,Ephemeral Edge,clean,2.0,62,60
 unique,Ephemeral Edge,corrupted,5.0,98,91
 unique,Replica Lioneye's Paws,clean,8.0,10,10
 unique,Replica Lioneye's Paws,corrupted,20.0,4,4
-unique,Thrillsteel,clean,1.0,97,88
-unique,Thrillsteel,corrupted,1.0,99,93
-unique,The Ephemeral Bond,clean,1.0,92,79
-unique,The Ephemeral Bond,corrupted,1.0,100,96
-unique,Replica Emberwake,clean,10.0,99,93
-unique,Replica Emberwake,corrupted,50.0,16,16
-unique,Umbilicus Immortalis,clean,1.0,86,83
-unique,Umbilicus Immortalis,corrupted,1.0,79,75
-unique,Jaws of Agony,clean,1.0,54,51
-unique,Jaws of Agony,corrupted,3.0,71,68
-unique,The Unshattered Will,clean,10.0,2,2
-unique,Voidwalker,clean,1.0,98,82
-unique,Voidwalker,corrupted,1.0,91,83
-unique,Pure Talent,clean,3.0,100,86
-unique,Pure Talent,corrupted,9.0,98,88
-unique,Brinerot Mark,clean,4.0,7,6
-unique,Brinerot Mark,corrupted,4.0,11,11
-unique,Uzaza's Mountain,clean,333.0,39,35
-unique,Ahn's Heritage,clean,1.0,91,88
-unique,Ahn's Heritage,corrupted,5.0,72,71
-unique,Quickening Covenant,corrupted,20.0,56,54
-unique,Willclash,clean,4.0,100,90
-unique,Willclash,corrupted,1.0,100,95
-unique,Witchbane,clean,1.0,99,79
-unique,Witchbane,corrupted,4.0,99,95
-unique,The First Crest,clean,2.0,58,26
-unique,Beacon of Madness,clean,2.0,35,35
-unique,Beacon of Madness,corrupted,5.0,47,47
-unique,The Bringer of Rain,clean,1.0,47,46
-unique,The Bringer of Rain,corrupted,1.0,34,34
-unique,Soul Ascension,clean,30.0,10,9
-unique,Soul Ascension,corrupted,50.0,8,7
-unique,Replica Earendel's Embrace,clean,1.0,18,18
-unique,Replica Earendel's Embrace,corrupted,111.0,3,2
+unique,Thrillsteel,clean,1.0,72,67
+unique,Thrillsteel,corrupted,3.0,84,80
+unique,The Ephemeral Bond,clean,1.0,98,85
+unique,The Ephemeral Bond,corrupted,1.0,100,97
+unique,Replica Emberwake,clean,20.0,77,68
+unique,Replica Emberwake,corrupted,20.0,14,14
+unique,Umbilicus Immortalis,clean,1.0,80,77
+unique,Umbilicus Immortalis,corrupted,15.0,50,47
+unique,Jaws of Agony,clean,1.0,53,50
+unique,Jaws of Agony,corrupted,7.0,49,46
+unique,The Unshattered Will,clean,50.0,3,3
+unique,Voidwalker,clean,4.0,59,55
+unique,Voidwalker,corrupted,5.0,63,57
+unique,Pure Talent,clean,3.0,100,75
+unique,Pure Talent,corrupted,9.0,100,87
+unique,Brinerot Mark,clean,9.0,10,9
+unique,Brinerot Mark,corrupted,8.0,8,8
+unique,Uzaza's Mountain,clean,333.0,19,19
+unique,Ahn's Heritage,clean,1.0,52,52
+unique,Ahn's Heritage,corrupted,1.0,43,43
+unique,Quickening Covenant,corrupted,17.0,31,31
+unique,Willclash,clean,1.0,100,92
+unique,Willclash,corrupted,3.0,99,84
+unique,Witchbane,clean,3.0,89,73
+unique,Witchbane,corrupted,9.0,100,93
+unique,The First Crest,clean,5.0,36,24
+unique,Beacon of Madness,clean,2.0,25,24
+unique,Beacon of Madness,corrupted,5.0,27,26
+unique,The Bringer of Rain,clean,1.0,21,21
+unique,The Bringer of Rain,corrupted,4.0,38,38
+unique,Soul Ascension,clean,30.0,4,4
+unique,Soul Ascension,corrupted,12.0,6,6
+unique,Replica Earendel's Embrace,clean,5.0,19,18
+unique,Replica Earendel's Embrace,corrupted,111.0,2,1
 unique,Dyadian Dawn,clean,1.0,100,95
-unique,Dyadian Dawn,corrupted,2.0,99,91
-unique,Nebuloch,clean,2.0,67,65
-unique,Nebuloch,corrupted,5.0,42,40
-unique,Replica Heartbreaker,clean,10.0,20,20
-unique,Replica Heartbreaker,corrupted,555.0,1,1
-unique,The Primordial Chain,clean,1.0,91,82
-unique,The Primordial Chain,corrupted,1.0,99,94
-unique,Architect's Hand,clean,45.0,35,35
-unique,Architect's Hand,corrupted,9.0,19,19
-unique,Rational Doctrine,clean,5994.0,25,25
-unique,Devoto's Devotion,clean,1.0,95,87
-unique,Devoto's Devotion,corrupted,4.0,100,98
-unique,Putembo's Meadow,clean,999.0,29,25
-unique,Inertia,corrupted,1.0,98,84
-unique,Replica Paradoxica,clean,10.0,100,89
-unique,Replica Paradoxica,corrupted,555.0,4,4
-unique,Call of the Void,clean,60.0,81,69
-unique,Call of the Void,corrupted,59.0,62,58
-unique,Badge of the Brotherhood,clean,111.0,100,89
-unique,Badge of the Brotherhood,corrupted,30.0,100,55
-unique,Intuitive Leap,clean,10.0,100,86
-unique,Intuitive Leap,corrupted,12.0,97,84
-unique,The Blue Dream,clean,3.0,76,52
-unique,The Blue Dream,corrupted,5.0,32,26
-unique,Ryslatha's Coil,clean,9.0,100,91
-unique,Ryslatha's Coil,corrupted,8.0,99,93
-unique,The Goddess Bound,clean,1.0,76,69
-unique,The Goddess Bound,corrupted,6.0,35,33
-unique,Polaric Devastation,clean,40.0,100,87
-unique,Polaric Devastation,corrupted,40.0,26,15
+unique,Dyadian Dawn,corrupted,8.0,99,90
+unique,Nebuloch,clean,2.0,53,47
+unique,Nebuloch,corrupted,40.0,16,16
+unique,Replica Heartbreaker,clean,5.0,22,22
+unique,Replica Heartbreaker,corrupted,70.0,1,1
+unique,The Primordial Chain,clean,1.0,98,89
+unique,The Primordial Chain,corrupted,3.0,99,94
+unique,Architect's Hand,clean,40.0,17,17
+unique,Architect's Hand,corrupted,80.0,13,13
+unique,Rational Doctrine,clean,6105.0,17,17
+unique,Devoto's Devotion,clean,1.0,97,89
+unique,Devoto's Devotion,corrupted,3.0,100,94
+unique,Putembo's Meadow,clean,999.0,14,14
+unique,Inertia,corrupted,1.0,89,72
+unique,Replica Paradoxica,clean,5.0,100,86
+unique,Replica Paradoxica,corrupted,3330.0,1,1
+unique,Call of the Void,clean,50.0,51,42
+unique,Call of the Void,corrupted,50.0,34,32
+unique,Badge of the Brotherhood,clean,144.3,100,81
+unique,Badge of the Brotherhood,corrupted,30.0,100,87
+unique,Intuitive Leap,clean,15.0,100,87
+unique,Intuitive Leap,corrupted,12.0,100,80
+unique,The Blue Dream,clean,4.0,41,27
+unique,The Blue Dream,corrupted,10.0,22,15
+unique,Ryslatha's Coil,clean,6.0,100,98
+unique,Ryslatha's Coil,corrupted,9.0,100,81
+unique,The Goddess Bound,clean,1.0,43,38
+unique,The Goddess Bound,corrupted,6.0,27,27
+unique,Polaric Devastation,clean,40.0,100,79
+unique,Polaric Devastation,corrupted,40.0,23,13
 unique,Dreadarc,clean,1.0,55,55
 unique,Dreadarc,corrupted,1.0,26,26
 unique,Alpha's Howl,clean,3.0,99,96
