@@ -495,11 +495,6 @@ currency,Exceptional Eldritch Ichor,,155.39999999999998,100,4
 currency,Exalted Shard,,9.0,1,8
 currency,Exalted Shard,,30.0,9,3
 currency,Exalted Shard,,30.0,18,2
-currency,Annulment Shard,,4.0,1,9
-currency,Annulment Shard,,5.0,9,4
-currency,Annulment Shard,,25.0,18,2
-currency,Annulment Shard,,111.0,30,1
-currency,Annulment Shard,,111.0,50,1
 currency,Ancient Shard,,1.0,1,15
 currency,Ancient Shard,,1.0,9,10
 currency,Ancient Shard,,1.0,18,3
@@ -593,13 +588,13 @@ fragment,Divine Vessel,,0.5,30,27
 fragment,Divine Vessel,,0.5,50,26
 fragment,Divine Vessel,,0.5,100,18
 fragment,Divine Vessel,,0.5,500,4
-fragment,Sacrifice at Dusk,,0.5045454545454545,1,25
-fragment,Sacrifice at Dusk,,0.5045454545454545,9,24
-fragment,Sacrifice at Dusk,,0.5045454545454545,18,24
-fragment,Sacrifice at Dusk,,0.5045454545454545,30,24
-fragment,Sacrifice at Dusk,,0.5045454545454545,50,22
-fragment,Sacrifice at Dusk,,0.5045454545454545,100,19
-fragment,Sacrifice at Dusk,,0.5045454545454545,500,9
+fragment,Sacrifice at Dusk,,0.5045454545454545,1,24
+fragment,Sacrifice at Dusk,,0.5045454545454545,9,23
+fragment,Sacrifice at Dusk,,0.5045454545454545,18,23
+fragment,Sacrifice at Dusk,,0.5045454545454545,30,23
+fragment,Sacrifice at Dusk,,0.5045454545454545,50,21
+fragment,Sacrifice at Dusk,,0.5045454545454545,100,18
+fragment,Sacrifice at Dusk,,0.555,500,8
 fragment,Sacrifice at Midnight,,1.0,1,45
 fragment,Sacrifice at Midnight,,1.0,9,34
 fragment,Sacrifice at Midnight,,1.0,18,27
@@ -690,12 +685,12 @@ fragment,Fragment of Emptiness,,131.8125,18,4
 fragment,Fragment of Emptiness,,131.8125,30,4
 fragment,Fragment of Emptiness,,155.39999999999998,50,2
 fragment,Fragment of Emptiness,,155.39999999999998,100,1
-fragment,Fragment of Terror,,111.0,1,22
-fragment,Fragment of Terror,,133.2,9,7
-fragment,Fragment of Terror,,153.1034482758621,18,6
-fragment,Fragment of Terror,,153.1034482758621,30,3
-fragment,Fragment of Terror,,153.1034482758621,50,2
-fragment,Fragment of Terror,,166.5,100,1
+fragment,Fragment of Terror,,111.0,1,26
+fragment,Fragment of Terror,,122.10000000000001,9,13
+fragment,Fragment of Terror,,144.3,18,10
+fragment,Fragment of Terror,,144.3,30,5
+fragment,Fragment of Terror,,153.1034482758621,50,3
+fragment,Fragment of Terror,,166.5,100,2
 fragment,Fragment of Shape,,199.8,1,15
 fragment,Fragment of Shape,,277.5,9,5
 fragment,Fragment of Shape,,277.5,18,3
@@ -873,8 +868,8 @@ invitation,Maven's Invitation: The Feared,,12.333333333333332,9,12
 invitation,Maven's Invitation: The Feared,,12.333333333333332,18,8
 invitation,Maven's Invitation: The Feared,,13.875,30,3
 invitation,Maven's Invitation: The Feared,,37.0,50,2
-invitation,Maven's Invitation: The Elderslayers,,166.5,1,19
-invitation,Maven's Invitation: The Elderslayers,,199.8,9,6
+invitation,Maven's Invitation: The Elderslayers,,155.39999999999998,1,21
+invitation,Maven's Invitation: The Elderslayers,,222.0,9,5
 invitation,Maven's Invitation: The Elderslayers,,222.0,18,4
 invitation,Maven's Invitation: The Elderslayers,,222.0,30,4
 invitation,Maven's Invitation: The Elderslayers,,333.0,50,1
@@ -915,7 +910,13 @@ fragment,Decaying Reliquary Key,,1110.0,1,1
 fragment,Archive Reliquary Key,,444.0,1,6
 memory-line,Alva's Memory of Cascading Fortunes,,99.9,1,8
 memory-line,Alva's Memory of Reverse Incursion,,88.80000000000001,1,11
-memory-line,Einhar's Memory of Harvest Beasts,,1665.0,1,11
+memory-line,Einhar's Memory of Harvest Beasts,,1776.0,1,11
+memory-line,Einhar's Memory of Harvest Beasts,,2208.8999999999996,9,2
+memory-line,Einhar's Memory of Harvest Beasts,,2208.8999999999996,18,2
+memory-line,Einhar's Memory of Harvest Beasts,,2208.8999999999996,30,1
+memory-line,Einhar's Memory of Harvest Beasts,,2208.8999999999996,50,1
+memory-line,Einhar's Memory of Harvest Beasts,,2208.8999999999996,100,1
+memory-line,Einhar's Memory of Harvest Beasts,,2208.8999999999996,500,1
 memory-line,Einhar's Memory of Crystal Prisons,,2.0,1,19
 memory-line,Einhar's Memory of the Sacred Grove,,333.0,1,27
 memory-line,Kirac's Memory of the Pantheon,,20.0,1,19
@@ -6568,128 +6569,127 @@ gem,Orb of Storms,clean 20/0,5.0,1,5
 gem,Orb of Storms,corrupted 20/0,33.0,1,2
 gem,Orb of Storms,corrupted 21/0,4.0,1,7
 gem,Orb of Storms,clean 1/20,15.0,1,8
-gem,Orb of Storms,corrupted 20/20,28.0,1,1
-gem,Orb of Storms,corrupted 21/20,60.0,1,3
-gem,Penance Brand,clean 20/0,10.0,1,59
-gem,Penance Brand,corrupted 20/0,5.0,1,82
-gem,Penance Brand,corrupted 21/0,10.0,1,63
-gem,Penance Brand,clean 1/20,15.0,1,76
-gem,Penance Brand,clean 20/20,50.0,1,55
-gem,Penance Brand,corrupted 20/20,10.0,1,53
-gem,Penance Brand,corrupted 21/20,410.70000000000005,1,26
-gem,Perforate,clean 20/0,18.0,1,13
-gem,Perforate,corrupted 20/0,20.0,1,7
-gem,Perforate,corrupted 21/0,3.0,1,8
-gem,Perforate,clean 1/20,10.0,1,12
-gem,Perforate,clean 20/20,19.0,1,7
-gem,Perforate,corrupted 20/20,50.0,1,2
-gem,Perforate,corrupted 21/20,20.0,1,4
-gem,Pestilent Strike,clean 20/0,8.0,1,6
-gem,Pestilent Strike,corrupted 20/0,9.0,1,3
-gem,Pestilent Strike,corrupted 21/0,5.0,1,11
-gem,Pestilent Strike,clean 1/20,3.0,1,6
-gem,Pestilent Strike,clean 20/20,30.0,1,2
+gem,Orb of Storms,corrupted 21/20,35.0,1,4
+gem,Penance Brand,clean 20/0,10.0,1,56
+gem,Penance Brand,corrupted 20/0,2.0,1,80
+gem,Penance Brand,corrupted 21/0,10.0,1,42
+gem,Penance Brand,clean 1/20,20.0,1,45
+gem,Penance Brand,clean 20/20,60.0,1,29
+gem,Penance Brand,corrupted 20/20,10.0,1,35
+gem,Penance Brand,corrupted 21/20,444.0,1,19
+gem,Perforate,clean 20/0,5.0,1,10
+gem,Perforate,corrupted 20/0,10.0,1,5
+gem,Perforate,corrupted 21/0,20.0,1,7
+gem,Perforate,clean 1/20,3.0,1,13
+gem,Perforate,clean 20/20,15.0,1,4
+gem,Perforate,corrupted 20/20,10.0,1,2
+gem,Pestilent Strike,clean 20/0,8.0,1,8
+gem,Pestilent Strike,corrupted 20/0,10.0,1,2
+gem,Pestilent Strike,corrupted 21/0,10.0,1,13
+gem,Pestilent Strike,clean 1/20,10.0,1,12
+gem,Pestilent Strike,clean 20/20,30.0,1,5
 gem,Pestilent Strike,corrupted 20/20,44.0,1,1
-gem,Pestilent Strike,corrupted 21/20,15.0,1,3
-gem,Petrified Blood,clean 20/0,20.0,1,41
-gem,Petrified Blood,corrupted 20/0,3.0,1,44
-gem,Petrified Blood,corrupted 21/0,20.0,1,46
-gem,Petrified Blood,clean 1/20,60.0,1,34
-gem,Petrified Blood,clean 20/20,100.0,1,28
-gem,Petrified Blood,corrupted 20/20,30.0,1,27
-gem,Petrified Blood,corrupted 21/20,932.4000000000001,1,30
-gem,Phase Run,clean 20/0,15.0,1,15
-gem,Phase Run,corrupted 20/0,20.0,1,20
-gem,Phase Run,corrupted 21/0,8.0,1,20
-gem,Phase Run,clean 1/20,29.0,1,20
-gem,Phase Run,clean 20/20,100.0,1,4
-gem,Phase Run,corrupted 20/20,111.0,1,10
-gem,Phase Run,corrupted 21/20,432.9,1,4
-gem,Physical to Lightning Support,clean 20/0,9.0,1,15
-gem,Physical to Lightning Support,corrupted 20/0,28.0,1,26
-gem,Physical to Lightning Support,corrupted 21/0,12.0,1,10
-gem,Physical to Lightning Support,clean 1/20,10.0,1,9
-gem,Physical to Lightning Support,clean 20/20,40.0,1,4
-gem,Physical to Lightning Support,corrupted 20/20,29.0,1,9
-gem,Physical to Lightning Support,corrupted 21/20,321.9,1,3
-gem,Pierce Support,clean 20/0,5.0,1,6
-gem,Pierce Support,corrupted 20/0,40.0,1,17
-gem,Pierce Support,corrupted 21/0,10.0,1,11
-gem,Pierce Support,clean 1/20,10.0,1,9
-gem,Pierce Support,clean 20/20,55.0,1,2
-gem,Pierce Support,corrupted 20/20,40.0,1,8
-gem,Pierce Support,corrupted 21/20,333.0,1,5
-gem,Pinpoint Support,clean 20/0,5.0,1,7
-gem,Pinpoint Support,corrupted 20/0,50.0,1,2
-gem,Pinpoint Support,corrupted 21/0,1.0,1,14
-gem,Pinpoint Support,clean 1/20,6.0,1,5
-gem,Pinpoint Support,clean 20/20,25.0,1,3
-gem,Pinpoint Support,corrupted 21/20,85.0,1,10
-gem,Plague Bearer,clean 20/0,9.0,1,16
+gem,Pestilent Strike,corrupted 21/20,110.0,1,2
+gem,Petrified Blood,clean 20/0,20.0,1,25
+gem,Petrified Blood,corrupted 20/0,5.0,1,35
+gem,Petrified Blood,corrupted 21/0,20.0,1,38
+gem,Petrified Blood,clean 1/20,22.0,1,21
+gem,Petrified Blood,clean 20/20,100.0,1,16
+gem,Petrified Blood,corrupted 20/20,30.0,1,20
+gem,Petrified Blood,corrupted 21/20,1032.3000000000002,1,18
+gem,Phase Run,clean 20/0,20.0,1,11
+gem,Phase Run,corrupted 20/0,20.0,1,14
+gem,Phase Run,corrupted 21/0,9.0,1,18
+gem,Phase Run,clean 1/20,20.0,1,18
+gem,Phase Run,clean 20/20,111.0,1,4
+gem,Phase Run,corrupted 20/20,100.0,1,8
+gem,Phase Run,corrupted 21/20,555.0,1,1
+gem,Physical to Lightning Support,clean 20/0,10.0,1,9
+gem,Physical to Lightning Support,corrupted 20/0,20.0,1,20
+gem,Physical to Lightning Support,corrupted 21/0,5.0,1,11
+gem,Physical to Lightning Support,clean 1/20,14.0,1,6
+gem,Physical to Lightning Support,clean 20/20,59.0,1,3
+gem,Physical to Lightning Support,corrupted 20/20,30.0,1,8
+gem,Physical to Lightning Support,corrupted 21/20,333.0,1,5
+gem,Pierce Support,clean 20/0,20.0,1,3
+gem,Pierce Support,corrupted 20/0,26.0,1,7
+gem,Pierce Support,corrupted 21/0,10.0,1,5
+gem,Pierce Support,clean 1/20,10.0,1,6
+gem,Pierce Support,clean 20/20,60.0,1,2
+gem,Pierce Support,corrupted 20/20,40.0,1,4
+gem,Pierce Support,corrupted 21/20,666.0,1,2
+gem,Pinpoint Support,clean 20/0,15.0,1,4
+gem,Pinpoint Support,corrupted 20/0,20.0,1,3
+gem,Pinpoint Support,corrupted 21/0,20.0,1,11
+gem,Pinpoint Support,clean 1/20,5.0,1,9
+gem,Pinpoint Support,clean 20/20,15.0,1,3
+gem,Pinpoint Support,corrupted 20/20,20.0,1,1
+gem,Pinpoint Support,corrupted 21/20,70.0,1,9
+gem,Plague Bearer,clean 20/0,15.0,1,6
 gem,Plague Bearer,corrupted 20/0,11.0,1,12
-gem,Plague Bearer,corrupted 21/0,8.0,1,26
-gem,Plague Bearer,clean 1/20,5.0,1,14
-gem,Plague Bearer,clean 20/20,50.0,1,6
-gem,Plague Bearer,corrupted 20/20,59.0,1,3
-gem,Plague Bearer,corrupted 21/20,199.8,1,8
-gem,Poacher's Mark,clean 20/0,6.0,1,10
-gem,Poacher's Mark,corrupted 20/0,10.0,1,5
-gem,Poacher's Mark,corrupted 21/0,4.0,1,28
-gem,Poacher's Mark,clean 1/20,8.0,1,14
-gem,Poacher's Mark,clean 20/20,38.0,1,7
-gem,Poacher's Mark,corrupted 20/20,34.0,1,1
-gem,Poacher's Mark,corrupted 21/20,80.0,1,10
-gem,Point Blank Support,clean 20/0,5.0,1,5
-gem,Point Blank Support,corrupted 21/0,3.0,1,8
-gem,Point Blank Support,clean 1/20,5.0,1,4
-gem,Point Blank Support,corrupted 21/20,80.0,1,4
-gem,Power Charge On Critical Support,clean 20/0,18.0,1,42
-gem,Power Charge On Critical Support,corrupted 20/0,10.0,1,66
-gem,Power Charge On Critical Support,corrupted 21/0,40.0,1,13
-gem,Power Charge On Critical Support,clean 1/20,40.0,1,23
-gem,Power Charge On Critical Support,clean 20/20,43.0,1,18
-gem,Power Charge On Critical Support,corrupted 20/20,39.0,1,30
+gem,Plague Bearer,corrupted 21/0,6.0,1,19
+gem,Plague Bearer,clean 1/20,50.0,1,6
+gem,Plague Bearer,clean 20/20,50.0,1,2
+gem,Plague Bearer,corrupted 20/20,40.0,1,4
+gem,Plague Bearer,corrupted 21/20,199.8,1,6
+gem,Poacher's Mark,clean 20/0,9.0,1,10
+gem,Poacher's Mark,corrupted 20/0,7.0,1,6
+gem,Poacher's Mark,corrupted 21/0,40.0,1,18
+gem,Poacher's Mark,clean 1/20,4.0,1,10
+gem,Poacher's Mark,clean 20/20,30.0,1,5
+gem,Poacher's Mark,corrupted 20/20,34.0,1,2
+gem,Poacher's Mark,corrupted 21/20,50.0,1,14
+gem,Point Blank Support,clean 20/0,10.0,1,1
+gem,Point Blank Support,corrupted 21/0,28.0,1,6
+gem,Point Blank Support,clean 1/20,3.0,1,3
+gem,Point Blank Support,corrupted 21/20,60.0,1,4
+gem,Power Charge On Critical Support,clean 20/0,15.0,1,18
+gem,Power Charge On Critical Support,corrupted 20/0,20.0,1,46
+gem,Power Charge On Critical Support,corrupted 21/0,50.0,1,15
+gem,Power Charge On Critical Support,clean 1/20,20.0,1,14
+gem,Power Charge On Critical Support,clean 20/20,44.0,1,8
+gem,Power Charge On Critical Support,corrupted 20/20,40.0,1,25
 gem,Power Charge On Critical Support,corrupted 21/20,333.0,1,6
-gem,Power Siphon,clean 20/0,4.0,1,17
-gem,Power Siphon,corrupted 20/0,28.0,1,11
-gem,Power Siphon,corrupted 21/0,3.0,1,21
-gem,Power Siphon,clean 1/20,6.0,1,21
-gem,Power Siphon,clean 20/20,37.0,1,6
-gem,Power Siphon,corrupted 20/20,50.0,1,3
-gem,Power Siphon,corrupted 21/20,25.0,1,14
-gem,Precision,clean 20/0,9.0,1,42
-gem,Precision,corrupted 20/0,3.0,1,42
-gem,Precision,corrupted 21/0,99.9,1,43
-gem,Precision,clean 1/20,35.0,1,15
-gem,Precision,clean 20/20,111.0,1,9
-gem,Precision,corrupted 20/20,30.0,1,16
-gem,Precision,corrupted 21/20,888.0,1,13
-gem,Predator Support,clean 20/0,10.0,1,9
-gem,Predator Support,corrupted 20/0,30.0,1,6
-gem,Predator Support,corrupted 21/0,15.0,1,13
-gem,Predator Support,clean 1/20,10.0,1,9
-gem,Predator Support,clean 20/20,40.0,1,5
-gem,Predator Support,corrupted 20/20,35.0,1,2
-gem,Predator Support,corrupted 21/20,166.5,1,4
-gem,Pride,clean 20/0,10.0,1,18
-gem,Pride,corrupted 20/0,5.0,1,20
-gem,Pride,corrupted 21/0,50.0,1,28
-gem,Pride,clean 1/20,45.0,1,7
-gem,Pride,clean 20/20,45.0,1,5
-gem,Pride,corrupted 20/20,20.0,1,8
-gem,Pride,corrupted 21/20,777.0,1,8
-gem,Pulverise Support,clean 20/0,5.0,1,19
-gem,Pulverise Support,corrupted 20/0,9.0,1,26
-gem,Pulverise Support,corrupted 21/0,9.0,1,13
-gem,Pulverise Support,clean 1/20,20.0,1,15
-gem,Pulverise Support,clean 20/20,45.0,1,11
-gem,Pulverise Support,corrupted 20/20,20.0,1,13
-gem,Pulverise Support,corrupted 21/20,444.0,1,7
-gem,Puncture,clean 20/0,5.0,1,5
-gem,Puncture,corrupted 20/0,14.0,1,3
-gem,Puncture,corrupted 21/0,5.0,1,12
-gem,Puncture,clean 1/20,5.0,1,9
-gem,Puncture,clean 20/20,99.0,1,2
+gem,Power Siphon,clean 20/0,15.0,1,9
+gem,Power Siphon,corrupted 20/0,20.0,1,12
+gem,Power Siphon,corrupted 21/0,5.0,1,10
+gem,Power Siphon,clean 1/20,6.0,1,10
+gem,Power Siphon,clean 20/20,39.0,1,5
+gem,Power Siphon,corrupted 20/20,30.0,1,4
+gem,Power Siphon,corrupted 21/20,100.0,1,6
+gem,Precision,clean 20/0,2.0,1,17
+gem,Precision,corrupted 20/0,7.0,1,38
+gem,Precision,corrupted 21/0,111.0,1,20
+gem,Precision,clean 1/20,35.0,1,10
+gem,Precision,clean 20/20,140.0,1,3
+gem,Precision,corrupted 20/20,20.0,1,12
+gem,Precision,corrupted 21/20,888.0,1,8
+gem,Predator Support,clean 20/0,20.0,1,4
+gem,Predator Support,corrupted 20/0,10.0,1,7
+gem,Predator Support,corrupted 21/0,10.0,1,9
+gem,Predator Support,clean 1/20,20.0,1,6
+gem,Predator Support,clean 20/20,50.0,1,2
+gem,Predator Support,corrupted 20/20,40.0,1,2
+gem,Predator Support,corrupted 21/20,166.5,1,1
+gem,Pride,clean 20/0,10.0,1,9
+gem,Pride,corrupted 20/0,5.0,1,10
+gem,Pride,corrupted 21/0,59.0,1,25
+gem,Pride,clean 1/20,40.0,1,6
+gem,Pride,clean 20/20,111.0,1,1
+gem,Pride,corrupted 20/20,29.0,1,5
+gem,Pride,corrupted 21/20,810.3,1,6
+gem,Pulverise Support,clean 20/0,25.0,1,12
+gem,Pulverise Support,corrupted 20/0,10.0,1,18
+gem,Pulverise Support,corrupted 21/0,50.0,1,10
+gem,Pulverise Support,clean 1/20,5.0,1,9
+gem,Pulverise Support,clean 20/20,45.0,1,7
+gem,Pulverise Support,corrupted 20/20,10.0,1,9
+gem,Pulverise Support,corrupted 21/20,388.5,1,8
+gem,Puncture,clean 20/0,5.0,1,7
+gem,Puncture,corrupted 20/0,20.0,1,5
+gem,Puncture,corrupted 21/0,4.0,1,15
+gem,Puncture,clean 1/20,5.0,1,8
+gem,Puncture,clean 20/20,45.0,1,2
 gem,Puncture,corrupted 20/20,40.0,1,1
 gem,Puncture,corrupted 21/20,111.0,1,3
 gem,Punishment,clean 20/0,15.0,1,11
@@ -9880,74 +9880,74 @@ unique,Rearguard,corrupted,2.0,1,55
 unique,Replica Advancing Fortress,clean,3.0,1,11
 unique,Replica Advancing Fortress,corrupted,1110.0,1,1
 unique,Unnatural Instinct,clean,55.0,1,56
-unique,Unnatural Instinct,corrupted,45.0,1,71
-unique,Omeyocan,clean,10.0,1,6
-unique,Omeyocan,corrupted,80.0,1,2
-unique,Kaltenhalt,clean,1.0,1,39
-unique,Kaltenhalt,corrupted,2.0,1,47
-unique,Bloodplay,clean,1.0,1,39
-unique,Bloodplay,corrupted,1.0,1,16
-unique,Alberon's Warpath,clean,1.0,1,52
-unique,Alberon's Warpath,corrupted,3.0,1,72
-unique,Gravebind,clean,15.0,1,92
-unique,Gravebind,corrupted,20.0,1,90
-unique,Gluttony,clean,1.0,1,76
-unique,Gluttony,corrupted,1.0,1,67
-unique,Primordial Harmony,clean,18.0,1,65
-unique,Primordial Harmony,corrupted,20.0,1,51
-unique,Hidden Potential,corrupted,3.0,1,39
-unique,The Retch,clean,3.0,1,10
-unique,The Retch,corrupted,20.0,1,2
+unique,Unnatural Instinct,corrupted,40.0,1,85
+unique,Omeyocan,clean,15.0,1,10
+unique,Omeyocan,corrupted,555.0,1,1
+unique,Kaltenhalt,clean,1.0,1,46
+unique,Kaltenhalt,corrupted,8.0,1,44
+unique,Bloodplay,clean,1.0,1,32
+unique,Bloodplay,corrupted,25.0,1,13
+unique,Alberon's Warpath,clean,1.0,1,71
+unique,Alberon's Warpath,corrupted,4.0,1,87
+unique,Gravebind,clean,18.0,1,89
+unique,Gravebind,corrupted,18.0,1,92
+unique,Gluttony,clean,1.0,1,74
+unique,Gluttony,corrupted,3.0,1,63
+unique,Primordial Harmony,clean,19.0,1,79
+unique,Primordial Harmony,corrupted,20.0,1,48
+unique,Hidden Potential,corrupted,3.0,1,25
+unique,The Retch,clean,3.0,1,15
 unique,Fidelitas' Spike,clean,1.0,1,38
-unique,Fidelitas' Spike,corrupted,4.0,1,91
-unique,Perseverance,clean,1.0,1,94
-unique,Perseverance,corrupted,1.0,1,98
-unique,Ventor's Gamble,clean,1.0,1,68
-unique,Ventor's Gamble,corrupted,4.0,1,78
-unique,Scold's Bridle,clean,2.0,1,33
-unique,Scold's Bridle,corrupted,5.0,1,51
-unique,Replica Midnight Bargain,clean,5.0,1,14
-unique,Replica Soul Tether,clean,14.0,1,33
-unique,Replica Soul Tether,corrupted,100.0,1,9
-unique,Steppan Eard,clean,3.0,1,9
-unique,Steppan Eard,corrupted,5.0,1,13
-unique,Atziri's Foible,clean,9.0,1,84
-unique,Atziri's Foible,corrupted,10.0,1,64
-unique,Wondertrap,clean,1.0,1,54
-unique,Wondertrap,corrupted,4.0,1,58
-unique,Replica Hyrri's Truth,clean,15.0,1,23
-unique,Replica Hyrri's Truth,corrupted,111.0,1,4
-unique,Chitus' Apex,clean,5.0,1,84
-unique,Chitus' Apex,corrupted,8.0,1,45
-unique,Karui Ward,clean,1.0,1,88
-unique,Karui Ward,corrupted,1.0,1,95
-unique,Survivor's Guilt,clean,5.0,1,7
-unique,Survivor's Guilt,corrupted,70.0,1,3
-unique,Soul Taker,clean,122.10000000000001,1,78
-unique,Soul Taker,corrupted,80.0,1,27
-unique,Replica Tukohama's Fortress,clean,20.0,1,4
-unique,Saemus' Gift,clean,1.0,1,42
-unique,Saemus' Gift,corrupted,3.0,1,36
-unique,Malachai's Artifice,clean,1.0,1,88
-unique,Malachai's Artifice,corrupted,5.0,1,56
-unique,The Torrent's Reclamation,clean,100.0,1,8
-unique,The Torrent's Reclamation,corrupted,111.0,1,25
-unique,Nadir Mode,clean,1.0,1,18
-unique,Nadir Mode,corrupted,3.0,1,11
-unique,The Fledgling,clean,3.0,1,44
-unique,The Fledgling,corrupted,30.0,1,21
-unique,Corpsewalker,clean,5.0,1,55
-unique,Corpsewalker,corrupted,6.0,1,99
-unique,Kaom's Spirit,clean,3.0,1,94
-unique,Kaom's Spirit,corrupted,4.0,1,87
-unique,Dawnstrider,clean,1.0,1,27
-unique,Dawnstrider,corrupted,10.0,1,30
-unique,Might of the Meek,clean,1.0,1,76
-unique,Might of the Meek,corrupted,5.0,1,84
-unique,Inya's Epiphany,clean,1.0,1,18
-unique,Inya's Epiphany,corrupted,5.0,1,27
-unique,Ondar's Clasp,clean,1.0,1,39
-unique,Ondar's Clasp,corrupted,1.0,1,50
+unique,Fidelitas' Spike,corrupted,5.0,1,75
+unique,Perseverance,clean,1.0,1,92
+unique,Perseverance,corrupted,1.0,1,97
+unique,Ventor's Gamble,clean,1.0,1,59
+unique,Ventor's Gamble,corrupted,3.0,1,85
+unique,Scold's Bridle,clean,2.0,1,39
+unique,Scold's Bridle,corrupted,10.0,1,52
+unique,Replica Midnight Bargain,clean,16.0,1,15
+unique,Replica Midnight Bargain,corrupted,50.0,1,2
+unique,Replica Soul Tether,clean,10.0,1,35
+unique,Replica Soul Tether,corrupted,100.0,1,14
+unique,Steppan Eard,clean,2.0,1,26
+unique,Steppan Eard,corrupted,5.0,1,10
+unique,Atziri's Foible,clean,10.0,1,81
+unique,Atziri's Foible,corrupted,10.0,1,65
+unique,Wondertrap,clean,1.0,1,53
+unique,Wondertrap,corrupted,1.0,1,43
+unique,Replica Hyrri's Truth,clean,10.0,1,29
+unique,Replica Hyrri's Truth,corrupted,100.0,1,5
+unique,Chitus' Apex,clean,5.0,1,83
+unique,Chitus' Apex,corrupted,9.0,1,44
+unique,Karui Ward,clean,1.0,1,92
+unique,Karui Ward,corrupted,2.0,1,97
+unique,Survivor's Guilt,clean,4.0,1,8
+unique,Survivor's Guilt,corrupted,222.0,1,1
+unique,Soul Taker,clean,106.0,1,83
+unique,Soul Taker,corrupted,50.0,1,30
+unique,Replica Tukohama's Fortress,clean,100.0,1,3
+unique,Saemus' Gift,clean,1.0,1,45
+unique,Saemus' Gift,corrupted,3.0,1,51
+unique,Malachai's Artifice,clean,1.0,1,79
+unique,Malachai's Artifice,corrupted,5.0,1,58
+unique,The Torrent's Reclamation,clean,111.0,1,5
+unique,The Torrent's Reclamation,corrupted,111.0,1,41
+unique,Nadir Mode,clean,5.0,1,18
+unique,Nadir Mode,corrupted,3.0,1,9
+unique,The Fledgling,clean,5.0,1,41
+unique,The Fledgling,corrupted,5.0,1,30
+unique,Corpsewalker,clean,7.0,1,50
+unique,Corpsewalker,corrupted,5.0,1,87
+unique,Kaom's Spirit,clean,3.0,1,93
+unique,Kaom's Spirit,corrupted,3.0,1,95
+unique,Dawnstrider,clean,1.0,1,20
+unique,Dawnstrider,corrupted,19.0,1,33
+unique,Might of the Meek,clean,5.0,1,78
+unique,Might of the Meek,corrupted,7.0,1,89
+unique,Inya's Epiphany,clean,1.0,1,14
+unique,Inya's Epiphany,corrupted,10.0,1,30
+unique,Ondar's Clasp,clean,1.0,1,44
+unique,Ondar's Clasp,corrupted,1.0,1,58
 unique,Bitterdream,clean,1.0,1,13
 unique,Bitterdream,corrupted,110.0,1,3
 unique,The Saviour,clean,210.89999999999998,1,24
