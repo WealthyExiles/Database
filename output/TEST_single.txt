@@ -1,14 +1,14 @@
 tag,name,description,price,min_stock,totalValidListings
-currency,Divine Orb,,125.0,68078,45
+currency,Divine Orb,,125.0,60986,40
 currency,Awakened Sextant,,1.4583333333333335,145371,20
 currency,Orb of Alteration,,0.12254901960784313,608189,17
 currency,Orb of Fusing,,0.17857142857142858,276378,42
 currency,Orb of Alchemy,,0.052083333333333336,287722,53
 currency,Chaos Orb,,0.8928571428571428,640472,14
-currency,Gemcutter's Prism,,2.2727272727272725,34183,28
+currency,Gemcutter's Prism,,2.0,30530,26
 currency,Exalted Orb,,10.416666666666666,60360,32
 currency,Chromatic Orb,,0.17857142857142858,299091,28
-currency,Jeweller's Orb,,0.07,367187,35
+currency,Jeweller's Orb,,0.07692307692307693,355079,31
 currency,Engineer's Orb,,0.16666666666666666,4235,19
 currency,Orb of Chance,,0.06496881496881497,315445,29
 currency,Cartographer's Chisel,,0.4464285714285714,181870,34
@@ -17,9 +17,9 @@ currency,Blessed Orb,,0.3,68179,37
 currency,Orb of Regret,,0.5681818181818181,127758,32
 currency,Regal Orb,,0.5952380952380953,48322,37
 currency,Vaal Orb,,1.0416666666666667,212301,19
-currency,Orb of Annulment,,10.416666666666666,28051,30
+currency,Orb of Annulment,,10.964912280701753,28945,34
 currency,Orb of Binding,,0.05,35426,45
-currency,Ancient Orb,,0.05555555555555555,2259,35
+currency,Ancient Orb,,5.0,2734,32
 currency,Orb of Horizons,,0.4166666666666667,84383,36
 currency,Harbinger's Orb,,7.0,1143,23
 currency,Fracturing Orb,,4112.5,184,17
@@ -41,10 +41,10 @@ currency,Orb of Unmaking,,0.4166666666666667,144412,41
 currency,Blessing of Xoph,,525.0,15,6
 currency,Blessing of Tul,,500.0,16,6
 currency,Blessing of Esh,,500.0,15,3
-currency,Blessing of Uul-Netol,,412.5,6,4
+currency,Blessing of Uul-Netol,,412.5,4,4
 currency,Blessing of Chayula,,812.5,23,6
 currency,Veiled Chaos Orb,,2.0833333333333335,22622,34
-currency,Enkindling Orb,,0.8064516129032258,89221,46
+currency,Enkindling Orb,,0.8064516129032258,90512,42
 currency,Instilling Orb,,0.15625,129659,41
 currency,Sacred Orb,,20.833333333333332,2295,27
 currency,Stacked Deck,,3.125,63415,23
@@ -1035,7 +1035,7 @@ map,Vaults of Atziri,T4,4.0,194,18
 map,Vaults of Atziri,T16,4.0,652,24
 map,Whakawairua Tuahu,T3,3.0,212,21
 map,Whakawairua Tuahu,T16,2.0,574,27
-catalyst,Tainted Catalyst,,98.0,1262,24
+catalyst,Tainted Catalyst,,98.0,1059,22
 gem,Added Chaos Damage Support,clean 20/0,10.0,9,9
 gem,Added Chaos Damage Support,corrupted 20/0,5.0,7,7
 gem,Added Chaos Damage Support,corrupted 21/0,15.0,2,2
@@ -2860,32 +2860,28 @@ gem,Reap,clean 20/0,90.0,2,2
 gem,Reap,corrupted 20/0,20.0,3,2
 gem,Reap,corrupted 21/0,10.0,13,12
 gem,Reap,clean 1/20,15.0,8,8
-gem,Reap,clean 20/20,50.0,1,1
-gem,Reap,corrupted 21/20,50.0,5,4
+gem,Reap,clean 20/20,625.0,1,1
+gem,Reap,corrupted 21/20,80.0,5,5
 gem,Reave,clean 20/0,10.0,5,5
-gem,Reave,corrupted 20/0,19.0,9,7
-gem,Reave,corrupted 21/0,4.0,12,12
+gem,Reave,corrupted 20/0,20.0,4,4
+gem,Reave,corrupted 21/0,5.0,18,17
 gem,Reave,clean 1/20,5.0,8,8
-gem,Reave,clean 20/20,25.0,23,8
-gem,Reave,corrupted 20/20,40.0,1,1
-gem,Reave,corrupted 21/20,80.0,9,9
-gem,Reckoning,clean 20/0,12.0,2,2
-gem,Reckoning,corrupted 20/0,40.0,1,1
-gem,Reckoning,corrupted 21/0,30.0,7,7
+gem,Reave,clean 20/20,25.0,2,2
+gem,Reave,corrupted 20/20,28.0,2,2
+gem,Reave,corrupted 21/20,69.0,9,9
+gem,Reckoning,corrupted 20/0,20.0,4,3
+gem,Reckoning,corrupted 21/0,10.0,7,6
 gem,Reckoning,clean 1/20,10.0,5,5
-gem,Reckoning,corrupted 21/20,30.0,3,3
-gem,Rejuvenation Totem,clean 20/0,3.0,3,3
+gem,Reckoning,corrupted 21/20,30.0,5,4
 gem,Rejuvenation Totem,corrupted 20/0,25.0,4,4
-gem,Rejuvenation Totem,corrupted 21/0,5.0,14,14
-gem,Rejuvenation Totem,clean 1/20,5.0,7,5
-gem,Rejuvenation Totem,clean 20/20,45.0,1,1
-gem,Rejuvenation Totem,corrupted 20/20,50.0,1,1
-gem,Rejuvenation Totem,corrupted 21/20,100.0,6,6
-gem,Righteous Fire,clean 20/0,28.0,16,14
-gem,Righteous Fire,corrupted 20/0,14.0,37,30
+gem,Rejuvenation Totem,corrupted 21/0,4.0,11,11
+gem,Rejuvenation Totem,clean 1/20,5.0,4,2
+gem,Rejuvenation Totem,corrupted 21/20,125.0,3,3
+gem,Righteous Fire,clean 20/0,10.0,17,15
+gem,Righteous Fire,corrupted 20/0,20.0,28,21
 gem,Righteous Fire,corrupted 21/0,125.0,39,38
 gem,Righteous Fire,clean 1/20,70.0,9,8
-gem,Righteous Fire,clean 20/20,120.0,10,8
+gem,Righteous Fire,clean 20/20,100.0,8,7
 gem,Righteous Fire,corrupted 20/20,40.0,19,13
 gem,Righteous Fire,corrupted 21/20,625.0,11,11
 gem,Riposte,clean 20/0,45.0,3,3
@@ -4694,197 +4690,190 @@ unique,Inpulsa's Broken Heart,clean 6-link,375.0,9,9
 unique,Inpulsa's Broken Heart,corrupted,40.0,40,39
 unique,Inpulsa's Broken Heart,corrupted 6-link,150.0,12,12
 unique,Doppelgänger Guise,clean,100.0,18,14
-unique,Doppelgänger Guise,clean 6-link,625.0,7,7
-unique,Doppelgänger Guise,corrupted,90.0,12,12
-unique,Doppelgänger Guise,corrupted 6-link,1000.0,2,2
+unique,Doppelgänger Guise,clean 6-link,1000.0,1,1
+unique,Doppelgänger Guise,corrupted,125.0,10,10
+unique,Doppelgänger Guise,corrupted 6-link,3125.0,2,2
 unique,The Restless Ward,clean,1.0,97,92
-unique,The Restless Ward,clean 6-link,125.0,31,31
+unique,The Restless Ward,clean 6-link,75.0,20,20
 unique,The Restless Ward,corrupted,1.0,100,91
 unique,The Restless Ward,corrupted 6-link,70.0,68,65
 unique,Shroud of the Lightless,clean,60.0,36,36
-unique,Shroud of the Lightless,corrupted,100.0,12,10
-unique,Shroud of the Lightless,clean,80.0,47,47
+unique,Shroud of the Lightless,corrupted,100.0,7,5
+unique,Shroud of the Lightless,clean,90.0,39,39
 unique,Shroud of the Lightless,corrupted,125.0,9,7
 unique,Replica Shroud of the Lightless,clean,125.0,3,3
-unique,Replica Shroud of the Lightless,corrupted,90.0,2,2
-unique,Replica Restless Ward,clean,9.0,91,79
-unique,Replica Restless Ward,clean 6-link,625.0,5,4
-unique,Replica Restless Ward,corrupted,10.0,73,56
-unique,Replica Restless Ward,corrupted 6-link,375.0,25,25
-unique,Stasis Prison,clean,9500.0,14,13
+unique,Replica Shroud of the Lightless,corrupted,375.0,1,1
+unique,Replica Restless Ward,clean,30.0,48,38
+unique,Replica Restless Ward,clean 6-link,312.5,1,1
+unique,Replica Restless Ward,corrupted,10.0,57,48
+unique,Replica Restless Ward,corrupted 6-link,500.0,23,20
+unique,Stasis Prison,clean,10000.0,10,10
 unique,Stasis Prison,clean 6-link,11250.0,6,6
-unique,Stasis Prison,corrupted,11125.0,3,3
-unique,Stasis Prison,corrupted 6-link,11125.0,3,3
-unique,Shroud of the Lightless,clean,80.0,47,47
+unique,Stasis Prison,corrupted,11125.0,1,1
+unique,Stasis Prison,corrupted 6-link,11125.0,1,1
+unique,Shroud of the Lightless,clean,90.0,39,39
 unique,Shroud of the Lightless,corrupted,125.0,9,7
-unique,Atziri's Splendour,clean,5.0,99,92
-unique,Atziri's Splendour,clean 6-link,500.0,2,2
-unique,Atziri's Splendour,corrupted,30.0,12,12
-unique,Atziri's Splendour,corrupted 6-link,375.0,4,4
-unique,Shadowstitch,corrupted,312.5,13,13
-unique,Shadowstitch,corrupted 6-link,312.5,13,13
+unique,Atziri's Splendour,clean,9.0,72,68
+unique,Atziri's Splendour,clean 6-link,312.5,3,3
+unique,Atziri's Splendour,corrupted,20.0,6,6
+unique,Shadowstitch,corrupted,500.0,13,13
+unique,Shadowstitch,corrupted 6-link,500.0,13,13
 unique,Tabula Rasa,clean 6-link,7.0,99,72
 unique,Tabula Rasa,corrupted 6-link,7.0,99,84
-unique,Silverbranch,clean,1.0,79,70
+unique,Silverbranch,clean,1.0,55,45
 unique,Silverbranch,clean 6-link,40.0,16,15
-unique,Silverbranch,corrupted,3.0,32,32
-unique,Silverbranch,corrupted 6-link,40.0,8,8
+unique,Silverbranch,corrupted,5.0,21,21
+unique,Silverbranch,corrupted 6-link,50.0,8,8
 unique,Widowhail,clean,3.0,62,60
-unique,Widowhail,clean 6-link,100.0,24,24
-unique,Widowhail,corrupted,7.0,42,41
-unique,Widowhail,corrupted 6-link,125.0,12,12
-unique,Quill Rain,clean,1.0,99,89
-unique,Quill Rain,clean 6-link,100.0,24,23
+unique,Widowhail,clean 6-link,375.0,16,16
+unique,Widowhail,corrupted,7.0,34,32
+unique,Widowhail,corrupted 6-link,125.0,9,9
+unique,Quill Rain,clean,2.0,99,91
+unique,Quill Rain,clean 6-link,90.0,25,23
 unique,Quill Rain,corrupted,10.0,29,29
 unique,Quill Rain,corrupted 6-link,125.0,9,9
-unique,Replica Quill Rain,clean,4.0,24,22
-unique,Replica Quill Rain,corrupted,90.0,4,4
-unique,Replica Quill Rain,corrupted 6-link,1750.0,1,1
-unique,Storm Cloud,clean,1.0,84,75
-unique,Storm Cloud,clean 6-link,36.0,12,11
+unique,Replica Quill Rain,clean,10.0,14,14
+unique,Replica Quill Rain,corrupted,1750.0,4,4
+unique,Replica Quill Rain,corrupted 6-link,1750.0,3,3
+unique,Storm Cloud,clean,1.0,54,48
+unique,Storm Cloud,clean 6-link,30.0,10,9
 unique,Storm Cloud,corrupted,1.0,27,27
-unique,Storm Cloud,corrupted 6-link,40.0,6,6
+unique,Storm Cloud,corrupted 6-link,100.0,4,4
 unique,Roth's Reach,clean,1.0,56,53
-unique,Roth's Reach,clean 6-link,25.0,20,20
-unique,Roth's Reach,corrupted,20.0,20,19
+unique,Roth's Reach,clean 6-link,30.0,17,17
+unique,Roth's Reach,corrupted,15.0,13,12
 unique,Roth's Reach,corrupted 6-link,100.0,6,5
 unique,Doomfletch,clean,4.0,34,33
 unique,Doomfletch,clean 6-link,250.0,4,4
-unique,Doomfletch,corrupted,4.0,16,16
+unique,Doomfletch,corrupted,60.0,9,9
 unique,Doomfletch,corrupted 6-link,500.0,3,3
 unique,Death's Harp,clean,3.0,16,15
-unique,Death's Harp,clean 6-link,312.5,1,1
-unique,Death's Harp,corrupted,8.0,5,5
+unique,Death's Harp,clean 6-link,125.0,1,1
+unique,Death's Harp,corrupted,50.0,7,7
 unique,Death's Harp,corrupted 6-link,6250.0,1,1
-unique,Iron Commander,clean,1.0,96,81
-unique,Iron Commander,clean 6-link,30.0,16,15
-unique,Iron Commander,corrupted,1.0,29,27
-unique,Iron Commander,corrupted 6-link,50.0,10,9
-unique,Replica Iron Commander,clean,7.0,28,26
-unique,Replica Iron Commander,clean 6-link,375.0,2,2
+unique,Iron Commander,clean,1.0,50,46
+unique,Iron Commander,clean 6-link,40.0,13,13
+unique,Iron Commander,corrupted,40.0,18,18
+unique,Iron Commander,corrupted 6-link,90.0,5,5
+unique,Replica Iron Commander,clean,3.0,16,14
 unique,Replica Iron Commander,corrupted,79.0,3,3
-unique,Infractem,clean,1.0,71,65
+unique,Infractem,clean,1.0,49,45
 unique,Infractem,clean 6-link,10.0,12,12
 unique,Infractem,corrupted,1.0,14,14
-unique,Infractem,corrupted 6-link,100.0,3,3
-unique,Replica Infractem,clean,2.0,11,11
-unique,Replica Infractem,corrupted,60.0,2,2
+unique,Infractem,corrupted 6-link,20.0,3,3
+unique,Replica Infractem,clean,6.0,8,8
+unique,Replica Infractem,corrupted,500.0,1,1
+unique,Replica Infractem,corrupted 6-link,500.0,1,1
 unique,The Crimson Storm,clean,15.0,14,14
-unique,The Crimson Storm,clean 6-link,125.0,1,1
-unique,The Crimson Storm,corrupted,250.0,1,1
-unique,Xoph's Nurture,clean,30.0,10,10
+unique,The Crimson Storm,clean 6-link,125.0,2,2
+unique,The Crimson Storm,corrupted,125.0,1,1
+unique,Xoph's Nurture,clean,40.0,8,8
 unique,Xoph's Inception,clean,4.0,27,25
-unique,Xoph's Inception,corrupted,100.0,2,2
-unique,The Gluttonous Tide,clean,1.0,55,53
+unique,Xoph's Inception,corrupted,80.0,3,3
+unique,The Gluttonous Tide,clean,2.0,36,36
 unique,The Gluttonous Tide,clean 6-link,375.0,2,2
-unique,The Gluttonous Tide,corrupted,15.0,21,21
-unique,The Gluttonous Tide,corrupted 6-link,1250.0,1,1
+unique,The Gluttonous Tide,corrupted,5.0,7,7
 unique,Null's Inclination,clean,1.0,25,25
-unique,Null's Inclination,clean 6-link,125.0,1,1
-unique,Null's Inclination,corrupted,40.0,8,8
-unique,Null's Inclination,corrupted 6-link,50.0,1,1
-unique,Hopeshredder,clean,4.0,26,26
-unique,Hopeshredder,corrupted,30.0,3,3
+unique,Null's Inclination,clean 6-link,70.0,4,4
+unique,Null's Inclination,corrupted,40.0,6,6
+unique,Hopeshredder,clean,10.0,10,10
+unique,Hopeshredder,corrupted,125.0,1,1
 unique,Chin Sol,clean,1.0,67,60
-unique,Chin Sol,clean 6-link,20.0,8,8
-unique,Chin Sol,corrupted,1.0,30,28
-unique,Chin Sol,corrupted 6-link,5.0,6,6
-unique,Darkscorn,clean,7.0,23,23
-unique,Darkscorn,clean 6-link,625.0,3,3
-unique,Darkscorn,corrupted,10.0,8,8
-unique,Darkscorn,corrupted 6-link,1500.0,1,1
-unique,Arborix,clean,30.0,10,8
-unique,Arborix,corrupted,25000.0,1,1
-unique,Arborix,corrupted 6-link,25000.0,1,1
-unique,Voltaxic Rift,clean,70.0,19,17
+unique,Chin Sol,clean 6-link,30.0,4,4
+unique,Chin Sol,corrupted,30.0,20,18
+unique,Chin Sol,corrupted 6-link,80.0,2,2
+unique,Darkscorn,clean,10.0,13,13
+unique,Darkscorn,clean 6-link,750.0,1,1
+unique,Darkscorn,corrupted,1.0,4,4
+unique,Arborix,clean,30.0,12,10
+unique,Arborix,clean 6-link,625.0,2,2
+unique,Voltaxic Rift,clean,125.0,17,15
 unique,Voltaxic Rift,clean 6-link,500.0,6,6
 unique,Voltaxic Rift,corrupted,10.0,5,5
-unique,Voltaxic Rift,corrupted 6-link,250.0,6,6
-unique,Reach of the Council,clean,1.0,54,50
-unique,Reach of the Council,clean 6-link,70.0,3,3
+unique,Voltaxic Rift,corrupted 6-link,1000.0,1,1
+unique,Reach of the Council,clean,1.0,33,30
+unique,Reach of the Council,clean 6-link,70.0,2,2
 unique,Reach of the Council,corrupted,10.0,32,29
 unique,Reach of the Council,corrupted 6-link,125.0,1,1
 unique,Lioneye's Glare,clean,112.5,4,4
-unique,Lioneye's Glare,clean 6-link,1000.0,1,1
-unique,Lioneye's Glare,corrupted,30.0,2,1
-unique,Windripper,clean,4.0,56,55
+unique,Windripper,clean,5.0,35,32
 unique,Windripper,clean 6-link,100.0,7,6
-unique,Windripper,corrupted,10.0,23,22
+unique,Windripper,corrupted,10.0,21,20
 unique,Windripper,corrupted 6-link,250.0,5,5
 unique,Replica Windripper,clean,125.0,3,3
-unique,Nuro's Harp,clean,1.0,52,49
+unique,Nuro's Harp,clean,1.0,39,37
 unique,Nuro's Harp,clean 6-link,14.0,9,8
-unique,Nuro's Harp,corrupted,20.0,12,12
-unique,Nuro's Harp,corrupted 6-link,40.0,4,4
-unique,Slivertongue,clean,1.0,44,44
-unique,Slivertongue,clean 6-link,30.0,13,13
+unique,Nuro's Harp,corrupted,20.0,10,10
+unique,Nuro's Harp,corrupted 6-link,40.0,3,3
+unique,Slivertongue,clean,1.0,33,33
+unique,Slivertongue,clean 6-link,50.0,10,10
 unique,Slivertongue,corrupted,2.0,17,17
 unique,Slivertongue,corrupted 6-link,50.0,4,4
-unique,Fencoil,clean,1.0,51,44
-unique,Fencoil,corrupted,5.0,8,8
-unique,The Blood Thorn,clean,1.0,51,46
-unique,The Blood Thorn,corrupted,2.0,14,14
-unique,Replica Blood Thorn,clean,5.0,10,10
-unique,Replica Fencoil,clean,3.0,8,7
-unique,The Stormheart,clean,1.0,63,56
-unique,The Stormheart,clean 6-link,15.0,5,5
-unique,The Stormheart,corrupted,9.0,13,13
-unique,The Stormheart,corrupted 6-link,50.0,2,2
+unique,Fencoil,clean,1.0,32,28
+unique,Fencoil,corrupted,5.0,5,5
+unique,The Blood Thorn,clean,1.0,33,27
+unique,The Blood Thorn,corrupted,22.0,12,11
+unique,Replica Blood Thorn,clean,10.0,4,4
+unique,Replica Blood Thorn,corrupted,20.0,1,1
+unique,Replica Fencoil,clean,3.0,7,7
+unique,The Stormheart,clean,1.0,46,44
+unique,The Stormheart,clean 6-link,20.0,6,6
+unique,The Stormheart,corrupted,50.0,10,10
+unique,The Stormheart,corrupted 6-link,625.0,1,1
 unique,The Annihilating Light,clean,2.0,78,66
-unique,The Annihilating Light,clean 6-link,625.0,15,14
+unique,The Annihilating Light,clean 6-link,750.0,10,8
 unique,The Annihilating Light,corrupted,20.0,53,48
-unique,The Annihilating Light,corrupted 6-link,250.0,21,21
+unique,The Annihilating Light,corrupted 6-link,750.0,11,11
 unique,Martyr of Innocence,clean,9.0,32,30
-unique,Martyr of Innocence,clean 6-link,625.0,2,2
-unique,Martyr of Innocence,corrupted,30.0,10,10
-unique,Martyr of Innocence,corrupted 6-link,30.0,3,3
-unique,Witchhunter's Judgment,clean,10.0,9,8
+unique,Martyr of Innocence,clean 6-link,625.0,3,3
+unique,Martyr of Innocence,corrupted,60.0,7,7
+unique,Martyr of Innocence,corrupted 6-link,250.0,1,1
+unique,Witchhunter's Judgment,clean,10.0,8,6
 unique,Witchhunter's Judgment,corrupted,95.0,3,3
 unique,Femurs of the Saints,clean,1.0,57,44
-unique,Femurs of the Saints,clean 6-link,20.0,9,9
-unique,Femurs of the Saints,corrupted,1.0,23,23
-unique,Femurs of the Saints,corrupted 6-link,50.0,3,3
+unique,Femurs of the Saints,clean 6-link,20.0,6,6
+unique,Femurs of the Saints,corrupted,1.0,15,15
+unique,Femurs of the Saints,corrupted 6-link,50.0,2,2
 unique,The Searing Touch,clean,2.0,23,23
-unique,The Searing Touch,clean 6-link,80.0,7,7
-unique,The Searing Touch,corrupted,50.0,5,5
-unique,The Searing Touch,corrupted 6-link,87.5,2,2
+unique,The Searing Touch,clean 6-link,88.0,5,5
+unique,The Searing Touch,corrupted,99.0,2,2
 unique,Agnerod East,clean,1.0,98,82
 unique,Agnerod East,clean 6-link,12.0,9,8
-unique,Agnerod East,corrupted,4.0,17,17
-unique,Agnerod East,corrupted 6-link,100.0,3,3
+unique,Agnerod East,corrupted,4.0,8,8
+unique,Agnerod East,corrupted 6-link,100.0,4,4
 unique,Agnerod North,clean,2.0,99,86
-unique,Agnerod North,clean 6-link,22.0,10,10
-unique,Agnerod North,corrupted,5.0,12,12
-unique,Agnerod North,corrupted 6-link,125.0,3,3
+unique,Agnerod North,clean 6-link,20.0,9,9
+unique,Agnerod North,corrupted,10.0,9,9
+unique,Agnerod North,corrupted 6-link,125.0,2,2
 unique,Agnerod South,clean,1.0,99,84
-unique,Agnerod South,clean 6-link,10.0,9,9
+unique,Agnerod South,clean 6-link,25.0,4,4
 unique,Agnerod South,corrupted,5.0,12,12
-unique,Agnerod South,corrupted 6-link,50.0,9,9
-unique,Agnerod West,clean,3.0,99,78
-unique,Agnerod West,clean 6-link,20.0,9,9
-unique,Agnerod West,corrupted,4.0,14,14
+unique,Agnerod South,corrupted 6-link,90.0,5,5
+unique,Agnerod West,clean,4.0,83,72
+unique,Agnerod West,clean 6-link,20.0,7,7
+unique,Agnerod West,corrupted,5.0,10,10
 unique,Agnerod West,corrupted 6-link,70.0,3,3
-unique,The Enmity Divine,clean,20.0,12,7
-unique,The Yielding Mortality,clean,1000.0,3,3
+unique,The Enmity Divine,clean,20.0,9,5
+unique,The Yielding Mortality,clean,1250.0,2,2
 unique,The Yielding Mortality,clean 6-link,12500.0,1,1
 unique,Shiversting,clean,1.0,34,32
-unique,Shiversting,clean 6-link,30.0,11,11
-unique,Shiversting,corrupted,1.0,8,8
-unique,Shiversting,corrupted 6-link,125.0,3,3
-unique,Edge of Madness,clean,1.0,50,49
-unique,Edge of Madness,clean 6-link,15.0,14,13
-unique,Edge of Madness,corrupted,2.0,13,13
-unique,Edge of Madness,corrupted 6-link,250.0,1,1
-unique,Queen's Decree,clean,1.0,80,71
+unique,Shiversting,clean 6-link,34.0,7,7
+unique,Shiversting,corrupted,3.0,4,4
+unique,Shiversting,corrupted 6-link,125.0,2,2
+unique,Edge of Madness,clean,1.0,32,32
+unique,Edge of Madness,clean 6-link,30.0,8,8
+unique,Edge of Madness,corrupted,25.0,6,6
+unique,Edge of Madness,corrupted 6-link,25.0,2,2
+unique,Queen's Decree,clean,1.0,50,42
 unique,Queen's Decree,clean 6-link,19.0,16,15
-unique,Queen's Decree,corrupted,1.0,11,11
-unique,Queen's Decree,corrupted 6-link,125.0,1,1
-unique,Rigwald's Charge,clean,1.0,57,54
-unique,Rigwald's Charge,clean 6-link,25.0,13,12
+unique,Queen's Decree,corrupted,10.0,9,9
+unique,Queen's Decree,corrupted 6-link,125.0,3,3
+unique,Rigwald's Charge,clean,1.0,41,37
+unique,Rigwald's Charge,clean 6-link,20.0,12,11
 unique,Rigwald's Charge,corrupted,5.0,15,15
-unique,Rigwald's Charge,corrupted 6-link,50.0,2,2
-unique,Terminus Est,clean,1.0,84,75
-unique,Terminus Est,clean 6-link,40.0,19,19
+unique,Rigwald's Charge,corrupted 6-link,25.0,3,3
+unique,Terminus Est,clean,1.0,64,61
+unique,Terminus Est,clean 6-link,35.0,15,14
 unique,Terminus Est,corrupted,9.0,24,24
 unique,Terminus Est,corrupted 6-link,250.0,5,5
 unique,The Dancing Dervish,clean,1.0,61,56
