@@ -50,6 +50,7 @@ armour.chest,Horror Cloak Astral Plate,explicit.stat_2901986750,explicit.stat_14
 armour.chest,Horror Jack General's Brigandine,explicit.stat_1880071428,explicit.stat_3191479793,explicit.stat_30642521,explicit.stat_956546305,explicit.stat_983749596
 armour.chest,Hypnotic Hide Vaal Regalia,explicit.stat_1719423857,explicit.stat_1880071428,explicit.stat_4015621042,explicit.stat_328541901,explicit.stat_4052037485
 armour.chest,Maelström Curtain Sacrificial Garb,explicit.stat_2923486259,explicit.stat_1880071428,explicit.stat_2718698372,explicit.stat_3295179224
+armour.chest,Mind Curtain Full Dragonscale,explicit.stat_2572042788,explicit.stat_1439818705,explicit.stat_1671376347,explicit.stat_30642521,explicit.stat_3299347043
 armour.chest,Mind Suit Carnal Armour,explicit.stat_524797741,explicit.stat_280731498,explicit.stat_1050105434,explicit.stat_3680664274,explicit.stat_1535626285
 armour.chest,Onslaught Jack Vaal Regalia,explicit.stat_1719423857,explicit.stat_1880071428,explicit.stat_1871056256,explicit.stat_328541901,explicit.stat_4015621042
 armour.chest,Onslaught Salvation Astral Plate,explicit.stat_2901986750,explicit.stat_2572042788,explicit.stat_2264586521,explicit.stat_30642521,explicit.stat_3005472710
@@ -78,7 +79,6 @@ armour.chest,Wrath Pelt Vaal Regalia,explicit.stat_1880071428,explicit.stat_1719
 armour.chest,Wrath Shroud Sacrificial Garb,explicit.stat_1880071428,explicit.stat_280731498,explicit.stat_1671376347,explicit.stat_656461285,explicit.stat_3523867985
 category,name,line1,line2,line3,line4,line5,line6
 armour.helmet,Agony Crown Blizzard Crown,explicit.stat_1235873320,explicit.stat_13669281,explicit.stat_135378852,explicit.stat_2388360415,explicit.stat_3299347043
-armour.helmet,Agony Horn Blizzard Crown,explicit.stat_3835899275,explicit.stat_13669281,explicit.stat_2867348718,explicit.stat_2388360415,explicit.stat_2551600084
 armour.helmet,Apocalypse Peak Royal Burgonet,explicit.stat_1902595112,explicit.stat_2511370818,explicit.stat_3556824919,explicit.stat_2551600084,explicit.stat_3299347043
 armour.helmet,Blight Dome Royal Burgonet,explicit.stat_1902595112,explicit.stat_2511370818,explicit.stat_803737631,explicit.stat_3299347043,explicit.stat_2162097452
 armour.helmet,Blood Goad Imbued Wand,explicit.stat_1108755349,explicit.stat_2259700079,explicit.stat_2034658008,explicit.stat_1979658770,explicit.stat_2831165374,explicit.stat_2435536961
@@ -113,7 +113,6 @@ armour.helmet,Morbid Halo Blizzard Crown,explicit.stat_3835899275,explicit.stat_
 armour.helmet,Onslaught Visor Royal Burgonet,explicit.stat_1902595112,explicit.stat_2511370818,explicit.stat_4080418644
 armour.helmet,Pain Salvation Royal Burgonet,explicit.stat_1902595112,explicit.stat_2511370818,explicit.stat_4080418644,explicit.stat_2551600084,explicit.stat_3917489142
 armour.helmet,Pandemonium Dome Hubris Circlet,explicit.stat_3835899275,explicit.stat_13669281,explicit.stat_135378852
-armour.helmet,Pandemonium Visage Royal Burgonet,explicit.stat_1902595112,explicit.stat_2511370818,explicit.stat_3556824919,explicit.stat_3299347043,explicit.stat_3484657501
 armour.helmet,Plague Horn Royal Burgonet,explicit.stat_1902595112,explicit.stat_2511370818,explicit.stat_3372524247,explicit.stat_3299347043,explicit.stat_3342989455
 armour.helmet,Plague Peak Royal Burgonet,explicit.stat_3835899275,explicit.stat_2680613507,explicit.stat_3393628375,explicit.stat_2388360415,explicit.stat_1062208444
 armour.helmet,Rage Guardian Blizzard Crown,explicit.stat_3835899275,explicit.stat_13669281,explicit.stat_2867348718,explicit.stat_2388360415,explicit.stat_2551600084
@@ -154,13 +153,17 @@ armour.gloves,Dusk Hail Vile Arrow Quiver,explicit.stat_3556824919,explicit.stat
 armour.gloves,Eagle Needle Vile Arrow Quiver,explicit.stat_3556824919,explicit.stat_369494213,explicit.stat_979246511,explicit.stat_1241625305
 armour.gloves,Entropy Shot Vile Arrow Quiver,explicit.stat_3556824919,explicit.stat_2923486259,explicit.stat_587431675,explicit.stat_369494213,explicit.stat_3299347043,explicit.stat_979246511
 armour.gloves,Fate Caress Fingerless Silk Gloves,explicit.stat_1681904129,explicit.stat_928701213,explicit.stat_356456977,explicit.stat_1390285657
+armour.gloves,Fate Hoof Fugitive Boots,explicit.stat_979246511,explicit.stat_2250533757,explicit.stat_2896192589,explicit.stat_4053951709,explicit.stat_2923486259
 armour.gloves,Fate Spur Two-Toned Boots,explicit.stat_1004011302,explicit.stat_3023957681,explicit.stat_782230869,explicit.stat_2250533757,explicit.stat_3299347043
 armour.gloves,Foe Arrow Vile Arrow Quiver,explicit.stat_3556824919,explicit.stat_979246511,explicit.stat_2133341901,explicit.stat_538848803,explicit.stat_219391121
+armour.gloves,Foe Slicer Anarchic Spiritblade,explicit.stat_210067635,explicit.stat_2375316951,explicit.stat_979246511,explicit.stat_2101383955,explicit.stat_369494213
 armour.gloves,Ghoul Nails Slink Gloves,explicit.stat_4078695,explicit.stat_1661253443,explicit.stat_4262448838,explicit.stat_3680664274,explicit.stat_2628163981
 armour.gloves,Gloom Brand Vile Arrow Quiver,explicit.stat_979246511,explicit.stat_369494213,explicit.stat_3299347043,explicit.stat_587431675,explicit.stat_3759663284
 armour.gloves,Gloom Caress Spiked Gloves,explicit.stat_1661253443,explicit.stat_4078695,explicit.stat_2524254339,explicit.stat_3261801346
 armour.gloves,Glyph Bolt Vile Arrow Quiver,explicit.stat_369494213,explicit.stat_979246511,explicit.stat_1712221299,explicit.stat_3299347043,explicit.stat_2091591880
+armour.gloves,Golem Impaler Vile Arrow Quiver,explicit.stat_3556824919,explicit.stat_3299347043,explicit.stat_979246511,explicit.stat_1671376347,explicit.stat_369494213
 armour.gloves,Grim Grasp Spiked Gloves,explicit.stat_1661253443,explicit.stat_4078695,explicit.stat_78985352,explicit.stat_681332047,explicit.stat_587431675,explicit.stat_1265282021
+armour.gloves,Hate Fist Spiked Gloves,explicit.stat_4078695,explicit.stat_3739863694,explicit.stat_681332047,explicit.stat_3299347043,explicit.stat_1265282021
 armour.gloves,Hate Grip Fingerless Silk Gloves,explicit.stat_1681904129,explicit.stat_2169938251,explicit.stat_2828710986,explicit.stat_99089516,explicit.stat_2176571093
 armour.gloves,Honour Grasp Sorcerer Gloves,explicit.stat_1661253443,explicit.stat_4078695,explicit.stat_681332047
 armour.gloves,Honour Talons Fingerless Silk Gloves,explicit.stat_1681904129,explicit.stat_2169938251,explicit.stat_2828710986,explicit.stat_99089516,explicit.stat_2176571093
@@ -170,6 +173,7 @@ armour.gloves,Hypnotic Spur Two-Toned Boots,explicit.stat_2172944497,explicit.st
 armour.gloves,Maelström Gorget Focused Amulet,explicit.stat_369494213,explicit.stat_219391121,explicit.stat_3556824919
 armour.gloves,Maelström Hold Spiked Gloves,explicit.stat_1661253443,explicit.stat_4078695,explicit.stat_3484657501,explicit.stat_2628163981,explicit.stat_1265282021
 armour.gloves,Maelström Rod Vile Arrow Quiver,explicit.stat_3556824919,explicit.stat_538848803,explicit.stat_369494213,explicit.stat_3299347043,explicit.stat_979246511
+armour.gloves,Mind Hold Spiked Gloves,explicit.stat_1661253443,explicit.stat_4078695,explicit.stat_3917489142,explicit.stat_2551600084,explicit.stat_1671376347
 armour.gloves,Morbid Mitts Spiked Gloves,explicit.stat_4078695,explicit.stat_1661253443,explicit.stat_4067062424,explicit.stat_2628163981,explicit.stat_1265282021
 armour.gloves,Onslaught Spark Two-Toned Boots,explicit.stat_2172944497,explicit.stat_3023957681,explicit.stat_782230869,explicit.stat_2896192589,explicit.stat_2250533757
 armour.gloves,Onslaught Touch Fingerless Silk Gloves,explicit.stat_1681904129,explicit.stat_2828710986,explicit.stat_2169938251,explicit.stat_99089516,explicit.stat_2176571093
@@ -191,56 +195,4 @@ armour.gloves,Woe Road Fugitive Boots,explicit.stat_2172944497,explicit.stat_302
 armour.gloves,Wrath Clasp Focused Amulet,explicit.stat_884586851,explicit.stat_979246511,explicit.stat_219391121
 armour.gloves,Wrath Flight Vile Arrow Quiver,explicit.stat_3556824919,explicit.stat_2923486259,explicit.stat_3299347043,explicit.stat_219391121,explicit.stat_979246511
 armour.gloves,Wrath Skewer Vile Arrow Quiver,explicit.stat_3556824919,explicit.stat_3299347043,explicit.stat_979246511,explicit.stat_219391121,explicit.stat_538848803
-category,name,line1,line2,line3,line4,line5,line6
-armour.boots,Ambush Spur Two-Toned Boots,explicit.stat_2172944497,explicit.stat_3023957681,explicit.stat_3261801346,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Ambush Stride Fugitive Boots,explicit.stat_2172944497,explicit.stat_2896192589,explicit.stat_3917489142,explicit.stat_3023957681
-armour.boots,Ambush Tread Fugitive Boots,explicit.stat_2172944497,explicit.stat_3023957681,explicit.stat_3261801346,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Apocalypse Spur Two-Toned Boots,explicit.stat_3023957681,explicit.stat_2172944497,explicit.stat_3372524247,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Beast Hoof Conjurer Boots,explicit.stat_3023957681,explicit.stat_2172944497,explicit.stat_956546305,explicit.stat_2067062068,explicit.stat_2250533757
-armour.boots,Behemoth March Slink Boots,explicit.stat_2172944497,explicit.stat_3023957681,explicit.stat_3372524247,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Blood Sole Fugitive Boots,explicit.stat_2172944497,explicit.stat_3023957681,explicit.stat_2923486259,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Brimstone Spur Fugitive Boots,explicit.stat_2172944497,explicit.stat_3023957681,explicit.stat_782230869,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Cataclysm Spark Fugitive Boots,explicit.stat_3023957681,explicit.stat_2172944497,explicit.stat_2923486259,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Damnation Slippers Fugitive Boots,explicit.stat_2172944497,explicit.stat_3023957681,explicit.stat_1671376347,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Death Urge Sorcerer Boots,explicit.stat_734614379,explicit.stat_1004011302,explicit.stat_3372524247,explicit.stat_2250533757,explicit.stat_3653191834
-armour.boots,Demon Goad Sorcerer Boots,explicit.stat_2172944497,explicit.stat_1004011302,explicit.stat_1671376347,explicit.stat_2250533757,explicit.stat_4052037485
-armour.boots,Domination Spur Sorcerer Boots,explicit.stat_2172944497,explicit.stat_1004011302,explicit.stat_3325883026,explicit.stat_2250533757,explicit.stat_2067062068
-armour.boots,Dragon Span Sorcerer Boots,explicit.stat_1004011302,explicit.stat_2172944497,explicit.stat_4053951709,explicit.stat_2250533757,explicit.stat_3299347043
-armour.boots,Dragon Track Sorcerer Boots,explicit.stat_2172944497,explicit.stat_1004011302,explicit.stat_3325883026,explicit.stat_2250533757,explicit.stat_4052037485
-armour.boots,Dusk Span Fugitive Boots,explicit.stat_2172944497,explicit.stat_2896192589,explicit.stat_4220027924,explicit.stat_3917489142,explicit.stat_3261801346
-armour.boots,Dusk Span Fugitive Boots,explicit.stat_3023957681,explicit.stat_2172944497,explicit.stat_1671376347,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Dusk Track Sorcerer Boots,explicit.stat_1004011302,explicit.stat_2172944497,explicit.stat_2339757871,explicit.stat_2250533757,explicit.stat_4052037485
-armour.boots,Fate Spur Two-Toned Boots,explicit.stat_1004011302,explicit.stat_3023957681,explicit.stat_782230869,explicit.stat_2250533757,explicit.stat_3299347043
-armour.boots,Glyph Spark Fugitive Boots,explicit.stat_2172944497,explicit.stat_2896192589,explicit.stat_1999113824,explicit.stat_1999113824
-armour.boots,Hate Goad Sorcerer Boots,explicit.stat_2172944497,explicit.stat_1004011302,explicit.stat_2339757871,explicit.stat_2250533757,explicit.stat_4052037485
-armour.boots,Hate Road Two-Toned Boots,explicit.stat_2172944497,explicit.stat_3023957681,explicit.stat_4080418644,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Havoc Pace Fugitive Boots,explicit.stat_2172944497,explicit.stat_3023957681,explicit.stat_4004298002,explicit.stat_3372524247,explicit.stat_1999113824,explicit.stat_2250533757
-armour.boots,Havoc Pace Sorcerer Boots,explicit.stat_2172944497,explicit.stat_1004011302,explicit.stat_328541901,explicit.stat_2250533757,explicit.stat_4015621042
-armour.boots,Horror Goad Fugitive Boots,explicit.stat_1004011302,explicit.stat_2011656677,explicit.stat_2923486259,explicit.stat_2250533757
-armour.boots,Horror March Fugitive Boots,explicit.stat_2172944497,explicit.stat_3023957681,explicit.stat_2907156609,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Hypnotic Spur Two-Toned Boots,explicit.stat_2172944497,explicit.stat_3023957681,explicit.stat_782230869,explicit.stat_2250533757,explicit.stat_3917489142
-armour.boots,Invasion Track Sorcerer Boots,explicit.stat_2172944497,explicit.stat_1004011302,explicit.stat_1514829491,explicit.stat_4052037485,explicit.stat_2250533757
-armour.boots,Loath March Sorcerer Boots,explicit.stat_2172944497,explicit.stat_1004011302,explicit.stat_782230869,explicit.stat_2250533757,explicit.stat_4052037485
-armour.boots,Maelström Dash Fugitive Boots,explicit.stat_2172944497,explicit.stat_2923486259,explicit.stat_1671376347,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Mind Sole Fugitive Boots,explicit.stat_2172944497,explicit.stat_3023957681,explicit.stat_328541901,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Mind Trail Sorcerer Boots,explicit.stat_2172944497,explicit.stat_1004011302,explicit.stat_1671376347,explicit.stat_2250533757,explicit.stat_4004298002
-armour.boots,Miracle March Sorcerer Boots,explicit.stat_2172944497,explicit.stat_1004011302,explicit.stat_3372524247,explicit.stat_2250533757,explicit.stat_4052037485
-armour.boots,Miracle Slippers Fugitive Boots,explicit.stat_2172944497,explicit.stat_3023957681,explicit.stat_3325883026,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Nemesis League Fugitive Boots,explicit.stat_2172944497,explicit.stat_3023957681,explicit.stat_2923486259,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Nemesis Tread Fugitive Boots,explicit.stat_2172944497,explicit.stat_3023957681,explicit.stat_2339757871,explicit.stat_2896192589,explicit.stat_1999113824,explicit.stat_2250533757
-armour.boots,Oblivion Pace Vaal Greaves,explicit.stat_4095671657,explicit.stat_2739830820,explicit.stat_3372524247,explicit.stat_3299347043,explicit.stat_2250533757
-armour.boots,Onslaught Spark Two-Toned Boots,explicit.stat_2172944497,explicit.stat_3023957681,explicit.stat_782230869,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Phoenix March Sorcerer Boots,explicit.stat_2172944497,explicit.stat_1004011302,explicit.stat_3005472710,explicit.stat_2250533757,explicit.stat_2067062068
-armour.boots,Plague March Conjurer Boots,explicit.stat_1004011302,explicit.stat_2172944497,explicit.stat_328541901,explicit.stat_2250533757,explicit.stat_2067062068
-armour.boots,Rift Pace Fugitive Boots,explicit.stat_3023957681,explicit.stat_2172944497,explicit.stat_2923486259,explicit.stat_3299347043,explicit.stat_2250533757
-armour.boots,Rift Spark Sorcerer Boots,explicit.stat_1004011302,explicit.stat_1871765599,explicit.stat_2250533757,explicit.stat_3030692053,explicit.stat_4052037485
-armour.boots,Sorrow Sole Sorcerer Boots,explicit.stat_1004011302,explicit.stat_2172944497,explicit.stat_2923486259,explicit.stat_2250533757,explicit.stat_4052037485
-armour.boots,Sorrow Stride Sorcerer Boots,explicit.stat_1004011302,explicit.stat_2172944497,explicit.stat_1671376347,explicit.stat_4015621042,explicit.stat_2250533757
-armour.boots,Sorrow Urge Sorcerer Boots,explicit.stat_4095671657,explicit.stat_2739830820,explicit.stat_1871765599,explicit.stat_4052037485,explicit.stat_2250533757
-armour.boots,Soul Track Two-Toned Boots,explicit.stat_2172944497,explicit.stat_3023957681,explicit.stat_1671376347,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Storm Sole Sorcerer Boots,explicit.stat_1004011302,explicit.stat_2172944497,explicit.stat_3372524247,explicit.stat_4052037485,explicit.stat_2250533757
-armour.boots,Torment Stride Sorcerer Boots,explicit.stat_2172944497,explicit.stat_1004011302,explicit.stat_3325883026,explicit.stat_2250533757,explicit.stat_1643688236
-armour.boots,Victory Sole Stormrider Boots,explicit.stat_3023957681,explicit.stat_2172944497,explicit.stat_3680664274,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Vortex Spark Fugitive Boots,explicit.stat_3023957681,explicit.stat_2172944497,explicit.stat_3680664274,explicit.stat_2896192589,explicit.stat_2250533757
-armour.boots,Woe Road Fugitive Boots,explicit.stat_2172944497,explicit.stat_3023957681,explicit.stat_782230869,explicit.stat_2896192589,explicit.stat_2250533757
 category,name,line1,line2,line3,line4,line5,line6
