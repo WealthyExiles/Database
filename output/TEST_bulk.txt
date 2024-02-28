@@ -497,11 +497,11 @@ currency,Exalted Shard,,420.0,9,1
 currency,Annulment Shard,,5.0,1,4
 currency,Annulment Shard,,5.0,9,3
 currency,Annulment Shard,,25.0,18,1
-currency,Ancient Shard,,5.0,1,7
-currency,Ancient Shard,,5.0,9,5
-currency,Fracturing Shard,,140.0,1,14
-currency,Fracturing Shard,,210.0,9,5
-currency,Mirror Shard,,8540.0,1,14
+currency,Ancient Shard,,5.0,1,5
+currency,Ancient Shard,,5.0,9,3
+currency,Fracturing Shard,,140.0,1,13
+currency,Fracturing Shard,,210.0,9,4
+currency,Mirror Shard,,9100.0,1,10
 currency,Mirror Shard,,9100.0,9,4
 currency,Mirror Shard,,11200.0,18,1
 fragment,Splinter of Xoph,,1.0,1,29
@@ -657,6 +657,10 @@ fragment,Fragment of Eradication,,50.0,1,16
 fragment,Fragment of Eradication,,80.0,9,4
 fragment,Fragment of Eradication,,140.0,18,2
 fragment,Fragment of Eradication,,140.0,30,2
+fragment,Fragment of Constriction,,40.0,1,18
+fragment,Fragment of Constriction,,70.0,9,8
+fragment,Fragment of Constriction,,105.0,18,4
+fragment,Fragment of Constriction,,980.0,30,1
 fragment,Fragment of Purification,,40.0,1,19
 fragment,Fragment of Purification,,70.0,9,6
 fragment,Fragment of Purification,,105.0,18,3
@@ -736,6 +740,7 @@ fragment,Chayula's Breachstone,,210.0,100,1
 fragment,Chayula's Breachstone,,210.0,500,1
 fragment,Xoph's Flawless Breachstone,,980.0,1,3
 fragment,Tul's Flawless Breachstone,,1120.0,1,1
+fragment,Esh's Flawless Breachstone,,966.0,1,3
 fragment,Uul-Netol's Flawless Breachstone,,980.0,1,2
 fragment,Chayula's Flawless Breachstone,,1540.0,1,2
 fragment,Timeless Eternal Emblem,,8.0,1,22
@@ -887,6 +892,7 @@ memory-line,Kirac's Memory of Survivor's Guilt,,100.0,1,30
 memory-line,Kirac's Memory of Survivor's Guilt,,140.0,9,2
 memory-line,Kirac's Memory of Phaaryl,,20.0,1,25
 memory-line,Niko's Memory of Grasping Hands,,25.0,1,17
+memory-line,Niko's Memory of Demonic Onslaught,,30.0,1,22
 memory-line,Niko's Memory of Chasms,,28.0,1,20
 memory-line,Niko's Memory of Tormented Souls,,20.0,1,24
 scouting-report,Singular Scouting Report,,1.0,1,20
@@ -925,6 +931,9 @@ scouting-report,Influenced Scouting Report,,5.6000000000000005,18,21
 scouting-report,Influenced Scouting Report,,5.6000000000000005,30,14
 scouting-report,Influenced Scouting Report,,5.6000000000000005,50,9
 scouting-report,Influenced Scouting Report,,5.6000000000000005,100,5
+scouting-report,Delirious Scouting Report,,5.0,1,4
+scouting-report,Delirious Scouting Report,,7.0,9,1
+scouting-report,Delirious Scouting Report,,7.0,18,1
 incubator,Singular Incubator,,1.0,1,22
 incubator,Singular Incubator,,1.0,9,7
 incubator,Singular Incubator,,1.0,18,4
@@ -4255,6 +4264,10 @@ map,Colonnade Map,T16,10.0,9,4
 map,Colonnade Map,T16,10.0,18,2
 map,Colonnade Map,T16,10.0,30,2
 map,Colonnade Map,T16,10.0,50,2
+map,Colosseum Map,T16,6.0,1,20
+map,Colosseum Map,T16,8.0,9,7
+map,Colosseum Map,T16,14.0,18,2
+map,Colosseum Map,T16,140.0,30,1
 map,Core Map,T16,5.0,1,17
 map,Core Map,T16,20.0,9,3
 map,Core Map,T16,20.0,18,1
@@ -4407,9 +4420,10 @@ map,Promenade Map,T16,40.0,50,2
 map,Racecourse Map,T16,8.0,1,16
 map,Racecourse Map,T16,50.0,9,2
 map,Residence Map,T16,5.0,1,27
-map,Residence Map,T16,9.0,9,12
+map,Residence Map,T16,9.0,9,14
 map,Residence Map,T16,9.0,18,8
-map,Residence Map,T16,9.0,30,6
+map,Residence Map,T16,9.0,30,5
+map,Residence Map,T16,10.0,50,1
 map,Relic Chambers Map,T16,5.0,1,20
 map,Relic Chambers Map,T16,8.0,9,7
 map,Relic Chambers Map,T16,12.0,18,4
@@ -4418,20 +4432,19 @@ map,Ramparts Map,T16,8.0,1,20
 map,Ramparts Map,T16,8.0,9,7
 map,Ramparts Map,T16,9.0,18,4
 map,Ramparts Map,T16,10.0,30,2
-map,Shore Map,T16,10.0,1,27
+map,Shore Map,T16,10.0,1,24
 map,Shore Map,T16,15.0,9,14
-map,Shore Map,T16,20.0,18,11
-map,Shore Map,T16,20.0,30,9
-map,Shore Map,T16,20.0,50,6
-map,Shore Map,T16,140.0,100,1
+map,Shore Map,T16,15.0,18,10
+map,Shore Map,T16,15.0,30,8
+map,Shore Map,T16,15.0,50,4
+map,Shore Map,T16,15.0,100,1
 map,Stagnation Map,T16,4.0,1,21
 map,Stagnation Map,T16,5.0,9,14
 map,Stagnation Map,T16,5.0,18,12
 map,Stagnation Map,T16,5.0,30,8
 map,Stagnation Map,T16,5.0,50,4
-map,Siege Map,T16,8.0,1,18
-map,Siege Map,T16,20.0,9,5
-map,Siege Map,T16,24.0,18,2
+map,Siege Map,T16,8.0,1,17
+map,Siege Map,T16,9.0,9,3
 map,Strand Map,T16,5.0,1,39
 map,Strand Map,T16,5.0,9,26
 map,Strand Map,T16,5.0,18,19
@@ -4471,30 +4484,30 @@ map,Wharf Map,T16,140.0,100,1
 map,Wasteland Map,T16,8.0,1,18
 map,Wasteland Map,T16,8.0,9,5
 map,Wasteland Map,T16,8.0,18,1
-map,Vaal Temple Map,T16,9.333333333333334,1,35
-map,Vaal Temple Map,T16,9.333333333333334,9,16
-map,Vaal Temple Map,T16,9.333333333333334,18,10
-map,Vaal Temple Map,T16,9.333333333333334,30,7
-map,Vaal Temple Map,T16,9.333333333333334,50,6
-map,Vaal Temple Map,T16,9.333333333333334,100,2
-map,Vaal Pyramid Map,T16,4.0,1,30
-map,Vaal Pyramid Map,T16,17.5,9,13
-map,Vaal Pyramid Map,T16,17.5,18,10
-map,Vaal Pyramid Map,T16,25.0,30,7
-map,Vaal Pyramid Map,T16,25.0,50,7
-map,Vaal Pyramid Map,T16,140.0,100,2
-map,Waste Pool Map,T16,8.0,1,20
-map,Waste Pool Map,T16,14.0,9,7
-map,Waste Pool Map,T16,14.0,18,5
-map,Waste Pool Map,T16,14.0,30,5
-map,Waste Pool Map,T16,14.0,50,3
+map,Vaal Temple Map,T16,18.0,1,30
+map,Vaal Temple Map,T16,20.21276595744681,9,16
+map,Vaal Temple Map,T16,20.21276595744681,18,10
+map,Vaal Temple Map,T16,20.21276595744681,30,9
+map,Vaal Temple Map,T16,46.666666666666664,50,5
+map,Vaal Temple Map,T16,50.0,100,1
+map,Vaal Pyramid Map,T16,8.0,1,26
+map,Vaal Pyramid Map,T16,8.0,9,12
+map,Vaal Pyramid Map,T16,8.0,18,10
+map,Vaal Pyramid Map,T16,10.0,30,6
+map,Vaal Pyramid Map,T16,10.0,50,6
+map,Vaal Pyramid Map,T16,560.0,100,1
+map,Waste Pool Map,T16,14.0,1,15
+map,Waste Pool Map,T16,14.0,9,6
+map,Waste Pool Map,T16,14.0,18,4
+map,Waste Pool Map,T16,14.0,30,2
+map,Waste Pool Map,T16,10500.0,50,1
 map,Underground River Map,T16,4.0,1,33
 map,Underground River Map,T16,10.0,9,18
 map,Underground River Map,T16,10.0,18,12
 map,Underground River Map,T16,12.727272727272728,30,9
 map,Underground River Map,T16,12.727272727272728,50,5
 map,Underground River Map,T16,140.0,100,2
-map,Blighted Bone Crypt Map,T1,11.0,1,6
+map,Blighted Bone Crypt Map,T1,15.0,1,5
 map,Blighted Dunes Map,T2,5.0,1,2
 map,Blighted Overgrown Shrine Map,T3,280.0,1,2
 map,Blighted Strand Map,T3,50.0,1,4
@@ -4512,6 +4525,7 @@ map,Blighted Canyon Map,T16,40.0,1,3
 map,Blighted Castle Ruins Map,T16,50.0,1,3
 map,Blighted Cemetery Map,T16,140.0,1,2
 map,Blighted Chateau Map,T16,110.0,1,2
+map,Blighted Colonnade Map,T16,140.0,1,1
 map,Blighted City Square Map,T16,50.0,1,3
 map,Blighted City Square Map,T16,50.0,9,1
 map,Blighted Conservatory Map,T16,50.0,1,1
@@ -4519,24 +4533,20 @@ map,Blighted Courtyard Map,T16,50.0,1,2
 map,Blighted Coves Map,T16,50.0,1,3
 map,Blighted Crimson Township Map,T16,50.0,1,1
 map,Blighted Crimson Temple Map,T16,45.0,1,4
-map,Blighted Cursed Crypt Map,T16,100.0,1,1
 map,Blighted Dig Map,T16,50.0,1,1
 map,Blighted Dunes Map,T16,20.0,1,3
 map,Blighted Dunes Map,T16,140.0,9,1
-map,Blighted Dry Sea Map,T16,45.0,1,2
+map,Blighted Dry Sea Map,T16,50.0,1,1
 map,Blighted Flooded Mine Map,T16,50.0,1,3
-map,Blighted Infested Valley Map,T16,140.0,1,2
+map,Blighted Infested Valley Map,T16,100.0,1,3
 map,Blighted Foundry Map,T16,140.0,1,1
-map,Blighted Jungle Valley Map,T16,35.0,1,9
-map,Blighted Jungle Valley Map,T16,35.0,9,2
-map,Blighted Jungle Valley Map,T16,50.0,18,1
-map,Blighted Jungle Valley Map,T16,50.0,30,1
+map,Blighted Jungle Valley Map,T16,45.0,1,9
 map,Blighted Mineral Pools Map,T16,70.0,1,2
 map,Blighted Museum Map,T16,100.0,1,1
 map,Blighted Necropolis Map,T16,100.0,1,2
 map,Blighted Overgrown Shrine Map,T16,50.0,1,2
 map,Blighted Plateau Map,T16,140.0,1,2
-map,Blighted Plaza Map,T16,50.0,1,3
+map,Blighted Plaza Map,T16,50.0,1,2
 map,Blighted Port Map,T16,140.0,1,1
 map,Blighted Precinct Map,T16,50.0,1,1
 map,Blighted Promenade Map,T16,50.0,1,2
@@ -4547,20 +4557,17 @@ map,Blighted Stagnation Map,T16,50.0,1,2
 map,Blighted Thicket Map,T16,280.0,1,1
 map,Blighted Siege Map,T16,50.0,1,2
 map,Blighted Ramparts Map,T16,50.0,1,3
-map,Blighted Relic Chambers Map,T16,45.0,1,3
+map,Blighted Relic Chambers Map,T16,50.0,1,2
 map,Blighted Shore Map,T16,200.0,1,1
 map,Blighted Racecourse Map,T16,55.0,1,3
 map,Blighted Strand Map,T16,50.0,1,5
-map,Blighted Temple Map,T16,45.0,1,6
-map,Blighted Temple Map,T16,200.0,9,1
 map,Blighted Tropical Island Map,T16,200.0,1,2
-map,Blighted Waste Pool Map,T16,50.0,1,6
-map,Blighted Waste Pool Map,T16,50.0,9,2
-map,Blighted Waste Pool Map,T16,50.0,18,2
+map,Blighted Waste Pool Map,T16,60.0,1,5
+map,Blighted Waste Pool Map,T16,65.0,9,2
+map,Blighted Waste Pool Map,T16,90.0,18,1
 map,Blight Ravaged Arid Lake Map,T16,420.0,1,2
 map,Blight Ravaged Arcade Map,T16,420.0,1,1
-map,Blight Ravaged Atoll Map,T16,532.0,1,1
-map,Blight Ravaged Canyon Map,T16,490.0,1,2
+map,Blight Ravaged Atoll Map,T16,560.0,1,1
 map,Blight Ravaged Castle Ruins Map,T16,560.0,1,1
 map,Blight Ravaged Cemetery Map,T16,420.0,1,3
 map,Blight Ravaged City Square Map,T16,700.0,1,1
@@ -4571,25 +4578,23 @@ map,Blight Ravaged Dig Map,T16,406.0,1,1
 map,Blight Ravaged Dry Sea Map,T16,50.0,1,1
 map,Blight Ravaged Dunes Map,T16,560.0,1,1
 map,Blight Ravaged Foundry Map,T16,406.0,1,2
-map,Blight Ravaged Infested Valley Map,T16,560.0,1,1
 map,Blight Ravaged Jungle Valley Map,T16,406.0,1,2
 map,Blight Ravaged Mineral Pools Map,T16,420.0,1,1
-map,Blight Ravaged Moon Temple Map,T16,392.0,1,1
 map,Blight Ravaged Overgrown Shrine Map,T16,406.0,1,1
 map,Blight Ravaged Necropolis Map,T16,420.0,1,1
 map,Blight Ravaged Plaza Map,T16,420.0,1,1
-map,Blight Ravaged Plateau Map,T16,560.0,1,1
 map,Blight Ravaged Precinct Map,T16,406.0,1,1
+map,Blight Ravaged Port Map,T16,560.0,1,1
 map,Blight Ravaged Promenade Map,T16,406.0,1,2
-map,Blight Ravaged Siege Map,T16,406.0,1,3
+map,Blight Ravaged Racecourse Map,T16,280.0,1,1
+map,Blight Ravaged Strand Map,T16,560.0,1,1
+map,Blight Ravaged Siege Map,T16,406.0,1,2
 map,Blight Ravaged Stagnation Map,T16,406.0,1,3
 map,Blight Ravaged Stagnation Map,T16,406.0,9,1
-map,Blight Ravaged Waste Pool Map,T16,406.0,1,2
 map,Blight Ravaged Wasteland Map,T16,406.0,1,1
-map,Blight Ravaged Underground River Map,T16,1400.0,1,1
+map,Blight Ravaged Underground River Map,T16,560.0,1,1
 map,Blight Ravaged Volcano Map,T16,560.0,1,1
 map,Blight Ravaged Underground Sea Map,T16,420.0,1,1
-map,Blight Ravaged Temple Map,T16,560.0,1,1
 map,Acton's Nightmare,T3,3.0,1,13
 map,Acton's Nightmare,T3,7.6923076923076925,9,1
 map,Acton's Nightmare,T16,3.0,1,21
@@ -6804,7 +6809,7 @@ gem,Summon Raging Spirit,corrupted 21/20,980.0,1,1
 gem,Summon Skeletons,clean 20/0,60.0,1,5
 gem,Summon Skeletons,corrupted 20/0,10.0,1,15
 gem,Summon Skeletons,corrupted 21/0,30.0,1,12
-gem,Summon Skeletons,clean 1/20,13.0,1,14
+gem,Summon Skeletons,clean 1/20,1.0,1,8
 gem,Summon Skeletons,clean 20/20,60.0,1,4
 gem,Summon Skeletons,corrupted 20/20,60.0,1,3
 gem,Summon Skeletons,corrupted 21/20,140.0,1,3
@@ -6813,65 +6818,59 @@ gem,Summon Skitterbots,corrupted 20/0,20.0,1,9
 gem,Summon Skitterbots,corrupted 21/0,20.0,1,13
 gem,Summon Skitterbots,clean 1/20,10.0,1,10
 gem,Summon Skitterbots,clean 20/20,55.0,1,2
-gem,Summon Skitterbots,corrupted 20/20,40.0,1,11
+gem,Summon Skitterbots,corrupted 20/20,60.0,1,3
 gem,Summon Skitterbots,corrupted 21/20,630.0,1,1
-gem,Summon Stone Golem,clean 20/0,5.0,1,18
+gem,Summon Stone Golem,clean 20/0,5.0,1,11
 gem,Summon Stone Golem,corrupted 20/0,5.0,1,10
 gem,Summon Stone Golem,corrupted 21/0,5.0,1,21
-gem,Summon Stone Golem,clean 1/20,20.0,1,12
+gem,Summon Stone Golem,clean 1/20,10.0,1,7
 gem,Summon Stone Golem,clean 20/20,75.0,1,1
-gem,Summon Stone Golem,corrupted 20/20,40.0,1,9
+gem,Summon Stone Golem,corrupted 20/20,60.0,1,4
 gem,Summon Stone Golem,corrupted 21/20,560.0,1,7
-gem,Sunder,clean 20/0,60.0,1,9
+gem,Sunder,clean 20/0,20.0,1,7
 gem,Sunder,corrupted 20/0,10.0,1,2
 gem,Sunder,corrupted 21/0,40.0,1,6
-gem,Sunder,clean 1/20,13.0,1,7
+gem,Sunder,clean 1/20,100.0,1,5
 gem,Sunder,clean 20/20,284.0,1,4
 gem,Sunder,corrupted 21/20,40.0,1,3
-gem,Sweep,clean 20/0,5.0,1,3
+gem,Sweep,clean 20/0,5.0,1,1
 gem,Sweep,corrupted 20/0,5.0,1,1
-gem,Sweep,corrupted 21/0,5.0,1,5
+gem,Sweep,corrupted 21/0,74.0,1,1
 gem,Sweep,clean 1/20,10.0,1,2
-gem,Sweep,clean 20/20,80.0,1,1
-gem,Sweep,corrupted 21/20,30.0,1,3
-gem,Swift Affliction Support,clean 20/0,3.0,1,5
-gem,Swift Affliction Support,corrupted 21/0,10.0,1,1
-gem,Swift Affliction Support,clean 1/20,20.0,1,5
+gem,Sweep,corrupted 21/20,74.0,1,1
+gem,Swift Affliction Support,clean 20/0,11.0,1,4
+gem,Swift Affliction Support,corrupted 21/0,140.0,1,1
+gem,Swift Affliction Support,clean 1/20,10.0,1,3
 gem,Swift Affliction Support,clean 20/20,24.0,1,5
-gem,Swift Assembly Support,clean 20/0,10.0,1,3
-gem,Swift Assembly Support,corrupted 20/0,100.0,1,1
-gem,Swift Assembly Support,corrupted 21/0,10.0,1,10
-gem,Swift Assembly Support,clean 1/20,30.0,1,2
-gem,Swift Assembly Support,clean 20/20,30.0,1,2
+gem,Swift Affliction Support,corrupted 20/20,45.0,1,1
+gem,Swift Assembly Support,corrupted 20/0,45.0,1,1
+gem,Swift Assembly Support,corrupted 21/0,10.0,1,5
 gem,Swift Assembly Support,corrupted 21/20,140.0,1,2
 gem,Swiftbrand Support,clean 20/0,35.0,1,6
 gem,Swiftbrand Support,corrupted 20/0,10.0,1,9
-gem,Swiftbrand Support,corrupted 21/0,30.0,1,9
-gem,Swiftbrand Support,clean 1/20,35.0,1,2
-gem,Swiftbrand Support,clean 20/20,35.0,1,1
-gem,Swiftbrand Support,corrupted 20/20,18.0,1,7
+gem,Swiftbrand Support,corrupted 21/0,420.0,1,2
+gem,Swiftbrand Support,clean 1/20,60.0,1,4
+gem,Swiftbrand Support,clean 20/20,60.0,1,4
+gem,Swiftbrand Support,corrupted 20/20,15.0,1,7
 gem,Swiftbrand Support,corrupted 21/20,840.0,1,1
-gem,Tectonic Slam,clean 20/0,15.0,1,3
-gem,Tectonic Slam,corrupted 20/0,20.0,1,4
+gem,Tectonic Slam,corrupted 20/0,2.0,1,5
 gem,Tectonic Slam,corrupted 21/0,10.0,1,5
-gem,Tectonic Slam,clean 1/20,4.0,1,8
-gem,Tectonic Slam,clean 20/20,280.0,1,1
-gem,Tectonic Slam,corrupted 20/20,100.0,1,1
-gem,Tectonic Slam,corrupted 21/20,30.0,1,5
+gem,Tectonic Slam,clean 1/20,45.0,1,1
+gem,Tectonic Slam,corrupted 20/20,2.0,1,5
+gem,Tectonic Slam,corrupted 21/20,15.0,1,3
 gem,Tempest Shield,clean 20/0,8.0,1,13
 gem,Tempest Shield,corrupted 20/0,20.0,1,20
-gem,Tempest Shield,corrupted 21/0,120.0,1,19
+gem,Tempest Shield,corrupted 21/0,110.0,1,10
 gem,Tempest Shield,clean 1/20,29.0,1,14
 gem,Tempest Shield,clean 20/20,70.0,1,2
 gem,Tempest Shield,corrupted 20/20,39.0,1,8
-gem,Tempest Shield,corrupted 21/20,966.0,1,9
+gem,Tempest Shield,corrupted 21/20,980.0,1,2
 gem,Temporal Chains,clean 20/0,12.0,1,9
 gem,Temporal Chains,corrupted 20/0,70.0,1,2
-gem,Temporal Chains,corrupted 21/0,5.0,1,15
-gem,Temporal Chains,clean 1/20,12.0,1,6
-gem,Temporal Chains,clean 20/20,80.0,1,3
+gem,Temporal Chains,corrupted 21/0,20.0,1,10
+gem,Temporal Chains,clean 1/20,15.0,1,2
 gem,Temporal Chains,corrupted 20/20,50.0,1,4
-gem,Temporal Chains,corrupted 21/20,119.0,1,4
+gem,Temporal Chains,corrupted 21/20,120.0,1,3
 gem,Tornado Shot,clean 20/0,8.0,1,18
 gem,Tornado Shot,corrupted 20/0,10.0,1,18
 gem,Tornado Shot,corrupted 21/0,10.0,1,9
@@ -7776,7 +7775,7 @@ compass,Unique Monsters drop Corrupted Items,4,20.0,1,2
 compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,9.0,1,7
 compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,4.0,1,10
 compass,Maps found in your Maps are Corrupted with 8 Modifiers,4,23.739130434782606,1,23
-compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,5.478260869565217,1,12
+compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,10.0,1,14
 compass,Create a copy of Beasts Captured in your Maps,4,25.0,1,7
 compass,25% increased Magic Pack Size,4,8.0,1,11
 compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,7.0,1,3
@@ -7971,7 +7970,7 @@ beast,Wild Bristle Matron,,140.0,1,5
 beast,Wild Hellion Alpha,,896.0,1,6
 beast,Craiceann First of the Deep,,30.0,1,1
 beast,Fenumus First of the Night,,30.0,1,1
-beast,Saqawal First of the Sky,,29.0,1,2
+beast,Saqawal First of the Sky,,29.0,1,3
 map,Enslaver's Map,T16,1.0,1,24
 map,Eradicator's Map,T16,1.0,1,27
 map,Constrictor's Map,T16,1.0,1,29
@@ -9125,35 +9124,33 @@ unique,Wreath of Phrecia,clean,1.0,1,42
 unique,Wreath of Phrecia,corrupted,5.0,1,16
 unique,Balefire,clean,1.0,1,29
 unique,Balefire,corrupted,3.0,1,22
-unique,Replica Siegebreaker,clean,25.0,1,5
-unique,Replica Siegebreaker,corrupted,140.0,1,3
+unique,Replica Siegebreaker,clean,30.0,1,3
+unique,Replica Siegebreaker,corrupted,25.0,1,1
 unique,The Poet's Pen,clean,20.0,1,26
-unique,The Poet's Pen,corrupted,40.0,1,22
+unique,The Poet's Pen,corrupted,40.0,1,17
 unique,Eye of Chayula,clean,1.0,1,39
-unique,Eye of Chayula,corrupted,5.0,1,26
-unique,Apex Mode,clean,3.0,1,6
-unique,Apex Mode,corrupted,20.0,1,2
+unique,Eye of Chayula,corrupted,17.0,1,20
+unique,Apex Mode,clean,2.0,1,6
+unique,Apex Mode,corrupted,25.0,1,2
 unique,Breathstealer,clean,10.0,1,22
-unique,Breathstealer,corrupted,40.0,1,9
+unique,Breathstealer,corrupted,18.0,1,9
 unique,Farrul's Chase,clean,10.0,1,10
 unique,Farrul's Chase,corrupted,70.0,1,1
-unique,Paradoxica,clean,280.0,1,60
-unique,Paradoxica,corrupted,280.0,1,6
+unique,Paradoxica,clean,120.0,1,53
+unique,Paradoxica,corrupted,1400.0,1,5
 unique,Transcendent Mind,clean,90.0,1,3
-unique,Transcendent Mind,corrupted,280.0,1,3
-unique,The Vertex,clean,60.0,1,34
-unique,The Vertex,corrupted,20.0,1,56
-unique,Replica Alberon's Warpath,clean,1400.0,1,25
-unique,Replica Alberon's Warpath,corrupted,1540.0,1,9
-unique,Chain of Endurance,clean,1.0,1,73
+unique,The Vertex,clean,20.0,1,30
+unique,The Vertex,corrupted,1.0,1,36
+unique,Replica Alberon's Warpath,clean,1400.0,1,23
+unique,Replica Alberon's Warpath,corrupted,2100.0,1,5
+unique,Chain of Endurance,clean,1.0,1,65
 unique,Chain of Endurance,corrupted,10.0,1,29
 unique,Hateforge,clean,9800.0,1,2
-unique,Broken Faith,clean,280.0,1,1
-unique,Broken Faith,corrupted,280.0,1,1
-unique,Font of Thunder,clean,10.0,1,7
+unique,Broken Faith,corrupted,700.0,1,1
+unique,Font of Thunder,clean,10.0,1,6
 unique,The Green Dream,clean,60.0,1,5
-unique,The Green Dream,corrupted,25.0,1,3
-unique,Mark of the Red Covenant,clean,1.0,1,51
+unique,The Green Dream,corrupted,25.0,1,2
+unique,Mark of the Red Covenant,clean,1.0,1,32
 unique,Mark of the Red Covenant,corrupted,10.0,1,24
 unique,Valako's Sign,clean,1.0,1,68
 unique,Valako's Sign,corrupted,10.0,1,24
@@ -9907,86 +9904,88 @@ unique,Replica Volkuur's Guidance,corrupted,140.0,1,2
 unique,The Highwayman,clean,1.0,1,72
 unique,The Highwayman,corrupted,5.0,1,36
 unique,Heartbound Loop,clean,1.0,1,71
-unique,Heartbound Loop,corrupted,4.0,1,77
+unique,Heartbound Loop,corrupted,1.0,1,71
 unique,Call of the Brotherhood,clean,3.0,1,88
-unique,Call of the Brotherhood,corrupted,10.0,1,67
-unique,The Supreme Truth,clean,18.0,1,42
-unique,The Supreme Truth,corrupted,20.0,1,9
+unique,Call of the Brotherhood,corrupted,10.0,1,57
+unique,The Supreme Truth,clean,19.0,1,27
+unique,The Supreme Truth,corrupted,25.0,1,7
 unique,Dawnbreaker,clean,30.0,1,95
-unique,Dawnbreaker,corrupted,20.0,1,81
-unique,Mortem Morsu,clean,1.0,1,38
-unique,Mortem Morsu,corrupted,1.0,1,11
-unique,The Three Dragons,clean,1.0,1,41
+unique,Dawnbreaker,corrupted,20.0,1,86
+unique,Mortem Morsu,clean,1.0,1,34
+unique,Mortem Morsu,corrupted,10.0,1,8
+unique,The Three Dragons,clean,1.0,1,27
 unique,The Three Dragons,corrupted,1.0,1,30
-unique,Replica Frostbreath,clean,7.0,1,15
+unique,Replica Frostbreath,clean,35.0,1,14
 unique,Replica Frostbreath,corrupted,25.0,1,8
-unique,Qotra's Regulator,clean,41.0,1,2
+unique,Qotra's Regulator,clean,25.0,1,4
 unique,Brightbeak,clean,1.0,1,32
-unique,Brightbeak,corrupted,1.0,1,16
+unique,Brightbeak,corrupted,30.0,1,6
 unique,Forbidden Shako,clean,15.0,1,44
-unique,Forbidden Shako,corrupted,50.0,1,3
-unique,Scaeva,clean,1.0,1,37
-unique,Scaeva,corrupted,8.0,1,14
-unique,Tempered Flesh,clean,1.0,1,18
-unique,Maw of Mischief,clean,9.0,1,42
-unique,Maw of Mischief,corrupted,10.0,1,10
-unique,Mark of the Doubting Knight,clean,1.0,1,32
+unique,Forbidden Shako,corrupted,140.0,1,2
+unique,Scaeva,clean,1.0,1,35
+unique,Scaeva,corrupted,20.0,1,8
+unique,Tempered Flesh,clean,1.0,1,14
+unique,Tempered Flesh,corrupted,90.0,1,1
+unique,Maw of Mischief,clean,10.0,1,25
+unique,Maw of Mischief,corrupted,140.0,1,9
+unique,Mark of the Doubting Knight,clean,1.0,1,27
 unique,Mark of the Doubting Knight,corrupted,10.0,1,11
-unique,Replica Tempestuous Steel,clean,8.0,1,6
-unique,Tainted Pact,clean,2.0,1,24
-unique,Tainted Pact,corrupted,20.0,1,22
-unique,Rotblood Promise,clean,15.0,1,6
+unique,Replica Tempestuous Steel,clean,120.0,1,2
+unique,Replica Tempestuous Steel,corrupted,280.0,1,1
+unique,Tainted Pact,clean,2.0,1,17
+unique,Tainted Pact,corrupted,9.0,1,17
+unique,Rotblood Promise,clean,15.0,1,5
 unique,Rotblood Promise,corrupted,100.0,1,1
 unique,Steelworm,clean,140.0,1,3
 unique,Voices,corrupted,9.0,1,59
-unique,Mask of the Stitched Demon,clean,350.0,1,6
-unique,Cowl of the Thermophile,clean,1960.0,1,7
-unique,Cowl of the Thermophile,corrupted,40.0,1,4
-unique,Mark of the Elder,clean,4.0,1,29
+unique,Mask of the Stitched Demon,clean,350.0,1,3
+unique,Cowl of the Thermophile,clean,2800.0,1,3
+unique,Cowl of the Thermophile,corrupted,100.0,1,4
+unique,Mark of the Elder,clean,10.0,1,21
 unique,Mark of the Elder,corrupted,10.0,1,12
 unique,The Magnate,clean,12.0,1,70
-unique,The Magnate,corrupted,15.0,1,71
+unique,The Magnate,corrupted,18.0,1,62
 unique,Replica Cold Iron Point,corrupted,60.0,1,1
 unique,Replica Abyssus,clean,15.0,1,11
-unique,Replica Abyssus,corrupted,5600.0,1,1
-unique,Combat Focus,corrupted,140.0,1,3
-unique,Natural Affinity,clean,40.0,1,17
-unique,Natural Affinity,corrupted,57.0,1,16
+unique,Combat Focus,clean,700.0,1,1
+unique,Combat Focus,corrupted,1120.0,1,1
+unique,Natural Affinity,clean,40.0,1,14
+unique,Natural Affinity,corrupted,40.0,1,16
 unique,Meginord's Girdle,clean,1.0,1,65
-unique,Meginord's Girdle,corrupted,1.0,1,56
-unique,Last Resort,clean,1.0,1,45
-unique,Last Resort,corrupted,10.0,1,10
-unique,Warrior's Legacy,clean,5.0,1,14
+unique,Meginord's Girdle,corrupted,2.0,1,34
+unique,Last Resort,clean,1.0,1,35
+unique,Last Resort,corrupted,10.0,1,8
+unique,Warrior's Legacy,clean,5.0,1,11
 unique,Warrior's Legacy,corrupted,25.0,1,7
 unique,Impresence,clean,1.0,1,83
 unique,Impresence,corrupted,35.0,1,12
-unique,Amanamu's Gaze,clean,140.0,1,21
-unique,Amanamu's Gaze,corrupted,110.0,1,8
-unique,Esh's Mirror,clean,10.0,1,15
-unique,Esh's Mirror,corrupted,60.0,1,4
+unique,Amanamu's Gaze,clean,140.0,1,27
+unique,Amanamu's Gaze,corrupted,420.0,1,3
+unique,Esh's Mirror,clean,5.0,1,12
+unique,Esh's Mirror,corrupted,25.0,1,5
 unique,Yoke of Suffering,clean,3.0,1,92
-unique,Yoke of Suffering,corrupted,5.0,1,55
-unique,Craiceann's Tracks,clean,10.0,1,16
+unique,Yoke of Suffering,corrupted,4.0,1,50
+unique,Craiceann's Tracks,clean,10.0,1,8
 unique,Craiceann's Tracks,corrupted,140.0,1,1
-unique,Mutewind Seal,clean,2.0,1,2
-unique,Mutewind Seal,corrupted,50.0,1,4
-unique,Coward's Chains,clean,20.0,1,11
+unique,Mutewind Seal,clean,100.0,1,1
+unique,Mutewind Seal,corrupted,50.0,1,3
+unique,Coward's Chains,clean,20.0,1,5
 unique,Mutewind Pennant,clean,1.0,1,6
-unique,Mutewind Pennant,corrupted,5.0,1,5
-unique,Atziri's Step,clean,8.0,1,29
+unique,Mutewind Pennant,corrupted,100.0,1,5
+unique,Atziri's Step,clean,2.0,1,22
 unique,Atziri's Step,corrupted,10.0,1,15
 unique,The Golden Rule,corrupted,1.0,1,50
 unique,Assailum,clean,2.0,1,29
-unique,Assailum,corrupted,20.0,1,21
+unique,Assailum,corrupted,20.0,1,14
 unique,Prismweave,clean,1.0,1,63
-unique,Prismweave,corrupted,7.0,1,40
+unique,Prismweave,corrupted,4.0,1,38
 unique,Facebreaker,clean,1.0,1,38
-unique,Facebreaker,corrupted,1.0,1,94
-unique,Stormseeker,clean,1.0,1,71
+unique,Facebreaker,corrupted,5.0,1,89
+unique,Stormseeker,clean,1.0,1,56
 unique,Stormseeker,corrupted,1.0,1,31
-unique,Replica Allelopathy,clean,2.0,1,4
-unique,Kitava's Teachings,clean,5.0,1,9
-unique,Kitava's Teachings,corrupted,20.0,1,5
+unique,Replica Allelopathy,clean,3.0,1,4
+unique,Kitava's Teachings,clean,5.0,1,6
+unique,Kitava's Teachings,corrupted,17.0,1,7
 unique,Pacifism,corrupted,1.0,1,25
 unique,Shavronne's Revelation,clean,30.0,1,37
 unique,Shavronne's Revelation,corrupted,30.0,1,34
