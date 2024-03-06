@@ -1,12 +1,12 @@
 tag,name,description,price,min_stock,totalValidListings
 currency,Divine Orb,,149.0,59108,22
-currency,Awakened Sextant,,1.9102564102564101,205579,28
+currency,Awakened Sextant,,1.9866666666666668,230380,29
 currency,Orb of Alteration,,0.1,772279,28
 currency,Orb of Fusing,,0.16555555555555557,236981,38
-currency,Orb of Alchemy,,0.06666666666666667,252448,38
+currency,Orb of Alchemy,,0.049019607843137254,222511,38
 currency,Chaos Orb,,0.9933333333333334,564968,18
 currency,Gemcutter's Prism,,3.0,40177,20
-currency,Exalted Orb,,11.174999999999999,100629,32
+currency,Exalted Orb,,11.174999999999999,96372,32
 currency,Chromatic Orb,,0.13545454545454547,260551,41
 currency,Jeweller's Orb,,0.0625,319562,32
 currency,Engineer's Orb,,0.16666666666666666,2270,12
@@ -19,8 +19,8 @@ currency,Regal Orb,,0.6772727272727272,58096,33
 currency,Vaal Orb,,1.0,205072,28
 currency,Orb of Annulment,,0.07692307692307693,56111,29
 currency,Orb of Binding,,0.04608294930875576,31880,35
-currency,Ancient Orb,,4.5,2535,29
-currency,Orb of Horizons,,0.46875,70456,30
+currency,Ancient Orb,,0.058823529411764705,2695,34
+currency,Orb of Horizons,,0.39473684210526316,80646,32
 currency,Harbinger's Orb,,8.0,3012,25
 currency,Fracturing Orb,,4321.0,62,10
 currency,Scroll of Wisdom,,0.008333333333333333,131913,31
@@ -33,20 +33,20 @@ currency,Orb of Augmentation,,0.06666666666666667,258007,38
 currency,Mirror of Kalandra,,169860.0,131,17
 currency,Rogue's Marker,,0.006578947368421052,4940003,31
 currency,Facetor's Lens,,50.0,59,14
-currency,Tempering Orb,,193.70000000000002,111,16
+currency,Tempering Orb,,193.70000000000002,93,14
 currency,Tailoring Orb,,372.5,165,16
 currency,Elevated Sextant,,298.0,844,11
-currency,Surveyor's Compass,,0.813953488372093,5828,25
+currency,Surveyor's Compass,,0.813953488372093,5152,25
 currency,Orb of Unmaking,,0.5518518518518519,164773,37
 currency,Blessing of Xoph,,596.0,17,6
-currency,Blessing of Tul,,521.5,18,5
+currency,Blessing of Tul,,596.0,17,5
 currency,Blessing of Esh,,596.0,16,4
 currency,Blessing of Uul-Netol,,596.0,11,6
-currency,Blessing of Chayula,,953.6,15,6
+currency,Blessing of Chayula,,894.0,8,5
 currency,Veiled Chaos Orb,,2.709090909090909,30896,32
 currency,Enkindling Orb,,0.9933333333333334,62428,30
 currency,Instilling Orb,,0.1568421052631579,128073,50
-currency,Sacred Orb,,21.285714285714285,4784,20
+currency,Sacred Orb,,21.285714285714285,4842,20
 currency,Stacked Deck,,3.6341463414634148,84129,17
 currency,Crusader's Exalted Orb,,70.0,114,14
 currency,Redeemer's Exalted Orb,,74.5,58,10
@@ -58,14 +58,14 @@ currency,Eldritch Chaos Orb,,16.555555555555554,21110,17
 currency,Eldritch Exalted Orb,,5.0,25397,21
 currency,Eldritch Orb of Annulment,,1.231404958677686,23362,30
 currency,Greater Eldritch Ember,,3.0,27629,39
-currency,Lesser Eldritch Ember,,0.4782608695652174,79243,32
+currency,Lesser Eldritch Ember,,0.375,74162,32
 currency,Grand Eldritch Ember,,20.694444444444446,14054,22
 currency,Exceptional Eldritch Ember,,223.5,58,8
 currency,Lesser Eldritch Ichor,,0.33,83061,41
 currency,Greater Eldritch Ichor,,0.4966666666666667,65751,27
 currency,Grand Eldritch Ichor,,2.0,111716,39
 currency,Sacred Crystallised Lifeforce,,745.0,132,11
-currency,Primal Crystallised Lifeforce,,0.05136159944846605,2690126,18
+currency,Primal Crystallised Lifeforce,,0.05136159944846605,2872682,19
 currency,Vivid Crystallised Lifeforce,,0.09933333333333333,4171130,28
 currency,Wild Crystallised Lifeforce,,0.055185185185185184,3540043,12
 currency,Tainted Divine Teardrop,,894.0,41,13
@@ -192,7 +192,7 @@ scouting-report,Influenced Scouting Report,,5.96,1827,32
 scouting-report,Delirious Scouting Report,,1.0,104,7
 incubator,Singular Incubator,,1.0,422,15
 incubator,Cartographer's Incubator,,0.9,397,13
-incubator,Otherworldly Incubator,,1.0,426,18
+incubator,Otherworldly Incubator,,1.0,280,12
 incubator,Abyssal Incubator,,0.5,963,13
 incubator,Fragmented Incubator,,0.9,2099,20
 incubator,Infused Incubator,,1.0,1082,17
@@ -1344,7 +1344,7 @@ gem,Brutality Support,clean 20/0,5.0,5,5
 gem,Brutality Support,corrupted 20/0,20.0,1,1
 gem,Brutality Support,corrupted 21/0,100.0,2,2
 gem,Brutality Support,clean 1/20,20.0,13,5
-gem,Brutality Support,clean 20/20,40.0,1,1
+gem,Brutality Support,clean 20/20,15.0,6,6
 gem,Brutality Support,corrupted 21/20,100.0,2,2
 gem,Burning Arrow,clean 20/0,10.0,5,5
 gem,Burning Arrow,corrupted 20/0,25.0,3,3
@@ -1549,7 +1549,7 @@ gem,Corrupting Fever,corrupted 21/20,298.0,3,3
 gem,Crackling Lance,clean 20/0,4.0,8,8
 gem,Crackling Lance,corrupted 20/0,75.0,2,2
 gem,Crackling Lance,corrupted 21/0,70.0,6,4
-gem,Crackling Lance,clean 1/20,4.0,11,9
+gem,Crackling Lance,clean 1/20,25.0,4,4
 gem,Crackling Lance,clean 20/20,70.0,3,3
 gem,Crackling Lance,corrupted 20/20,75.0,3,3
 gem,Crackling Lance,corrupted 21/20,70.0,3,3
@@ -1597,7 +1597,7 @@ gem,Damage on Full Life Support,corrupted 20/20,25.0,3,3
 gem,Damage on Full Life Support,corrupted 21/20,357.59999999999997,2,2
 gem,Dark Pact,clean 20/0,9.0,4,4
 gem,Dark Pact,corrupted 20/0,15.0,3,3
-gem,Dark Pact,corrupted 21/0,5.0,12,12
+gem,Dark Pact,corrupted 21/0,25.0,5,5
 gem,Dark Pact,clean 1/20,8.0,2,2
 gem,Dark Pact,clean 20/20,30.0,1,1
 gem,Dark Pact,corrupted 20/20,15.0,2,2
@@ -1830,7 +1830,7 @@ gem,Exsanguinate,corrupted 21/0,20.0,5,5
 gem,Exsanguinate,clean 1/20,5.0,4,3
 gem,Exsanguinate,clean 20/20,45.0,1,1
 gem,Exsanguinate,corrupted 21/20,80.0,3,3
-gem,Faster Attacks Support,clean 20/0,5.0,23,17
+gem,Faster Attacks Support,clean 20/0,5.0,15,15
 gem,Faster Attacks Support,corrupted 20/0,30.0,27,18
 gem,Faster Attacks Support,corrupted 21/0,10.0,6,5
 gem,Faster Attacks Support,clean 1/20,30.0,6,6
@@ -1893,7 +1893,7 @@ gem,Flame Dash,corrupted 21/0,8.0,4,4
 gem,Flame Dash,clean 1/20,59.0,12,9
 gem,Flame Dash,clean 20/20,140.0,8,6
 gem,Flame Dash,corrupted 20/20,100.0,5,5
-gem,Flame Dash,corrupted 21/20,804.6,5,5
+gem,Flame Dash,corrupted 21/20,745.0,2,2
 gem,Flame Surge,clean 20/0,13.0,12,12
 gem,Flame Surge,corrupted 20/0,80.0,15,7
 gem,Flame Surge,corrupted 21/0,20.0,10,10
@@ -1937,7 +1937,7 @@ gem,Flicker Strike,corrupted 21/0,10.0,9,9
 gem,Flicker Strike,clean 1/20,15.0,15,8
 gem,Flicker Strike,clean 20/20,30.0,13,6
 gem,Flicker Strike,corrupted 21/20,745.0,2,2
-gem,Fork Support,clean 20/0,35.0,4,4
+gem,Fork Support,clean 20/0,60.0,1,1
 gem,Fork Support,corrupted 20/0,20.0,11,10
 gem,Fork Support,corrupted 21/0,298.0,2,2
 gem,Fork Support,clean 1/20,10.0,5,5
@@ -2014,7 +2014,7 @@ gem,Galvanic Arrow,corrupted 21/0,5.0,6,6
 gem,Galvanic Arrow,clean 1/20,5.0,4,4
 gem,Galvanic Arrow,clean 20/20,149.0,1,1
 gem,Galvanic Arrow,corrupted 20/20,130.0,2,2
-gem,Galvanic Arrow,corrupted 21/20,40.0,2,2
+gem,Galvanic Arrow,corrupted 21/20,80.0,1,1
 gem,General's Cry,clean 20/0,19.0,6,6
 gem,General's Cry,corrupted 20/0,60.0,3,3
 gem,General's Cry,corrupted 21/0,25.0,6,6
@@ -2036,7 +2036,7 @@ gem,Glacial Cascade,clean 1/20,34.0,2,2
 gem,Glacial Cascade,clean 20/20,34.0,1,1
 gem,Glacial Cascade,corrupted 20/20,78.0,2,2
 gem,Glacial Hammer,clean 20/0,5.0,2,2
-gem,Glacial Hammer,corrupted 20/0,5.0,2,2
+gem,Glacial Hammer,corrupted 20/0,75.0,1,1
 gem,Glacial Hammer,corrupted 21/0,25.0,8,5
 gem,Glacial Hammer,clean 1/20,894.0,1,1
 gem,Glacial Hammer,corrupted 21/20,25.0,3,3
@@ -2044,7 +2044,6 @@ gem,Grace,clean 20/0,18.0,34,14
 gem,Grace,corrupted 20/0,8.0,37,20
 gem,Grace,corrupted 21/0,149.0,18,18
 gem,Grace,clean 1/20,149.0,1,1
-gem,Grace,clean 20/20,140.0,1,1
 gem,Grace,corrupted 20/20,149.0,2,2
 gem,Grace,corrupted 21/20,1043.0,3,2
 gem,Greater Multiple Projectiles Support,clean 20/0,15.0,7,4
@@ -2071,7 +2070,7 @@ gem,Haste,clean 20/0,10.0,25,12
 gem,Haste,corrupted 20/0,5.0,37,21
 gem,Haste,corrupted 21/0,100.0,38,30
 gem,Haste,clean 1/20,50.0,4,4
-gem,Haste,clean 20/20,100.0,3,3
+gem,Haste,clean 20/20,100.0,2,2
 gem,Haste,corrupted 20/20,35.0,4,4
 gem,Haste,corrupted 21/20,298.0,3,3
 gem,Hatred,clean 20/0,10.0,20,9
@@ -2187,7 +2186,6 @@ gem,Ice Trap,corrupted 21/0,9.0,6,6
 gem,Ice Trap,clean 1/20,10.0,4,4
 gem,Ice Trap,clean 20/20,35.0,3,3
 gem,Ice Trap,corrupted 20/20,5.0,1,1
-gem,Ice Trap,corrupted 21/20,447.0,1,1
 gem,Icicle Mine,clean 20/0,35.0,2,2
 gem,Icicle Mine,corrupted 20/0,15.0,2,2
 gem,Icicle Mine,corrupted 21/0,5.0,6,6
@@ -2226,7 +2224,7 @@ gem,Incinerate,corrupted 21/0,15.0,8,8
 gem,Incinerate,clean 1/20,30.0,2,2
 gem,Incinerate,clean 20/20,149.0,1,1
 gem,Incinerate,corrupted 21/20,40.0,1,1
-gem,Increased Area of Effect Support,clean 20/0,39.0,6,5
+gem,Increased Area of Effect Support,clean 20/0,20.0,4,4
 gem,Increased Area of Effect Support,corrupted 20/0,30.0,8,8
 gem,Increased Area of Effect Support,corrupted 21/0,25.0,6,6
 gem,Increased Area of Effect Support,clean 1/20,60.0,2,2
@@ -2267,7 +2265,6 @@ gem,Infernal Cry,clean 20/20,75.0,1,1
 gem,Infernal Cry,corrupted 20/20,70.0,1,1
 gem,Infernal Cry,corrupted 21/20,80.0,3,3
 gem,Infernal Legion Support,clean 20/0,50.0,1,1
-gem,Infernal Legion Support,corrupted 20/0,35.0,3,3
 gem,Infernal Legion Support,corrupted 21/0,30.0,3,3
 gem,Infernal Legion Support,clean 1/20,50.0,4,4
 gem,Infernal Legion Support,clean 20/20,50.0,1,1
@@ -2289,7 +2286,7 @@ gem,Innervate Support,corrupted 21/20,298.0,2,2
 gem,Inspiration Support,clean 20/0,20.0,27,18
 gem,Inspiration Support,corrupted 20/0,15.0,53,31
 gem,Inspiration Support,corrupted 21/0,60.0,14,13
-gem,Inspiration Support,clean 1/20,20.0,15,13
+gem,Inspiration Support,clean 1/20,25.0,5,5
 gem,Inspiration Support,clean 20/20,40.0,2,2
 gem,Inspiration Support,corrupted 20/20,20.0,37,17
 gem,Inspiration Support,corrupted 21/20,581.1,12,11
@@ -2297,6 +2294,7 @@ gem,Intensify Support,clean 20/0,40.0,2,2
 gem,Intensify Support,corrupted 20/0,30.0,3,2
 gem,Intensify Support,corrupted 21/0,20.0,4,4
 gem,Intensify Support,clean 1/20,149.0,1,1
+gem,Intensify Support,clean 20/20,149.0,1,1
 gem,Intensify Support,corrupted 21/20,298.0,1,1
 gem,Intimidating Cry,clean 20/0,9.0,1,1
 gem,Intimidating Cry,corrupted 20/0,20.0,2,2
@@ -2309,17 +2307,16 @@ gem,Iron Grip Support,corrupted 21/0,3.0,5,5
 gem,Iron Grip Support,clean 1/20,10.0,3,3
 gem,Iron Grip Support,clean 20/20,20.0,1,1
 gem,Iron Grip Support,corrupted 21/20,25.0,3,3
-gem,Iron Will Support,clean 20/0,39.0,2,1
 gem,Iron Will Support,corrupted 21/0,3.0,3,3
 gem,Iron Will Support,clean 1/20,79.0,1,1
 gem,Item Rarity Support,clean 20/0,5.0,13,11
 gem,Item Rarity Support,corrupted 20/0,5.0,25,21
-gem,Item Rarity Support,corrupted 21/0,5.0,6,6
+gem,Item Rarity Support,corrupted 21/0,5.0,15,8
 gem,Item Rarity Support,clean 1/20,30.0,4,4
 gem,Item Rarity Support,clean 20/20,30.0,4,4
 gem,Item Rarity Support,corrupted 20/20,19.0,4,4
 gem,Item Rarity Support,corrupted 21/20,447.0,2,2
-gem,Kinetic Blast,clean 20/0,20.0,6,6
+gem,Kinetic Blast,clean 20/0,13.0,3,3
 gem,Kinetic Blast,corrupted 20/0,10.0,6,6
 gem,Kinetic Blast,corrupted 21/0,20.0,7,6
 gem,Kinetic Blast,clean 1/20,80.0,1,1
@@ -2350,18 +2347,18 @@ gem,Lancing Steel,corrupted 21/20,20.0,5,4
 gem,Leap Slam,clean 20/0,6.0,8,7
 gem,Leap Slam,corrupted 20/0,90.0,4,4
 gem,Leap Slam,corrupted 21/0,35.0,3,2
-gem,Leap Slam,clean 1/20,20.0,4,4
+gem,Leap Slam,clean 1/20,149.0,3,2
 gem,Leap Slam,corrupted 20/20,90.0,3,3
 gem,Less Duration Support,clean 20/0,20.0,1,1
-gem,Less Duration Support,corrupted 20/0,149.0,2,2
+gem,Less Duration Support,corrupted 20/0,15.0,3,3
 gem,Less Duration Support,corrupted 21/0,20.0,8,8
 gem,Less Duration Support,clean 1/20,100.0,2,2
-gem,Less Duration Support,clean 20/20,149.0,2,2
 gem,Less Duration Support,corrupted 20/20,298.0,1,1
 gem,Less Duration Support,corrupted 21/20,298.0,4,4
 gem,Lesser Multiple Projectiles Support,clean 20/0,5.0,3,3
 gem,Lesser Multiple Projectiles Support,corrupted 20/0,40.0,2,2
 gem,Lesser Multiple Projectiles Support,clean 1/20,25.0,2,2
+gem,Lesser Multiple Projectiles Support,clean 20/20,25.0,1,1
 gem,Life Gain on Hit Support,clean 20/0,15.0,6,6
 gem,Life Gain on Hit Support,corrupted 21/0,20.0,3,3
 gem,Life Gain on Hit Support,clean 1/20,12.0,5,5
@@ -2370,11 +2367,11 @@ gem,Life Leech Support,clean 20/0,5.0,3,3
 gem,Life Leech Support,corrupted 20/0,50.0,1,1
 gem,Life Leech Support,corrupted 21/0,3.0,5,5
 gem,Life Leech Support,clean 1/20,10.0,2,2
-gem,Life Leech Support,corrupted 21/20,25.0,1,1
+gem,Life Leech Support,corrupted 21/20,149.0,1,1
 gem,Lifetap Support,clean 20/0,20.0,8,7
-gem,Lifetap Support,corrupted 20/0,9.0,16,16
+gem,Lifetap Support,corrupted 20/0,20.0,15,14
 gem,Lifetap Support,corrupted 21/0,149.0,8,5
-gem,Lifetap Support,clean 1/20,30.0,16,10
+gem,Lifetap Support,clean 1/20,30.0,10,3
 gem,Lifetap Support,clean 20/20,40.0,1,1
 gem,Lifetap Support,corrupted 20/20,29.0,7,7
 gem,Lifetap Support,corrupted 21/20,596.0,6,3
@@ -2388,12 +2385,12 @@ gem,Lightning Arrow,corrupted 21/20,120.0,6,5
 gem,Lightning Penetration Support,corrupted 20/0,19.0,4,4
 gem,Lightning Penetration Support,corrupted 21/0,39.0,5,4
 gem,Lightning Penetration Support,clean 1/20,20.0,2,2
-gem,Lightning Penetration Support,corrupted 20/20,27.0,5,5
+gem,Lightning Penetration Support,corrupted 20/20,19.0,4,4
 gem,Lightning Penetration Support,corrupted 21/20,80.0,2,2
 gem,Lightning Spire Trap,clean 20/0,10.0,4,4
 gem,Lightning Spire Trap,corrupted 20/0,80.0,4,3
 gem,Lightning Spire Trap,corrupted 21/0,20.0,5,4
-gem,Lightning Spire Trap,clean 1/20,39.0,6,6
+gem,Lightning Spire Trap,clean 1/20,9.0,7,7
 gem,Lightning Spire Trap,clean 20/20,40.0,2,2
 gem,Lightning Spire Trap,corrupted 20/20,80.0,2,1
 gem,Lightning Spire Trap,corrupted 21/20,20.0,4,3
@@ -2405,39 +2402,40 @@ gem,Lightning Strike,clean 20/20,149.0,2,2
 gem,Lightning Strike,corrupted 21/20,111.0,12,8
 gem,Lightning Tendrils,clean 20/0,39.0,3,3
 gem,Lightning Tendrils,corrupted 20/0,20.0,6,6
-gem,Lightning Tendrils,corrupted 21/0,2.0,4,4
-gem,Lightning Tendrils,clean 1/20,20.0,2,2
+gem,Lightning Tendrils,corrupted 21/0,18.0,1,1
+gem,Lightning Tendrils,clean 1/20,5.0,4,4
 gem,Lightning Trap,clean 20/0,20.0,4,3
-gem,Lightning Trap,corrupted 20/0,745.0,1,1
+gem,Lightning Trap,corrupted 20/0,40.0,1,1
 gem,Lightning Trap,corrupted 21/0,5.0,5,5
-gem,Lightning Trap,clean 1/20,10.0,8,5
+gem,Lightning Trap,clean 1/20,80.0,2,2
 gem,Lightning Trap,clean 20/20,90.0,1,1
 gem,Lightning Trap,corrupted 21/20,60.0,1,1
 gem,Lightning Warp,clean 20/0,100.0,1,1
 gem,Lightning Warp,corrupted 20/0,60.0,4,4
-gem,Lightning Warp,corrupted 21/0,39.0,9,9
-gem,Lightning Warp,clean 1/20,9.0,6,5
+gem,Lightning Warp,corrupted 21/0,10.0,8,8
+gem,Lightning Warp,clean 1/20,100.0,1,1
 gem,Lightning Warp,clean 20/20,100.0,1,1
 gem,Lightning Warp,corrupted 20/20,60.0,2,2
 gem,Lightning Warp,corrupted 21/20,100.0,5,5
 gem,Maim Support,clean 20/0,10.0,5,5
-gem,Maim Support,corrupted 20/0,30.0,4,3
+gem,Maim Support,corrupted 20/0,60.0,6,3
 gem,Maim Support,corrupted 21/0,596.0,1,1
 gem,Maim Support,clean 1/20,20.0,3,3
 gem,Maim Support,clean 20/20,55.0,3,3
 gem,Maim Support,corrupted 20/20,123.0,4,1
 gem,Maim Support,corrupted 21/20,596.0,1,1
 gem,Malevolence,clean 20/0,15.0,19,8
-gem,Malevolence,corrupted 20/0,5.0,24,10
+gem,Malevolence,corrupted 20/0,10.0,13,8
 gem,Malevolence,corrupted 21/0,149.0,11,11
 gem,Malevolence,clean 1/20,25.0,4,4
 gem,Malevolence,clean 20/20,90.0,2,2
 gem,Malevolence,corrupted 20/20,40.0,1,1
 gem,Malevolence,corrupted 21/20,1341.0,2,2
 gem,Mana Leech Support,clean 20/0,5.0,2,2
+gem,Mana Leech Support,corrupted 20/0,75.0,1,1
 gem,Mana Leech Support,corrupted 21/0,249.0,2,2
 gem,Mana Leech Support,clean 1/20,4.0,1,1
-gem,Mana Leech Support,corrupted 21/20,447.0,1,1
+gem,Mana Leech Support,corrupted 21/20,1192.0,1,1
 gem,Meat Shield Support,clean 20/0,50.0,7,5
 gem,Meat Shield Support,corrupted 20/0,20.0,19,16
 gem,Meat Shield Support,corrupted 21/0,100.0,6,5
@@ -2457,14 +2455,14 @@ gem,Melee Splash Support,corrupted 21/0,4.0,3,3
 gem,Melee Splash Support,clean 1/20,40.0,4,4
 gem,Melee Splash Support,clean 20/20,10.0,2,2
 gem,Melee Splash Support,corrupted 20/20,1043.0,1,1
-gem,Melee Splash Support,corrupted 21/20,70.0,1,1
+gem,Melee Splash Support,corrupted 21/20,40.0,2,2
 gem,Minefield Support,clean 20/0,20.0,5,5
 gem,Minefield Support,corrupted 20/0,30.0,2,1
 gem,Minefield Support,corrupted 21/0,10.0,3,2
 gem,Minefield Support,clean 1/20,25.0,2,2
 gem,Minefield Support,clean 20/20,60.0,1,1
 gem,Minefield Support,corrupted 21/20,298.0,4,4
-gem,Minion Damage Support,clean 20/0,4.0,9,9
+gem,Minion Damage Support,clean 20/0,5.0,9,8
 gem,Minion Damage Support,corrupted 20/0,20.0,1,1
 gem,Minion Damage Support,corrupted 21/0,20.0,4,4
 gem,Minion Damage Support,clean 1/20,9.0,3,3
@@ -2482,13 +2480,12 @@ gem,Minion Speed Support,clean 20/0,1.0,5,5
 gem,Minion Speed Support,corrupted 20/0,30.0,2,2
 gem,Minion Speed Support,corrupted 21/0,7.0,5,4
 gem,Minion Speed Support,clean 1/20,9.0,3,3
-gem,Minion Speed Support,corrupted 20/20,29.0,4,4
+gem,Minion Speed Support,corrupted 20/20,45.0,1,1
 gem,Minion Speed Support,corrupted 21/20,149.0,1,1
 gem,Mirage Archer Support,clean 20/0,3.0,8,8
 gem,Mirage Archer Support,corrupted 20/0,5.0,25,18
 gem,Mirage Archer Support,corrupted 21/0,10.0,5,5
 gem,Mirage Archer Support,clean 1/20,10.0,2,2
-gem,Mirage Archer Support,clean 20/20,30.0,5,5
 gem,Mirage Archer Support,corrupted 20/20,25.0,10,7
 gem,Mirage Archer Support,corrupted 21/20,223.5,1,1
 gem,Mirror Arrow,clean 20/0,4.0,24,17
@@ -2499,7 +2496,7 @@ gem,Mirror Arrow,clean 20/20,20.0,14,6
 gem,Mirror Arrow,corrupted 20/20,25.0,7,6
 gem,Mirror Arrow,corrupted 21/20,35.0,2,2
 gem,Molten Shell,clean 20/0,10.0,16,15
-gem,Molten Shell,corrupted 20/0,10.0,17,13
+gem,Molten Shell,corrupted 20/0,30.0,11,8
 gem,Molten Shell,corrupted 21/0,10.0,16,15
 gem,Molten Shell,clean 1/20,50.0,6,6
 gem,Molten Shell,clean 20/20,99.0,2,2
@@ -2508,7 +2505,7 @@ gem,Molten Shell,corrupted 21/20,327.8,4,4
 gem,Molten Strike,clean 20/0,25.0,2,2
 gem,Molten Strike,corrupted 20/0,20.0,17,12
 gem,Molten Strike,corrupted 21/0,9.0,13,12
-gem,Molten Strike,clean 1/20,25.0,6,6
+gem,Molten Strike,clean 1/20,25.0,5,5
 gem,Molten Strike,corrupted 20/20,40.0,6,6
 gem,Molten Strike,corrupted 21/20,1341.0,9,6
 gem,Multiple Totems Support,clean 20/0,2.0,8,8
@@ -2523,13 +2520,13 @@ gem,Multiple Traps Support,corrupted 20/0,60.0,2,2
 gem,Multiple Traps Support,corrupted 21/0,745.0,1,1
 gem,Multiple Traps Support,clean 1/20,5.0,1,1
 gem,Multistrike Support,clean 20/0,9.0,7,7
-gem,Multistrike Support,corrupted 20/0,5.0,17,15
+gem,Multistrike Support,corrupted 20/0,8.0,10,8
 gem,Multistrike Support,corrupted 21/0,90.0,4,4
 gem,Multistrike Support,clean 1/20,35.0,8,8
 gem,Multistrike Support,clean 20/20,149.0,2,2
-gem,Multistrike Support,corrupted 20/20,20.0,10,9
+gem,Multistrike Support,corrupted 20/20,20.0,5,4
 gem,Multistrike Support,corrupted 21/20,596.0,2,2
-gem,Nightblade Support,clean 20/0,20.0,4,3
+gem,Nightblade Support,clean 20/0,45.0,6,3
 gem,Nightblade Support,corrupted 20/0,14.9,4,4
 gem,Nightblade Support,corrupted 21/0,745.0,1,1
 gem,Nightblade Support,clean 1/20,10.0,6,3
@@ -2540,8 +2537,8 @@ gem,Momentum Support,clean 20/0,10.0,5,5
 gem,Momentum Support,corrupted 20/0,45.0,9,4
 gem,Momentum Support,corrupted 21/0,10.0,7,7
 gem,Momentum Support,clean 1/20,40.0,3,3
-gem,Momentum Support,corrupted 20/20,30.0,2,2
-gem,Momentum Support,corrupted 21/20,149.0,1,1
+gem,Momentum Support,corrupted 20/20,45.0,3,2
+gem,Momentum Support,corrupted 21/20,149.0,2,2
 gem,Orb of Storms,clean 20/0,15.0,1,1
 gem,Orb of Storms,corrupted 20/0,20.0,4,3
 gem,Orb of Storms,corrupted 21/0,4.0,9,9
@@ -2562,7 +2559,7 @@ gem,Perforate,corrupted 21/0,15.0,7,7
 gem,Perforate,clean 1/20,10.0,6,6
 gem,Perforate,clean 20/20,20.0,2,2
 gem,Perforate,corrupted 20/20,20.0,2,2
-gem,Perforate,corrupted 21/20,44.0,2,2
+gem,Perforate,corrupted 21/20,50.0,2,2
 gem,Pestilent Strike,clean 20/0,5.0,1,1
 gem,Pestilent Strike,corrupted 20/0,20.0,1,1
 gem,Pestilent Strike,corrupted 21/0,5.0,7,7
@@ -2575,7 +2572,7 @@ gem,Petrified Blood,clean 1/20,38.0,25,13
 gem,Petrified Blood,clean 20/20,50.0,17,6
 gem,Petrified Blood,corrupted 20/20,20.0,17,14
 gem,Petrified Blood,corrupted 21/20,1117.5,8,8
-gem,Phase Run,clean 20/0,18.0,15,13
+gem,Phase Run,clean 20/0,20.0,7,7
 gem,Phase Run,corrupted 20/0,11175.0,1,1
 gem,Phase Run,corrupted 21/0,20.0,8,8
 gem,Phase Run,clean 1/20,30.0,13,11
@@ -3530,7 +3527,7 @@ gem,Manabond,corrupted 21/0,5.0,5,5
 gem,Manabond,clean 1/20,6.0,11,10
 gem,Manabond,clean 20/20,20.0,2,2
 gem,Manabond,corrupted 21/20,70.0,3,3
-gem,Rage Vortex,clean 20/0,90.0,3,3
+gem,Rage Vortex,clean 20/0,5.0,8,8
 gem,Rage Vortex,corrupted 20/0,20.0,5,5
 gem,Rage Vortex,corrupted 21/0,45.0,9,6
 gem,Rage Vortex,clean 1/20,39.0,7,6
@@ -3548,7 +3545,7 @@ gem,Spectral Helix,corrupted 21/0,2.0,8,8
 gem,Spectral Helix,clean 1/20,20.0,3,3
 gem,Spectral Helix,clean 20/20,20.0,1,1
 gem,Spectral Helix,corrupted 21/20,21.0,3,3
-gem,Storm Rain,clean 20/0,6.0,8,8
+gem,Storm Rain,clean 20/0,2.0,10,10
 gem,Storm Rain,corrupted 20/0,50.0,10,10
 gem,Storm Rain,corrupted 21/0,4.0,9,9
 gem,Storm Rain,clean 1/20,20.0,15,12
@@ -3719,7 +3716,7 @@ gem,Awakened Added Chaos Damage Support,clean 5/20,447.0,1,1
 gem,Awakened Added Chaos Damage Support,corrupted 4/20,80.0,2,2
 gem,Awakened Added Chaos Damage Support,corrupted 5/20,60.0,2,2
 gem,Awakened Added Chaos Damage Support,corrupted 6/20,894.0,3,3
-gem,Awakened Melee Splash Support,clean 1/0,10.0,49,31
+gem,Awakened Melee Splash Support,clean 1/0,14.0,29,21
 gem,Awakened Melee Splash Support,clean 5/0,75.0,10,9
 gem,Awakened Melee Splash Support,corrupted 4/0,100.0,4,4
 gem,Awakened Melee Splash Support,corrupted 5/0,149.0,12,11
@@ -3762,7 +3759,7 @@ gem,Awakened Unbound Ailments Support,corrupted 6/0,2831.0,6,6
 gem,Awakened Unbound Ailments Support,clean 1/20,745.0,2,2
 gem,Awakened Unbound Ailments Support,clean 5/20,745.0,2,2
 gem,Awakened Unbound Ailments Support,corrupted 4/20,491.7,2,2
-gem,Awakened Unbound Ailments Support,corrupted 5/20,596.0,11,9
+gem,Awakened Unbound Ailments Support,corrupted 5/20,596.0,7,7
 gem,Awakened Unbound Ailments Support,corrupted 6/20,2831.0,6,6
 gem,Awakened Brutality Support,clean 1/0,29.0,43,20
 gem,Awakened Brutality Support,clean 5/0,149.0,5,4
@@ -3851,7 +3848,7 @@ gem,Awakened Added Cold Damage Support,clean 5/20,432.09999999999997,1,1
 gem,Awakened Added Cold Damage Support,corrupted 4/20,298.0,1,1
 gem,Awakened Added Cold Damage Support,corrupted 5/20,223.5,8,7
 gem,Awakened Added Cold Damage Support,corrupted 6/20,1639.0,7,7
-gem,Awakened Added Lightning Damage Support,clean 1/0,39.0,34,25
+gem,Awakened Added Lightning Damage Support,clean 1/0,35.0,22,16
 gem,Awakened Added Lightning Damage Support,clean 5/0,268.2,3,3
 gem,Awakened Added Lightning Damage Support,corrupted 5/0,149.0,9,8
 gem,Awakened Added Lightning Damage Support,corrupted 6/0,2980.0,5,5
@@ -3867,7 +3864,6 @@ gem,Awakened Vicious Projectiles Support,corrupted 5/0,120.0,24,19
 gem,Awakened Vicious Projectiles Support,corrupted 6/0,3278.0,2,2
 gem,Awakened Vicious Projectiles Support,clean 1/20,253.29999999999998,4,4
 gem,Awakened Vicious Projectiles Support,clean 5/20,253.29999999999998,4,4
-gem,Awakened Vicious Projectiles Support,corrupted 4/20,100.0,4,2
 gem,Awakened Vicious Projectiles Support,corrupted 5/20,149.0,16,13
 gem,Awakened Vicious Projectiles Support,corrupted 6/20,3278.0,3,3
 gem,Awakened Fire Penetration Support,clean 1/0,10.0,44,27
@@ -3989,7 +3985,7 @@ gem,Awakened Chain Support,corrupted 6/20,3874.0,2,2
 gem,Awakened Arrow Nova Support,clean 1/0,40.0,7,6
 gem,Awakened Arrow Nova Support,clean 5/0,298.0,3,2
 gem,Awakened Arrow Nova Support,corrupted 5/0,110.0,2,2
-gem,Awakened Arrow Nova Support,corrupted 6/0,2235.0,1,1
+gem,Awakened Arrow Nova Support,corrupted 6/0,2235.0,3,3
 gem,Awakened Arrow Nova Support,corrupted 6/20,1937.0,1,1
 gem,Awakened Unleash Support,clean 1/0,1490.0,4,4
 gem,Awakened Unleash Support,clean 5/0,4321.0,3,3
@@ -4023,10 +4019,10 @@ compass,Area contains a Smuggler's Cache,4,4.0,33,7
 compass,Breaches in your Maps belong to Uul-Netol:Breaches in your Maps contain 3 additional Clasped Hands,4,8.0,5,3
 compass,Unique Monsters drop Corrupted Items,4,15.0,8,2
 compass,Non-Unique Heist Contracts found in your Maps have an additional Implicit Modifier,4,7.0,15,7
-compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,3.8205128205128203,25,10
+compass,The First 3 Possessed Monsters drop an additional Gilded Scarab:Your Maps contain an additional Tormented Betrayer,4,3.9733333333333336,25,10
 compass,Maps found in your Maps are Corrupted with 8 Modifiers,4,40.0,9,7
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,4,10.0,86,16
-compass,Create a copy of Beasts Captured in your Maps,4,30.0,100,1
+compass,Create a copy of Beasts Captured in your Maps,4,40.0,49,9
 compass,25% increased Magic Pack Size,4,10.0,79,7
 compass,Players and Monsters take 12% increased Fire Damage:Your Maps contain 6 additional packs of Monsters that deal Fire Damage,4,60.0,7,2
 compass,Monsters Imprisoned by Essences have a 50% chance to contain a Remnant of Corruption:Your Maps contain an additional Essence,4,5.0,81,9
@@ -4034,13 +4030,13 @@ compass,Your Maps contain 2 additional Strongboxes:Strongboxes in your Maps are 
 compass,Map Bosses of your Corrupted Maps drop 2 additional Vaal Items:Items found in your Maps have 5% chance to be Corrupted,4,13.0,21,2
 compass,Final Map Boss in each Map drops an additional Elder Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,10.0,20,8
 compass,Breaches in your Maps belong to Esh:Breaches in your Maps contain 3 additional Clasped Hands,4,6.0,9,4
-compass,20% increased Pack Size in your Unidentified Maps,4,4.0,72,12
-compass,Players and Monsters take 12% increased Chaos Damage:Your Maps contain 6 additional packs of Monsters that deal Chaos Damage,4,1.9102564102564101,5,5
+compass,20% increased Pack Size in your Unidentified Maps,4,10.0,50,7
+compass,Players and Monsters take 12% increased Chaos Damage:Your Maps contain 6 additional packs of Monsters that deal Chaos Damage,4,1.9866666666666668,5,5
 compass,Strongbox Monsters are Enraged:Strongbox Monsters have 500% increased Item Quantity:Your Maps contain an additional Strongbox,4,14.0,77,12
 compass,Your Maps contain Ritual Altars,4,9.0,15,7
 compass,Players and Monsters take 12% increased Lightning Damage:Your Maps contain 6 additional packs of Monsters that deal Lightning Damage,4,4.0,10,6
 compass,Your Magic Maps contain 4 additional packs of Magic Monsters:Your Normal Maps contain 4 additional packs of Normal Monsters:Your Rare Maps contain 4 additional Rare Monster packs,4,5.0,100,7
-compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 4 additional Packs with Mirrored Rare Monsters,4,5.73076923076923,31,6
+compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 4 additional Packs with Mirrored Rare Monsters,4,5.960000000000001,31,6
 compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,4,15.0,9,3
 compass,Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,4.0,11,3
 compass,The First 3 Possessed Monsters drop an additional Rusted Scarab:Your Maps contain an additional Tormented Betrayer,4,15.0,3,3
@@ -4057,12 +4053,12 @@ compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Your Map
 compass,Players and Monsters take 12% increased Physical Damage:Your Maps contain 6 additional packs of Monsters that deal Physical Damage,4,4.0,8,5
 compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contain 6 additional packs of Monsters that Heal,4,3.0,13,1
 compass,Rogue Exiles deal 20% increased Damage:Rogue Exiles drop 2 additional Jewels:Rogue Exiles in your Maps have 20% increased Life:Your Maps are inhabited by 2 additional Rogue Exiles,4,5.0,54,7
-compass,The First 3 Possessed Monsters drop an additional Polished Scarab:Your Maps contain an additional Tormented Betrayer,4,3.8205128205128203,14,5
-compass,Your Maps contain Einhar,4,1.9102564102564101,23,11
+compass,The First 3 Possessed Monsters drop an additional Polished Scarab:Your Maps contain an additional Tormented Betrayer,4,3.9733333333333336,14,5
+compass,Your Maps contain Einhar,4,1.9866666666666668,23,11
 compass,Map Bosses deal 20% increased Damage:Your Maps have 20% Quality,4,10.0,95,8
 compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Purple Plants,4,40.0,24,13
 compass,The First 3 Possessed Monsters drop an additional Unique Item:Your Maps contain an additional Tormented Graverobber,4,15.0,4,1
-compass,Your Maps contain a Mirror of Delirium,4,90.0,100,9
+compass,Your Maps contain a Mirror of Delirium,4,100.0,96,9
 compass,Your Maps contain Alva,4,13.0,66,18
 compass,100% increased Intelligence gained from Immortal Syndicate targets encountered in your Maps,4,8.0,26,9
 compass,Final Map Boss in each Map drops an additional Conqueror Map:Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,40.0,33,9
@@ -4082,7 +4078,7 @@ compass,Your Maps contain a Blight Encounter,4,5.0,30,8
 compass,Slaying Enemies close together can attract monsters from Beyond this realm:25% increased Beyond Demon Pack Size in your Maps,4,120.0,83,3
 compass,Your Maps contain 100% increased number of Runic Monster Markers,4,9.0,8,6
 compass,Delirium Reward Bars fill 100% faster in your Maps,4,10.0,29,10
-compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,4,248.33333333333331,100,32
+compass,Lifeforce dropped by Harvest Monsters in your Maps is Duplicated:Harvest Monsters in your Maps have 100% more Life:Harvests in your Maps contain at least one Crop of Yellow Plants,4,258.2666666666667,100,32
 compass,Breaches in your Maps belong to Xoph:Breaches in your Maps contain 3 additional Clasped Hands,4,5.0,12,4
 compass,Your Maps contain The Sacred Grove,4,39.0,100,6
 compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 time,4,4.0,12,7
@@ -4193,7 +4189,7 @@ beast,Craicic Maw,,10.0,12,5
 beast,Craicic Vassal,,20.0,9,5
 beast,Farric Frost Hellion Alpha,,40.0,6,4
 beast,Farric Lynx Alpha,,15.0,10,4
-beast,Farric Wolf Alpha,,14.0,31,10
+beast,Farric Wolf Alpha,,15.0,17,4
 beast,Fenumal Plagued Arachnid,,39.0,25,11
 beast,Craicic Spider Crab,,70.0,15,7
 beast,Farric Tiger Alpha,,521.5,1,1
@@ -4349,98 +4345,93 @@ unique,Fleshcrafter,clean,1.0,26,24
 unique,Fleshcrafter,clean 6-link,1043.0,6,6
 unique,Fleshcrafter,corrupted,50.0,12,12
 unique,Fleshcrafter,corrupted 6-link,745.0,1,1
-unique,Shavronne's Wrappings,clean,7.0,46,41
+unique,Shavronne's Wrappings,clean,7.0,42,38
 unique,Shavronne's Wrappings,clean 6-link,596.0,6,6
 unique,Shavronne's Wrappings,corrupted,6.0,69,66
-unique,Shavronne's Wrappings,corrupted 6-link,298.0,31,29
+unique,Shavronne's Wrappings,corrupted 6-link,298.0,24,24
 unique,Infernal Mantle,clean,1.0,26,26
 unique,Infernal Mantle,clean 6-link,298.0,1,1
 unique,Infernal Mantle,corrupted,5.0,8,8
 unique,Infernal Mantle,corrupted 6-link,1490.0,1,1
-unique,Doedre's Skin,clean,5.0,20,20
-unique,Doedre's Skin,clean 6-link,670.5,2,2
-unique,Doedre's Skin,corrupted,59.0,2,2
+unique,Doedre's Skin,clean,2.0,9,9
 unique,Doedre's Skin,corrupted 6-link,596.0,1,1
-unique,Fenumus' Shroud,clean,20.0,8,8
-unique,The Beast Fur Shawl,clean,1.0,51,48
-unique,The Beast Fur Shawl,clean 6-link,35.0,10,8
-unique,The Beast Fur Shawl,corrupted,3.0,38,36
-unique,The Beast Fur Shawl,corrupted 6-link,30.0,7,7
+unique,The Beast Fur Shawl,clean,1.0,46,42
+unique,The Beast Fur Shawl,clean 6-link,40.0,7,7
+unique,The Beast Fur Shawl,corrupted,3.0,25,25
+unique,The Beast Fur Shawl,corrupted 6-link,50.0,6,6
 unique,The Queen's Hunger,clean,10.0,36,36
-unique,Gruthkul's Pelt,clean,20.0,82,65
+unique,Gruthkul's Pelt,clean,15.0,62,54
 unique,Gruthkul's Pelt,clean 6-link,298.0,2,2
 unique,Gruthkul's Pelt,corrupted,30.0,34,34
 unique,Gruthkul's Pelt,corrupted 6-link,745.0,3,3
-unique,Belly of the Beast,clean,3.0,55,54
-unique,Belly of the Beast,clean 6-link,298.0,8,8
-unique,Belly of the Beast,corrupted,3.0,23,23
+unique,Belly of the Beast,clean,2.0,50,48
+unique,Belly of the Beast,clean 6-link,596.0,5,5
+unique,Belly of the Beast,corrupted,15.0,22,22
 unique,Belly of the Beast,corrupted 6-link,300.0,3,3
 unique,Lightning Coil,clean,8.0,100,75
 unique,Lightning Coil,clean 6-link,372.5,20,16
-unique,Lightning Coil,corrupted,5.0,99,93
-unique,Lightning Coil,corrupted 6-link,268.2,100,88
-unique,Daresso's Defiance,clean,2.0,20,16
-unique,Daresso's Defiance,clean 6-link,149.0,3,3
+unique,Lightning Coil,corrupted,8.0,99,82
+unique,Lightning Coil,corrupted 6-link,372.5,91,77
+unique,Daresso's Defiance,clean,2.0,18,15
+unique,Daresso's Defiance,clean 6-link,447.0,3,3
 unique,Daresso's Defiance,corrupted,70.0,9,9
-unique,Daresso's Defiance,corrupted 6-link,745.0,5,5
+unique,Daresso's Defiance,corrupted 6-link,745.0,3,3
 unique,Cherrubim's Maleficence,clean,1.0,45,42
 unique,Cherrubim's Maleficence,clean 6-link,60.0,4,4
 unique,Cherrubim's Maleficence,corrupted,5.0,33,32
-unique,Cherrubim's Maleficence,corrupted 6-link,100.0,9,8
-unique,Farrul's Fur,clean,50.0,45,38
-unique,Farrul's Fur,clean 6-link,745.0,12,12
-unique,Farrul's Fur,corrupted,50.0,11,11
+unique,Cherrubim's Maleficence,corrupted 6-link,69.0,6,6
+unique,Farrul's Fur,clean,50.0,29,25
+unique,Farrul's Fur,clean 6-link,894.0,9,9
+unique,Farrul's Fur,corrupted,50.0,12,12
 unique,Farrul's Fur,corrupted 6-link,730.1,8,8
 unique,Replica Farrul's Fur,clean,596.0,17,17
-unique,Replica Farrul's Fur,clean 6-link,1788.0,7,7
+unique,Replica Farrul's Fur,clean 6-link,1937.0,7,7
 unique,Replica Farrul's Fur,corrupted,1490.0,7,7
-unique,Replica Farrul's Fur,corrupted 6-link,1788.0,7,7
-unique,Voll's Protector,clean,1.0,6,6
-unique,Voll's Protector,clean 6-link,745.0,1,1
-unique,Voll's Protector,corrupted,20.0,5,5
+unique,Replica Farrul's Fur,corrupted 6-link,2235.0,11,11
+unique,Voll's Protector,clean,1.0,12,12
+unique,Voll's Protector,clean 6-link,298.0,2,2
+unique,Voll's Protector,corrupted,20.0,7,7
 unique,Voll's Protector,corrupted 6-link,745.0,3,3
-unique,Icetomb,clean,1.0,31,30
+unique,Icetomb,clean,1.0,33,32
 unique,Icetomb,clean 6-link,15.0,7,7
 unique,Icetomb,corrupted,5.0,21,21
 unique,Icetomb,corrupted 6-link,80.0,4,4
-unique,Ambu's Charge,clean,1.0,42,42
+unique,Ambu's Charge,clean,2.0,28,28
 unique,Ambu's Charge,clean 6-link,20.0,11,11
-unique,Ambu's Charge,corrupted,20.0,16,16
-unique,Ambu's Charge,corrupted 6-link,50.0,6,6
+unique,Ambu's Charge,corrupted,30.0,14,14
+unique,Ambu's Charge,corrupted 6-link,50.0,5,5
 unique,Replica Ambu's Charge,clean,8.0,4,4
-unique,Replica Ambu's Charge,corrupted,149.0,3,3
 unique,Lightbane Raiment,clean,1.0,30,29
 unique,Lightbane Raiment,clean 6-link,6.0,9,9
-unique,Lightbane Raiment,corrupted,80.0,14,12
+unique,Lightbane Raiment,corrupted,70.0,11,11
 unique,Lightbane Raiment,corrupted 6-link,80.0,6,6
 unique,The Fourth Vow,clean,10.0,74,64
-unique,The Fourth Vow,clean 6-link,506.59999999999997,5,5
+unique,The Fourth Vow,clean 6-link,596.0,4,4
 unique,The Fourth Vow,corrupted,9.0,86,79
 unique,The Fourth Vow,corrupted 6-link,149.0,23,22
 unique,Kingsguard,clean,1.0,38,37
-unique,Kingsguard,clean 6-link,25.0,6,6
-unique,Kingsguard,corrupted,10.0,23,22
-unique,Kingsguard,corrupted 6-link,149.0,5,4
-unique,Geofri's Sanctuary,clean,1.0,40,37
-unique,Geofri's Sanctuary,clean 6-link,60.0,9,8
+unique,Kingsguard,clean 6-link,60.0,3,3
+unique,Kingsguard,corrupted,10.0,16,15
+unique,Kingsguard,corrupted 6-link,20.0,4,3
+unique,Geofri's Sanctuary,clean,1.0,25,22
+unique,Geofri's Sanctuary,clean 6-link,22.0,8,7
 unique,Geofri's Sanctuary,corrupted,25.0,28,28
-unique,Geofri's Sanctuary,corrupted 6-link,100.0,5,5
-unique,Loreweave,clean,4.0,66,60
-unique,Loreweave,clean 6-link,596.0,8,8
+unique,Geofri's Sanctuary,corrupted 6-link,100.0,3,3
+unique,Loreweave,clean,5.0,39,34
+unique,Loreweave,clean 6-link,894.0,5,5
 unique,Loreweave,corrupted,80.0,9,8
 unique,Loreweave,corrupted 6-link,5215.0,1,1
-unique,Replica Loreweave,clean,18.0,13,13
-unique,Replica Loreweave,clean 6-link,1192.0,1,1
+unique,Replica Loreweave,clean,15.0,14,14
 unique,Sporeguard,clean,3725.0,13,12
-unique,Sporeguard,clean 6-link,5215.0,2,2
-unique,Sporeguard,corrupted,149.0,5,5
+unique,Sporeguard,clean 6-link,5215.0,3,3
+unique,Sporeguard,corrupted,357.59999999999997,2,2
 unique,Sporeguard,corrupted 6-link,2980.0,1,1
-unique,The Ivory Tower,clean,2.0,100,82
+unique,The Ivory Tower,clean,1.0,97,81
 unique,The Ivory Tower,clean 6-link,447.0,19,19
-unique,The Ivory Tower,corrupted,15.0,100,95
+unique,The Ivory Tower,corrupted,20.0,84,78
 unique,The Ivory Tower,corrupted 6-link,447.0,26,26
 unique,Doryani's Prototype,clean,10.0,36,32
-unique,Doryani's Prototype,clean 6-link,521.5,4,4
+unique,Doryani's Prototype,clean 6-link,447.0,8,8
 unique,Doryani's Prototype,corrupted,21.0,34,32
 unique,Doryani's Prototype,corrupted 6-link,447.0,13,12
 unique,Incandescent Heart,clean,3.0,78,67
