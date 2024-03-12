@@ -55,6 +55,7 @@ Awakened Cast On Critical Strike Support,6/20c,12,8112.3,54.1
 Awakened Fork Support,5/23c,16,8022.32,53.5
 Awakened Unleash Support,6/20c,11,7947.35,53.0
 Awakened Minion Damage Support,6/23c,5,7917.36,52.8
+Vaal Impurity of Fire,21/20c,2,7793.35,51.97
 Hatred,21/23c,2,7722.42,51.5
 Lightning Conduit of the Heavens,21/20c,2,7647.45,51.0
 Blade Blast,20c,1,7497.5,50.0
@@ -67,7 +68,6 @@ Discharge of Misery,21c,1,7347.55,49.0
 Vaal Rain of Arrows,21/20c,5,7122.62,47.5
 Awakened Vicious Projectiles Support,6/23c,2,7047.65,47.0
 Vortex of Projection,21/23c,1,7047.65,47.0
-Vaal Impurity of Fire,21/20c,3,6896.8,45.99
 Purity of Fire,21/23c,1,6747.75,45.0
 Frost Blades of Katabasis,21/23c,1,6747.75,45.0
 Awakened Fork Support,5/20c,52,6732.76,44.9
@@ -183,7 +183,6 @@ Awakened Vicious Projectiles Support,6/20c,40,2830.01,18.87
 Flameblast of Celerity,21/20c,2,2789.07,18.6
 Awakened Unleash Support,5/20c,16,2774.08,18.5
 Split Arrow of Splitting,21/20c,2,2774.08,18.5
-Awakened Melee Physical Damage Support,6/20c,24,2729.09,18.2
 Vaal Spectral Throw,20/23c,1,2699.1,18.0
 Vaal Earthquake,20/23c,3,2699.1,18.0
 Ball Lightning,21/23c,1,2699.1,18.0
@@ -191,6 +190,7 @@ Power Siphon,21/23c,1,2699.1,18.0
 Scorching Ray,21/23c,1,2699.1,18.0
 Penance Brand,21/23c,5,2699.1,18.0
 Awakened Lightning Penetration Support,6/20c,16,2699.1,18.0
+Awakened Melee Physical Damage Support,6/20c,23,2699.1,18.0
 Ethereal Knives of the Massacre,21/20c,8,2699.1,18.0
 Caustic Arrow of Poison,21/23c,7,2699.1,18.0
 Discharge of Misery,21/20c,2,2699.1,18.0
@@ -245,7 +245,7 @@ Lightning Strike of Arcing,21/23c,2,1994.34,13.3
 Awakened Added Fire Damage Support,6/23c,4,1979.34,13.2
 Frost Bomb of Instability,21/20c,5,1979.34,13.2
 Flesh Offering,21/23c,1,1949.35,13.0
-Awakened Minion Damage Support,6/20c,29,1949.35,13.0
+Awakened Minion Damage Support,6/20c,28,1949.35,13.0
 Awakened Fire Penetration Support,6/20c,23,1949.35,13.0
 Lightning Conduit,21/23c,1,1949.35,13.0
 Vortex of Projection,21c,2,1949.35,13.0
@@ -440,11 +440,11 @@ Cleave of Rage,21/20c,3,1019.66,6.8
 Frostbite,21/20c,25,1004.66,6.7
 Awakened Controlled Destruction Support,6/20c,20,1000.17,6.67
 Pinpoint Support,20c,1,999.0,6.66
-Awakened Cast On Critical Strike Support,1,91,992.67,6.62
 Herald of Purity,21/20c,20,989.67,6.6
 Spark of the Nova,21c,4,989.67,6.6
 Summon Skeletons of Archers,21/20c,4,989.67,6.6
 Righteous Fire,21/20c,34,986.67,6.58
+Awakened Cast On Critical Strike Support,1,89,986.67,6.58
 Ice Spear,21/20c,53,983.67,6.56
 Eye of Winter of Finality,21/20c,2,974.68,6.5
 Summon Ice Golem of Hordes,21/20c,2,974.68,6.5
@@ -500,7 +500,7 @@ Vaal Reave,20/23c,2,779.74,5.2
 Lightning Arrow,21/23c,3,779.74,5.2
 Summon Carrion Golem of Hordes,21c,2,764.74,5.1
 Icicle Mine of Fanning,20c,3,758.75,5.06
-Tornado Shot,21/20c,61,749.75,5.0
+Tornado Shot,21/20c,60,749.75,5.0
 Vaal Rain of Arrows,20/23c,3,749.75,5.0
 Vaal Impurity of Ice,20/23c,1,749.75,5.0
 Toxic Rain,21/23c,10,749.75,5.0
@@ -587,7 +587,7 @@ Awakened Burning Damage Support,5/23c,19,599.8,4.0
 Vaal Arctic Armour,20/23c,1,599.8,4.0
 Detonate Dead of Chain Reaction,1,75,599.8,4.0
 Penance Brand of Dissipation,1,171,599.8,4.0
-Penance Brand of Dissipation,1/20,57,599.8,4.0
+Penance Brand of Dissipation,1/20,56,599.8,4.0
 Detonate Dead of Chain Reaction,1/20,29,599.8,4.0
 Dominating Blow of Inspiring,21c,1,599.8,4.0
 Icicle Mine of Fanning,21c,1,599.8,4.0
@@ -604,7 +604,7 @@ Conductivity,21/20c,21,584.8,3.9
 Trap and Mine Damage Support,21/20c,49,584.8,3.9
 Pulverise Support,21/20c,20,584.8,3.9
 Vaal Righteous Fire,20/23c,8,578.81,3.86
-Power Charge On Critical Support,21/20c,117,577.31,3.85
+Power Charge On Critical Support,21/20c,116,577.31,3.85
 Herald of Agony,21/20c,12,572.81,3.82
 Smite,21/23c,5,569.81,3.8
 Concentrated Effect Support,21/20c,47,560.81,3.74
@@ -850,9 +850,9 @@ Armageddon Brand of Volatility,20/20c,5,239.92,1.6
 Consecrated Path of Endurance,20/23c,3,239.92,1.6
 Spellslinger,21/20c,23,236.92,1.58
 Void Sphere,21/23c,18,233.92,1.56
-Raise Zombie,21/20c,22,232.42,1.55
 Ethereal Knives of the Massacre,20/20,6,232.42,1.55
 Ice Spear of Splitting,20/23c,19,232.42,1.55
+Raise Zombie,21/20c,21,224.92,1.5
 Bone Offering,21/20c,23,224.92,1.5
 Frostbolt,21/20c,17,224.92,1.5
 Blight,21/23c,14,224.92,1.5
@@ -922,6 +922,7 @@ Explosive Arrow,21/20c,24,167.94,1.12
 Sunder of Earthbreaking,20/20,18,164.96,1.1
 Lightning Tendrils of Escalation,20/20,3,164.94,1.1
 Cyclone of Tumult,20/20,14,164.94,1.1
+Tectonic Slam of Cataclysm,20/20,2,164.94,1.1
 Purifying Flame of Revelations,20/20c,2,164.94,1.1
 Burning Arrow of Vigour,20/23c,2,164.94,1.1
 Barrage of Volley Fire,20/23c,2,164.94,1.1
@@ -951,12 +952,12 @@ Purity of Lightning,21c,114,149.95,1.0
 Increased Area of Effect Support,21/20c,34,149.95,1.0
 Vitality,21c,96,149.95,1.0
 Grace,21c,177,149.95,1.0
-Lightning Arrow,21/20c,70,149.95,1.0
+Lightning Arrow,21/20c,69,149.95,1.0
 Minefield Support,21/20c,15,149.95,1.0
 Convocation,21/20c,24,149.95,1.0
 Enduring Cry,21/20c,18,149.95,1.0
 Leap Slam,21/20c,24,149.95,1.0
-Flesh Offering,21/20c,27,149.95,1.0
+Flesh Offering,21/20c,26,149.95,1.0
 Desecrate,20/20,42,149.95,1.0
 Enhance Support,3,166,149.95,1.0
 Mana Leech Support,21/20c,12,149.95,1.0
@@ -998,7 +999,7 @@ Seismic Trap,21/23c,8,149.95,1.0
 Storm Brand,21/20c,17,149.95,1.0
 Malevolence,21c,106,149.95,1.0
 Zealotry,21c,100,149.95,1.0
-Precision,21c,125,149.95,1.0
+Precision,21c,124,149.95,1.0
 Steelskin,20/23c,25,149.95,1.0
 Pestilent Strike,21/23c,12,149.95,1.0
 Pyroclast Mine,20c,1,149.95,1.0
@@ -1018,7 +1019,7 @@ Awakened Brutality Support,5/20c,91,149.95,1.0
 Awakened Melee Splash Support,5/20c,61,149.95,1.0
 Awakened Controlled Destruction Support,5/20,12,149.95,1.0
 Awakened Elemental Focus Support,1,374,149.95,1.0
-Awakened Added Cold Damage Support,5/20c,75,149.95,1.0
+Awakened Added Cold Damage Support,5/20c,69,149.95,1.0
 Awakened Vicious Projectiles Support,5/20c,116,149.95,1.0
 Awakened Added Fire Damage Support,5/20c,72,149.95,1.0
 Awakened Arrow Nova Support,5/20c,21,149.95,1.0
@@ -1027,6 +1028,7 @@ Elemental Penetration Support,20/20,10,149.95,1.0
 Elemental Penetration Support,20/23c,12,149.95,1.0
 Impending Doom Support,21/20c,12,149.95,1.0
 Chance to Poison Support,21/20c,11,149.95,1.0
+Storm Rain,20c,1,149.95,1.0
 Battlemage's Cry,21/20c,18,149.95,1.0
 Focused Ballista Support,21/20c,32,149.95,1.0
 Blade Trap,21/23c,12,149.95,1.0
@@ -1035,7 +1037,7 @@ Poisonous Concoction,21/23c,16,149.95,1.0
 Awakened Fire Penetration Support,5/23c,16,149.95,1.0
 Awakened Controlled Destruction Support,5/23c,12,149.95,1.0
 Impending Doom Support,21/23c,6,149.95,1.0
-Alchemist's Mark,21/23c,16,149.95,1.0
+Alchemist's Mark,21/23c,15,149.95,1.0
 Vaal Flicker Strike,20/20c,31,149.95,1.0
 Cursed Ground Support,20/23c,11,149.95,1.0
 Vaal Smite,20/23c,11,149.95,1.0
@@ -1122,7 +1124,7 @@ Frost Bomb of Forthcoming,20c,1,149.95,1.0
 Leap Slam of Groundbreaking,20c,3,149.95,1.0
 Bodyswap of Sacrifice,20/23c,3,149.95,1.0
 Eye of Winter of Transience,21c,1,149.95,1.0
-Desecrate,21c,75,149.86,1.0
+Desecrate,21c,74,149.76,1.0
 Ambush,21/20c,34,148.75,0.99
 Volatile Dead,21/20c,29,147.96,0.99
 Divine Ire of Disintegration,20/20,14,147.96,0.99
@@ -1186,7 +1188,6 @@ Sunder of Earthbreaking,20/20c,5,128.98,0.86
 Ensnaring Arrow,20/23c,28,128.0,0.85
 Void Sphere,20/23c,30,128.0,0.85
 Tempest Shield,21c,79,127.0,0.85
-Tectonic Slam of Cataclysm,20/20,3,125.99,0.84
 Earthquake of Amplification,20,17,125.99,0.84
 Blight of Atrophy,20/20c,3,125.99,0.84
 Lightning Trap of Sparking,20/20c,2,125.98,0.84
@@ -1242,7 +1243,7 @@ Leap Slam of Groundbreaking,20/20c,4,114.98,0.77
 Frost Blades of Katabasis,20/20c,4,114.98,0.77
 Lightning Tendrils of Eccentricity,20/23c,4,114.98,0.77
 Summon Flame Golem of Hordes,20/23c,4,114.98,0.77
-Vaal Smite,20/20c,88,114.6,0.76
+Vaal Smite,20/20c,87,114.2,0.76
 Leap Slam,20/20,27,114.0,0.76
 Winter Orb,21/20c,25,113.98,0.76
 Volcanic Fissure of Snaking,20/20c,5,113.98,0.76
@@ -1440,7 +1441,7 @@ Penance Brand of Dissipation,20/23c,48,90.5,0.6
 Blood Rage,20/20,29,90.0,0.6
 Herald of Ash,20/20,19,90.0,0.6
 Punishment,20/23c,18,90.0,0.6
-Molten Shell,20/23c,65,90.0,0.6
+Molten Shell,20/23c,64,90.0,0.6
 Zealotry,20/20,21,90.0,0.6
 Impale Support,20/20,28,90.0,0.6
 Frostblink,20/23c,39,90.0,0.6
@@ -1485,13 +1486,13 @@ Additional Accuracy Support,20/23c,12,85.0,0.57
 Sigil of Power,20/23c,24,85.0,0.57
 Wild Strike of Extremes,20/20,6,85.0,0.57
 Summon Lightning Golem of Hordes,20/20c,6,85.0,0.57
-Battlemage's Cry,20/20,17,84.8,0.57
 Frost Bomb,20/20c,20,84.5,0.56
 Unleash Support,21/20c,16,84.0,0.56
 Infernal Cry,21/20c,29,84.0,0.56
 Ice Crash of Cadence,20/20,5,84.0,0.56
 Summon Reaper of Eviscerating,20/20,7,84.0,0.56
 Summon Lightning Golem of Hordes,20/20,3,84.0,0.56
+Boneshatter of Complex Trauma,20/20c,14,84.0,0.56
 Toxic Rain of Sporeburst,20/20,10,84.0,0.56
 Animate Guardian of Smiting,1/20,8,84.0,0.56
 Absolution of Inspiring,20c,2,84.0,0.56
@@ -1500,6 +1501,7 @@ Righteous Fire of Arcane Devotion,20c,4,84.0,0.56
 Earthquake of Amplification,20/20c,13,84.0,0.56
 Flameblast of Contraction,20/20c,3,84.0,0.56
 Contagion of Subsiding,20/23c,2,83.99,0.56
+Battlemage's Cry,20/20,16,83.5,0.56
 Raise Zombie of Falling,20,4,83.48,0.56
 Clarity,20/20,13,83.0,0.55
 Charged Traps Support,20/23c,14,83.0,0.55
@@ -1538,7 +1540,7 @@ Combustion Support,20/23c,21,80.0,0.53
 Purifying Flame,21/20c,31,80.0,0.53
 Berserk,20/20,36,80.0,0.53
 Frostblink,20/20c,47,80.0,0.53
-Feeding Frenzy Support,20/23c,30,80.0,0.53
+Feeding Frenzy Support,20/23c,29,80.0,0.53
 Withering Step,20/23c,22,80.0,0.53
 Arcanist Brand,20/20,37,80.0,0.53
 General's Cry,21/20c,43,80.0,0.53
@@ -1554,7 +1556,6 @@ Scourge Arrow of Menace,1/20,16,80.0,0.53
 Blight of Contagion,20/20,3,80.0,0.53
 Storm Brand of Indecision,1/20,34,80.0,0.53
 Bodyswap of Sacrifice,20/20,9,80.0,0.53
-Boneshatter of Complex Trauma,20/20c,15,80.0,0.53
 Blade Trap of Laceration,20,1,80.0,0.53
 Righteous Fire of Arcane Devotion,20/23c,5,80.0,0.53
 Lightning Tendrils of Escalation,20/20c,5,80.0,0.53
@@ -1708,12 +1709,13 @@ Icicle Mine of Fanning,20/20,7,68.0,0.45
 Dual Strike of Ambidexterity,1/20,20,68.0,0.45
 Lacerate of Haemorrhage,1/20,10,68.0,0.45
 Cold Snap of Power,20/23c,17,68.0,0.45
+Bear Trap of Skewers,20/20c,3,68.0,0.45
 Righteous Fire,20/23c,17,67.48,0.45
 General's Cry,20/23c,19,67.2,0.45
-Generosity Support,21/20c,18,67.0,0.45
 Pyroclast Mine of Sabotage,20,8,67.0,0.45
 Summon Raging Spirit of Enormity,20,17,66.5,0.44
 Essence Drain,21/20c,32,66.39,0.44
+Generosity Support,21/20c,17,66.0,0.44
 Decay Support,21/23c,5,66.0,0.44
 Pride,20/23c,12,66.0,0.44
 Summon Skeletons,20/20,19,66.0,0.44
@@ -1821,7 +1823,7 @@ Cleave of Rage,1/20,11,60.0,0.4
 Raise Zombie of Slamming,1/20,14,60.0,0.4
 Ball Lightning of Static,1/20,15,60.0,0.4
 Ball Lightning of Static,20/20c,14,60.0,0.4
-Animate Guardian of Smiting,20/20c,16,60.0,0.4
+Animate Guardian of Smiting,20/20c,15,60.0,0.4
 Wild Strike of Extremes,20,11,60.0,0.4
 Penance Brand of Dissipation,20/20c,178,60.0,0.4
 Mirror Arrow of Prismatic Clones,1/20,11,60.0,0.4
@@ -1831,7 +1833,6 @@ Mirror Arrow of Bombarding Clones,20,3,60.0,0.4
 Raise Zombie of Slamming,20/23c,6,60.0,0.4
 Essence Drain of Desperation,20c,1,60.0,0.4
 Bladestorm of Uncertainty,20c,2,60.0,0.4
-Ball Lightning of Orbiting,20/20c,13,60.0,0.4
 Ice Spear of Splitting,20c,7,60.0,0.4
 Cremation of the Volcano,20c,2,60.0,0.4
 Toxic Rain of Sporeburst,20/23c,3,60.0,0.4
@@ -1850,6 +1851,7 @@ Defiance Banner,20/23c,61,59.0,0.39
 Cremation of Exhuming,20,4,59.0,0.39
 Blade Vortex of the Scythe,20/23c,4,59.0,0.39
 Summon Flame Golem of Hordes,1/20,4,59.0,0.39
+Ball Lightning of Orbiting,20/20c,12,59.0,0.39
 Awakened Swift Affliction Support,1,300,58.4,0.39
 Elemental Proliferation Support,21/20c,20,58.0,0.39
 Lightning Arrow of Electrocution,1/20,13,58.0,0.39
@@ -1937,18 +1939,19 @@ Blight of Contagion,20,3,52.0,0.35
 Perforate of Bloodshed,20,4,52.0,0.35
 Rain of Arrows of Artillery,20,5,51.6,0.34
 Vulnerability,21/20c,24,51.5,0.34
-Summon Chaos Golem,20/23c,15,51.5,0.34
 Warlord's Mark,20/23c,18,51.5,0.34
 Firestorm of Meteors,20,15,51.5,0.34
-Flame Dash,1/20,58,51.05,0.34
 Additional Accuracy Support,20/20,35,51.0,0.34
 Tempest Shield,20/20,22,51.0,0.34
 Conductivity,20/20,25,51.0,0.34
 Reave,21/20c,23,51.0,0.34
+Summon Chaos Golem,20/23c,14,51.0,0.34
 Armageddon Brand,20c,3,51.0,0.34
 Contagion of Transference,20/20,3,51.0,0.34
+Shrapnel Ballista of Steel,20/20c,2,51.0,0.34
 Galvanic Field of Intensity,20c,2,51.0,0.34
 Lancing Steel of Spraying,20c,2,51.0,0.34
+Flame Dash,1/20,57,50.7,0.34
 Bladefall,20/20,11,50.7,0.34
 Bladefall of Volleys,1/20,10,50.7,0.34
 High-Impact Mine Support,20/20,21,50.6,0.34
@@ -1970,7 +1973,7 @@ Static Strike,21/20c,18,50.0,0.33
 Viper Strike,20/20,13,50.0,0.33
 Fire Trap,20/20,16,50.0,0.33
 Elemental Weakness,20/20c,51,50.0,0.33
-Assassin's Mark,21c,64,50.0,0.33
+Assassin's Mark,21c,63,50.0,0.33
 Cast on Death Support,21/20c,6,50.0,0.33
 Vaal Power Siphon,20/20c,21,50.0,0.33
 Ice Nova,21/20c,30,50.0,0.33
@@ -2051,7 +2054,6 @@ Summon Carrion Golem of Hordes,1/20,6,50.0,0.33
 Sunder of Earthbreaking,1/20,6,50.0,0.33
 Raise Zombie of Falling,20/20c,14,50.0,0.33
 Explosive Concoction of Destruction,20c,1,50.0,0.33
-Mirror Arrow of Bombarding Clones,1/20,21,50.0,0.33
 Summon Raging Spirit of Enormity,1/20,11,50.0,0.33
 Summon Ice Golem of Hordes,1/20,5,50.0,0.33
 Armageddon Brand of Volatility,1/20,12,50.0,0.33
@@ -2093,6 +2095,7 @@ Sweep,20c,1,49.0,0.33
 High-Impact Mine Support,20/20c,15,49.0,0.33
 Infernal Legion Support,20/23c,8,49.0,0.33
 Divine Blessing Support,20/20,40,49.0,0.33
+Mirror Arrow of Bombarding Clones,1/20,20,49.0,0.33
 Summon Flame Golem of Hordes,20,9,49.0,0.33
 Soulrend,21/20c,35,48.8,0.33
 Holy Flame Totem of Ire,1/20,3,48.8,0.33
@@ -2151,7 +2154,6 @@ Ball Lightning of Orbiting,20,7,46.0,0.31
 Glacial Cascade of the Fissure,20,7,46.0,0.31
 Galvanic Arrow of Energy,20/20c,7,46.0,0.31
 Summon Skeletons of Archers,20c,5,46.0,0.31
-Bear Trap of Skewers,20/20c,4,46.0,0.31
 Awakened Brutality Support,1/20,3,45.99,0.31
 Boneshatter of Carnage,20/20c,7,45.97,0.31
 Plague Bearer,20/20,16,45.9,0.31
@@ -2190,7 +2192,6 @@ Ethereal Knives of Lingering Blades,1/20,21,44.5,0.3
 Glacial Cascade of the Fissure,20/20c,11,44.5,0.3
 Spark of Unpredictability,20,9,44.5,0.3
 Lightning Strike,20/20,14,44.2,0.29
-Increased Area of Effect Support,20/20,20,44.0,0.29
 Wither,20/20,22,44.0,0.29
 Warlord's Mark,20/20,19,44.0,0.29
 Vicious Projectiles Support,21/23c,5,44.0,0.29
@@ -2206,6 +2207,7 @@ Ground Slam,21/20c,26,43.6,0.29
 Awakened Arrow Nova Support,1,81,43.6,0.29
 Eternal Blessing Support,20/20,33,43.6,0.29
 Summon Carrion Golem of Scavenging,20,5,43.6,0.29
+Increased Area of Effect Support,20/20,19,43.5,0.29
 Infernal Blow,21/20c,27,43.5,0.29
 Zealotry,20/23c,8,43.5,0.29
 Focused Ballista Support,20/20c,30,43.5,0.29
@@ -2260,11 +2262,10 @@ Armageddon Brand of Volatility,20,14,41.0,0.27
 Infernal Blow of Immolation,1/20,12,41.0,0.27
 Kinetic Blast,20/20c,20,40.9,0.27
 Burning Arrow,20/23c,12,40.5,0.27
-Precision,20/23c,34,40.5,0.27
 Momentum Support,20/20,15,40.5,0.27
 Mirror Arrow of Bombarding Clones,20c,2,40.4,0.27
 Summon Holy Relic,20c,2,40.2,0.27
-Empower Support,1,294,40.0,0.27
+Empower Support,1,293,40.0,0.27
 Fortify Support,20/20c,27,40.0,0.27
 Empower Support,3c,386,40.0,0.27
 Increased Area of Effect Support,20/20c,30,40.0,0.27
@@ -2301,7 +2302,7 @@ Cleave,20/20,10,40.0,0.27
 Purity of Lightning,20/20c,34,40.0,0.27
 Conductivity,20/20c,30,40.0,0.27
 Siege Ballista,21/20c,23,40.0,0.27
-Molten Shell,20/20c,57,40.0,0.27
+Molten Shell,20/20c,56,40.0,0.27
 Conductivity,21c,62,40.0,0.27
 Herald of Ice,20/23c,22,40.0,0.27
 Vulnerability,20/23c,16,40.0,0.27
@@ -2329,6 +2330,7 @@ Divine Ire,20c,1,40.0,0.27
 Divine Ire,20/20,14,40.0,0.27
 Wave of Conviction,20/20c,20,40.0,0.27
 Wave of Conviction,20/23c,16,40.0,0.27
+Precision,20/23c,33,40.0,0.27
 Impale Support,20/23c,9,40.0,0.27
 Close Combat Support,20/20,10,40.0,0.27
 Dash,20/20c,15,40.0,0.27
@@ -2347,7 +2349,7 @@ Wintertide Brand,20/20,17,40.0,0.27
 Ancestral Cry,20/20,18,40.0,0.27
 General's Cry,20c,1,40.0,0.27
 Awakened Added Lightning Damage Support,1,254,40.0,0.27
-Awakened Melee Physical Damage Support,1,309,40.0,0.27
+Awakened Melee Physical Damage Support,1,308,40.0,0.27
 Awakened Blasphemy Support,1,135,40.0,0.27
 Sniper's Mark,20/23c,31,40.0,0.27
 Crackling Lance,20/23c,13,40.0,0.27
@@ -2411,6 +2413,7 @@ Wither,20/20c,9,39.8,0.27
 Faster Casting Support,20/20c,94,39.8,0.27
 Decoy Totem,20/23c,19,39.8,0.27
 Frost Blades of Katabasis,1/20,9,39.8,0.27
+Bodyswap,21/20c,18,39.7,0.26
 Awakened Added Chaos Damage Support,1/20,4,39.7,0.26
 Arrogance Support,20/20,58,39.7,0.26
 Fork Support,21c,27,39.6,0.26
@@ -2442,7 +2445,6 @@ Frost Wall,20/20,11,39.0,0.26
 Trap Support,20/20,4,39.0,0.26
 Firestorm,20/20c,3,39.0,0.26
 Animate Weapon,21/20c,28,39.0,0.26
-Bodyswap,21/20c,19,39.0,0.26
 Tempest Shield,20/20c,54,39.0,0.26
 Vile Toxins Support,20/23c,10,39.0,0.26
 Herald of Purity,20/23c,12,39.0,0.26
@@ -2547,7 +2549,7 @@ Elemental Hit,21/20c,24,35.0,0.23
 Minion Speed Support,20/20,14,35.0,0.23
 Spirit Offering,20/20c,18,35.0,0.23
 Lightning Arrow,20/23c,23,35.0,0.23
-Increased Critical Damage Support,20/23c,145,35.0,0.23
+Increased Critical Damage Support,20/23c,144,35.0,0.23
 Ice Spear,20/23c,23,35.0,0.23
 Summon Holy Relic,21/20c,22,35.0,0.23
 Dread Banner,1/20,28,35.0,0.23
@@ -2569,7 +2571,7 @@ Perforate of Duality,1/20,1,35.0,0.23
 Eye of Winter of Finality,1/20,7,35.0,0.23
 Crackling Lance of Disintegration,20,15,35.0,0.23
 Lightning Tendrils of Eccentricity,20/20c,8,35.0,0.23
-Raise Spectre of Transience,20/20c,14,35.0,0.23
+Raise Spectre of Transience,20/20c,13,35.0,0.23
 Earthquake,20/20,9,34.96,0.23
 Petrified Blood,20/20c,187,34.92,0.23
 Blood Rage,1/20,43,34.9,0.23
@@ -2577,7 +2579,7 @@ Smoke Mine,21/20c,18,34.86,0.23
 Searing Bond,20/20c,2,34.8,0.23
 Reckoning,21/20c,19,34.8,0.23
 Raise Zombie of Falling,1,55,34.72,0.23
-Increased Duration Support,20/20c,196,34.68,0.23
+Increased Duration Support,20/20c,195,34.65,0.23
 Rage Support,20/20,14,34.5,0.23
 Glacial Cascade,21/20c,23,34.4,0.23
 Elemental Army Support,20/23c,14,34.4,0.23
@@ -2598,7 +2600,6 @@ Soul Link,20/20,6,34.0,0.23
 Vampiric Link,20/23c,7,34.0,0.23
 Summon Stone Golem of Hordes,1,48,34.0,0.23
 Reave of Refraction,1/20,8,34.0,0.23
-Shrapnel Ballista of Steel,20/20c,4,34.0,0.23
 Warlord's Mark,20/20c,13,33.8,0.23
 Volatile Dead of Confinement,20,5,33.8,0.23
 Behead Support,20/23c,8,33.7,0.22
@@ -2691,7 +2692,7 @@ Ice Bite Support,20/20,22,30.0,0.2
 Vitality,1/20,36,30.0,0.2
 Animate Guardian,1/20,51,30.0,0.2
 Fireball,20/20,8,30.0,0.2
-Vaal Haste,20c,169,30.0,0.2
+Vaal Haste,20c,167,30.0,0.2
 Empower Support,2c,33,30.0,0.2
 Melee Physical Damage Support,21/20c,19,30.0,0.2
 Greater Multiple Projectiles Support,21c,22,30.0,0.2
@@ -2778,7 +2779,6 @@ Precision,1/20,31,30.0,0.2
 Berserk,21c,62,30.0,0.2
 Shockwave Support,20/20,7,30.0,0.2
 Stormblast Mine,20/20,9,30.0,0.2
-Feeding Frenzy Support,20/20c,38,30.0,0.2
 Summon Skeletons,20c,1,30.0,0.2
 Swift Assembly Support,20/23c,12,30.0,0.2
 Barrage Support,20/20c,14,30.0,0.2
@@ -2840,6 +2840,7 @@ Power Charge On Critical Support,1/20,45,29.5,0.2
 Lightning Trap,20/20,11,29.5,0.2
 Combustion Support,20/20c,102,29.5,0.2
 Cobra Lash,20/20,10,29.5,0.2
+Feeding Frenzy Support,20/20c,37,29.5,0.2
 Cast while Channelling Support,20/20,8,29.4,0.2
 Intensify Support,20/20,9,29.4,0.2
 Stormbind,20/20c,5,29.4,0.2
@@ -2884,7 +2885,6 @@ Pestilent Strike,21/20c,21,28.2,0.19
 Enhance Support,1c,23,28.1,0.19
 Power Charge On Critical Support,20/20c,322,28.1,0.19
 Shattering Steel of Ammunition,1/20,10,28.1,0.19
-Greater Multiple Projectiles Support,20/20c,143,28.0,0.19
 Summon Ice Golem,20/20,9,28.0,0.19
 Ice Bite Support,21c,26,28.0,0.19
 Knockback Support,20/20c,2,28.0,0.19
@@ -2902,6 +2902,7 @@ Summon Chaos Golem of the Maelström,20,7,28.0,0.19
 Flameblast of Contraction,1/20,10,28.0,0.19
 Volatile Dead of Confinement,20c,3,28.0,0.19
 Melee Physical Damage Support,20/23c,18,27.8,0.19
+Greater Multiple Projectiles Support,20/20c,142,27.7,0.18
 Lancing Steel,20/20c,4,27.7,0.18
 Increased Duration Support,1/20,73,27.6,0.18
 Enhance Support,2c,45,27.5,0.18
@@ -2934,7 +2935,6 @@ Purifying Flame,20c,2,26.5,0.18
 Herald of Thunder,21c,37,26.4,0.18
 Smite,20,68,26.4,0.18
 Summon Reaper,20/20,16,26.4,0.18
-Eternal Blessing Support,20/20c,83,26.3,0.18
 Faster Casting Support,1/20,26,26.2,0.17
 Shield Crush,20/20,9,26.2,0.17
 Volatile Dead,20/20c,7,26.0,0.17
@@ -2942,7 +2942,7 @@ Decay Support,20/20c,4,26.0,0.17
 Chance to Flee Support,20/23c,7,26.0,0.17
 Defiance Banner,21c,54,26.0,0.17
 Intuitive Link,20/20,5,26.0,0.17
-Vaal Smite,20c,54,26.0,0.17
+Vaal Smite,20c,50,26.0,0.17
 Ice Nova of Frostbolts,1,69,26.0,0.17
 Summon Ice Golem of Shattering,1/20,7,26.0,0.17
 Glacial Cascade of the Fissure,20c,2,26.0,0.17
@@ -2962,13 +2962,14 @@ Ambush,20/23c,23,25.5,0.17
 Boneshatter of Carnage,20,8,25.5,0.17
 Vaal Molten Shell,20c,50,25.4,0.17
 Frostblink,1/20,54,25.4,0.17
+Eternal Blessing Support,20/20c,82,25.4,0.17
 Charged Dash,20/20,9,25.2,0.17
 Arrogance Support,20/23c,39,25.2,0.17
 Blade Flurry of Incision,1/20,4,25.2,0.17
 Summon Chaos Golem of Hordes,1/20,5,25.2,0.17
 Poisonous Concoction,20/20,15,25.17,0.17
 Slower Projectiles Support,20/20c,23,25.0,0.17
-Minion Life Support,20/20c,75,25.0,0.17
+Minion Life Support,20/20c,74,25.0,0.17
 Multistrike Support,20/20c,109,25.0,0.17
 Spell Totem Support,20/20c,11,25.0,0.17
 Herald of Thunder,20/20c,40,25.0,0.17
@@ -2993,7 +2994,7 @@ Smite,20/23c,29,25.0,0.17
 Lancing Steel,20/20,20,25.0,0.17
 Unleash Support,20/23c,17,25.0,0.17
 Berserk,1/20,64,25.0,0.17
-Flesh and Stone,21c,54,25.0,0.17
+Flesh and Stone,21c,52,25.0,0.17
 Summon Skeletons,21c,49,25.0,0.17
 Pyroclast Mine,21/20c,15,25.0,0.17
 Inspiration Support,20/23c,77,25.0,0.17
@@ -3004,7 +3005,7 @@ Hextouch Support,20/23c,7,25.0,0.17
 Flame Wall,20/20c,12,25.0,0.17
 Stormbind,20c,1,25.0,0.17
 Hydrosphere,20/20c,15,25.0,0.17
-Arrogance Support,1/20,41,25.0,0.17
+Arrogance Support,1/20,40,25.0,0.17
 Corrupting Fever,20/20,19,25.0,0.17
 Blade Trap,20/20,14,25.0,0.17
 Soul Link,20c,2,25.0,0.17
@@ -3046,7 +3047,6 @@ Crackling Lance,20/20,18,24.0,0.16
 Behead Support,20/20,6,24.0,0.16
 Earthbreaker Support,20/20,3,24.0,0.16
 Poisonous Concoction,20/20c,3,24.0,0.16
-Bane of Condemnation,20c,3,24.0,0.16
 Exsanguinate of Transmission,20c,3,24.0,0.16
 Blade Blast of Unloading,20/23c,9,24.0,0.16
 Blade Vortex,20,42,23.84,0.16
@@ -3080,6 +3080,7 @@ Spellslinger,21c,49,23.0,0.15
 Reap,20/23c,27,23.0,0.15
 Boneshatter,20/23c,24,23.0,0.15
 Sacrifice Support,20/20c,4,23.0,0.15
+Bane of Condemnation,20c,2,23.0,0.15
 Barrage,20/20,14,22.9,0.15
 Deadly Ailments Support,20/23c,10,22.7,0.15
 Tempest Shield,1/20,37,22.5,0.15
@@ -3146,7 +3147,6 @@ Endurance Charge on Melee Stun Support,20c,2,20.5,0.14
 Smoke Mine,20/23c,22,20.5,0.14
 Blastchain Mine Support,20/23c,2,20.5,0.14
 Kinetic Bolt,20/20c,14,20.5,0.14
-Absolution,20/20,23,20.5,0.14
 Lightning Tendrils of Eccentricity,20c,2,20.5,0.14
 Life Leech Support,21/20c,9,20.4,0.14
 Spark,20/23c,16,20.4,0.14
@@ -3290,7 +3290,8 @@ Lightning Spire Trap,21/20c,26,20.0,0.13
 Vicious Projectiles Support,20/23c,11,20.0,0.13
 Smite,21c,95,20.0,0.13
 Smite,20c,34,20.0,0.13
-Dread Banner,21c,53,20.0,0.13
+Dread Banner,21c,52,20.0,0.13
+Winter Orb,20/23c,15,20.0,0.13
 Unleash Support,21c,26,20.0,0.13
 Brand Recall,6c,39,20.0,0.13
 Steelskin,21c,44,20.0,0.13
@@ -3313,6 +3314,7 @@ Summon Skitterbots,21c,69,20.0,0.13
 Venom Gyre,20,24,20.0,0.13
 Summon Carrion Golem,20/20c,30,20.0,0.13
 Plague Bearer,20/20c,17,20.0,0.13
+Withering Step,20c,15,20.0,0.13
 Swift Assembly Support,20/20c,16,20.0,0.13
 Arrow Nova Support,20/20,11,20.0,0.13
 Greater Volley Support,21c,15,20.0,0.13
@@ -3352,6 +3354,7 @@ Focused Ballista Support,1/20,14,20.0,0.13
 Eye of Winter,20/23c,7,20.0,0.13
 Behead Support,20/20c,5,20.0,0.13
 Voltaxic Burst,20/23c,17,20.0,0.13
+Absolution,20/20,22,20.0,0.13
 Flame Link,21c,34,20.0,0.13
 Vampiric Link,21/20c,17,20.0,0.13
 Flame Link,20/20,6,20.0,0.13
@@ -3370,7 +3373,7 @@ Snipe,20/23c,8,20.0,0.13
 Returning Projectiles Support,1/20,39,20.0,0.13
 Volatility Support,20/23c,57,20.0,0.13
 Volatility Support,1/20,25,20.0,0.13
-Guardian's Blessing Support,20,47,20.0,0.13
+Guardian's Blessing Support,20,46,20.0,0.13
 Guardian's Blessing Support,21c,52,20.0,0.13
 Spellblade Support,20,15,20.0,0.13
 Frigid Bond Support,21/20c,14,20.0,0.13
@@ -3425,9 +3428,7 @@ Lightning Strike,20/20c,10,19.5,0.13
 Void Manipulation Support,20/23c,10,19.5,0.13
 Minion Speed Support,20/23c,14,19.5,0.13
 Herald of Agony,20c,10,19.5,0.13
-Winter Orb,20/23c,16,19.5,0.13
 Energy Leech Support,20,20,19.5,0.13
-Brand Recall,6,41,19.5,0.13
 Summon Phantasm Support,21c,17,19.5,0.13
 Intimidating Cry,20/20,10,19.5,0.13
 Spellslinger,20c,14,19.5,0.13
@@ -3454,11 +3455,10 @@ Vortex,20/20c,10,19.0,0.13
 Despair,1/20,49,19.0,0.13
 Item Rarity Support,20/20c,149,19.0,0.13
 Faster Attacks Support,21c,31,19.0,0.13
-Elemental Focus Support,20/20c,35,19.0,0.13
 Unbound Ailments Support,1/20,29,19.0,0.13
 Raise Spectre,20/20c,158,19.0,0.13
 Ice Spear,1/20,47,19.0,0.13
-Grace,20,221,19.0,0.13
+Grace,20,220,19.0,0.13
 Dual Strike,20/23c,9,19.0,0.13
 Trap Support,20/23c,9,19.0,0.13
 Innervate Support,21c,30,19.0,0.13
@@ -3466,6 +3466,7 @@ Explosive Trap,20/20c,9,19.0,0.13
 Toxic Rain,21c,55,19.0,0.13
 Toxic Rain,20/23c,22,19.0,0.13
 Holy Flame Totem,20/20c,12,19.0,0.13
+Brand Recall,6,32,19.0,0.13
 Feeding Frenzy Support,21c,25,19.0,0.13
 Arcanist Brand,20c,9,19.0,0.13
 Eternal Blessing Support,21c,45,19.0,0.13
@@ -3490,6 +3491,7 @@ Manabond,20/20c,7,18.8,0.13
 Vaal Absolution,20/20c,29,18.8,0.13
 Fresh Meat Support,20/20c,27,18.8,0.13
 Tectonic Slam,20/23c,10,18.7,0.12
+Elemental Focus Support,20/20c,34,18.6,0.12
 Orb of Storms,20/20c,7,18.6,0.12
 Frost Blades,20/23c,8,18.5,0.12
 Elemental Hit,20/23c,8,18.5,0.12
@@ -3542,7 +3544,6 @@ Rain of Arrows of Artillery,20/20c,8,17.8,0.12
 Frost Blades,20c,2,17.7,0.12
 Soulrend,20/23c,20,17.7,0.12
 Exsanguinate,20/23c,10,17.7,0.12
-Storm Rain,20c,2,17.7,0.12
 Spectral Shield Throw,20/23c,18,17.64,0.12
 Barrage,20/20c,5,17.6,0.12
 Molten Strike,20c,15,17.6,0.12
@@ -3564,7 +3565,6 @@ Rain of Arrows,20/20,20,17.46,0.12
 Greater Multiple Projectiles Support,1/20,25,17.4,0.12
 Assassin's Mark,1/20,39,17.4,0.12
 Phase Run,20,47,17.4,0.12
-Corrupting Fever,20/23c,17,17.4,0.12
 Melee Physical Damage Support,20/20,20,17.2,0.11
 Essence Drain,20/23c,9,17.2,0.11
 Nightblade Support,20,19,17.2,0.11
@@ -3577,6 +3577,7 @@ Charged Traps Support,20c,2,17.0,0.11
 Berserk,20,58,17.0,0.11
 Cobra Lash,20/20c,7,17.0,0.11
 Venom Gyre,20/23c,15,17.0,0.11
+Corrupting Fever,20/23c,16,17.0,0.11
 Focused Ballista Support,21c,31,17.0,0.11
 Intuitive Link,20/23c,8,17.0,0.11
 Controlled Blaze Support,20c,2,17.0,0.11
@@ -3635,14 +3636,12 @@ Ancestral Warchief,1/20,45,15.6,0.1
 Elemental Damage with Attacks Support,1/20,40,15.6,0.1
 Conductivity,20c,34,15.6,0.1
 Energy Leech Support,20/20c,71,15.6,0.1
-Berserk,20c,38,15.6,0.1
 Lightning Conduit,20/23c,25,15.6,0.1
 Trauma Support,21c,18,15.6,0.1
 Innervate Support,20/20c,13,15.5,0.1
 Bladestorm,20/20c,2,15.5,0.1
 Flesh and Stone,20,23,15.5,0.1
 Vaal Ice Shot,20c,15,15.5,0.1
-Withering Step,20c,16,15.47,0.1
 Ignite Proliferation Support,1/20,24,15.4,0.1
 Blade Flurry,20/20c,5,15.4,0.1
 Lightning Penetration Support,20/20c,15,15.4,0.1
@@ -3650,6 +3649,7 @@ Scorching Ray,20,18,15.4,0.1
 Item Rarity Support,21c,34,15.4,0.1
 Flame Link,20/20c,8,15.4,0.1
 Point Blank Support,20c,2,15.3,0.1
+Berserk,20c,37,15.3,0.1
 Frost Bomb,1/20,57,15.2,0.1
 Fist of War Support,20/20,5,15.2,0.1
 Blade Blast of Dagger Detonation,20,3,15.2,0.1
@@ -3701,12 +3701,10 @@ Vitality,20,98,15.0,0.1
 Elemental Hit,20/20c,8,15.0,0.1
 Rejuvenation Totem,20,16,15.0,0.1
 Lesser Multiple Projectiles Support,20/20c,13,15.0,0.1
-Iron Will Support,20/20c,1,15.0,0.1
 Faster Casting Support,21c,26,15.0,0.1
 Molten Shell,21c,57,15.0,0.1
 Bodyswap,20,14,15.0,0.1
 Reave,20c,1,15.0,0.1
-Added Lightning Damage Support,20/23c,11,15.0,0.1
 Summon Raging Spirit,20/23c,46,15.0,0.1
 Ethereal Knives,20/23c,22,15.0,0.1
 Controlled Destruction Support,20/23c,14,15.0,0.1
@@ -3742,7 +3740,7 @@ Meat Shield Support,20,38,15.0,0.1
 Swiftbrand Support,20,19,15.0,0.1
 Arcanist Brand,21c,56,15.0,0.1
 Awakened Added Fire Damage Support,1,319,15.0,0.1
-Awakened Melee Splash Support,1,332,15.0,0.1
+Awakened Melee Splash Support,1,331,15.0,0.1
 Frost Shield,20,46,15.0,0.1
 Sigil of Power,20,34,15.0,0.1
 Splitting Steel,20/23c,28,15.0,0.1
@@ -3764,7 +3762,7 @@ Eternal Blessing Support,1/20,17,15.0,0.1
 Divine Blessing Support,20,48,15.0,0.1
 Eternal Blessing Support,20,32,15.0,0.1
 Frozen Legion,20/20c,6,15.0,0.1
-Prismatic Burst Support,20/20,9,15.0,0.1
+Prismatic Burst Support,20/20,8,15.0,0.1
 Guardian's Blessing Support,1/20,34,15.0,0.1
 Volatility Support,20,18,15.0,0.1
 Frigid Bond Support,20/20c,1,15.0,0.1
@@ -3778,6 +3776,7 @@ Ethereal Knives of the Massacre,1,50,15.0,0.1
 Lancing Steel of Spraying,1,35,15.0,0.1
 Summon Flame Golem of the Meteor,20,8,15.0,0.1
 Added Lightning Damage Support,20/20,21,14.9,0.1
+Added Lightning Damage Support,20/23c,10,14.9,0.1
 Seismic Trap,20,21,14.9,0.1
 Lancing Steel,20/23c,10,14.9,0.1
 Block Chance Reduction Support,1,8,14.9,0.1
@@ -3880,6 +3879,7 @@ Precision,20,102,12.7,0.08
 Defiance Banner,20,101,12.7,0.08
 Volcanic Fissure,20/20c,4,12.7,0.08
 Soulrend,20/20c,3,12.64,0.08
+Cluster Traps Support,1/20,14,12.6,0.08
 Herald of Purity,1/20,14,12.6,0.08
 Arrow Nova Support,20/20c,3,12.6,0.08
 Blade Trap,20/20c,9,12.6,0.08
@@ -3905,7 +3905,7 @@ Arc,1/20,44,12.24,0.08
 Swift Affliction Support,21c,18,12.2,0.08
 Point Blank Support,20/23c,9,12.2,0.08
 Earthbreaker Support,20c,2,12.1,0.08
-Vaal Discipline,20c,218,12.0,0.08
+Vaal Discipline,20c,217,12.0,0.08
 Life Leech Support,20/20c,6,12.0,0.08
 Added Chaos Damage Support,20c,1,12.0,0.08
 Decay Support,20/20,3,12.0,0.08
@@ -3938,8 +3938,6 @@ Ignite Proliferation Support,21c,23,11.8,0.08
 Chance to Poison Support,20c,3,11.8,0.08
 Destructive Link,20/23c,11,11.8,0.08
 Exsanguinate of Transmission,1,30,11.8,0.08
-Unleash Support,1/20,25,11.6,0.08
-Malevolence,20,63,11.6,0.08
 Voltaxic Burst,20/20c,5,11.6,0.08
 Increased Area of Effect Support,20,52,11.55,0.08
 Frostbolt,20,27,11.55,0.08
@@ -3952,6 +3950,7 @@ Ground Slam,20c,2,11.5,0.08
 Glacial Cascade,20/20c,4,11.5,0.08
 Cold Penetration Support,1/20,14,11.5,0.08
 Lightning Tendrils,20/20c,6,11.5,0.08
+Bladefall,20c,4,11.5,0.08
 Elemental Focus Support,21c,25,11.5,0.08
 Stun Support,20/20c,2,11.5,0.08
 Incinerate,20/23c,14,11.5,0.08
@@ -3961,14 +3960,16 @@ Penance Brand of Conduction,20c,4,11.5,0.08
 Lightning Penetration Support,20,22,11.4,0.08
 Blasphemy Support,20/20c,10,11.4,0.08
 Bloodlust Support,20/20c,5,11.4,0.08
-Power Charge On Critical Support,20c,47,11.4,0.08
+Power Charge On Critical Support,20c,46,11.4,0.08
 Frost Bomb,21c,46,11.4,0.08
 Shattering Steel,20/20c,9,11.4,0.08
+Malevolence,20,62,11.4,0.08
 Fresh Meat Support,20,8,11.4,0.08
 Impale Support,1/20,20,11.24,0.07
 Decoy Totem,20c,2,11.2,0.07
 Cyclone,21c,27,11.2,0.07
 Toxic Rain,20/20c,39,11.2,0.07
+Unleash Support,1/20,24,11.2,0.07
 Pyroclast Mine,20/20c,5,11.2,0.07
 Rage Vortex,20/23c,17,11.2,0.07
 Awakened Added Chaos Damage Support,1,352,11.16,0.07
@@ -4016,10 +4017,10 @@ Impale Support,21c,22,10.5,0.07
 Summon Skeletons,20,35,10.5,0.07
 Divine Blessing Support,20c,19,10.5,0.07
 Siege Ballista,20/20c,6,10.48,0.07
+Concentrated Effect Support,20,25,10.46,0.07
 Conductivity,1/20,56,10.46,0.07
 Ancestral Call Support,1/20,27,10.46,0.07
 Bloodlust Support,20/20,3,10.4,0.07
-Concentrated Effect Support,20,26,10.4,0.07
 Smoke Mine,20/20c,5,10.4,0.07
 Rain of Arrows,20/20c,5,10.4,0.07
 Lightning Trap,20/23c,14,10.4,0.07
@@ -4043,7 +4044,7 @@ Cyclone,20,38,10.0,0.07
 Added Lightning Damage Support,20/20c,20,10.0,0.07
 Summon Chaos Golem,1/20,41,10.0,0.07
 Physical to Lightning Support,20,25,10.0,0.07
-Elemental Weakness,20c,32,10.0,0.07
+Elemental Weakness,20c,31,10.0,0.07
 Frost Bomb,20,36,10.0,0.07
 Slower Projectiles Support,1/20,25,10.0,0.07
 Frostbolt,1/20,39,10.0,0.07
@@ -4075,7 +4076,7 @@ Whirling Blades,1/20,48,10.0,0.07
 Herald of Ice,20c,51,10.0,0.07
 Brutality Support,20/20c,28,10.0,0.07
 Temporal Chains,20,47,10.0,0.07
-Despair,20,58,10.0,0.07
+Despair,20,57,10.0,0.07
 Haste,20,128,10.0,0.07
 Enfeeble,1/20,48,10.0,0.07
 Summon Lightning Golem,1/20,48,10.0,0.07
@@ -4107,7 +4108,6 @@ Added Cold Damage Support,21c,20,10.0,0.07
 Cold Snap,1/20,37,10.0,0.07
 Anger,20,61,10.0,0.07
 Culling Strike Support,20,52,10.0,0.07
-Bladefall,20c,5,10.0,0.07
 Spell Cascade Support,1/20,26,10.0,0.07
 Scorching Ray,21c,49,10.0,0.07
 Conversion Trap,1/20,35,10.0,0.07
@@ -4118,7 +4118,7 @@ Charged Dash,20,15,10.0,0.07
 Dual Strike,20,24,10.0,0.07
 Minefield Support,21c,18,10.0,0.07
 Hypothermia Support,20,28,10.0,0.07
-Burning Arrow,1/20,45,10.0,0.07
+Burning Arrow,1/20,44,10.0,0.07
 Discharge,21c,39,10.0,0.07
 Culling Strike Support,20c,28,10.0,0.07
 Animate Guardian,20,56,10.0,0.07
@@ -4126,7 +4126,7 @@ Shockwave Totem,20c,1,10.0,0.07
 Spell Echo Support,1/20,27,10.0,0.07
 Shield Charge,20c,10,10.0,0.07
 Void Manipulation Support,1/20,29,10.0,0.07
-Slower Projectiles Support,21c,23,10.0,0.07
+Slower Projectiles Support,21c,22,10.0,0.07
 Faster Casting Support,20c,12,10.0,0.07
 Melee Splash Support,20/20,26,10.0,0.07
 Controlled Destruction Support,1/20,23,10.0,0.07
@@ -4202,7 +4202,7 @@ Vortex,21c,49,10.0,0.07
 Caustic Arrow,21c,40,10.0,0.07
 Ice Spear,20,28,10.0,0.07
 Stun Support,20c,1,10.0,0.07
-Infernal Blow,20/23c,8,10.0,0.07
+Infernal Blow,20/23c,7,10.0,0.07
 Wither,21c,43,10.0,0.07
 Flameblast,20/23c,12,10.0,0.07
 Infernal Blow,20c,1,10.0,0.07
@@ -4300,11 +4300,10 @@ Barrage Support,20,11,10.0,0.07
 Arrow Nova Support,20c,2,10.0,0.07
 Archmage Support,21c,28,10.0,0.07
 Second Wind Support,21c,20,10.0,0.07
-Arcane Cloak,20,29,10.0,0.07
+Arcane Cloak,20,28,10.0,0.07
 Second Wind Support,20,51,10.0,0.07
 Creeping Frost,21c,40,10.0,0.07
 Penance Brand,21c,58,10.0,0.07
-Urgent Orders Support,21c,22,10.0,0.07
 Penance Brand,20,115,10.0,0.07
 Ancestral Cry,21c,46,10.0,0.07
 General's Cry,20,28,10.0,0.07
@@ -4348,14 +4347,14 @@ Forbidden Rite,20,22,10.0,0.07
 Summon Reaper,20c,1,10.0,0.07
 Behead Support,21c,17,10.0,0.07
 Absolution,20c,1,10.0,0.07
-Defiance Banner,20c,28,10.0,0.07
+Defiance Banner,20c,25,10.0,0.07
 Explosive Concoction,20/23c,9,10.0,0.07
 Tornado,1/20,45,10.0,0.07
 Energy Blade,20,32,10.0,0.07
 Soul Link,1/20,30,10.0,0.07
 Tornado,21c,42,10.0,0.07
 Energy Blade,21c,37,10.0,0.07
-Soul Link,21c,47,10.0,0.07
+Soul Link,21c,46,10.0,0.07
 Soul Link,20,29,10.0,0.07
 Flame Link,20,11,10.0,0.07
 Destructive Link,20c,1,10.0,0.07
@@ -4402,7 +4401,7 @@ Frost Blades of Katabasis,1,31,10.0,0.07
 Spectral Shield Throw of Shattering,1,23,10.0,0.07
 Lightning Trap of Sparking,1,35,10.0,0.07
 Dominating Blow of Inspiring,1,22,10.0,0.07
-Splitting Steel of Ammunition,1,41,10.0,0.07
+Splitting Steel of Ammunition,1,40,10.0,0.07
 Summon Skeletons of Archers,1,70,10.0,0.07
 Lacerate of Haemorrhage,1,34,10.0,0.07
 Storm Rain of the Fence,1,34,10.0,0.07
@@ -4449,7 +4448,6 @@ Spirit Offering,1/20,64,9.6,0.06
 Frost Blades,20,22,9.6,0.06
 Mana Leech Support,20,7,9.6,0.06
 Added Chaos Damage Support,21c,8,9.6,0.06
-Convocation,21c,49,9.6,0.06
 Ice Trap,21c,48,9.6,0.06
 Dash,21c,41,9.6,0.06
 Close Combat Support,20,19,9.6,0.06
@@ -4460,11 +4458,11 @@ Hydrosphere,21c,40,9.6,0.06
 Momentum Support,21c,30,9.6,0.06
 Flamewood Support,1/20,17,9.6,0.06
 Blade Vortex of the Scythe,1,50,9.6,0.06
-Rain of Arrows of Saturation,1,50,9.6,0.06
 Haste,1/20,21,9.5,0.06
 Glacial Cascade,21c,31,9.5,0.06
 Summon Stone Golem,20c,10,9.5,0.06
 Blight,21c,37,9.5,0.06
+Convocation,21c,48,9.5,0.06
 Elemental Proliferation Support,20c,4,9.5,0.06
 Void Manipulation Support,21c,26,9.5,0.06
 Stormblast Mine,20/20c,6,9.5,0.06
@@ -4489,6 +4487,7 @@ General's Cry,21c,36,9.4,0.06
 Void Sphere,20,26,9.4,0.06
 Galvanic Field,21c,38,9.4,0.06
 Flamewood Support,21c,19,9.4,0.06
+Rain of Arrows of Saturation,1,49,9.4,0.06
 Behead Support,20,5,9.38,0.06
 Heavy Strike,1/20,32,9.35,0.06
 Dark Pact,20/20c,4,9.3,0.06
@@ -4504,6 +4503,7 @@ Sweep,20,18,9.2,0.06
 Smoke Mine,21c,34,9.2,0.06
 Devouring Totem,20,19,9.2,0.06
 Mana Leech Support,21c,17,9.2,0.06
+Urgent Orders Support,21c,21,9.2,0.06
 Infernal Cry,20c,10,9.2,0.06
 Flameblast of Contraction,1,36,9.2,0.06
 Siege Ballista,20,19,9.1,0.06
@@ -4690,6 +4690,7 @@ Lightning Trap,20,22,7.98,0.05
 Storm Call,1/20,35,7.9,0.05
 Spellblade Support,20c,7,7.9,0.05
 Lightning Tendrils of Escalation,1,43,7.9,0.05
+Stormbind,1/20,40,7.86,0.05
 Bone Offering,1/20,49,7.8,0.05
 Maim Support,20,21,7.8,0.05
 Ancestral Warchief,20,56,7.8,0.05
@@ -4721,7 +4722,6 @@ Perforate,21c,38,7.6,0.05
 Bladestorm,20,14,7.6,0.05
 Chance to Poison Support,1/20,30,7.6,0.05
 Destructive Link,21c,38,7.55,0.05
-Cluster Traps Support,1/20,15,7.5,0.05
 Minion Speed Support,1/20,19,7.5,0.05
 Efficacy Support,20c,18,7.5,0.05
 Archmage Support,20c,12,7.5,0.05
@@ -4750,6 +4750,7 @@ Detonate Dead,20c,50,7.2,0.05
 Firestorm,1/20,38,7.2,0.05
 Alchemist's Mark,1/20,37,7.2,0.05
 Volatile Dead of Confinement,1,33,7.2,0.05
+Blink Arrow,1/20,60,7.1,0.05
 Point Blank Support,1/20,21,7.1,0.05
 Flicker Strike,20c,8,7.1,0.05
 Ethereal Knives,20,21,7.1,0.05
@@ -4758,6 +4759,7 @@ Volcanic Fissure,20,20,7.1,0.05
 Frenzy,20,93,7.0,0.05
 Tornado Shot,20c,47,7.0,0.05
 Ice Shot,20,28,7.0,0.05
+Orb of Storms,21c,37,7.0,0.05
 Ice Bite Support,1/20,25,7.0,0.05
 Decay Support,1/20,9,7.0,0.05
 Arcane Surge Support,20,35,7.0,0.05
@@ -4827,7 +4829,6 @@ Incinerate,20/20c,8,6.4,0.04
 Rain of Arrows,21c,46,6.4,0.04
 Ballista Totem Support,20c,14,6.4,0.04
 Ensnaring Arrow,20c,8,6.4,0.04
-Stormbind,1/20,41,6.38,0.04
 Static Strike,1/20,37,6.3,0.04
 Ancestral Call Support,20c,4,6.3,0.04
 Infernal Cry,1/20,48,6.3,0.04
@@ -4875,7 +4876,6 @@ Innervate Support,20c,9,5.82,0.04
 Vaal Spark,20c,11,5.8,0.04
 Cast on Melee Kill Support,1/20,13,5.8,0.04
 Ice Nova,20,27,5.8,0.04
-Orb of Storms,21c,38,5.8,0.04
 Lightning Tendrils,21c,38,5.8,0.04
 Life Leech Support,21c,15,5.8,0.04
 Poacher's Mark,21c,43,5.8,0.04
@@ -4887,7 +4887,6 @@ Urgent Orders Support,1/20,20,5.8,0.04
 Seismic Cry,20,14,5.8,0.04
 Devour Support,1/20,18,5.8,0.04
 Lightning Tendrils of Eccentricity,1,41,5.8,0.04
-Blink Arrow,1/20,61,5.75,0.04
 Swift Affliction Support,20,40,5.7,0.04
 Bodyswap,1/20,29,5.7,0.04
 High-Impact Mine Support,1/20,29,5.7,0.04
@@ -4944,7 +4943,7 @@ Flameblast,1/20,42,5.0,0.03
 Added Fire Damage Support,21c,18,5.0,0.03
 Shock Nova,1/20,28,5.0,0.03
 Brutality Support,20,43,5.0,0.03
-Discipline,20c,173,5.0,0.03
+Discipline,20c,172,5.0,0.03
 Dark Pact,1/20,53,5.0,0.03
 Faster Attacks Support,20,110,5.0,0.03
 Contagion,1/20,35,5.0,0.03
@@ -5167,7 +5166,7 @@ Toxic Rain of Sporeburst,1,45,5.0,0.03
 Spectral Throw of Materialising,1,36,5.0,0.03
 Bladefall of Impaling,1,21,5.0,0.03
 Galvanic Arrow of Energy,1,33,5.0,0.03
-Split Arrow of Splitting,1,52,5.0,0.03
+Split Arrow of Splitting,1,51,5.0,0.03
 Pyroclast Mine of Sabotage,1,42,5.0,0.03
 Blight of Contagion,1,29,5.0,0.03
 Detonate Dead of Scavenging,1,71,5.0,0.03
@@ -5180,7 +5179,7 @@ Summon Stone Golem of Safeguarding,1,26,5.0,0.03
 Shattering Steel of Ammunition,1,23,5.0,0.03
 Summon Chaos Golem of the Maelström,1,38,5.0,0.03
 Raise Spectre of Transience,1,55,5.0,0.03
-Galvanic Field of Intensity,1,48,5.0,0.03
+Galvanic Field of Intensity,1,47,5.0,0.03
 Bear Trap of Skewers,1,18,5.0,0.03
 Firestorm of Meteors,1,61,5.0,0.03
 Double Strike of Momentum,1,34,5.0,0.03
@@ -5191,7 +5190,6 @@ Added Fire Damage Support,20,32,4.9,0.03
 Wrath,20c,301,4.9,0.03
 Pyroclast Mine,21c,56,4.9,0.03
 Galvanic Arrow,20/20c,4,4.9,0.03
-Earthshatter,20,10,4.9,0.03
 Locus Mine Support,21c,21,4.9,0.03
 Earthshatter of Fragility,1,31,4.9,0.03
 Glacial Cascade of the Fissure,1,37,4.9,0.03
@@ -5199,6 +5197,7 @@ Perforate of Bloodshed,1,21,4.9,0.03
 Vaal Arc,20c,23,4.8,0.03
 Pierce Support,20,19,4.8,0.03
 Glacial Hammer,21c,33,4.8,0.03
+Earthshatter,20,9,4.8,0.03
 Flame Wall,20,21,4.8,0.03
 Exsanguinate,1/20,32,4.8,0.03
 Behead Support,1/20,19,4.8,0.03
@@ -5255,8 +5254,8 @@ Locus Mine Support,1/20,23,4.1,0.03
 Flesh Offering,20,42,4.0,0.03
 Portal,1,398,4.0,0.03
 Rallying Cry,1/20,35,4.0,0.03
-Blade Flurry,1/20,43,4.0,0.03
-Elemental Focus Support,20,64,4.0,0.03
+Blade Flurry,1/20,42,4.0,0.03
+Elemental Focus Support,20,63,4.0,0.03
 Frost Blades,1/20,37,4.0,0.03
 Dual Strike,1/20,42,4.0,0.03
 Vigilant Strike,1/20,38,4.0,0.03
@@ -5396,10 +5395,9 @@ Elemental Focus Support,1,193,3.0,0.02
 Righteous Fire,1,212,3.0,0.02
 Warlord's Mark,1,176,3.0,0.02
 Withering Touch Support,1,121,3.0,0.02
-Wrath,1,142,3.0,0.02
+Wrath,1,141,3.0,0.02
 High-Impact Mine Support,1,91,3.0,0.02
 Shield Charge,1,229,3.0,0.02
-Fortify Support,1,115,3.0,0.02
 Precision,1,287,3.0,0.02
 Summon Lightning Golem,1,213,3.0,0.02
 Cremation,1,180,3.0,0.02
@@ -5415,14 +5413,14 @@ Generosity Support,1,136,3.0,0.02
 Fire Trap,1,196,3.0,0.02
 Animate Guardian,1,171,3.0,0.02
 Cold Penetration Support,1,99,3.0,0.02
-Frenzy,1,223,3.0,0.02
+Frenzy,1,222,3.0,0.02
 Increased Critical Damage Support,1,178,3.0,0.02
 Chance to Poison Support,20,32,3.0,0.02
 Shield Crush,1/20,42,3.0,0.02
 Battlemage's Cry,1,195,3.0,0.02
 Focused Ballista Support,1,115,3.0,0.02
 Boneshatter,20,38,3.0,0.02
-Eternal Blessing Support,1,123,3.0,0.02
+Eternal Blessing Support,1,122,3.0,0.02
 Volatility Support,1,140,3.0,0.02
 Vaal Discipline,1c,96,3.0,0.02
 Vaal Ancestral Warchief,1c,129,3.0,0.02
@@ -5434,6 +5432,7 @@ Summon Reaper of Eviscerating,1,22,3.0,0.02
 Power Siphon of the Archmage,1,60,3.0,0.02
 Ground Slam,20,11,2.9,0.02
 Vortex,1,204,2.9,0.02
+Fortify Support,1,114,2.9,0.02
 Corrupting Fever,20/20c,10,2.8,0.02
 Scourge Arrow,1,192,2.8,0.02
 Essence Drain of Desperation,1,30,2.8,0.02
@@ -5459,6 +5458,7 @@ Melee Physical Damage Support,20,53,2.35,0.02
 Frostbite,1,201,2.3,0.02
 Flesh Offering,20c,4,2.2,0.01
 Toxic Rain,20c,9,2.2,0.01
+Bladefall,1,180,2.1,0.01
 Concentrated Effect Support,1,155,2.1,0.01
 Detonate Mines,1,78,2.0,0.01
 Mirror Arrow,1/20,399,2.0,0.01
@@ -5482,7 +5482,6 @@ Flesh Offering,1,211,2.0,0.01
 Leap Slam,1,254,2.0,0.01
 Cast on Death Support,1,125,2.0,0.01
 Flameblast,1,169,2.0,0.01
-Bladefall,1,181,2.0,0.01
 Ancestral Protector,1,260,2.0,0.01
 Raise Spectre,1,198,2.0,0.01
 Ballista Totem Support,1,121,2.0,0.01
@@ -5519,7 +5518,7 @@ Creeping Frost,1,181,2.0,0.01
 Sniper's Mark,1,281,2.0,0.01
 Immolate Support,1,124,2.0,0.01
 Increased Area of Effect Support,1,182,2.0,0.01
-Raise Zombie,1,221,2.0,0.01
+Raise Zombie,1,220,2.0,0.01
 Bone Offering,1,213,2.0,0.01
 Spellslinger,1,163,2.0,0.01
 Minefield Support,1,107,2.0,0.01
@@ -5530,14 +5529,14 @@ Combustion Support,1,210,2.0,0.01
 Storm Brand,1,210,2.0,0.01
 Pierce Support,1,179,2.0,0.01
 Penance Brand,1,287,2.0,0.01
-Ensnaring Arrow,1,228,2.0,0.01
+Ensnaring Arrow,1,227,2.0,0.01
 Herald of Ash,1,222,2.0,0.01
 Discharge,1,168,2.0,0.01
 Reap,1,180,2.0,0.01
 Frostblink,1,355,2.0,0.01
 Static Strike,1,183,2.0,0.01
 Chain Hook,1,173,2.0,0.01
-Iron Grip Support,1,101,2.0,0.01
+Iron Grip Support,1,100,2.0,0.01
 Cluster Traps Support,1,97,2.0,0.01
 Earthquake,1,174,2.0,0.01
 Poacher's Mark,1,197,2.0,0.01
@@ -5584,7 +5583,7 @@ Minion Life Support,1,134,2.0,0.01
 Cast on Melee Kill Support,1,104,2.0,0.01
 Freezing Pulse,1,197,2.0,0.01
 Shockwave Totem,1,153,2.0,0.01
-Ice Shot,1,189,2.0,0.01
+Ice Shot,1,188,2.0,0.01
 Ice Bite Support,1,109,2.0,0.01
 Elemental Weakness,1,260,2.0,0.01
 Bonechill Support,1,133,2.0,0.01
@@ -5691,7 +5690,7 @@ Pinpoint Support,1,98,1.0,0.01
 Nightblade Support,1,101,1.0,0.01
 Explosive Trap,1,174,1.0,0.01
 Bloodlust Support,1,100,1.0,0.01
-Summon Holy Relic,1,216,1.0,0.01
+Summon Holy Relic,1,215,1.0,0.01
 Knockback Support,1,89,1.0,0.01
 Fist of War Support,1,78,1.0,0.01
 Minion Damage Support,1,183,1.0,0.01
@@ -5710,7 +5709,7 @@ Lightning Tendrils,1,176,1.0,0.01
 Cobra Lash,1,218,1.0,0.01
 Glacial Hammer,1,197,1.0,0.01
 Riposte,1,179,1.0,0.01
-Ground Slam,1,227,1.0,0.01
+Ground Slam,1,226,1.0,0.01
 Steelskin,1,311,1.0,0.01
 Elemental Hit,1,185,1.0,0.01
 Firestorm,1,178,1.0,0.01
@@ -5777,7 +5776,7 @@ Point Blank Support,1,95,1.0,0.01
 Despair,1,239,1.0,0.01
 Pyroclast Mine,1,163,1.0,0.01
 Hydrosphere,1,202,1.0,0.01
-Unearth,1,198,1.0,0.01
+Unearth,1,197,1.0,0.01
 Essence Drain,1,176,1.0,0.01
 Plague Bearer,1,174,1.0,0.01
 Endurance Charge on Melee Stun Support,1,125,1.0,0.01
@@ -5790,7 +5789,7 @@ Orb of Storms,1,217,1.0,0.01
 Faster Casting Support,1,189,1.0,0.01
 Greater Volley Support,1,88,1.0,0.01
 Swift Assembly Support,1,152,1.0,0.01
-Dash,1,330,1.0,0.01
+Dash,1,329,1.0,0.01
 Decay Support,1,91,1.0,0.01
 Sunder,1,189,1.0,0.01
 Multiple Traps Support,1,117,1.0,0.01
@@ -5819,7 +5818,7 @@ Intuitive Link,1,157,1.0,0.01
 Flame Link,1,152,1.0,0.01
 Frozen Legion,1,169,1.0,0.01
 Momentum Support,1,267,1.0,0.01
-Prismatic Burst Support,1,153,1.0,0.01
+Prismatic Burst Support,1,152,1.0,0.01
 Locus Mine Support,1,105,1.0,0.01
 Fresh Meat Support,1,100,1.0,0.01
 Devour Support,1,112,1.0,0.01
@@ -5858,7 +5857,7 @@ Vaal Righteous Fire,1c,230,1.0,0.01
 Vaal Molten Strike,1c,238,1.0,0.01
 Vaal Power Siphon,1c,211,1.0,0.01
 Vaal Spectral Throw,1c,226,1.0,0.01
-Vaal Ice Nova,1c,225,1.0,0.01
+Vaal Ice Nova,1c,224,1.0,0.01
 Vaal Reap,1c,140,1.0,0.01
 Vaal Blade Vortex,1c,197,1.0,0.01
 Vaal Summon Skeletons,1c,174,1.0,0.01
