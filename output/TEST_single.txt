@@ -396,25 +396,25 @@ essence,Deafening Essence of Spite,,4.0,5257,30
 essence,Shrieking Essence of Spite,,2.0,1955,23
 essence,Screaming Essence of Spite,,1.0,1020,17
 essence,Deafening Essence of Zeal,,8.0,7391,19
-essence,Shrieking Essence of Zeal,,1.0,1078,19
-essence,Screaming Essence of Zeal,,1.0,1554,17
-essence,Deafening Essence of Misery,,2.0,4596,18
-essence,Shrieking Essence of Misery,,1.0,1189,21
-essence,Screaming Essence of Misery,,1.0,1040,16
-essence,Deafening Essence of Dread,,2.0,1777,27
-essence,Shrieking Essence of Dread,,2.0,901,16
-essence,Screaming Essence of Dread,,1.0,768,17
-essence,Screaming Essence of Scorn,,1.0,514,19
-essence,Shrieking Essence of Scorn,,6.0,1035,18
-essence,Deafening Essence of Scorn,,10.0,6306,31
-essence,Shrieking Essence of Envy,,1.0,1342,29
-essence,Screaming Essence of Envy,,1.0,424,15
-essence,Deafening Essence of Envy,,9.0,5265,29
-essence,Essence of Hysteria,,29.8,991,19
-essence,Essence of Insanity,,28.0,1055,22
-essence,Essence of Delirium,,25.0,1044,17
-essence,Essence of Horror,,26.0,1625,19
-essence,Remnant of Corruption,,1.0,17061,47
+essence,Shrieking Essence of Zeal,,1.0,1000,19
+essence,Screaming Essence of Zeal,,1.0,1502,18
+essence,Deafening Essence of Misery,,4.0,4137,17
+essence,Shrieking Essence of Misery,,1.0,1295,24
+essence,Screaming Essence of Misery,,1.0,1048,17
+essence,Deafening Essence of Dread,,2.0,1311,28
+essence,Shrieking Essence of Dread,,2.0,610,16
+essence,Screaming Essence of Dread,,1.0,705,16
+essence,Screaming Essence of Scorn,,1.0,363,18
+essence,Shrieking Essence of Scorn,,1.0,1024,19
+essence,Deafening Essence of Scorn,,6.0,5937,34
+essence,Shrieking Essence of Envy,,1.0,1482,29
+essence,Screaming Essence of Envy,,1.0,325,14
+essence,Deafening Essence of Envy,,8.0,3764,27
+essence,Essence of Hysteria,,21.0,953,21
+essence,Essence of Insanity,,28.0,844,20
+essence,Essence of Delirium,,34.0,1048,19
+essence,Essence of Horror,,25.0,1508,23
+essence,Remnant of Corruption,,1.0,16390,43
 card,A Chilling Wind,,25.0,79,18
 card,A Dab of Ink,,4.0,139,25
 card,A Dusty Memory,,15.0,58,18
@@ -3212,7 +3212,7 @@ gem,Volley Support,corrupted 21/0,80.0,1,1
 gem,Volley Support,clean 1/20,20.0,1,1
 gem,Volley Support,clean 20/20,20.0,1,1
 gem,Vortex,clean 20/0,39.0,3,3
-gem,Vortex,corrupted 20/0,60.0,3,3
+gem,Vortex,corrupted 20/0,40.0,17,14
 gem,Vortex,corrupted 21/0,3725.0,5,5
 gem,Vortex,clean 1/20,9.0,11,10
 gem,Vortex,clean 20/20,39.0,3,3
@@ -3223,6 +3223,7 @@ gem,Vulnerability,corrupted 20/0,30.0,6,5
 gem,Vulnerability,corrupted 21/0,10.0,3,3
 gem,Vulnerability,clean 1/20,20.0,5,5
 gem,Vulnerability,clean 20/20,80.0,3,3
+gem,Vulnerability,corrupted 20/20,50.0,1,1
 gem,Vulnerability,corrupted 21/20,208.6,1,1
 gem,War Banner,clean 20/0,20.0,2,2
 gem,War Banner,corrupted 20/0,30.0,3,3
@@ -3232,73 +3233,83 @@ gem,War Banner,clean 20/20,100.0,1,1
 gem,War Banner,corrupted 20/20,100.0,1,1
 gem,War Banner,corrupted 21/20,894.0,4,4
 gem,Warlord's Mark,clean 20/0,20.0,7,6
-gem,Warlord's Mark,corrupted 20/0,59.0,1,1
+gem,Warlord's Mark,corrupted 20/0,60.0,3,3
 gem,Warlord's Mark,corrupted 21/0,5.0,7,7
 gem,Warlord's Mark,clean 1/20,60.0,3,3
 gem,Warlord's Mark,clean 20/20,60.0,2,2
+gem,Warlord's Mark,corrupted 20/20,60.0,1,1
 gem,Warlord's Mark,corrupted 21/20,149.0,2,2
-gem,Wave of Conviction,clean 20/0,20.0,1,1
+gem,Wave of Conviction,clean 20/0,4.0,4,4
 gem,Wave of Conviction,corrupted 20/0,521.5,1,1
 gem,Wave of Conviction,corrupted 21/0,298.0,1,1
 gem,Wave of Conviction,clean 1/20,30.0,1,1
 gem,Wave of Conviction,corrupted 21/20,298.0,1,1
-gem,Whirling Blades,clean 20/0,5.0,4,4
-gem,Whirling Blades,corrupted 20/0,149.0,1,1
+gem,Whirling Blades,clean 20/0,90.0,3,3
+gem,Whirling Blades,corrupted 20/0,60.0,5,5
 gem,Whirling Blades,corrupted 21/0,50.0,4,4
-gem,Whirling Blades,clean 1/20,14.0,3,3
-gem,Whirling Blades,clean 20/20,149.0,1,1
+gem,Whirling Blades,clean 1/20,15.0,4,4
+gem,Whirling Blades,clean 20/20,90.0,3,3
 gem,Whirling Blades,corrupted 20/20,90.0,2,2
+gem,Whirling Blades,corrupted 21/20,149.0,2,2
 gem,Wild Strike,clean 20/0,60.0,1,1
-gem,Wild Strike,corrupted 20/0,25.0,7,2
+gem,Wild Strike,corrupted 20/0,50.0,2,2
 gem,Wild Strike,corrupted 21/0,9.0,7,7
 gem,Wild Strike,clean 1/20,149.0,1,1
+gem,Wild Strike,clean 20/20,80.0,4,2
 gem,Wild Strike,corrupted 21/20,30.0,1,1
-gem,Winter Orb,clean 20/0,40.0,1,1
-gem,Winter Orb,corrupted 20/0,40.0,1,1
-gem,Winter Orb,corrupted 21/0,149.0,1,1
+gem,Winter Orb,clean 20/0,4.0,4,4
+gem,Winter Orb,corrupted 20/0,15.0,4,4
+gem,Winter Orb,corrupted 21/0,10.0,4,4
 gem,Winter Orb,clean 1/20,8.0,3,3
-gem,Winter Orb,clean 20/20,40.0,1,1
-gem,Winter Orb,corrupted 21/20,149.0,1,1
-gem,Wintertide Brand,clean 20/0,9.0,1,1
+gem,Winter Orb,clean 20/20,50.0,1,1
+gem,Winter Orb,corrupted 20/20,15.0,3,3
+gem,Winter Orb,corrupted 21/20,100.0,2,2
+gem,Wintertide Brand,clean 20/0,6.0,5,4
+gem,Wintertide Brand,corrupted 20/0,10.0,3,3
 gem,Wintertide Brand,corrupted 21/0,19.0,6,5
 gem,Wintertide Brand,clean 1/20,50.0,2,2
-gem,Wither,clean 20/0,5.0,1,1
+gem,Wintertide Brand,clean 20/20,48.0,1,1
+gem,Wintertide Brand,corrupted 20/20,40.0,1,1
 gem,Wither,corrupted 20/0,70.0,2,2
 gem,Wither,corrupted 21/0,30.0,5,5
+gem,Wither,clean 1/20,10.0,1,1
 gem,Wither,corrupted 21/20,80.0,4,4
 gem,Withering Step,clean 20/0,100.0,1,1
-gem,Withering Step,corrupted 21/0,5.0,8,8
-gem,Withering Step,clean 1/20,15.0,3,3
-gem,Withering Step,clean 20/20,100.0,1,1
+gem,Withering Step,corrupted 21/0,10.0,16,16
+gem,Withering Step,clean 1/20,14.0,6,6
+gem,Withering Step,clean 20/20,60.0,3,3
 gem,Withering Step,corrupted 20/20,100.0,1,1
-gem,Withering Step,corrupted 21/20,149.0,4,4
-gem,Withering Touch Support,corrupted 20/0,70.0,2,2
-gem,Withering Touch Support,corrupted 21/0,447.0,2,2
-gem,Withering Touch Support,clean 1/20,40.0,1,1
-gem,Withering Touch Support,corrupted 20/20,70.0,1,1
-gem,Withering Touch Support,corrupted 21/20,447.0,2,2
+gem,Withering Step,corrupted 21/20,149.0,5,5
+gem,Withering Touch Support,clean 20/0,4.0,6,6
+gem,Withering Touch Support,corrupted 20/0,5.0,4,4
+gem,Withering Touch Support,corrupted 21/0,298.0,2,2
+gem,Withering Touch Support,clean 1/20,20.0,8,8
+gem,Withering Touch Support,clean 20/20,60.0,4,4
+gem,Withering Touch Support,corrupted 21/20,298.0,2,2
 gem,Wrath,clean 20/0,15.0,6,5
 gem,Wrath,corrupted 20/0,5.0,3,3
-gem,Wrath,corrupted 21/0,149.0,6,6
+gem,Wrath,corrupted 21/0,149.0,16,14
 gem,Wrath,clean 1/20,29.0,5,5
-gem,Wrath,clean 20/20,125.0,2,2
-gem,Wrath,corrupted 20/20,120.0,1,1
-gem,Wrath,corrupted 21/20,1192.0,1,1
+gem,Wrath,corrupted 20/20,50.0,1,1
+gem,Wrath,corrupted 21/20,1192.0,4,4
 gem,Zealotry,clean 20/0,30.0,6,6
 gem,Zealotry,corrupted 20/0,8.0,21,12
 gem,Zealotry,corrupted 21/0,200.0,12,11
-gem,Zealotry,clean 1/20,15.0,3,3
-gem,Zealotry,corrupted 20/20,55.0,3,2
+gem,Zealotry,clean 1/20,18.0,4,4
+gem,Zealotry,clean 20/20,100.0,2,2
+gem,Zealotry,corrupted 20/20,90.0,3,3
 gem,Zealotry,corrupted 21/20,3129.0,1,1
 gem,Flame Link,clean 20/0,20.0,3,3
 gem,Flame Link,corrupted 20/0,30.0,2,2
-gem,Flame Link,corrupted 21/0,100.0,1,1
-gem,Flame Link,clean 1/20,15.0,3,3
+gem,Flame Link,corrupted 21/0,20.0,4,4
+gem,Flame Link,clean 1/20,10.0,5,5
 gem,Flame Link,clean 20/20,20.0,2,2
-gem,Flame Link,corrupted 21/20,100.0,1,1
+gem,Flame Link,corrupted 20/20,19.0,1,1
+gem,Flame Link,corrupted 21/20,100.0,2,2
 gem,Protective Link,clean 20/0,1490.0,1,1
-gem,Protective Link,corrupted 21/0,149.0,1,1
-gem,Protective Link,corrupted 21/20,149.0,1,1
+gem,Protective Link,corrupted 21/0,8.0,6,5
+gem,Protective Link,clean 1/20,5.0,1,1
+gem,Protective Link,corrupted 21/20,30.0,3,2
 gem,Intuitive Link,corrupted 20/0,20.0,2,2
 gem,Intuitive Link,corrupted 21/0,10.0,2,2
 gem,Intuitive Link,clean 1/20,6.0,4,4
@@ -4001,7 +4012,7 @@ compass,Rerolling Favours at Ritual Altars in your Maps has no Cost the first 1 
 compass,Map Bosses are accompanied by a mysterious Harbinger:Map Bosses drop additional Currency Shards:Harbingers in your Maps drop additional Currency Shards,16,149.0,19,5
 contract,Lockpicking Contract,ilvl 83+,1.0,12,4
 contract,Brute Force Contract,ilvl 83+,1.0,10,6
-contract,Perception Contract,ilvl 83+,1.0,14,9
+contract,Perception Contract,ilvl 83+,1.0,9,7
 contract,Demolition Contract,ilvl 83+,1.0,22,9
 contract,Counter-Thaumaturgy Contract,ilvl 83+,1.0,11,6
 contract,Trap Disarmament Contract,ilvl 83+,1.0,36,9
@@ -4010,22 +4021,23 @@ contract,Deception Contract,ilvl 83+,1.0,7,6
 contract,Engineering Contract,ilvl 83+,1.0,33,4
 blueprint,Blueprint: Bunker,3 wings,10.0,31,20
 blueprint,Blueprint: Mansion,3 wings,2.0,29,17
-blueprint,Blueprint: Records Office,3 wings,5.0,17,14
-blueprint,Blueprint: Smuggler's Den,3 wings,10.0,19,14
-blueprint,Blueprint: Underbelly,3 wings,2.0,25,19
-blueprint,Blueprint: Repository,3 wings,10.0,19,12
+blueprint,Blueprint: Records Office,3 wings,2.0,24,18
+blueprint,Blueprint: Smuggler's Den,3 wings,10.0,25,19
+blueprint,Blueprint: Underbelly,3 wings,2.0,33,22
+blueprint,Blueprint: Repository,3 wings,10.0,24,14
 blueprint,Blueprint: Tunnels,3 wings,5.0,22,13
-blueprint,Blueprint: Laboratory,3 wings,10.0,22,15
-blueprint,Blueprint: Prohibited Library,3 wings,10.0,18,11
+blueprint,Blueprint: Laboratory,3 wings,10.0,29,14
+blueprint,Blueprint: Prohibited Library,3 wings,1.0,29,18
+incubator,Blighted Incubator,ilvl 83,1.0,1,1
 incubator,Cartographer's Incubator,ilvl 83,149.0,2,2
 incubator,Celestial Blacksmith's Incubator,ilvl 83,1.0,4,2
 incubator,Diviner's Incubator,ilvl 83,10.0,65,10
-incubator,Foreboding Incubator,ilvl 83,2.0,27,5
-incubator,Geomancer's Incubator,ilvl 83,10.0,4,3
+incubator,Foreboding Incubator,ilvl 83,1.0,34,8
+incubator,Geomancer's Incubator,ilvl 83,2.0,11,6
 incubator,Infused Incubator,ilvl 83,2.0,34,5
 incubator,Kalguuran Incubator,ilvl 83,1.0,26,5
-incubator,Maddening Incubator,ilvl 83,149.0,2,1
-incubator,Mysterious Incubator,ilvl 83,10.0,9,4
+incubator,Maddening Incubator,ilvl 83,2.0,16,4
+incubator,Mysterious Incubator,ilvl 83,10.0,10,4
 incubator,Obscured Incubator,ilvl 83,149.0,1,1
 incubator,Ornate Incubator,ilvl 83,15.0,191,8
 incubator,Otherworldly Incubator,ilvl 83,2.0,4,2
@@ -4327,11 +4339,11 @@ unique,Victario's Influence,clean,1.0,99,63
 unique,Victario's Influence,clean 6-link,50.0,7,6
 unique,Victario's Influence,corrupted,8.0,83,80
 unique,Victario's Influence,corrupted 6-link,40.0,14,14
-unique,Dendrobate,clean,1.0,89,66
+unique,Dendrobate,clean,1.0,97,73
 unique,Dendrobate,clean 6-link,100.0,16,15
-unique,Dendrobate,corrupted,5.0,57,48
+unique,Dendrobate,corrupted,20.0,61,49
 unique,Dendrobate,corrupted 6-link,149.0,19,17
-unique,Expedition's End,clean,70.0,6,5
+unique,Expedition's End,clean,60.0,9,8
 unique,Expedition's End,clean 6-link,745.0,1,1
 unique,Expedition's End,corrupted,149.0,3,3
 unique,Expedition's End,corrupted 6-link,298.0,2,2
@@ -4340,7 +4352,7 @@ unique,Carcass Jack,clean 6-link,372.5,8,8
 unique,Carcass Jack,corrupted,15.0,32,31
 unique,Carcass Jack,corrupted 6-link,298.0,7,7
 unique,The Admiral,clean,3.0,5,5
-unique,Saqawal's Nest,clean,20.0,10,10
+unique,Saqawal's Nest,clean,20.0,18,18
 unique,Saqawal's Nest,clean 6-link,447.0,4,4
 unique,Saqawal's Nest,corrupted,59.0,5,5
 unique,Saqawal's Nest,corrupted 6-link,1341.0,2,2
@@ -4358,19 +4370,19 @@ unique,Inpulsa's Broken Heart,clean 6-link,1490.0,5,5
 unique,Inpulsa's Broken Heart,corrupted,30.0,27,26
 unique,Inpulsa's Broken Heart,corrupted 6-link,417.2,8,8
 unique,Doppelgänger Guise,clean,149.0,6,6
-unique,Doppelgänger Guise,corrupted,1490.0,3,3
+unique,Doppelgänger Guise,corrupted,447.0,6,5
 unique,Doppelgänger Guise,corrupted 6-link,745.0,2,2
-unique,The Restless Ward,clean,1.0,64,58
+unique,The Restless Ward,clean,1.0,77,71
 unique,The Restless Ward,clean 6-link,149.0,13,10
 unique,The Restless Ward,corrupted,1.0,99,90
 unique,The Restless Ward,corrupted 6-link,80.0,36,34
-unique,Shroud of the Lightless,clean,135.0,22,19
+unique,Shroud of the Lightless,clean,135.0,33,29
 unique,Shroud of the Lightless,corrupted,745.0,2,2
 unique,Shroud of the Lightless,clean,100.0,32,29
 unique,Shroud of the Lightless,corrupted,745.0,2,2
 unique,Replica Shroud of the Lightless,clean,298.0,21,4
 unique,Replica Shroud of the Lightless,corrupted,596.0,3,3
-unique,Replica Restless Ward,clean,30.0,21,16
+unique,Replica Restless Ward,clean,40.0,32,27
 unique,Replica Restless Ward,clean 6-link,1192.0,3,3
 unique,Replica Restless Ward,corrupted,15.0,31,22
 unique,Replica Restless Ward,corrupted 6-link,298.0,8,8
@@ -4378,7 +4390,7 @@ unique,Stasis Prison,clean,14900.0,11,11
 unique,Stasis Prison,clean 6-link,14900.0,6,6
 unique,Shroud of the Lightless,clean,100.0,32,29
 unique,Shroud of the Lightless,corrupted,745.0,2,2
-unique,Atziri's Splendour,clean,5.0,37,35
+unique,Atziri's Splendour,clean,10.0,62,57
 unique,Atziri's Splendour,clean 6-link,596.0,3,3
 unique,Atziri's Splendour,corrupted,149.0,5,5
 unique,Atziri's Splendour,corrupted 6-link,2235.0,1,1
@@ -4389,7 +4401,7 @@ unique,Tabula Rasa,corrupted 6-link,7.0,98,87
 unique,Silverbranch,clean,1.0,36,33
 unique,Silverbranch,clean 6-link,30.0,11,10
 unique,Silverbranch,corrupted,10.0,12,12
-unique,Widowhail,clean,10.0,45,40
+unique,Widowhail,clean,8.0,44,41
 unique,Widowhail,clean 6-link,100.0,8,8
 unique,Widowhail,corrupted,50.0,9,9
 unique,Widowhail,corrupted 6-link,298.0,1,1
@@ -4398,7 +4410,6 @@ unique,Quill Rain,clean 6-link,223.5,13,12
 unique,Quill Rain,corrupted,3.0,18,17
 unique,Quill Rain,corrupted 6-link,298.0,4,4
 unique,Replica Quill Rain,clean,4.0,10,10
-unique,Replica Quill Rain,corrupted,149.0,1,1
 unique,Storm Cloud,clean,1.0,38,34
 unique,Storm Cloud,clean 6-link,30.0,7,5
 unique,Storm Cloud,corrupted,50.0,11,11
@@ -4406,14 +4417,14 @@ unique,Storm Cloud,corrupted 6-link,149.0,3,3
 unique,Roth's Reach,clean,1.0,43,41
 unique,Roth's Reach,clean 6-link,19.0,6,6
 unique,Roth's Reach,corrupted,25.0,14,14
-unique,Roth's Reach,corrupted 6-link,223.5,1,1
+unique,Roth's Reach,corrupted 6-link,223.5,2,2
 unique,Doomfletch,clean,3.0,23,22
 unique,Doomfletch,clean 6-link,120.0,1,1
 unique,Doomfletch,corrupted,20.0,8,8
 unique,Doomfletch,corrupted 6-link,745.0,2,2
 unique,Death's Harp,clean,10.0,13,12
 unique,Death's Harp,clean 6-link,447.0,2,2
-unique,Iron Commander,clean,1.0,31,27
+unique,Iron Commander,clean,1.0,34,29
 unique,Iron Commander,clean 6-link,80.0,6,5
 unique,Iron Commander,corrupted,25.0,17,16
 unique,Iron Commander,corrupted 6-link,149.0,3,2
@@ -4421,10 +4432,10 @@ unique,Replica Iron Commander,clean,8.0,4,4
 unique,Infractem,clean,1.0,39,35
 unique,Infractem,clean 6-link,20.0,13,13
 unique,Infractem,corrupted,1.0,10,10
-unique,Infractem,corrupted 6-link,60.0,1,1
+unique,Infractem,corrupted 6-link,50.0,1,1
 unique,Replica Infractem,clean,15.0,3,3
 unique,The Crimson Storm,clean,18.0,13,13
-unique,Xoph's Nurture,clean,149.0,3,2
+unique,Xoph's Nurture,clean,80.0,5,4
 unique,Xoph's Inception,clean,1.0,12,11
 unique,Xoph's Inception,corrupted,90.0,4,3
 unique,Xoph's Inception,corrupted 6-link,298.0,1,1
@@ -4435,18 +4446,18 @@ unique,Null's Inclination,clean 6-link,298.0,4,4
 unique,Null's Inclination,corrupted,80.0,3,3
 unique,Null's Inclination,corrupted 6-link,223.5,1,1
 unique,Hopeshredder,clean,10.0,9,9
-unique,Hopeshredder,corrupted,10.0,2,2
-unique,Chin Sol,clean,1.0,31,28
+unique,Hopeshredder,corrupted,10.0,3,3
+unique,Chin Sol,clean,1.0,40,36
 unique,Chin Sol,clean 6-link,25.0,5,5
 unique,Chin Sol,corrupted,10.0,15,15
 unique,Chin Sol,corrupted 6-link,447.0,1,1
 unique,Darkscorn,clean,10.0,10,9
 unique,Darkscorn,clean 6-link,2235.0,1,1
-unique,Darkscorn,corrupted,745.0,1,1
+unique,Darkscorn,corrupted,4470.0,1,1
 unique,Arborix,clean,149.0,2,2
 unique,Voltaxic Rift,clean,149.0,11,9
 unique,Voltaxic Rift,clean 6-link,1788.0,2,2
-unique,Voltaxic Rift,corrupted,30.0,6,4
+unique,Voltaxic Rift,corrupted,745.0,4,4
 unique,Voltaxic Rift,corrupted 6-link,9685.0,1,1
 unique,Reach of the Council,clean,1.0,23,22
 unique,Reach of the Council,clean 6-link,50.0,4,4
