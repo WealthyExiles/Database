@@ -397,25 +397,25 @@ essence,Deafening Essence of Spite,,8.0,3196,27
 essence,Shrieking Essence of Spite,,1.0,1673,21
 essence,Screaming Essence of Spite,,0.9444444444444444,1083,18
 essence,Deafening Essence of Zeal,,8.0,5002,29
-essence,Shrieking Essence of Zeal,,1.0,790,17
-essence,Screaming Essence of Zeal,,1.0,1336,17
-essence,Deafening Essence of Misery,,4.0,3034,22
-essence,Shrieking Essence of Misery,,1.0,557,19
-essence,Screaming Essence of Misery,,1.0,851,18
-essence,Deafening Essence of Dread,,3.0,710,26
-essence,Shrieking Essence of Dread,,1.0,668,15
-essence,Screaming Essence of Dread,,1.0,875,17
-essence,Screaming Essence of Scorn,,1.0,366,16
-essence,Shrieking Essence of Scorn,,1.0,833,21
-essence,Deafening Essence of Scorn,,15.0,4268,29
-essence,Shrieking Essence of Envy,,1.0,1149,20
-essence,Screaming Essence of Envy,,1.0,257,16
-essence,Deafening Essence of Envy,,10.0,3285,28
-essence,Essence of Hysteria,,21.0,562,15
-essence,Essence of Insanity,,25.0,667,22
-essence,Essence of Delirium,,24.0,631,20
-essence,Essence of Horror,,35.0,444,19
-essence,Remnant of Corruption,,1.6,11403,37
+essence,Shrieking Essence of Zeal,,1.0,884,18
+essence,Screaming Essence of Zeal,,1.0,1323,17
+essence,Deafening Essence of Misery,,3.0,1886,25
+essence,Shrieking Essence of Misery,,1.0,585,22
+essence,Screaming Essence of Misery,,0.9444444444444444,1169,20
+essence,Deafening Essence of Dread,,3.0,960,22
+essence,Shrieking Essence of Dread,,1.0,455,17
+essence,Screaming Essence of Dread,,1.0,998,19
+essence,Screaming Essence of Scorn,,1.0,374,18
+essence,Shrieking Essence of Scorn,,1.0,536,20
+essence,Deafening Essence of Scorn,,15.0,3359,24
+essence,Shrieking Essence of Envy,,1.0,675,19
+essence,Screaming Essence of Envy,,1.0,357,18
+essence,Deafening Essence of Envy,,10.0,3297,21
+essence,Essence of Hysteria,,25.0,650,16
+essence,Essence of Insanity,,30.0,625,14
+essence,Essence of Delirium,,30.0,925,19
+essence,Essence of Horror,,35.0,702,20
+essence,Remnant of Corruption,,2.0,9665,34
 card,A Chilling Wind,,8.0,73,22
 card,A Dab of Ink,,5.0,125,22
 card,A Dusty Memory,,10.0,38,17
@@ -846,7 +846,7 @@ map,Moon Temple Map,T4,1.0,145,21
 map,Vaal Pyramid Map,T4,1.0,487,25
 map,Atoll Map,T5,2.0,265,24
 map,Courtyard Map,T5,1.0,358,26
-map,Dry Sea Map,T5,1.0,488,22
+map,Dry Sea Map,T5,2.0,415,21
 map,Dunes Map,T5,5.0,45,9
 map,Arachnid Nest Map,T16,9.0,147,23
 map,Arid Lake Map,T16,10.0,426,23
@@ -1343,15 +1343,15 @@ gem,Cast when Damage Taken Support,corrupted 21/20,597.1428571428571,3,3
 gem,Cast when Stunned Support,clean 20/0,2.0,5,4
 gem,Cast when Stunned Support,corrupted 20/0,20.0,39,20
 gem,Cast when Stunned Support,corrupted 21/0,30.0,8,8
-gem,Cast when Stunned Support,clean 1/20,50.0,1,1
+gem,Cast when Stunned Support,clean 1/20,20.0,5,4
 gem,Cast when Stunned Support,clean 20/20,39.0,1,1
 gem,Cast when Stunned Support,corrupted 20/20,20.0,20,10
 gem,Cast when Stunned Support,corrupted 21/20,149.28571428571428,9,8
 gem,Cast while Channelling Support,clean 20/0,30.0,1,1
 gem,Cast while Channelling Support,corrupted 20/0,95.0,1,1
-gem,Cast while Channelling Support,corrupted 21/0,20.0,3,3
+gem,Cast while Channelling Support,corrupted 21/0,10.0,3,3
 gem,Cast while Channelling Support,clean 1/20,30.0,1,1
-gem,Cast while Channelling Support,clean 20/20,30.0,1,1
+gem,Cast while Channelling Support,clean 20/20,30.0,2,2
 gem,Cast while Channelling Support,corrupted 21/20,100.0,1,1
 gem,Caustic Arrow,clean 20/0,10.0,5,5
 gem,Caustic Arrow,corrupted 20/0,20.0,18,9
@@ -3952,18 +3952,17 @@ compass,Your Magic Maps contain 4 additional packs of Magic Monsters:Your Normal
 compass,Players and their Minions cannot take Reflected Damage:Your Maps contain 4 additional Packs with Mirrored Rare Monsters,4,5.0,6,2
 compass,Breaches in your Maps belong to Tul:Breaches in your Maps contain 3 additional Clasped Hands,4,2.0,9,3
 compass,Your Maps contain an additional Resonating Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,3.0,4,4
-compass,The First 3 Possessed Monsters drop an additional Rusted Scarab:Your Maps contain an additional Tormented Betrayer,4,6.0,12,3
+compass,The First 3 Possessed Monsters drop an additional Rusted Scarab:Your Maps contain an additional Tormented Betrayer,4,4.0,1,1
 compass,Your Maps contain 6 additional packs of Monsters that Convert when Killed,4,5.0,7,2
 compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Items dropped by Corrupted Vaal Monsters in your Maps have 25% chance to be Corrupted,4,5.0,1,1
 compass,Final Map Boss in each Map drops an additional Shaper Guardian Map (Tier 14+):Map Bosses have 200% more Life:Map Bosses deal 100% more Damage,4,20.0,32,10
 compass,Your Maps contain an additional Gloom Shrine:50% increased Duration of Shrine Effects on Players in your Maps,4,9.0,10,5
 compass,Your Maps contain hunted traitors,4,4.0,24,4
-compass,Breaches in your Maps belong to Chayula:Breaches in your Maps contain 3 additional Clasped Hands,4,24.0,38,9
+compass,Breaches in your Maps belong to Chayula:Breaches in your Maps contain 3 additional Clasped Hands,4,29.0,39,10
 compass,Oils found in your Maps are 1 tier higher:Cost of Building and Upgrading Blight Towers in your Maps is doubled,4,8.0,21,10
 compass,Your Maps contain Jun,4,10.0,8,4
 compass,Map Bosses have 20% increased Life:Quality bonus of your Maps also applies to Rarity of Items found,4,5.0,37,6
-compass,Your Maps contain 6 additional packs of Corrupted Vaal Monsters:Your Maps have a 50% chance to contain Gifts of the Sacrificed per Sacrifice Fragment used:Your Maps have a 50% chance to contain Gifts of the Red Queen per Mortal Fragment used,4,15.0,8,3
-compass,Players and Monsters take 12% increased Physical Damage:Your Maps contain 6 additional packs of Monsters that deal Physical Damage,4,6.0,13,3
+compass,Players and Monsters take 12% increased Physical Damage:Your Maps contain 6 additional packs of Monsters that deal Physical Damage,4,4.0,3,1
 compass,Player's Life and Mana Recovery from Flasks are instant:Your Maps contain 6 additional packs of Monsters that Heal,4,2.0,2,2
 compass,Rogue Exiles deal 20% increased Damage:Rogue Exiles drop 2 additional Jewels:Rogue Exiles in your Maps have 20% increased Life:Your Maps are inhabited by 2 additional Rogue Exiles,4,3.0,6,5
 compass,The First 3 Possessed Monsters drop an additional Polished Scarab:Your Maps contain an additional Tormented Betrayer,4,3.8278388278388276,80,4
@@ -4043,13 +4042,13 @@ contract,Lockpicking Contract,ilvl 83+,1.0,12,4
 contract,Brute Force Contract,ilvl 83+,1.0,9,5
 contract,Perception Contract,ilvl 83+,1.0,11,10
 contract,Demolition Contract,ilvl 83+,1.0,15,7
-contract,Counter-Thaumaturgy Contract,ilvl 83+,1.0,7,5
+contract,Counter-Thaumaturgy Contract,ilvl 83+,1.0,5,3
 contract,Trap Disarmament Contract,ilvl 83+,1.0,10,5
-contract,Agility Contract,ilvl 83+,1.0,7,3
+contract,Agility Contract,ilvl 83+,1.0,6,5
 contract,Deception Contract,ilvl 83+,1.0,4,3
 contract,Engineering Contract,ilvl 83+,1.0,12,8
 blueprint,Blueprint: Bunker,3 wings,2.0,25,18
-blueprint,Blueprint: Mansion,3 wings,5.0,41,20
+blueprint,Blueprint: Mansion,3 wings,5.0,10,9
 blueprint,Blueprint: Records Office,3 wings,1.0,11,11
 blueprint,Blueprint: Smuggler's Den,3 wings,4.0,12,10
 blueprint,Blueprint: Underbelly,3 wings,5.0,15,15
@@ -4083,7 +4082,7 @@ vial,Vial of the Ritual,,10.0,3,2
 vial,Vial of Transcendence,,50.0,7,4
 logbook,Bruids of the Broken Circle Logbook,ilvl 83+,85.0,19,7
 logbook,Black Scythe Mercenaries Logbook,ilvl 83+,85.0,22,9
-logbook,Order of the Chalice Logbook,ilvl 83+,90.0,27,6
+logbook,Order of the Chalice Logbook,ilvl 83+,85.0,8,5
 logbook,Knights of the Sun Logbook,ilvl 83+,100.0,5,5
 beast,Craicic Chimeral,,835.9999999999999,41,14
 beast,Craicic Maw,,50.0,3,1
@@ -5997,95 +5996,96 @@ unique,Triumvirate Authority,clean,4.0,26,25
 unique,Triumvirate Authority,corrupted,20.0,3,3
 unique,Replica Volkuur's Guidance,clean,5.0,8,7
 unique,Replica Volkuur's Guidance,corrupted,70.0,1,1
-unique,The Highwayman,clean,1.0,99,82
-unique,The Highwayman,corrupted,20.0,34,34
-unique,Heartbound Loop,clean,1.0,92,72
-unique,Heartbound Loop,corrupted,3.0,84,70
-unique,Call of the Brotherhood,clean,9.0,98,83
-unique,Call of the Brotherhood,corrupted,15.0,70,58
-unique,The Supreme Truth,clean,19.0,55,38
+unique,The Highwayman,clean,1.0,93,77
+unique,The Highwayman,corrupted,10.0,31,31
+unique,Heartbound Loop,clean,1.0,94,68
+unique,Heartbound Loop,corrupted,10.0,72,58
+unique,Call of the Brotherhood,clean,8.0,64,55
+unique,Call of the Brotherhood,corrupted,20.0,49,38
+unique,The Supreme Truth,clean,10.0,33,22
 unique,The Supreme Truth,corrupted,20.0,6,6
-unique,Dawnbreaker,clean,5.0,100,89
-unique,Dawnbreaker,corrupted,40.0,100,88
-unique,Mortem Morsu,clean,1.0,22,22
-unique,Mortem Morsu,corrupted,9.0,3,3
-unique,The Three Dragons,clean,1.0,39,33
-unique,The Three Dragons,corrupted,10.0,20,19
-unique,Replica Frostbreath,clean,39.0,10,10
-unique,Replica Frostbreath,corrupted,149.28571428571428,3,3
-unique,Qotra's Regulator,clean,70.0,3,3
-unique,Qotra's Regulator,corrupted,70.0,2,2
-unique,Brightbeak,clean,1.0,21,21
-unique,Brightbeak,corrupted,1.0,9,8
-unique,Forbidden Shako,clean,28.0,98,35
-unique,Forbidden Shako,corrupted,30.0,9,9
-unique,Scaeva,clean,1.0,46,40
-unique,Scaeva,corrupted,20.0,19,19
-unique,Tempered Flesh,clean,2.0,46,25
-unique,Maw of Mischief,clean,15.0,39,34
-unique,Maw of Mischief,corrupted,60.0,2,2
-unique,Mark of the Doubting Knight,clean,1.0,17,14
-unique,Mark of the Doubting Knight,corrupted,15.0,13,13
-unique,Replica Tempestuous Steel,clean,10.0,8,6
-unique,Tainted Pact,clean,1.0,20,18
-unique,Tainted Pact,corrupted,3.0,17,17
-unique,Rotblood Promise,clean,149.28571428571428,3,3
-unique,Steelworm,clean,1.0,5,5
-unique,Steelworm,corrupted,200.0,1,1
-unique,Voices,corrupted,5.0,100,48
-unique,Mask of the Stitched Demon,clean,298.57142857142856,8,8
-unique,Mask of the Stitched Demon,corrupted,746.4285714285713,1,1
-unique,Cowl of the Thermophile,clean,1343.5714285714284,5,5
-unique,Cowl of the Thermophile,corrupted,40.0,19,8
-unique,Mark of the Elder,clean,8.0,25,24
-unique,Mark of the Elder,corrupted,5.0,10,10
-unique,The Magnate,clean,10.0,54,51
-unique,The Magnate,corrupted,20.0,55,55
-unique,Replica Cold Iron Point,clean,25.0,5,5
-unique,Replica Abyssus,clean,15.0,7,7
-unique,Replica Abyssus,corrupted,45.0,3,3
-unique,Combat Focus,clean,597.1428571428571,2,2
-unique,Natural Affinity,clean,40.0,12,10
-unique,Natural Affinity,corrupted,40.0,11,11
-unique,Meginord's Girdle,clean,1.0,67,51
-unique,Meginord's Girdle,corrupted,1.0,41,39
-unique,Replica Bated Breath,clean,26125.0,1,1
-unique,Last Resort,clean,1.0,22,20
-unique,Last Resort,corrupted,15.0,8,7
-unique,Warrior's Legacy,clean,5.0,14,14
-unique,Warrior's Legacy,corrupted,25.0,4,4
-unique,Impresence,clean,4.0,72,69
-unique,Impresence,corrupted,20.0,18,18
-unique,Amanamu's Gaze,clean,149.28571428571428,29,22
-unique,Amanamu's Gaze,corrupted,100.0,13,11
-unique,Esh's Mirror,clean,8.0,14,14
-unique,Esh's Mirror,corrupted,1343.5714285714284,2,2
-unique,Yoke of Suffering,clean,3.0,96,78
-unique,Yoke of Suffering,corrupted,9.0,54,51
-unique,Craiceann's Tracks,clean,8.0,10,7
-unique,Craiceann's Tracks,corrupted,19.0,5,2
-unique,Mutewind Seal,clean,149.28571428571428,3,3
-unique,Mutewind Seal,corrupted,30.0,2,2
-unique,Coward's Chains,clean,10.0,19,15
-unique,Mutewind Pennant,clean,2.0,9,9
-unique,Mutewind Pennant,corrupted,50.0,5,5
-unique,Atziri's Step,clean,10.0,30,29
-unique,Atziri's Step,corrupted,149.28571428571428,4,4
-unique,The Golden Rule,corrupted,3.0,45,43
-unique,Assailum,clean,1.0,19,18
-unique,Assailum,corrupted,10.0,16,16
-unique,Prismweave,clean,1.0,52,45
-unique,Prismweave,corrupted,5.0,27,26
-unique,Facebreaker,clean,1.0,56,43
-unique,Facebreaker,corrupted,6.0,74,68
-unique,Stormseeker,clean,1.0,52,46
-unique,Stormseeker,corrupted,3.0,30,29
-unique,Replica Allelopathy,corrupted,149.28571428571428,3,3
-unique,Kitava's Teachings,clean,4.0,13,6
-unique,Kitava's Teachings,corrupted,100.0,6,6
-unique,Pacifism,corrupted,2.0,13,12
-unique,Shavronne's Revelation,clean,15.0,48,42
-unique,Shavronne's Revelation,corrupted,25.0,28,25
+unique,Dawnbreaker,clean,20.0,100,94
+unique,Dawnbreaker,corrupted,50.0,100,90
+unique,Mortem Morsu,clean,1.0,24,23
+unique,Mortem Morsu,corrupted,149.28571428571428,3,3
+unique,The Three Dragons,clean,1.0,31,23
+unique,The Three Dragons,corrupted,10.0,15,14
+unique,Replica Frostbreath,clean,25.0,6,6
+unique,Replica Frostbreath,corrupted,149.28571428571428,2,2
+unique,Qotra's Regulator,clean,70.0,5,5
+unique,Qotra's Regulator,corrupted,149.28571428571428,1,1
+unique,Brightbeak,clean,1.0,18,18
+unique,Brightbeak,corrupted,1.0,4,4
+unique,Forbidden Shako,clean,28.0,98,66
+unique,Forbidden Shako,corrupted,40.0,7,7
+unique,Scaeva,clean,1.0,36,29
+unique,Scaeva,corrupted,30.0,15,15
+unique,Tempered Flesh,clean,2.0,42,22
+unique,Maw of Mischief,clean,20.0,29,26
+unique,Maw of Mischief,corrupted,15.0,3,3
+unique,Mark of the Doubting Knight,clean,1.0,13,13
+unique,Mark of the Doubting Knight,corrupted,30.0,10,10
+unique,Replica Tempestuous Steel,clean,10.0,7,5
+unique,Replica Tempestuous Steel,corrupted,40.0,1,1
+unique,Tainted Pact,clean,3.0,17,15
+unique,Tainted Pact,corrupted,6.0,19,19
+unique,Rotblood Promise,clean,25.0,4,3
+unique,Steelworm,clean,10.0,2,2
+unique,Steelworm,corrupted,298.57142857142856,1,1
+unique,Voices,corrupted,5.0,83,48
+unique,Mask of the Stitched Demon,clean,447.85714285714283,5,5
+unique,Cowl of the Thermophile,clean,1194.2857142857142,4,4
+unique,Cowl of the Thermophile,corrupted,298.57142857142856,4,4
+unique,Mark of the Elder,clean,8.0,20,19
+unique,Mark of the Elder,corrupted,5.0,11,11
+unique,The Magnate,clean,10.0,47,43
+unique,The Magnate,corrupted,20.0,27,27
+unique,Replica Cold Iron Point,clean,25.0,3,3
+unique,Replica Abyssus,clean,27.0,2,2
+unique,Replica Abyssus,corrupted,44.0,1,1
+unique,Combat Focus,clean,746.4285714285713,2,2
+unique,Natural Affinity,clean,35.0,8,6
+unique,Natural Affinity,corrupted,41.0,3,3
+unique,Meginord's Girdle,clean,1.0,65,46
+unique,Meginord's Girdle,corrupted,1.0,26,25
+unique,Replica Bated Breath,clean,22392.85714285714,2,2
+unique,Last Resort,clean,1.0,17,14
+unique,Last Resort,corrupted,15.0,10,9
+unique,Warrior's Legacy,clean,5.0,11,11
+unique,Warrior's Legacy,corrupted,30.0,2,2
+unique,Impresence,clean,5.0,52,50
+unique,Impresence,corrupted,5.0,14,13
+unique,Amanamu's Gaze,clean,223.92857142857142,18,15
+unique,Amanamu's Gaze,corrupted,135.0,11,10
+unique,Esh's Mirror,clean,49.0,10,10
+unique,Esh's Mirror,corrupted,1343.5714285714284,1,1
+unique,Yoke of Suffering,clean,4.0,68,61
+unique,Yoke of Suffering,corrupted,9.0,45,40
+unique,Craiceann's Tracks,clean,9.0,11,6
+unique,Craiceann's Tracks,corrupted,100.0,1,1
+unique,Mutewind Seal,clean,149.28571428571428,4,4
+unique,Mutewind Seal,corrupted,100.0,1,1
+unique,Coward's Chains,clean,10.0,17,13
+unique,Mutewind Pennant,clean,4.0,4,4
+unique,Mutewind Pennant,corrupted,50.0,7,7
+unique,Atziri's Step,clean,10.0,23,21
+unique,Atziri's Step,corrupted,55.0,5,5
+unique,The Golden Rule,corrupted,2.0,45,42
+unique,Assailum,clean,4.0,15,15
+unique,Assailum,corrupted,10.0,17,17
+unique,Prismweave,clean,1.0,35,33
+unique,Prismweave,corrupted,5.0,23,22
+unique,Facebreaker,clean,1.0,50,39
+unique,Facebreaker,corrupted,10.0,51,49
+unique,Stormseeker,clean,1.0,35,34
+unique,Stormseeker,corrupted,3.0,21,21
+unique,Replica Allelopathy,clean,149.28571428571428,1,1
+unique,Replica Allelopathy,corrupted,149.28571428571428,2,2
+unique,Kitava's Teachings,clean,5.0,14,7
+unique,Kitava's Teachings,corrupted,149.28571428571428,4,4
+unique,Pacifism,corrupted,20.0,6,6
+unique,Shavronne's Revelation,clean,15.0,44,39
+unique,Shavronne's Revelation,corrupted,50.0,13,11
 unique,Ancient Skull,clean,1.0,49,46
 unique,Ancient Skull,corrupted,10.0,45,42
 unique,Maligaro's Virtuosity,clean,4.0,18,17
